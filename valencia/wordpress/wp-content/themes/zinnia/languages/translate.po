@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zinnia\n"
+"POT-Creation-Date: 2014-06-23 22:23+0800\n"
+"PO-Revision-Date: 2014-06-23 22:23+0800\n"
+"Last-Translator: Andrew Wong <hello@bluchic.com>\n"
+"Language-Team: SimplyWP <simplywp@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:13
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:19 content-none.php:15 layouts/archives-page.php:31
+msgid "Archives by month:"
+msgstr ""
+
+#: 404.php:25 content-none.php:21 layouts/archives-page.php:37
+msgid "Archives by category:"
+msgstr ""
+
+#: archive.php:7
+msgid "Archive of"
+msgstr ""
+
+#: archive.php:7
+msgid "category"
+msgstr ""
+
+#: archive.php:9
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:11 archive.php:13 archive.php:15
+msgid "archive"
+msgstr ""
+
+#: archive.php:17
+msgid "Author Archive"
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments"
+msgstr ""
+
+#: comments.php:14 comments.php:31
+msgid "Older comments"
+msgstr ""
+
+#: comments.php:15 comments.php:32
+msgid "Newer comments"
+msgstr ""
+
+#: comments.php:19 content-list.php:6 content.php:6
+msgid "0 comment"
+msgstr ""
+
+#: comments.php:19 content-list.php:6 content.php:6
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:19 content-list.php:6 content.php:6
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:19
+msgid "on"
+msgstr ""
+
+#: comments.php:24
+msgid "Pingbacks &amp; Trackbacks on"
+msgstr ""
+
+#: comments.php:42
+msgid "Comments are closed"
+msgstr ""
+
+#: content-none.php:4
+msgid "Not Found"
+msgstr ""
+
+#: content-none.php:9
+msgid ""
+"You have come to a page that is either not existing or already been removed"
+msgstr ""
+
+#: footer.php:5
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:5
+msgid "Powered by"
+msgstr ""
+
+#: search.php:7
+msgid "Searching for"
+msgstr ""
+
+#: includes/custom_widgets.php:8
+msgid "Show social network like Twitter, Facebook, RSS, etc."
+msgstr ""
+
+#: includes/custom_widgets.php:9
+msgid "Simply Social Network"
+msgstr ""
+
+#: includes/custom_widgets.php:71
+msgid "Please key in full url (including http://)"
+msgstr ""
+
+#: includes/custom_widgets.php:73
+msgid "Title"
+msgstr ""
+
+#: includes/custom_widgets.php:77
+msgid "Email address"
+msgstr ""
+
+#: includes/custom_widgets.php:81
+msgid "Custom RSS feed"
+msgstr ""
+
+#: includes/custom_widgets.php:85
+msgid "Facebook"
+msgstr ""
+
+#: includes/custom_widgets.php:89
+msgid "Twitter"
+msgstr ""
+
+#: includes/custom_widgets.php:93
+msgid "Google Plus:"
+msgstr ""
+
+#: includes/custom_widgets.php:97
+msgid "Flickr:"
+msgstr ""
+
+#: includes/custom_widgets.php:101
+msgid "Linkedin:"
+msgstr ""
+
+#: includes/custom_widgets.php:105
+msgid "YouTube:"
+msgstr ""
+
+#: includes/custom_widgets.php:109
+msgid "Vimeo:"
+msgstr ""
+
+#: includes/custom_widgets.php:113
+msgid "Instagram:"
+msgstr ""
+
+#: includes/custom_widgets.php:117
+msgid "Pinterest:"
+msgstr ""
+
+#: includes/custom_widgets.php:122
+msgid "Bloglovin:"
+msgstr ""
+
+#: includes/custom_widgets.php:127
+msgid "Tumblr:"
+msgstr ""
+
+#: includes/modules.php:177
+msgid "Top Menu"
+msgstr ""
+
+#: includes/modules.php:214
+msgid "Please enable referrers in your browser."
+msgstr ""
+
+#: includes/modules.php:228
+#, php-format
+msgid "<h6>%s</h6>"
+msgstr ""
+
+#: includes/modules.php:229
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/modules.php:231
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: includes/modules.php:249
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/modules.php:260
+msgid "Pages:"
+msgstr ""
+
+#: includes/modules.php:265
+msgid "Next page"
+msgstr ""
+
+#: includes/modules.php:266
+msgid "Previous page"
+msgstr ""
+
+#: includes/modules.php:300
+msgid "Previous"
+msgstr ""
+
+#: includes/modules.php:301
+msgid "Next"
+msgstr ""
+
+#: includes/widgets.php:7
+msgid "right-widget-1"
+msgstr ""
+
+#: layouts/archives-page.php:14 layouts/full-page.php:14
+#: layouts/sitemap-page.php:14
+msgid "bookmark"
+msgstr ""
+
+#: layouts/related.php:1
+msgid "More related articles"
+msgstr ""
+
+#: layouts/sitemap-page.php:23
+msgid "Pages"
+msgstr ""
+
+#: layouts/sitemap-page.php:29
+msgid "Categories"
+msgstr ""
+
+#: layouts/sitemap-page.php:44
+msgid "Comment"
+msgstr ""

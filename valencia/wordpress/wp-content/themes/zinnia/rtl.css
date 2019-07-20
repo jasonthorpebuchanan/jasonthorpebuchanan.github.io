@@ -1,0 +1,27 @@
+.rtl {text-align: right;}
+.rtl .responsiveslides .next,
+.rtl .responsiveslides .prev,
+.rtl .social-twitter,
+.rtl .social-facebook,
+.rtl .social-email,
+.rtl .social-rss,
+.rtl .social-google,
+.rtl .social-flickr,
+.rtl .social-linkedin,
+.rtl .social-youtube,
+.rtl .social-vimeo,
+.rtl .social-instagram,
+.rtl .social-pinterest,
+.rtl .social-bloglovin,
+.rtl .social-tumblr {text-indent: 9999px; white-space: nowrap;}
+.rtl .location li {padding-right: 30px;}
+.rtl .location li.address {background: url('images/info_icons.png') no-repeat right -92px;}
+.rtl .location li.email {background: url('images/info_icons.png') no-repeat right 8px;}
+.rtl .location li.phone {background: url('images/info_icons.png') no-repeat right -24px;}
+.rtl .location li.fax {background: url('images/info_icons.png') no-repeat right -56px;}
+.rtl .responsiveslides-slide li .responsiveslides-caption,
+.rtl .nivo-caption,
+.rtl .flex-caption,
+.rtl select,
+.rtl textarea,
+.rtl input {text-align: right;}

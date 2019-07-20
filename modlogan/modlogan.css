@@ -1,0 +1,93 @@
+/*
+ * MODLOGAN.CSS
+ * ==========================================================================
+ * $Id: modlogan.css,v 1.2 2002/10/23 20:57:10 ostborn Exp $
+ *
+*/
+
+body {
+	background: white;
+	color: black;
+	font-family: arial, helvetica, sans-serif;
+	font-size: smaller;
+}
+
+a, a:link, a:visited {
+	color: black; }
+
+a:active {
+	color: red; }
+
+a:hover {
+	color: blue; }
+
+/* table classes */
+
+table {
+	border-collapse: collapse;
+	margin: 5px; }
+
+table.skeleton {
+	width: 100%;
+	border-collapse: collapse;
+	border: 0; }
+	
+table.menu {
+	width: 100%;
+	border-collapse: collapse;
+	border: 0; }
+
+td.active {
+	background-color: white;
+	font-weight: bold; }
+
+td.skeleton_menu {
+	width: 250px;
+	padding: 8px;
+	border-right: solid white 5px;
+	background-color: rgb( 240, 240, 240 ); }
+
+td.skeleton_report {
+	padding: 8px;
+	background-color: rgb( 240, 240, 240 ); }
+
+td.title {
+	padding: 8px;
+	color: white;
+	background-color: black;
+	font-weight: bold; }
+
+td.st_leftheader, td.st_header, td.st_rightheader,
+td.st_leftline, td.st_line, td.st_rightline,
+td.st_lefthline, td.st_hline, td.st_righthline,
+td.st_leftgline, td.st_gline, td.st_rightgline,
+td.st_leftfooter, td.st_footer, td.st_rightfooter {
+	padding: 5px;
+	background-color: white; }
+
+td.st_header, td.st_line, td.st_hline, td.st_gline, td.st_footer,
+td.st_leftheader, td.st_leftline, td.st_lefthline, td.st_leftgline, td.st_leftfooter {
+	border-right: 1px solid rgb( 200, 200, 200 ); }
+
+td.st_line, td.st_hline, td.st_glinem,
+td.st_leftline, td.st_lefthline, td.st_leftgline,
+td.st_rightline, td.st_righthline, td.st_rightgline {
+	border-bottom: 1px solid rgb( 200, 200, 200 ); }
+
+td.st_leftheader, td.st_header, td.st_rightheader {
+	background-color: rgb( 240, 240, 240 );
+	border-bottom: 2px solid rgb( 200, 200, 200 ); }
+
+td.st_leftfooter, td.st_footer, td.st_rightfooter {
+	background-color: rgb( 240, 240, 240 );
+	border-top: 2px solid rgb( 200, 200, 200 ); }
+
+td.st_leftgline, td.st_gline, td.st_rightgline {
+	font-weight: bold; }
+
+td.st_lefthline, td.st_hline, td.st_righthline {
+	font-weight: bold; }
+
+/*
+ * EOF
+*/

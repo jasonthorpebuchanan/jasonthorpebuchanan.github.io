@@ -1,0 +1,72 @@
+/*************************************************************************************************************************
+Screen smaller than 910px
+*************************************************************************************************************************/
+@media all and (max-width: 910px) {
+
+ul.toplist {padding: 0; margin: 0; clear: both; width: 100%; overflow: hidden; font-size: .9em;}
+ul.toplist li {padding: 0; margin: 0;}
+ul.toplist li a {color: #21759b; border-bottom: 1px solid #e1e1e1; text-decoration: none; display: block; padding: 8px 10px; -webkit-transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -ms-transition: all 0.3s ease-out; -o-transition: all 0.3s ease-out; transition: all 0.3s ease-out;}
+ul.toplist li a.current {background: #2ea2cc; color: #fff;}
+ul.toplist li.span {border-top: 1px solid #fff; padding: 10px;}
+
+#slide {color: #666; padding: 2%; overflow: hidden; width: 96%; float: left;}
+#slide .wrap {overflow: hidden; padding: 15px; margin: 10px 20px 0 2px; border-bottom: 1px solid #ddd;}
+#slide .note {font: italic 11px Verdana, Tahoma, Arial, Sans-serif; line-height: 1.5em; padding: 5px 0;}
+#slide .note span {display: inline-block; padding: 2px 5px; background: #feffcd; border: 1px solid #e1e1e1;}
+#slide input[type='text'] {width: 90%; padding: 5px; margin-bottom: 5px;}
+#slide select {width: 90%;}
+#slide textarea {width: 99%; height: 150px;}
+#slide h3 {font-weight: normal; font-size: 1.1em; color: #666; margin: 0 0 10px 0;}
+#slide h4 {font-weight: 600; font-size: 1.3em; color: #222; margin: 40px 0 10px 0;}
+
+}
+
+
+/*************************************************************************************************************************
+Screen larger than 911px
+*************************************************************************************************************************/
+@media all and (min-width: 911px) {
+
+ul.toplist {padding: 0; margin: 0; float: left; width: 20%; overflow: hidden;}
+ul.toplist li {padding: 0; margin: 0;}
+ul.toplist li a {color: #21759b; border-bottom: 1px solid #e1e1e1; text-decoration: none; display: block; padding: 10px 15px; -webkit-transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -ms-transition: all 0.3s ease-out; -o-transition: all 0.3s ease-out; transition: all 0.3s ease-out;}
+ul.toplist li a.current {background: #2ea2cc; color: #fff;}
+ul.toplist li.span {border-top: 1px solid #fff; padding: 10px;}
+
+#slide {color: #666; padding: 1% 2%; overflow: hidden; width: 75%; float: left; border-left: 1px solid #e1e1e1;}
+#slide .wrap {overflow: hidden; padding: 15px; margin: 10px 20px 0 2px; border-bottom: 1px solid #ddd;}
+#slide .note {font: italic 11px Verdana, Tahoma, Arial, Sans-serif; line-height: 1.5em; padding: 5px 0;}
+#slide .note span {display: inline-block; padding: 2px 5px; background: #feffcd; border: 1px solid #e1e1e1;}
+#slide input[type='text'] {width: 50%; padding: 5px; margin-bottom: 5px;}
+#slide select {width: 50%;}
+#slide textarea {width: 99%; height: 150px;}
+#slide h3 {font-weight: normal; font-size: 1.1em; color: #666; margin: 0 0 10px 0;}
+#slide h4 {font-weight: 600; font-size: 1.3em; color: #222; margin: 40px 0 10px 0;}
+
+}
+
+
+
+#options-form {width: 100%; margin: 15px 0; background: #fff; border: 1px solid #e5e5e5; -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05); box-shadow: 0 1px 2px rgba(0,0,0,.05);}
+
+#options-header {padding: 15px; border-bottom: 1px solid #dfdfdf; background: #f5f5f5;}
+#options-header h1 {margin: 0 0 10px 0; color: #555; font-weight: 600;}
+#options-header h1 span {font-weight: normal;}
+#options-header .meta {text-transform: uppercase; color: #888;}
+#options-header a {text-decoration: none;}
+.options-buttons {clear: both; padding: 20px; overflow: hidden; background: #f5f5f5; border-top: 1px solid #e1e1e1;}
+
+.thumbnail {float: left; padding: 10px 10px 10px 0px; margin: 0 10px;}
+.screenshot {border: 1px solid #e1e1e1;}
+.thumb-input {width: 50px !important;}
+hr {background: none; border: none; clear: both;}
+.farbtastic {background: #fff; border: 1px solid #e1e1e1; position: absolute;}
+
+/* MISC */
+#options-form img {max-width: 100%; height: auto;}
+ul.themes-listing li {width: 300px; float: left; padding: 5px 0;}
+li.error {font-weight: bold; color: #f00;}
+label.image-label {float: left; margin: 0 10px 5px 0px; font-size: 0.8em;}
+img.select-img {border: 1px solid #ccc;}
+img.select-img:hover {border: 1px solid #000;}
+img.alignleft {float: left; margin-right: 5px;}

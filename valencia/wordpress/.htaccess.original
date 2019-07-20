@@ -1,0 +1,5 @@
+AddType application/x-httpd-php .html .htm .php
+DirectoryIndex index.html index.php
+# BEGIN WordPress
+
+# END WordPress

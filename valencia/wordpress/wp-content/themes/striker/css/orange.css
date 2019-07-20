@@ -1,0 +1,53 @@
+/**
+ * @package striker
+ * @since striker pro 1.0
+ *
+ */
+.main-navigation {
+	background-color: #F60;
+}
+.main-navigation ul ul {
+	background: #F60;
+}
+.main-navigation li:hover > a,
+.main-navigation li.current_page_item a,
+.main-navigation li.current-menu-item a {
+	background-color: #F60;
+	color: #000;
+}
+.main-navigation ul ul a:hover {
+	background-color: #F60;
+}
+.main-navigation ul ul ul a:hover {
+	background-color: #F60;
+}
+.main-navigation ul ul a {
+	color: #000;
+}
+.featuretext h3{
+	color: #F60;
+}
+.widget h4{
+	background-color: #F60;
+}
+.sticky h1{
+	border-bottom: 6px solid #F60;
+}
+.sticky h1 a{
+	color: #F60;
+}
+.widget-title {
+	background-color:#F60;
+}
+.menu-toggle {
+	background-color: #F60;
+}
+.main-small-navigation .menu {
+	background-color: #333;
+}
+.main-small-navigation li:hover > a,
+.main-small-navigation li.current_page_item a,
+.main-small-navigation li.current-menu-item a,
+.main-small-navigation ul ul a:hover {
+	color: #F60;
+}
