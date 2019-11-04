@@ -1,0 +1,125 @@
+/*
+   HEADER AND NAVIGATION
+*/
+.header {
+  border-bottom: 0px solid rgba(220, 220, 220, .2);
+}
+.header.header-small {
+  background: #1b1d1f; // #2a313a;
+  border-bottom: 1px solid rgba(42,49,58,0.2)
+}
+.header .extra-nav > ul > li > a,
+.header .inner-nav > ul > li > a,
+.header.header-light.header-small .extra-nav > ul > li > a,
+.header.header-light.header-small .inner-nav > ul > li > a {
+  color: #fff;
+}
+@media (max-width: 991px) {
+  .header {
+    background-color: #1b1d1f;
+    border-bottom: 1px solid rgba(42, 49, 58, 0.2);
+    padding: 0;
+  }
+}
+.nav-toggle > a span {
+  background: #fff;
+}
+
+/*
+   BODY
+*/
+body {
+    line-height: 1.75;
+    font-size: 16px;
+}
+
+/*
+   TYPOGRAPHY
+*/
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+.h4 {
+    font-weight: 600;
+}
+h2.single-portfolio-title {
+    text-align: left;
+}
+.portfolio-details li>h5 {
+    text-align: center;
+}
+@media (min-width: 991px) {
+  .portfolio-details li>h5 {
+      text-align: left;
+  }
+}
+
+.rep a {
+    color: #999;
+}
+
+footer aside .fa {
+  font-size: 20px;
+  padding: 0rem 0.5rem;
+}
+
+/*
+   REPERTOIRE
+*/
+.filters>li {
+  margin: 10px 15px;
+}
+.filters {
+  padding-bottom: 40px;
+}
+
+/*
+   SPECIALTY
+*/
+.offset:before {
+  display: block;
+  position: relative;
+ 	content: "";
+  width: 0;
+	height: 100px;
+  margin-top: -100px;
+}
+@media (max-width: 991px) {
+  .offset:before {
+    display: block;
+    position: relative;
+   	content: "";
+    width: 0;
+  	height: 100px;
+    margin-top: -100px;
+  }
+}
+
+.breakout {
+    margin-left:-100%;
+    margin-right:-100%;
+}
+
+/*.repertoire-item {
+  min-height: 325px;
+}*/
+
+/*
+   GOOGLE MAPS API FOR CONCERTS
+*/
+.maps-container {
+  height: 300px;
+}
+#map-canvas {
+  height: 100%;
+}
+#inputs {
+  display: none;
+}
+
+/*
+  FOOTER
+*/
+.widget ol li, .widget ul li {
+    border-bottom: 0px solid rgba(238, 238, 238, .9);
+}

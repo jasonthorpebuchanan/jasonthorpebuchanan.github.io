@@ -1,0 +1,84 @@
+---
+layout: page
+moduleSize: small
+title: Repertoire
+---
+
+<!-- create empty string to append tags -->
+{% assign tagString = '' %}
+<!-- capture the process of appending tags in a list -->
+<!-- append current tag to tagString, strip all whitespace, but retain space between words -->
+{% capture listOfTags %}
+  {%- for work in site.repertoire -%}
+    {%- if work.tags -%}
+      {%- for tag in work.tags -%}
+        {{ tagString | append: tag | append: ' ' }}
+      {%- endfor -%}
+    {% endif %}
+  {% endfor %}
+{% endcapture %}
+
+<!-- split the list of tags, remove duplicates, and sort by alpha -->
+{%- assign tagArray = listOfTags | split: ' ' | uniq | sort -%}
+<!-- sort repertoire by alpha -->
+{%- assign sortedRepYear = site.repertoire | sort: 'yearComposed' | reverse -%}
+
+<!-- Portfolio-->
+<div class="row row-portfolio-filter">
+	<div class="col-sm-12">
+    <ul class="filters h5">
+      <li><a href="./index.html" class="{%- unless page.url contains 'list' -%}current{%- endunless -%}">Portfolio View</a></li>
+      <li><a href="./list-view.html" class="{%- if page.url contains 'list' -%}current{%- endif -%}">List View</a></li>
+    </ul>
+    <ul class="filters h5" id="filters">
+			<li><a class="current" href="#" data-filter="*">All</a></li>
+      <li><a href="#" data-filter=".solo">Solo</a></li>
+      <li><a href="#" data-filter=".duo">Duo</a></li>
+      <li><a href="#" data-filter=".trio">Trio</a></li>
+      <li><a href="#" data-filter=".quartet">Quartet</a></li>
+      <li><a href="#" data-filter=".quintet">Quintet</a></li>
+      <li><a href="#" data-filter=".sextet">Sextet</a></li>
+      <li><a href="#" data-filter=".septet">Septet</a></li>
+      <li><a href="#" data-filter=".octet">Octet</a></li>
+      <li><a href="#" data-filter=".nonet">Nonet</a></li>
+      {% comment %}
+      {%- for tag in tagArray -%}
+        <li><a href="#" data-filter=".{{ tag }}">{{ tag | capitalize }}</a></li>
+      {%- endfor -%}
+      {% endcomment %}
+		</ul>
+	</div>
+</div>
+<div class="row row-portfolio" data-columns="3">
+	<div class="grid-sizer"></div>
+  {%- for work in sortedRepYear -%}
+		<div class="portfolio-item repertoire-item p-2 {% for item in work.tags %}{{-item }} {% endfor %}{{ work.size -}}">
+			<div class="portfolio-wrapper">
+        {%- if work.thumbnailImage -%}
+          <img src="{{ site.images }}/{{ work.thumbnailImage }}" alt="">
+        {% else %}
+          <img src="{{ site.images }}/repertoire-images/thumbnails/switch_misc_400x200.jpg" alt="">
+        {%- endif -%}
+				<div class="portfolio-overlay"></div>
+        <div class="portfolio-caption">
+          <h5 class="portfolio-title">{{ work.title }} {% if work.yearComposed == nil %}{% else %}({{ work.yearComposed }}){% endif %}</h5>
+          <div class="portfolio-subtitle font-serif font-weight-normal">{{ work.composer.first }} {{ work.composer.last }}</div>
+          <div class="portfolio-subtitle font-serif">
+            {{ work.size }} {% for tag in work.tags %}{% if tag == 'electronics' %}and electronics{% endif %}{% endfor %}
+            {% comment %}
+            {%- for instrument in work.instrumentation -%}
+            {%- if forloop.last == true -%}
+            and {{ instrument -}}
+            {% else %}
+            {{ instrument | append: ', ' }}
+            {%- endif -%}
+            {%- endfor -%}
+            {% endcomment %}
+          </div>
+        </div>
+        <a class="portfolio-link" href="{{ work.url }}"></a>
+			</div>
+    </div>
+  {%- endfor -%}
+</div>
+	<!-- Portfolio end-->

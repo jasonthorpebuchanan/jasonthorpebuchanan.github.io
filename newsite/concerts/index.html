@@ -1,0 +1,36 @@
+---
+layout: page
+title: Concerts
+headerImage: header-vipa-ensemble.jpg
+---
+
+{% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'performance'" %}
+{% assign revPerfPosts = site.posts | reverse | where_exp:"item", "item.categories contains 'performance'" %}
+
+<h1 class="mb-5">Upcoming Concerts</h1>
+{%- for concert in revPerfPosts -%}
+
+  {% capture current_date %}{{ 'now' | date: '%s' }}{% endcapture %}
+  {% capture concert_date %}{{ concert.date | date: '%s' }}{% endcapture %}
+
+  {%- if concert_date > current_date -%}
+
+    {%- include concert_listing.html -%}
+
+  {%- endif -%}
+
+{%- endfor -%}
+
+<h1 class="mb-5">Recent Concerts</h1>
+{%- for concert in performancePosts -%}
+
+  {% capture current_date %}{{ 'now' | date: '%s' }}{% endcapture %}
+  {% capture concert_date %}{{ concert.date | date: '%s' }}{% endcapture %}
+
+  {%- if current_date > concert_date -%}
+
+    {%- include concert_listing.html -%}
+
+  {%- endif -%}
+
+{%- endfor -%}

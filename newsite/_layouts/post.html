@@ -1,0 +1,63 @@
+---
+layout: default
+---
+{%- if page.headerImage -%}
+  <!-- Page Header-->
+  <section class="module-header parallax bg-dark bg-dark-60" data-background="{{ site.images }}/{{ page.headerImage }}">
+  	<div class="container">
+  		<div class="row">
+  			<div class="col-md-12">
+  				<h1 class="h1 m-b-20">{{ page.title }}</h1>
+          {%- if page.author -%}
+            <p>{{ page.author }}</p>
+          {%- endif -%}
+          {%- if page.categories contains 'blog' -%}
+            {%- if page.manualDate -%}
+              <p>{{ page.manualDate }}</p>
+            {%- else -%}
+              <p>{{ page.date | date: "%B %d, %Y" }}</p>
+            {%- endif -%}
+          {%- endif -%}
+  			</div>
+  		</div>
+  	</div>
+  </section>
+  <!-- Page Header end-->
+{%- elsif page.title -%}
+  <!-- Page Header-->
+  <section class="module-page-title">
+    <div class="container">
+      <div class="row-page-title">
+        <h1 class="h5 text-center">{{ page.title }}</h1>
+      </div>
+    </div>
+  </section>
+  <!-- Page Header end-->
+{%- endif -%}
+
+<!-- Module -->
+{%- if page.moduleSize == 'small' -%}
+<section class="module-sm module-divider-bottom">
+{%- else -%}
+<section class="module module-divider-bottom">
+{%- endif -%}
+  {%- if page.container == 'fluid' -%}
+    <div class="container-fluid">
+  {%- else -%}
+    <div class="container {% if page.categories contains 'blog' -%}w-75{%- endif -%}">
+  {%- endif -%}
+
+    {{ content }}
+
+  {%- if page.categories contains 'blog' -%}
+      <ul class="social-icons">
+        <li class="h4">Share: </li>
+        <li class=""><a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a></li> |
+        <li class="ml-2"><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter }}&related={{ site.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a></li> |
+        <li class="ml-2"><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+"><i class="fa fa-google-plus"></i></a></li>
+      </ul>
+  {%- endif -%}
+
+  </div>
+</section>
+<!-- Module end-->

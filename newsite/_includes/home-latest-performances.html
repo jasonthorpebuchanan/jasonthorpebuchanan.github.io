@@ -1,0 +1,15 @@
+<div class="latest-performance">
+	{% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'performance'" %}
+	<ul>
+		{%- for post in performancePosts limit:5 -%}
+				<li>
+					<span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+						{%- if post.country -%}
+							<a href="{{ post.url }}">{%- if post.event -%}{{ post.event }}<br />{%- endif -%}{%- if post.location.venue -%}{{ post.location.venue }}<br />{%- endif -%}{{ post.location.city }}, {{ post.location.country }}</a>
+						{%- else -%}
+							<a href="{{ post.url }}">{%- if post.event -%}{{ post.event }}<br />{%- endif -%}{%- if post.location.venue -%}{{ post.location.venue }}<br />{%- endif -%}{{ post.location.city }}, {{ post.location.state }}</a>
+						{%- endif -%}
+				</li>
+		{% endfor %}
+	</ul>
+</div>

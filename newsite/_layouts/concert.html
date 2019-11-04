@@ -1,0 +1,133 @@
+---
+layout: default
+---
+<!-- Page Header-->
+<section class="module-page-title">
+  <div class="container">
+    <div class="row-page-title">
+      <h1 class="h5 text-center">
+        {%- if page.event -%}
+          Performance at {{ page.event }}
+        {%- elsif page.location.institution -%}
+          Performance at {{ page.location.institution }}
+        {%- else page.location.venue -%}
+          Performance at {{ page.location.venue }}
+        {%- endif -%}
+      </h1>
+    </div>
+  </div>
+</section>
+<!-- Page Header end-->
+
+<!-- Google maps image-->
+<div id="inputs">
+  <input id="address" type="textbox" value="{{ page.location.address }}, {{ page.location.city }}, {{ page.location.state }}">
+</div>
+<div class="maps-container">
+  <div id="map-canvas"></div>
+</div>
+<!-- Google maps image end-->
+
+<!-- Portfolio-->
+<section class="module">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8">
+        <h2 class="single-portfolio-title">
+          {%- if page.event -%}
+            Performance at {{ page.event }}
+          {%- elsif page.location.institution -%}
+            Performance at {{ page.location.institution }}
+          {%- else page.location.venue -%}
+            Performance at {{ page.location.venue }}
+          {%- endif -%}
+        </h2>
+        <div class="concert-program mb-3">
+          {%- for work in page.program -%}
+            <div class="row">
+              <div class="col-6 col-sm-4 font-weight-bold text-uppercase">{{ work.composer }}</div>
+              <div class="col-6 col-sm-8 font-italic">{{ work.title }}</div>
+            </div>
+          {%- endfor -%}
+        </div>
+
+        {{ content }}
+
+      </div>
+			<div class="col-lg-4">
+				<div class="portfolio-details text-center text-md-left border-left">
+					<ul>
+						<li>
+							<h5>Date:</h5>
+              {{ page.date | date: "%B %d, %Y" }}
+						</li>
+            {%- if page.event -%}
+              <li>
+                <h5>Event:</h5>
+                {{ page.event }}
+              </li>
+            {%- endif -%}
+            {%- if page.time -%}
+              <li>
+                <h5>Time:</h5>
+                {{ page.time }}
+              </li>
+            {%- endif -%}
+						<li>
+							<h5>Location:</h5>
+              {%- if page.location.institution -%}{{ page.location.institution }}<br />{%- endif -%}
+              {%- if page.location.building -%}{{ page.location.building }}<br />{%- endif -%}
+              {%- if page.location.venue -%}{{ page.location.venue }}<br />{%- endif -%}
+              {%- if page.location.address -%}{{ page.location.address }}<br />{%- endif -%}
+              {%- if page.location.country -%}
+                {{ page.location.city }}, {{ page.location.country }}
+              {%- else -%}
+                {{ page.location.city }}, {{ page.location.state }} {{ page.location.zip }}
+              {%- endif -%}
+						</li>
+            {%- if page.tickets.url -%}
+              <li>
+                <a class="btn btn-round btn-sm btn-success my-2" href="{{ page.tickets.url }}" role="button">Tickets</a>
+              </li>
+            {%- endif -%}
+						<li>
+							<h5>Share:</h5>
+							<ul class="social-icons">
+								<li><a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter }}&related={{ site.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+"><i class="fa fa-google-plus"></i></a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+    </div>
+	</div>
+</section>
+<!-- Portfolio end-->
+
+{%- if page.photosFolder -%}
+<!-- Gallery-->
+<section class="module module-gray">
+  <div class="container">
+    <div class="row m-b-50">
+      <div class="col-md-12">
+        <h3 class="text-center m-b-50">
+          Photos from the Performance
+        </h3>
+        {% include photos-portfolio-masonry.html folderName=page.photosFolder %}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Gallery end-->
+{%- endif -%}
+
+<!-- Performance Pagination-->
+<section class="module module-divider-top">
+	<div class="container">
+
+    {% include more-performances.html %}
+
+  </div>
+</section>

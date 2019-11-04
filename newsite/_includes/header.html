@@ -1,0 +1,62 @@
+<header class="header header-right header-sub-menu-dark">
+  <div class="container-fluid">
+    <!-- Logos-->
+    <div class="inner-header">
+      <a class="inner-brand" href="{{ site.url }}/concerts/">
+        <img class="brand-dark" src="{{ site.images }}/switch-white-icon.png" height="30" width="36" alt="[~]">
+        <img class="brand-light" src="{{ site.images }}/switch-white-icon.png" height="30" width="36" alt="[~]">
+      </a></div>
+    <!-- Navigation-->
+    {%- comment -%}
+    {%- for entry in site.data.navigation -%}
+      {%- capture fullurl -%}{{ site.baseurl }}{{ entry.url }}{%- endcapture -%}
+      {%- if page.url == fullurl or page.url contains fullurl -%}
+          {%- assign current_page = fullurl -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- endcomment -%}
+    <div class="inner-navigation collapse">
+      <div class="inner-navigation-inline">
+        <div class="inner-nav">
+          <ul>
+            {%- for entry in site.data.navigation -%}
+              {%- comment -%}
+              {% if entry.url == current_page %}
+                {% assign current = "active" %}
+              {% else %}
+                {% assign current = nil %}
+              {% endif %}
+              {%- endcomment -%}
+              {%- if entry.sublinks -%}
+
+                <li class="menu-item-has-children">
+                  <a class="{%- comment -%}{{ current }}{%- endcomment -%}" href="{%- if entry.url -%}{{ entry.url }}{%- else -%}#{%- endif -%}">{{ entry.title }}</a>
+                  <ul class="sub-menu">
+                    {%- for sublink in entry.sublinks -%}
+                      <li><a href="{{ site.url }}{{ sublink.url }}">{{ sublink.page }}</a></li>
+                    {%- endfor -%}
+                  </ul>
+                </li>
+
+              {%- else -%}
+
+                <li><a class="{%- comment -%}{{ current }}{%- endcomment -%}" href="{{ site.url }}{{ entry.url }}" alt="{{ entry.title }}">{{ entry.title }}</a></li>
+
+              {%- endif -%}
+
+            {%- endfor -%}
+          </ul>
+        </div>
+        <!-- Inner nav end -->
+      </div>
+    </div>
+    <!-- Extra menu-->
+    <!-- <div class="extra-nav">
+      <ul>
+        <li><a class="open-offcanvas" href="#"><span>Menu</span><span class="fa fa-bars"></span></a></li>
+      </ul>
+    </div> -->
+    <!-- Mobile menu-->
+    <div class="nav-toggle"><a href="#" data-toggle="collapse" data-target=".inner-navigation"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a></div>
+  </div>
+</header>

@@ -1,0 +1,39 @@
+{% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+{% endif %}
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="google-site-verification" content="DgxZgPGQ0ZmXL4jAc5DF7XS1hFSvFS-c1YkYvRao-Wc" />
+{% if page.headerImage %}
+  <meta property="og:image" content="{{ site.url }}/{{ site.images }}/{{ page.headerImage }}" />
+{% endif %}
+{% if page.postDescription %}
+  <meta property="og:description" content="{{ page.postDescription }}" />
+{% else %}
+  <meta property="og:description" content="{{ page.excerpt }}" />
+{% endif %}
+
+<title>{{ page.title | strip_html }}</title>
+
+<!-- Favicons and app icons-->
+<link rel="apple-touch-icon" sizes="180x180" href="{{ site.images }}/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ site.images }}/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ site.images }}/favicon/favicon-16x16.png">
+<link rel="manifest" href="{{ site.images }}/favicon/manifest.json">
+<link rel="mask-icon" href="{{ site.images }}/favicon/safari-pinned-tab.svg" color="#0d5fff">
+<link rel="shortcut icon" href="{{ site.images }}/favicon/favicon.ico">
+<meta name="msapplication-config" content="{{ site.images }}/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+<!-- Web Fonts-->
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,700|Lora:400i|Poppins:600,700" rel="stylesheet">
+<!-- Bootstrap core CSS-->
+<link href="{{ site.assets }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<!-- Plugins and Icon Fonts-->
+<link href="{{ site.assets }}/css/plugins.min.css" rel="stylesheet">
+<!-- Template core CSS-->
+<link href="{{ site.assets }}/css/template.css" rel="stylesheet">
+<!-- Switch~ CSS-->
+<link href="{{ site.assets }}/css/switch.css" rel="stylesheet">
