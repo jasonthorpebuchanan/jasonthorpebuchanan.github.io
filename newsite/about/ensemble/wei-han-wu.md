@@ -1,5 +1,0 @@
----
-layout: ensemble-member
-about: Wei-Han Wu
----
-Described as "brilliant" by the Pittsburgh Tribune, pianist Wei-Han Wu has performed in such venues as the Chicago Cultural Center, the Kennedy Center, and Carnegie’s Weill Recital Hall. He has been a featured performer at the Tanglewood, Aspen, Castleton, Lake George, and Walla Walla Chamber Music Festivals. Dedicated to the performance and promotion of new music, Mr. Wu is currently pianist for the [Switch~ Ensemble], and previously served as president of OSSIA New Music.  He was the pianist for the Aspen Contemporary Ensemble for three seasons, and appeared as guest with the Pittsburgh New Music Ensemble.  A member of Pi Kappa Lambda, he is the recipient of a Distinguished Achievement Award from the Juilliard School, the Felicia Montealegre Fellowship from the Tanglewood Music Center, and the Collaborative Piano Fellowship from Bard College. Mr. Wu holds degrees from Northwestern and University of Michigan, and is currently pursuing a double doctoral degree in Piano Performance and Collaborative Piano at the Eastman School of Music.
