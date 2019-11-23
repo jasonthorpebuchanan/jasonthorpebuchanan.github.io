@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Northern Colorado Visting Composer"
-date: 2019-10-09
+date: 2019-04-17
 sortYear: 2019
 categories: news
-headerImage: updates/
+headerImage: headers/northern-colorado-sign.jpg
 thumbnail: updates/UNC-560.png
 photosFolder:
 tags:

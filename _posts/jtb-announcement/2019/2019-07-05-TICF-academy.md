@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "TICF Academy for Young Composers"
-date: 2019-10-09
+date: 2019-07-05
 categories: news
-headerImage: updates/ticf-academy-2000px@2x.png
+headerImage: headers/ticf-group-workshop.jpg
 thumbnail: updates/ticf-academy-2000px@2x.png
 photosFolder: ticf
 tags:

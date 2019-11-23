@@ -5,7 +5,7 @@ date: 2019-08-31
 categories: news
 author: "Jason Thorpe Buchanan"
 headerImage: headers/harvard-tj.jpg
-thumbnailImage: updates/harvard-tj.jpg
+thumbnail: updates/harvard-tj.jpg
 photosFolder: harvard
 tags:
   - 2019
