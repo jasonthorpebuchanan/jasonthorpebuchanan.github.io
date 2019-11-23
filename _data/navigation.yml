@@ -1,0 +1,32 @@
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+
+- title: Concerts
+  url: /concerts/
+
+- title: Works
+  url: /works/
+    # - page: Events
+      # url: /projects/events/
+
+- title: Media
+  url: /media/
+  sublinks:
+    - page: Audio and Video
+      url: /media/
+    - page: Photos
+      url: /media/photos/
+    # - page: Resources
+    #   url: /media/resources.html
+
+# - title: Support
+  # url: /support/
+
+# - title: News
+#  url: /news/
+
+# - title: Blog
+#  url: /blog/

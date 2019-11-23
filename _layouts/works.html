@@ -1,0 +1,139 @@
+---
+layout: page-without-ends
+---
+
+{% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'performance'" %}
+{% comment %}{% assign currentPiecePerfs = site.works | where_exp:"item", "item.title contains 'page.title'" %}{% endcomment %}
+
+	{%- if page.media -%}
+	<!-- Media-->
+	<section>
+	<div class="col-12 mb-5">
+		{% assign printHeader = false %}  <!-- successfully removed header -->
+		{%- for item in page.media -%}
+			{%- if item.url contains 'youtube' or item.url contains 'vimeo' -%}
+				{%- if printHeader == true -%}
+					<h2 class="text-left">Media</h2>
+					{% assign printHeader = nil %}
+				{%- endif -%}
+				<div class="mb-3"><iframe class="embed-responsive-item mb-3" src="{{ item.url }}" allowfullscreen width="1300" height="736"></iframe></div>
+			{%- elsif item.url contains 'soundcloud' -%}
+				{%- if printHeader == true -%}
+					<h2 class="text-left">Media</h2>
+					{% assign printHeader = nil %}
+				{%- endif -%}
+				{%- if item.url contains 'sets' -%}
+					<div class="col-12 mb-3">{% include soundcloud_player.html type="playlists" trackID=item.ID %}</div>
+				{%- else -%}
+					<div class="col-12 mb-3">{% include soundcloud_player.html type="tracks" trackID=item.ID %}</div>
+				{%- endif -%}
+			{%- else -%}
+			{% comment %}
+				<div class="col-12 mb-3">
+					<audio src="{{ item.url }}" preload="auto" />
+				</div>
+			{% endcomment %}
+			{%- endif -%}
+		{%- endfor -%}
+	</div>
+	</section>
+
+	<!-- ****** SCORE AND DETAILS BEGIN ****** -->
+	<section>
+		<div class="single-portfolio-title nopadding" width="150vh">
+			<div class="row portfolio-details" width="150vh">
+					{%- if page.score  -%}
+				<div class="col-6">{% include {{ page.score }} %}</div>
+				{%- endif -%}
+
+	<div class="col-6 nopadding">
+				<h4 class="single-portfolio-title">ABOUT THE WORK:</h4>
+				<ul>
+					<li>
+						<h5>Year Composed:</h5>
+	          {{ page.yearComposed }}
+					</li>
+	        {%- if page.instrumentation -%}
+	          <li>
+	            <h5>Instrumentation:</h5>
+							{%- for instrument in page.instrumentation -%}
+		            {%- if forloop.last == true -%}
+		              and {{ instrument -}}
+		            {% else %}
+		              {{ instrument | append: ', ' }}
+		            {%- endif -%}
+		          {%- endfor -%}
+	          </li>
+	        {%- endif -%}
+					<li>
+					<li>
+						<h5>Share:</h5>
+						<ul class="social-icons">
+							<li><a href="https://facebook.com/sharer.php?u=www.jasonthorpebuchanan.com" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url=www.jasonthorpebuchanan.com&via={{ site.twitter }}&related={{ site.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a></li>
+						</ul>
+					</li>
+				</ul>
+			</div></div>
+			<br></section>
+			<!-- ****** SCORE AND DETAILS END ****** -->
+
+
+<!-- ****** PROGRAM NOTES BEGIN ****** -->
+<h4 class="single-portfolio-title nopadding">PROGRAM NOTES:</h4>
+	      {{ content }}
+	<!-- Media end-->
+	{%- endif -%}
+<!-- ****** PROGRAM NOTES END ****** -->
+
+
+
+
+
+
+	<section>
+		<!-- ****** PERFORMANCES BEGIN ****** -->
+		<div class="col-lg-8 order-2 order-md-1 nopadding">
+			<br><br>
+
+
+	    <h4 class="single-portfolio-title">Performances of {{ page.title }}</h4>
+	    <div class="concert-program mb-3">
+	      {%- for performance in performancePosts -%}
+	        {%- for piece in performance.program -%}
+	          {%- if piece.title == page.title -%}
+						<div class="performance">
+							<div class="row">
+								{%- if performance.thumbnail -%}
+								<div class="col-sm-4">
+					        <a href="{{ performance.url }}"><img class="img-fluid mb-3 mb-md-0" src="{{ site.images }}/{{ performance.thumbnail }}" alt=""></a>
+								</div>
+
+					      {%- endif -%}
+	<div class="col-sm-8 mb-3 location-details">
+									{{ performance.date | date: "%B %d, %Y" }} <br />
+									{%- if performance.event -%}{{ performance.event }}<br />{%- endif -%}
+									{%- if performance.location.institution -%}{{ performance.location.institution }}{%- endif -%}{%- if performance.location.building -%}, {{ performance.location.building }}<br />{%- endif -%}
+									{%- if performance.location.venue -%}{{ performance.location.venue }}<br />{%- endif -%}
+									{%- if performance.location.address -%}{{ performance.location.address }}<br />{%- endif -%}
+									{%- if performance.location.country -%}
+									{{ performance.location.city }}, {{ performance.location.country }}
+									{%- else -%}
+									{{ performance.location.city }}, {{ performance.location.state }} {{ performance.location.zip }}
+									{%- endif -%}
+								</div>
+							</div>
+								<br>
+						</div>
+						{% else %}
+						<!-- Piece Title: {{ piece.title }} -->
+						<!-- Page Title: {{ page.title }} -->
+						<!-- ---------------------------- -->
+	          {%- endif -%}
+	        {%- endfor -%}
+	      {%- endfor -%}
+	    </div>
+	  </div>
+		<!-- ****** PERFORMANCES END ****** -->
+
+	</section>

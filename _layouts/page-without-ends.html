@@ -1,0 +1,27 @@
+---
+layout: default-without-ends
+---
+{%- if page.headerImage -%}
+  <!-- Page Header-->
+  <section class="module-header parallax bg-dark bg-dark-50" data-background="{{ site.images }}/{{ page.headerImage }}">
+  	<div class="container">
+
+  </section>
+  <!-- Page Header end-->
+{%- endif -%}
+
+<!-- Module -->
+{%- if page.moduleSize == 'small' -%}
+<section class="module-sm module-divider-bottom">
+{%- else -%}
+<section class="module module-divider-bottom">
+{%- endif -%}
+  {%- if page.container == 'fluid' -%}
+    <div class="container-fluid">
+  {%- else -%}
+    <div class="container" background-color="#1a1c1e" background-image="backgrounds/crazystavesdarkblue3.jpg">
+  {%- endif -%}
+    {{ content }}
+  </div>
+</section>
+<!-- Module end-->

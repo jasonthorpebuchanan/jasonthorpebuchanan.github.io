@@ -1,0 +1,27 @@
+<!-- split the list of tags, remove duplicates, and sort by alpha -->
+{%- assign tagArray = listOfTags | split: ' ' | uniq | sort -%}
+<!-- sort works by alpha -->
+{%- assign sortedNewsPosts = site.posts | sort: 'date' | reverse -%}
+
+
+
+
+<div class="row row-portfolio" data-columns="1">
+	<div class="grid-sizer"></div>
+
+	{% assign sortedNewsPosts = site.posts | where_exp:"item", "item.layout contains 'concert'" %}
+	<ul>
+		{%- for post in sortedNewsPosts -%}
+		<div class="portfolio-item posts-item p-7 {% for item in post.tags %}{{-item }} {% endfor %}{{ post.date -}}" width="100%">
+
+				<li>
+					<div class="post-date">{{ post.date | date: "%B %d, %Y" }}</div>
+						{%- if post.location.country -%}
+							<a data-fancybox data-type="iframe" href="{{ post.url }}"><div class="row justify-content-start"><div class="col-4"><img src="{{ site.images }}/{{ post.thumbnail }}" class="rounded media-left img-fluid" alt=""></div><div class="media-body col-8">{{ post.describe }}<br />{%- if post.event -%}{{ post.event }}<br />{%- endif -%}{%- if post.location.venue -%}{{ post.location.venue }}<br />{%- endif -%}{{ post.location.city }}, {{ post.location.country }}<br /></div></div></a>
+						{%- else -%}
+							<a data-fancybox data-type="iframe" href="{{ post.url }}"><div class="row justify-content-start"><div class="col-4"><img src="{{ site.images }}/{{ post.thumbnail }}" class="rounded media-left img-fluid" alt=""></div><div class="media-body col-8">{{ post.describe }}<br />{%- if post.event -%}{{ post.event }}<br />{%- endif -%}{%- if post.location.venue -%}{{ post.location.venue }}<br />{%- endif -%}{{ post.location.city }}, {{ post.location.state }}</div></div></a>
+						{%- endif -%}
+				</li></div>
+		{% endfor %}
+	</ul>
+</div>

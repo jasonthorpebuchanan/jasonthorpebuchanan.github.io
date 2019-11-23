@@ -1,0 +1,27 @@
+<!-- split the list of tags, remove duplicates, and sort by alpha -->
+{%- assign tagArray = listOfTags | split: ' ' | uniq | sort -%}
+<!-- sort works by alpha -->
+{%- assign sortedNewsPosts = site.posts | sort: 'date' | reverse -%}
+
+
+
+<div class="row row-portfolio" data-columns="1">
+	<div class="grid-sizer"></div>
+
+	{% assign sortedNewsPosts = site.posts | where_exp:"item", "item.categories contains 'news'" %}
+
+	<ul>
+		{%- for post in sortedNewsPosts -%}
+
+		<div class="portfolio-item posts-item p-2 {% for item in post.tags %}{{-item }} {% endfor %}{{ post.date -}}" width="100%">
+
+
+		{% comment %} <span><strong>{{ post.title }}</strong>. {{ post.excerpt | remove: '<p>' | remove: '</p>'  }} <a href="{{ post.url }}"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a></span> {% endcomment %}
+			<li>
+				<div class="post-date">{{ post.date | date: "%B %d, %Y" }}</div>
+			<a data-fancybox data-type="iframe" href="{{ post.url }}"><div class="row justify-content-start"><div class="col-4"><img src="{{ site.images }}/{{ post.thumbnail }}" class="rounded media-left img-fluid" alt=""></div><div class="media-body col-8"><strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | remove: '<a>' | remove: '</a>' | truncatewords: 30 }} </div></div></a>
+
+			</li></div>
+		{% endfor %}
+	</ul>
+</div>

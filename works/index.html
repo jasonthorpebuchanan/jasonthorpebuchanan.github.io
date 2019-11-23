@@ -1,0 +1,88 @@
+---
+layout: page
+moduleSize: small
+title: works
+---
+
+<!-- create empty string to append tags -->
+{% assign tagString = '' %}
+<!-- capture the process of appending tags in a list -->
+<!-- append current tag to tagString, strip all whitespace, but retain space between words -->
+{% capture listOfTags %}
+  {%- for work in site.works -%}
+    {%- if work.tags -%}
+      {%- for tag in work.tags -%}
+        {{ tagString | append: tag | append: ' ' }}
+      {%- endfor -%}
+    {% endif %}
+  {% endfor %}
+{% endcapture %}
+
+<!-- split the list of tags, remove duplicates, and sort by alpha -->
+{%- assign tagArray = listOfTags | split: ' ' | uniq | sort -%}
+<!-- sort works by alpha -->
+{%- assign sortedRepYear = site.works | sort: 'yearComposed' | reverse -%}
+
+<!-- Portfolio-->
+<div class="row row-portfolio-filter">
+	<div class="col-sm-12">
+    <ul class="filters h5">
+      <li><a href="./index.html" class="{%- unless page.url contains 'list' -%}current{%- endunless -%}">Portfolio View</a></li>
+      <li><a href="./list-view.html" class="{%- if page.url contains 'list' -%}current{%- endif -%}">List View</a></li>
+    </ul>
+    <ul class="filters h6" id="filters">
+			<li><a class="current" href="#" data-filter="*">All</a></li>
+      <li><a href="#" data-filter=".voices">Ensemble with voices</a></li>
+      <li><a href="#" data-filter=".orchestra">Orchestra/Large Ensemble</a></li>
+      <li><a href="#" data-filter=".chamber">Chamber (3-8 players)</a></li>
+      <li><a href="#" data-filter=".percussion">Percussion (2-4 players)</a></li>
+      <li><a href="#" data-filter=".solo">Solo</a></li>
+        <li><a href="#" data-filter=".acoustic">Acoustic</a></li>
+          <li><a href="#" data-filter=".electronics">Electroacoustic</a></li>
+            <li><a href="#" data-filter=".video">Video</a></li>
+      {% comment %}
+      {%- for tag in tagArray -%}
+        <li><a href="#" data-filter=".{{ tag }}">{{ tag | capitalize }}</a></li>
+      {%- endfor -%}
+      {% endcomment %}
+		</ul>
+	</div>
+</div>
+
+<!-- this is where the works actually appear -->
+
+<div class="row row-portfolio" data-columns="3">
+	<div class="grid-sizer"></div>
+  {%- for work in sortedRepYear -%}
+		<div class="portfolio-item works-item p-2 {% for item in work.tags %}{{-item }} {% endfor %}{{ work.size -}}">
+			<div class="portfolio-wrapper">
+        {%- if work.thumbnailImage -%}
+          <img src="{{ site.images }}/{{ work.thumbnailImage }}" alt="">
+        {% else %}
+          <img src="{{ site.images }}/works-images/thumbnails/switch_misc_400x200.jpg" alt="">
+        {%- endif -%}
+			<div class="portfolio-overlay float-center align-bottom"></div>
+        <div class="portfolio-caption">
+          <h3 class="portfolio-title">{{ work.title }} {% if work.yearComposed == nil %}{% else %}({{ work.yearComposed }}){% endif %}</h3>
+        <!--  <div class="portfolio-subtitle font-sans-serif font-weight-normal">{{ work.commissionedOrWrittenFor }} {{ work.commissionedOrWrittenFor }}</div> -->
+          <h5 class="portfolio-subtitle font-serif">
+            {{ work.size }} {% for tag in work.tags %}{% if tag == 'electronics' %}and electronics{% endif %}{% endfor %}
+            {% comment %}
+            {%- for instrument in work.instrumentation -%}
+            {%- if forloop.last == true -%}
+            and {{ instrument -}}
+            {% else %}
+            {{ instrument | append: ', ' }}
+            {%- endif -%}
+            {%- endfor -%}
+            {% endcomment %}
+
+          </h5><br><br>
+      <h6 class="portfolio-subtitle font-serif">{{ work.commissionedOrWrittenFor }}</h6>
+        </div>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="{{ work.url }}" target="_blank"></a>
+			</div>
+    </div>
+  {%- endfor -%}
+</div>
+	<!-- Portfolio end-->

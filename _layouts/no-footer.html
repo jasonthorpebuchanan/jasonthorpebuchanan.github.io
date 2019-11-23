@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		{% include head.html %}
+		<link rel="stylesheet" href="/assets/css/jtb.css">
+	</head>
+	<body>
+		<!-- Layout-->
+		<div class="layout">
+			<!-- Header-->
+			{% include header.html %}
+			<!-- Header end-->
+			<!-- Wrapper-->
+					<!-- Footer end-->
+				<a class="scroll-top" href="#top"><i class="fa fa-angle-up"></i></a>
+			</div>
+			<!-- Wrapper end-->
+		</div>
+		<!-- Layout end-->
+		{%- comment -%}
+			<!-- Off canvas-->
+			{% include off-canvas-sidebar.html %}
+			<!-- Off canvas end-->
+		{%- endcomment -%}
+		<!-- Scripts -->
+		{% include scripts.html %}
+		<!-- Scripts end-->
+
+
+	</body>
+</html>
