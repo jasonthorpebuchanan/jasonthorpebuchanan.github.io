@@ -5,7 +5,7 @@ date: 2017-11-06
 categories: news
 author: "Jason Thorpe Buchanan"
 headerImage: headers/c4nm-workshop.jpg
-thumbnail: works-images/thumbnails/gimmeshelter_1_250x167.jpg
+thumbnail: updates/c4nm-still-2.jpg
 tags:
   - 2017
   - switch

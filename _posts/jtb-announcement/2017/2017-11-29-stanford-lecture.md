@@ -11,4 +11,6 @@ tags:
   - lecture
 ---
 
+Nov. 29, 2017: Guest Composer Lecture, Stanford University CCRMA Colloquium
+
 https://ccrma.stanford.edu/
