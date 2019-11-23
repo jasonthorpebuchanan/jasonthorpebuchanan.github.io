@@ -3,7 +3,7 @@ layout: post
 title: "Switch~ Ensemble Upstate New York Tour"
 date: 2018-03-06
 categories: news
-headerImage:
+headerImage: headers/Cornell-composers_800x450.jpg
 thumbnail: updates/cornell.jpg
 photosFolder:
 tags:

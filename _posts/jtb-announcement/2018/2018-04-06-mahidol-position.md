@@ -3,7 +3,7 @@ layout: post
 title: "College of Music, Mahidol University"
 date: 2018-04-06
 categories: news
-headerImage:
+headerImage: headers/jason-office-mahidol.jpg
 thumbnail: updates/mahidol-logo.jpg
 photosFolder: mahidol
 tags:

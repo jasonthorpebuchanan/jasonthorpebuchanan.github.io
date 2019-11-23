@@ -3,7 +3,7 @@ layout: post
 title: "New video of <em>Unwound Path</em> by Matt Sargent"
 date: 2018-07-13
 categories: news
-headerImage:
+headerImage: headers/sargent-cornell.jpg
 thumbnail: updates/sargent-cornell-600px-1@2x.png
 photosFolder:
 tags:

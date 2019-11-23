@@ -3,7 +3,7 @@ layout: post
 title: "Artist-In-Residence, Embassy of Foreign Artists"
 date: 2018-01-08
 categories: news
-headerImage:
+headerImage: headers/eofa.jpg
 thumbnail: updates/eofa_280.png
 photosFolder:
 tags:
