@@ -4,6 +4,8 @@ title: "New Music USA Grant"
 date: 2017-10-08
 categories: news
 author: "Chris Chandler"
+headerImage: headers/cornell-cond.jpg
+thumbail: updates/logo-nmusa.png
 tags:
   - 2017
   - switch

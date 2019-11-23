@@ -3,7 +3,7 @@ layout: post
 title: "Artist-In-Residence, Brush Creek Foundation for the Arts"
 date: 2017-10-09
 categories: news
-headerImage:
+headerImage: headers/bcr_1600x901.jpg
 thumbnail: updates/brushcreek_280.png
 photosFolder:
 tags:
