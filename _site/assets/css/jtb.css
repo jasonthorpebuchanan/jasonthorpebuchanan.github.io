@@ -1,0 +1,329 @@
+/*
+   HEADER AND NAVIGATION
+*/
+.header {
+  border-bottom: 0px solid rgba(220, 220, 220, .2);
+}
+.header.header-small {
+  background: #0a0b0f; // #2a313a ; /* this is navigation background color */
+  border-bottom: 0px solid rgba(42,49,58,0.2) /* CHANGED this is the split color of the nav bar */
+}
+.header .extra-nav > ul > li > a,
+.header .inner-nav > ul > li > a,
+.header.header-light.header-small .extra-nav > ul > li > a,
+.header.header-light.header-small .inner-nav > ul > li > a {
+  color: #ddd;
+}
+@media (max-width: 991px) {
+  .header {
+    background-color: #000000;
+    border-bottom: 0px solid rgba(42, 49, 58, 0.2);
+    padding: 0;
+  }
+}
+.nav-toggle > a span {
+  background: #ddd;
+}
+
+.module-sm {
+    background-color: #000000; /* this is the background color */
+    padding: 40px 0; /* height of the bio and image, as well as list and portfolio vie filters */
+}
+
+.footer_full_width{width: 100%; padding-left: 0px; padding-right: 0px;}
+.no-padding{padding-left: 0px; padding-right: 0px;}
+
+
+
+.style1 {font-family: "Baskerville", Times, serif;
+	font-size: xx-large;}
+.style2 {font-weight: 500; font-size: 28px; font-family: "Baskerville", Times, serif; color: #555555; text-shadow: 2px 2px #000000; padding: 15px 5px solid #000; display: block;}
+
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+/*
+   BODY
+*/
+body {
+  background: #000000;
+  font-family: "Roboto", Arial, sans-serif;
+    line-height: 1.75;
+    font-size: 16px;
+    color: #eee;
+}
+/* THISS IS WORKING FOR TEXT COLOR BUT NOT BACKGROUND COLOR
+*/
+
+
+iframe {
+  background-color: #000000;
+    border: 0;
+}
+
+body .layout {
+    height: 100%;
+    min-height: 100%;
+    width: 100%;
+    background-color: #000000;
+}
+
+.layout {
+    opacity: 0.4;
+    -webkit-transition: 1.0s opacity ease;
+            transition: 1.0s opacity ease;
+}
+
+.layout.fade-in {
+    opacity: 1;
+}
+
+.scroll-top {
+    background: #000000;
+  color: #222;
+/*
+   TYPOGRAPHY
+*/
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+.h4 {
+    font-weight: 600;
+    font-size: 16px;
+
+}
+.h3 {
+    font-weight: 700;
+}
+
+h5,
+.h5 {
+    font-weight: 600;
+    font-size: 13px;
+    margin: 0 0 10px;
+}
+
+h6,
+.h6 {
+    font-weight: 500;
+    font-size: 10px;
+    margin: 0 0 10px;
+}
+
+.font-serif {
+    font-family: "Lora", "Libre Baskerville", serif;
+    font-style: italic;
+}
+
+
+
+h2.single-portfolio-title {
+    text-align: left;
+}
+.portfolio-details li>h5 {
+    text-align: center;
+}
+@media (min-width: 991px) {
+  .portfolio-details li>h5 {
+      text-align: left;
+  }
+}
+
+.rep a {
+    color: #999;
+}
+
+footer aside .fa {
+  font-size: 14px;
+  padding: 0rem 0.4rem;
+  width: 100%;
+}
+
+/*
+   works
+*/
+.filters>li {
+  margin: 10px 15px;
+}
+.filters {
+  padding-bottom: 40px;
+}
+
+/*
+   SPECIALTY
+*/
+.offset:before {
+  display: block;
+  position: relative;
+ 	content: "";
+  width: 0;
+	height: 0px;
+  margin-top: -100px;
+}
+@media (max-width: 991px) {
+  .offset:before {
+    display: block;
+    position: relative;
+   	content: "";
+    width: 0;
+  	height: 0px;
+    margin-top: -100px;
+  }
+}
+
+.breakout {
+    margin-left:-100%;
+    margin-right:-100%;
+}
+
+/*.works-item {
+  min-height: 325px;
+}*/
+
+/*
+   GOOGLE MAPS API FOR CONCERTS
+*/
+.maps-container {
+  height: 300px;
+}
+#map-canvas {
+  height: 100%;
+}
+#inputs {
+  display: none;
+}
+
+/*
+  FOOTER
+*/
+.widget ol li, .widget ul li {
+    border-bottom: 0px solid rgba(238, 238, 238, .9);
+}
+
+/*!------------------------------------------------------------------
+[Preloader]
+*/
+
+.pace .pace-progress {
+    background: #000;
+}
+
+.page-loader {
+    background: #000;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 9998;
+}
+
+/*------------------------------------------------------------------
+[Accordions]
+*/
+
+.accordion .card {
+    border-color: #eaeaea;
+    border-radius: 0;
+    border-bottom: 0;
+}
+
+.accordion .card:last-child {
+    border-bottom-left-radius: .25em;
+    border-bottom-right-radius: .25em;
+}
+
+.accordion .card:first-child {
+    border-top-left-radius: .25em;
+    border-top-right-radius: .25em;
+}
+
+.accordion .card .card-body {
+    border-bottom: 1px solid #eaeaea;
+    color: #999;
+}
+
+.accordion .card-header {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: #f7f7f7;
+    border-color: #eaeaea;
+    padding: 12px 18px;
+}
+
+.accordion .card-header a {
+    position: relative;
+    display: block;
+    color: #999;
+}
+
+.accordion .card-header a:hover,
+.accordion .card-header a:focus {
+    color: #111;
+}
+
+.accordion .card-header a:after {
+    position: absolute;
+    content: "\f107";
+    top: 50%;
+    right: 0;
+    margin-top: -7px;
+    font-family: "Arial";
+    font-size: 14px;
+    line-height: 1;
+}
+
+.accordion .card-header a > i,
+.accordion .card-header a > span {
+    margin-right: 5px;
+}
+
+/*------------------------------------------------------------------
+[Modules]
+*/
+
+.module,
+.module-sm,
+.module-header {
+    background-color: #000000;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 0px 0
+}
+
+.module.module-divider-top,
+.module-sm.module-divider-top,
+.module-header.module-divider-top {
+    border-top: 1px solid #dddddd;
+}
+
+.module.module-divider-bottom,
+.module-sm.module-divider-bottom,
+.module-header.module-divider-bottom {
+    border-bottom: 1px solid #dddddd;
+}
+
+.module,
+.module-sm {
+    background-color: #ddd;
+    padding: 100px 0;
+}
+
+.module-sm {
+    padding: 0px 0;
+}
+
+.module-gray {
+    background-color: #000000;
+}
+
+.pager-active {
+  background-color: #000000;
+}
