@@ -3,6 +3,7 @@ layout: post
 title: "University of Miami Frost School of Music Residency"
 date: 2019-09-01
 categories: news
+headerImage: headers/arete-4.jpg
 thumbnail: works-images/thumbnails/gimmeshelter_1_250x167.jpg
 tags:
   - new

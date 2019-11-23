@@ -4,7 +4,7 @@ title: "Northern Colorado Visting Composer"
 date: 2019-10-09
 sortYear: 2019
 categories: news
-headerImage: updates/UNC-560.png
+headerImage: updates/
 thumbnail: updates/UNC-560.png
 photosFolder:
 tags:
