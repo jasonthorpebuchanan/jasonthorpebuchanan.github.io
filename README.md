@@ -1,2 +1,0 @@
-# jasonthorpebuchanan.com
-Website

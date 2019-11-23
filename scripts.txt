@@ -1,2 +1,0 @@
-formmail
-guestbook

@@ -1,5 +1,0 @@
-AuthType	basic
-AuthName	"Only for authorized personnel"
-AuthUserFile	/home/homegrownchode/.htmaster/.ok_user
-Require	valid-user
-/index.html
