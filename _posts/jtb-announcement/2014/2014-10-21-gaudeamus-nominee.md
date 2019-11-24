@@ -5,7 +5,7 @@ date: 2014-10-21
 categories: news
 headerImage:
 thumbnail: updates/gaudeamus.png
-photosFolder:
+photosFolder: gaudeamus
 tags:
   - older
 ---

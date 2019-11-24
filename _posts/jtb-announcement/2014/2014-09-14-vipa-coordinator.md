@@ -5,7 +5,7 @@ date: 2014-09-14
 categories: news
 headerImage:
 thumbnail: updates/
-photosFolder:
+photosFolder: vipa2015
 tags:
   - older
 ---

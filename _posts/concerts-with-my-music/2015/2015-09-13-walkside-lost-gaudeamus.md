@@ -15,7 +15,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "walkside, lost"
     year: 2015
+headerImage: headers/walksidelost_full1.jpg
 thumbnail: updates/walksidelost_full1.jpg
+photosFolder: walkside-lost
 tags:
   - 2015
 ---

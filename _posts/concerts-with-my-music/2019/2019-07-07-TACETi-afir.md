@@ -17,6 +17,7 @@ program:
     year: 2019
   - composer:
     title:
+headerImage: headers/all-forgetting-manuscript.jpg
 thumbnail: updates/TNM-660@2x.jpg
 photosFolder: all-forgetting-is-retrieval
 tags:
