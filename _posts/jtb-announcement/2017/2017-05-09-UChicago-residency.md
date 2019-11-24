@@ -3,7 +3,8 @@ layout: post
 categories: news
 title: "University of Chicago Switch~ Residency"
 date: 2017-05-09
-thumbnail: updates/switch-dress_280x139.png
+headerImage: headers/ensemble.jpeg
+thumbnail: updates/ensemble.jpg
 photosFolder: uchicago
 tags:
   - 2017
