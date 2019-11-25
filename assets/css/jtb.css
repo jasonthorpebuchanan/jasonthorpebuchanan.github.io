@@ -145,7 +145,7 @@ body .layout {
 }
 
 .rep a {
-    color: #999;
+    color: #fafbfc;
 }
 
 footer aside .fa {
@@ -157,7 +157,7 @@ footer aside .fa {
 
 .style1 {font-family: "Baskerville", Times, serif;
 	font-size: xx-large;}
-.style2 {font-weight: 500; font-size: 28px; font-family: "Baskerville", Times, serif; color: #555555; text-shadow: 2px 2px #000000; padding: 15px 5px solid #000; display: block;}
+.style2 {font-weight: 500; font-size: 28px; font-family: "Baskerville", Times, serif; color: #fafbfc; text-shadow: 2px 2px #000000; padding: 15px 5px solid #000; display: block;}
 
 
 a {
@@ -226,7 +226,7 @@ h6,
     font-family: "Poppins", Arial, serif;
     line-height: 1.2;
     font-weight: 300;
-    color: #bfbfbf; /* - - CHECK ME - I AM  CHANGED from 313131 to bfbfbf  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #fafbfc; /* - - CHECK ME - I AM  CHANGED from 313131 to bfbfbf  - - - - - - - - - - - - - - ! ! ! ! */
     text-align: center;
 
 }
@@ -311,7 +311,7 @@ hr {
 
 blockquote {
     border: 0;
-    border-left: 2px solid #eaeaea;
+    border-left: 0px solid #eaeaea;
     font-family: "Lora", "Libre Baskerville", serif;
     line-height: 1.8;
     font-style: italic;
@@ -1040,7 +1040,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     background-color: #fff;
     border-top: 0;
     padding: 20px 18px;
-    color: #999;
+    color: #fafbfc;
 }
 
 .tab-pane *:last-child,
@@ -2082,7 +2082,7 @@ body.off-canvas-sidebar-open .layout {
     position: relative;
     margin: 60px 15px 20px;
     padding: 0 40px 40px;
-    color: #999;
+    color: #fafbfc;
     -webkit-transition: all .4s ease;
             transition: all .4s ease;
 }
@@ -3313,7 +3313,7 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 .module-slides h4,
 .module-slides h5,
 .module-slides h6 {
-    color: #313131; /* - - CHECK ME - I AM NOT CHANGED but I think this is the grey something?  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #d7d8d9; /* - - CHECK ME - I AM NOT CHANGED but I think this is the grey something?  - - - - - - - - - - - - - - ! ! ! ! */
     margin: 0;
 }
 
@@ -3946,12 +3946,12 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 .row-portfolio[date-portfolio-type="standard"] .portfolio-item .portfolio-title,
 .row-portfolio[date-portfolio-type="standard"] .portfolio-item .portfolio-subtitle {
     /*color: #313131;*/
-    color: #fff;
+    color: #fafbfc;
 }
 
 .row-portfolio[date-portfolio-type="standard"] .portfolio-item:hover .portfolio-title,
 .row-portfolio[date-portfolio-type="standard"] .portfolio-item:hover .portfolio-subtitle {
-    color: #fff;
+    color: #fafbfc;
 }
 
 .row-portfolio[date-portfolio-type="standard"] .portfolio-item:hover .portfolio-caption {
@@ -4011,7 +4011,7 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 .ps-next a,
 .ps-prev a {
     line-height: 40px;
-    color: #313131;
+    color: #fafbfc;
 }
 
 .ps-all a > .arrows,
@@ -4081,6 +4081,7 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 .portfoli-details li > span {
     display: inline-block;
     min-width: 100px;
+    color: #eeeeee;
 }
 
 .portfoli-details > ul > li {
