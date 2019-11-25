@@ -17,8 +17,8 @@ program:
     year: 2019
   - composer:
     title:
-headerImage: headers/all-forgetting-manuscript.jpg
-thumbnail: updates/TNM-660@2x.jpg
+headerImage: headers/afir-1200x675.jpg
+thumbnail: updates/afir-280-143.jpg
 photosFolder: all-forgetting-is-retrieval
 tags:
   - 2019

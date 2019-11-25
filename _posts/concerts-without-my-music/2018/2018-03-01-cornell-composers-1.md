@@ -23,7 +23,9 @@ program:
     title: Tribute | Axis II (2017)
   - composer: Roberto Sierra
     title: Tres Montunos
-thumbnail: updates/ibarra_berkeley_250x125.jpg
+headerImage: headers/cornell-composers.jpg
+thumbnail: updates/cornell-kim-front_280x157.jpg
+photosFolder: upstate-NY-tour
 tags:
   - 2018
   - switch

@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 describe: <em>soliloquios del Viento</em> (2017), Hong Kong New Music Ensemble. TICF.
-date: 2019-10-19
+date: 2019-08-19
 time:
 location:
   institution: Thailand International Composition Festival

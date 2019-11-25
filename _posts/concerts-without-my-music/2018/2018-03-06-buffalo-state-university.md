@@ -23,7 +23,9 @@ program:
     title: we drank wine from the bottle on a rooftop next to god. (2017)
   - composer: Tomas Henriques
     title: Circle (2000)
+headerImage: headers/cheah-we-drank-wine_1000x500.jpg
 thumbnail: updates/ibarra_berkeley_250x125.jpg
+photosFolder: upstate-NY-tour
 tags:
   - 2018
   - switch

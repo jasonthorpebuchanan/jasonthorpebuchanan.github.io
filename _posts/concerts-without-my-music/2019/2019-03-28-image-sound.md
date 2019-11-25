@@ -23,6 +23,7 @@ program:
     title: A city's pounding heart
   - composer: Igor C Silva
     title: Smart-alienation
+headerImage: headers/silva_smart-alienation_1000x500.jpg
 thumbnail: updates/ears-opt@2x.png
 tags:
   - 2019

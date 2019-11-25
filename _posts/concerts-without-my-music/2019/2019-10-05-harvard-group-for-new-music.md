@@ -22,8 +22,8 @@ program:
     title: new work (2019)
   - composer: Caleb Fried
     title: walk over; hot coals (2019)
-headerImage: works-images/thumbnails/gimmeshelter_1_250x167.jpg
-thumbnail: updates/diels_filament-250x125.jpg
+headerImage: headers/harvard-tj.jpg
+thumbnail: updates/harvard-tj.jpg
 photosFolder: harvard
 tags:
   - 2019

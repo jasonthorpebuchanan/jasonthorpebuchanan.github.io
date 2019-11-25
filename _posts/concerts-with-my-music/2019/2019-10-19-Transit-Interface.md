@@ -17,6 +17,7 @@ program:
     year: 2017
   - composer:
     title:
+headerImage: headers/soliloquios-interface-opt.jpg
 thumbnail: updates/transit-289px.png
 photosFolder: soliloquios-del-viento
 tags:

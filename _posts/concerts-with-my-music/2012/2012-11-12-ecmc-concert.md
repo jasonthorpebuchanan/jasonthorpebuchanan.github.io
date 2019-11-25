@@ -20,6 +20,8 @@ program:
     year: 2012
   - composer: Sascha Lino Lemke
     title: Liebes-Lied
+headerImage: headers/romitelli_amok_1600.jpg
+thumbnail: updates/af1-2.jpg
     tags:
       - 2012
       - older

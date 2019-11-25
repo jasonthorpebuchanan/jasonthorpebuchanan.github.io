@@ -18,7 +18,9 @@ program:
     year: 2020
   - composer:
     title:
+headerImage: headers/ticf-hknme.jpg
 thumbnail: updates/hknme-289px.png
+photosFolder: mata-hknme
 tags:
   - 2020
   - new

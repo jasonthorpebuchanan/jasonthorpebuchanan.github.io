@@ -27,7 +27,8 @@ program:
     title: new work (2020)
   - composer: Juraj Kojs
     title: new work (2020)
-thumbnail: works-images/thumbnails/gimmeshelter_1_250x167.jpg
+headerImage: headers/switch-final-press-photo_1920x1080.jpg
+thumbnail: updates/switch-press_431x243.jpg
 tags:
   - 2020
   - new
