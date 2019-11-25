@@ -17,7 +17,7 @@ tags:
   - acoustic
 media:
   - title: "oggetti I (2014) by Jason Thorpe Buchanan"
-    url: https://vimeo.com/109020216
+    url: https://player.vimeo.com/video/109020216
 headerImage: works-images/oggetti_5.jpg
 portWrapper: works-images/port-wrapper/oggetti_660x340.jpg
 score: score_oggetti.html
