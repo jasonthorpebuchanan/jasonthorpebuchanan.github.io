@@ -311,6 +311,18 @@ pre {
     line-height: 1.8;
 }
 
+.bask20bold {font-size: 20px; font-weight: bold; color: #dddddd; font-family: "Baskerville", Times, serif;}
+.bask20 {font-size: 20px; color: #dddddd; font-family: "Baskerville", Times, serif;}
+.bask19 {font-size: 19px; color: #dddddd; font-family: "Baskerville", Times, serif;}
+.bask18 {font-size: 18px; color: #dddddd; font-family: "Baskerville", Times, serif;}
+.bask17 {font-size: 17px; color: #dddddd; font-family: "Baskerville", Times, serif;}
+.bask16 {font-size: 16px; color: #dddddd; font-family: "Baskerville", Times, serif;}
+.bask15 {font-size: 15px; color: #dddddd; font-family: "Baskerville", Times, serif;}
+.bask14 {font-size: 14px; color: #dddddd; font-family: "Baskerville", Times, serif;}
+.bask13 {font-size: 13px; color: #dddddd; font-family: "Baskerville", Times, serif;}
+.bask12 {font-size: 12px; color: #dddddd; font-family: "Baskerville", Times, serif;}
+.bask11 {font-size: 11px; color: #dddddd; font-family: "Baskerville", Times, serif;}
+
 /*--------------------------IGNORE ----------------------------------------
 [Alerts]
 */
@@ -3736,10 +3748,6 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
             transform: scale(1.2);
             opacity: 0.6;   */ /* - - CHANGED text and image- - - - - ! ! ! ! */
 }
-.score-wrapper:hover .score-wrapper img {
-    -webkit-transform: scale(1.1); /* - - CHECK ME - I AM  CHANGED was 1.2 - - - - - */
-            transform: scale(1.1);
-}
 
 .score-wrapper:hover .score-overlay {
     opacity: 0.8;  /* - - CHECK ME - I AM  CHANGED try removing? - - - - - */
@@ -3750,8 +3758,8 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 .score-overlay,
 .score-subtitle,
 .score-wrapper img {
-    -webkit-transition: all .2s cubic-bezier(.3, .1, .58, 1);
-            transition: all .2s cubic-bezier(.3, .1, .58, 1);
+    -webkit-transition: all .3s cubic-bezier(.3, .1, .58, 1);
+            transition: all .3s cubic-bezier(.3, .1, .58, 1);
         /*      opacity: 0.99;   */ /* - - CHANGED text and image- - - - - ! ! ! ! */
 }
 
@@ -3784,8 +3792,8 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 .portfolio-overlay,
 .portfolio-subtitle,
 .portfolio-wrapper img {
-    -webkit-transition: all .2s cubic-bezier(.3, .1, .58, 1);
-            transition: all .2s cubic-bezier(.3, .1, .58, 1);
+    -webkit-transition: all .3s cubic-bezier(.3, .1, .58, 1);
+            transition: all .3s cubic-bezier(.3, .1, .58, 1);
         /*      opacity: 0.99;   */ /* - - CHANGED text and image- - - - - ! ! ! ! */
 }
 
@@ -3799,7 +3807,7 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 .portfolio-overlay {
     position: absolute;
     background: rgba(49, 49, 49, .95);
-    opacity: 0.62; /* - - CHANGED 1 is grey overlay before hover, higher number is darker - - - - - ! ! ! ! */
+    opacity: 0.63; /* - - CHANGED 1 is grey overlay before hover, higher number is darker - - - - - ! ! ! ! */
     z-index: 1;
     left: 0;
     top: 0;
@@ -3821,9 +3829,10 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 }
 
 .portfolio-title {
-    text-transform: none;
-    letter-spacing: 1.1px;
-    line-height: 2.0;
+      letter-spacing: 0.8px;
+    line-height: 1.0;
+    font-family: "Garamond", Times, serif;
+    font-weight: bold;
     font-size: 18px; /* - - CHECK ME - I AM  CHANGED was 12 - - - - - */
     color: #fafbfc;
     margin: 0;
@@ -3836,7 +3845,19 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
   color: #fafbfc; /* - - CHECK ME - I AM  CHANGED from WHITE to OFF WHITE  - - - - - - - - - - - - - - ! ! ! ! */
     text-shadow: 1px 1px #2a2b2c;
 
+
 }
+
+.portfolio-item:hover .portfolio-subtitle {
+-webkit-transform: scale(0.9); /* - - CHECK ME - I AM  CHANGED was 1.2 - - - - - */
+        transform: scale(0.9);
+}
+
+.portfolio-item:hover .portfolio-title {
+-webkit-transform: scale(0.95); /* - - CHECK ME - I AM  CHANGED was 1.2 - - - - - */
+        transform: scale(0.95);
+}
+
 
 .portfolio-link {
     position: absolute;
@@ -3858,8 +3879,9 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 
 .portfolio-item:hover .portfolio-caption {
     opacity: 1;  /* - - CHANGED lower makes text transparent on hover  - - - - - ! ! ! ! */
-    -webkit-transform: translateY(-30%); /* - -  CHANGED raises text when hover - - - - */
-            transform: translateY(-30%);
+    -webkit-transform: translateY(-40%); /* - -  CHANGED raises text when hover - - - - */
+            transform: translateY(-40%);
+
 }
 
 .row-portfolio[date-portfolio-type="standard"] .portfolio-caption {

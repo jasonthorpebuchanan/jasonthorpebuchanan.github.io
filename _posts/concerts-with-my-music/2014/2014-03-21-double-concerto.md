@@ -12,7 +12,7 @@ location:
   state: NY
 program:
   - composer: Jason Thorpe Buchanan
-    title: "Double Concerto"
+    title: "Double Concerto for Two Horns and Chamber Orchestra"
     year: 2014
   - composer: John Zorn
     title:

@@ -1,0 +1,472 @@
+I"9a<script type="text/javascript">
+
+
+
+
+var str = "<p>This is my <span style='color:red;'>special string</span> with an <img src='http://placehold.it/150x150'> image !</p>",
+    i = 0,
+    isTag,
+    text;
+
+(function type() {
+    text = str.slice(0, ++i);
+    if (text === str) return;
+
+    document.getElementById('typewriter').innerHTML = text;
+
+    var char = text.slice(-1);
+    if( char === '<' ) isTag = true;
+    if( char === '>' ) isTag = false;
+
+    if (isTag) return type();
+    setTimeout(type
+</script>
+
+<script type="text/javascript">
+document.getElementById("test-typing").click();
+</script>
+
+<script>
+var blacktime = 1400;
+var whitetime = 1000;
+//These can be as long as you desire in milliseconds
+setTimeout(whiteFunc,blacktime);
+function whiteFunc(){
+    document.getElementById("blink").style.color = "white";
+    setTimeout(blackFunc,whitetime);
+}
+function blackFunc(){
+    document.getElementById("blink").style.color = "black";
+    setTimeout(whiteFunc,blacktime);
+
+}
+</script>
+
+<style>
+
+
+.panic{
+
+	position: absolute;
+	top: 7%;
+	transform: 	translateY(30%);
+        font-size:720%;
+}
+
+
+
+</style>
+
+<style>
+        body
+        {
+
+            padding: 1%;
+
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 2em;
+        }
+
+
+        a
+        {
+            color: #0CC5DA;
+            text-decoration: none;
+        }
+
+        a:hover
+        {
+            color: #DCE808;
+            text-decoration: underline;
+        }
+
+        .console
+        {
+            font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
+        }
+
+        input[type="button"]
+        {
+            cursor: pointer;
+        }
+
+    </style>
+
+<style>
+
+@import "compass/css3";
+
+body
+{
+  padding: 1%;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.1em;
+}
+
+.console
+{
+  font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace; font-size:50%;
+}
+
+input[type="button"]
+{
+  cursor: pointer;
+  font-size: 22px;
+}
+
+.glitch{
+  color:white;
+  font-size:70px;
+  position:relative;
+  width:200px;
+  margin:0 auto;
+}
+@keyframes noise-anim{
+  $steps:20;
+  @for $i from 0 through $steps{
+    #{percentage($i*(1/$steps))}{
+      clip:rect(random(100)+px,9999px,random(100)+px,0);
+    }
+  }
+}
+.glitch:after{
+  content:attr(data-text);
+  position:absolute;
+  left:2px;
+  text-shadow:-1px 0 red;
+  top:0;
+  color:white;
+  background:black;
+  overflow:hidden;
+  clip:rect(0,900px,0,0);
+  animation:noise-anim 2s infinite linear alternate-reverse;
+}
+
+@keyframes noise-anim-2{
+  $steps:20;
+  @for $i from 0 through $steps{
+    #{percentage($i*(1/$steps))}{
+      clip:rect(random(100)+px,9999px,random(100)+px,0);
+    }
+  }
+}
+.glitch:before{
+  content:attr(data-text);
+  position:absolute;
+  left:-2px;
+  text-shadow:1px 0 blue;
+  top:0;
+  color:white;
+  background:black;
+  overflow:hidden;
+  clip:rect(0,900px,0,0);
+  animation:noise-anim-2 3s infinite linear alternate-reverse;
+}
+
+</style>
+
+<script type="text/javascript" src="http://www.jasonthorpebuchanan.com/jquery-1.10.2.min.js"></script>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;script type="text/javascript" src="http://www.jasonthorpebuchanan.com/functions.js"&gt; &lt;/script&gt;
+</code></pre></div></div>
+<p>&lt;/head&gt;</p>
+
+<p>&lt;/head&gt;</p>
+<div align="right"><input type="button" id="test-typing" value="PANIC" onmousemove="submit" style="height:20px;width:100px" /></div>
+<body onload="document.getElementById('test-typing').click();">
+
+<p id="blink" class="panic">&nbsp;PANIC</p>
+
+
+
+    <p>
+        <input type="hidden" id="user-caption" value="&lt;p class=MsoNormal&gt;&lt;span style='font-size:11.0pt;font-family:Garamond'&gt;PSYCHASTHENIA
+B: &lt;b style='mso-bidi-font-weight:normal'&gt;PANIC ARCHITECTURE&lt;/b&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;i&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;
+letter-spacing:-.2pt;mso-font-width:101%'&gt;Psychasthenia&lt;/span&gt;&lt;/i&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;letter-spacing:-.2pt;mso-font-width:
+101%;mso-bidi-font-style:italic'&gt; is defined as &ldquo;a group of neuroses characterized by phobias, obsessions, compulsions,
+or excessive anxiety&ldquo;, imagining a new cycle of works for ensemble and various
+immersive media environments. During the performance of each work in the cycle,
+reservoirs of media files are created, retrieved, re-organized, and composited
+against one another, creating temporal, aural, or visual dissonances between
+past and present actions &#151; events unfolding on stage and in media generated in
+real-time. The commingling of fluctuating chronologies creates temporal
+instability, challenges the mutability of memory, and proposes an alternative,
+speculative engagement with bodily-lived time. The psychasthenic possesses
+insufficient control over co&#x0273;scious thinking or memory, wandering aimlessly or &lt;span
+class=SpellE&gt;forgettting&lt;/span&gt; the &lt;span class=SpellE&gt;ta&lt;span
+style='font-size:8.0pt;mso-bidi-font-family:Corbel;letter-spacing:0pt;
+mso-font-width:100%'&gt;S&lt;/span&gt;k&lt;/span&gt; at hand. Their thoughts are &lt;span
+class=SpellE&gt;s&lt;span style='font-size:7.0pt'&gt;C&lt;/span&gt;atte&#x027D;ed&lt;/span&gt;,
+necessitating sign&lt;/span&gt;&lt;span style='font-size:7.0pt;font-family:Garamond;
+mso-bidi-font-family:Corbel'&gt;1&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:
+Garamond;letter-spacing:-.2pt;mso-font-width:101%'&gt;ficant effort in order r to
+organize them or commun&lt;/span&gt;&lt;span style='font-size:8.0pt;font-family:Garamond;
+letter-spacing:-.2pt;mso-font-width:101%'&gt;1&lt;/span&gt;&lt;span style='font-size:11.0pt;
+font-family:Garamond;letter-spacing:-.2pt;mso-font-width:101%'&gt;cate with
+others, &lt;span class=SpellE&gt;frequen&#1090;ly&lt;/span&gt; accompanied by characteristic &lt;span
+class=SpellE&gt;insom&eta;ia&lt;/span&gt; that &lt;/span&gt;&lt;span class=SpellE&gt;&lt;span
+style='font-size:9.0pt;font-family:Garamond;letter-spacing:-.2pt;mso-font-width:
+101%'&gt;l&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;letter-spacing:
+-.2pt;mso-font-width:101%'&gt;nduces&lt;/span&gt;&lt;/span&gt;&lt;span style='font-size:11.0pt;
+font-family:Garamond;letter-spacing:-.2pt;mso-font-width:101%'&gt; fatigue. &lt;/span&gt;&lt;i
+style='mso-bidi-font-style:normal'&gt;&lt;span style='font-size:11.0pt;font-family:
+Garamond'&gt;
+
+                                    Panic Architecture&lt;/i&gt; &lt;span style='font-size:11.0pt;font-family:
+Garamond'&gt;describes a partici&lt;/span&gt;&lt;span style='font-size:10.0pt;font-family:
+Garamond;mso-bidi-font-family:Corbel'&gt;p&lt;/span&gt;&lt;span style='font-size:11.0pt;
+font-family:Garamond;mso-bidi-font-family:Corbel'&gt;atory
+
+&lt;span class=SpellE&gt;f&#1169;amework&lt;/span&gt;
+demanding &lt;span class=SpellE&gt;compu&#322;sive&lt;/span&gt; &lt;span class=SpellE&gt;int&epsilon;raction&lt;/span&gt;
+and attent&#1090;ion.
+
+The relentless in&lt;/span&gt;&lt;span style='font-size:9.0pt;
+font-family:Calibri;mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri'&gt;f&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;lux
+of email, &lt;span class=SpellE&gt;messagges&lt;/span&gt;, and notifications compel1l &lt;span
+class=SpellE&gt;o&upsilon;r&lt;/span&gt; constant engagement and response &#151;
+
+
+
+we have &lt;span
+class=SpellE&gt;assimilatedd&lt;/span&gt; &lt;span class=SpellE&gt;depnedency&lt;/span&gt; on these
+means of &lt;span class=SpellE&gt;commuincation&lt;/span&gt; that now function as our &lt;span
+class=SpellE&gt;teth&lt;span style='font-size:9.0pt'&gt;&#8494;&lt;/span&gt;r&lt;/span&gt;
+
+
+to society and &lt;/span&gt;&lt;span
+style='font-size:9.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;1&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt; &lt;span
+class=SpellE&gt;pri&#1084;ary&lt;/span&gt; mode of &lt;span class=SpellE&gt;int&#1169;epe&#1169;sonal&lt;/span&gt;
+
+
+
+
+contact. The act of &lt;span class=SpellE&gt;checknig&lt;/span&gt; &lt;/span&gt;&lt;span
+style='font-size:8.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;1&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;ne&rsquo;s
+email can &lt;span class=SpellE&gt;th&#1103;o&lt;span style='font-size:8.0pt;font-family:Calibri;
+mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri'&gt;&#119;&lt;/span&gt;&lt;/span&gt; &lt;span
+class=SpellE&gt;cons&upsilon;&lt;span style='font-size:8.0pt;font-family:Helvetica;
+mso-fareast-font-family:Helvetica;mso-bidi-font-family:Helvetica'&gt;&#33;&lt;/span&gt;ers&lt;/span&gt;
+&lt;/span&gt;&lt;span class=SpellE&gt;&lt;span style='font-family:Calibri;mso-fareast-font-family:
+Calibri;mso-bidi-font-family:Calibri'&gt;&iuml;&lt;/span&gt;&lt;span style='font-size:11.0pt;
+font-family:Garamond;mso-bidi-font-family:Corbel'&gt;nto&lt;/span&gt;&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt; a &lt;/span&gt;&lt;span
+class=SpellE&gt;&lt;span style='font-size:9.0pt;font-family:Calibri;mso-fareast-font-family:
+Calibri;mso-bidi-font-family:Calibri'&gt;ṧ&lt;/span&gt;&lt;span style='font-size:11.0pt;
+font-family:Garamond;mso-bidi-font-family:Corbel'&gt;tate&lt;/span&gt;&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt; &lt;span
+class=SpellE&gt;&oslash;f&lt;/span&gt; &lt;span class=SpellE&gt;pan&lt;span style='font-family:Calibri;
+mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri'&gt;ḯ&lt;/span&gt;c&lt;/span&gt;
+or &lt;span class=SpellE&gt;supsension&lt;/span&gt; of &lt;span class=SpellE&gt;br&epsilon;ath&lt;/span&gt;, &lt;/span&gt;&lt;span
+style='font-size:9.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;1&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt; the
+term &lsquo;&lt;span class=SpellE&gt;ema&#776;&#1110;&#322;&lt;/span&gt; &lt;span class=SpellE&gt;ap&eta;ea&lt;/span&gt;&rsquo; coined
+to &lt;span class=SpellE&gt;desrcib&lt;/span&gt;e this &lt;span class=SpellE&gt;uncosncio&lt;span
+style='font-size:9.0pt;font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-bidi-font-family:Calibri'&gt;ʊ&lt;/span&gt;s&lt;/span&gt; &lt;span class=GramE&gt;reflex.,,&lt;/span&gt;
+
+
+E&#9988;perimetns in &lt;span
+class=SpellE&gt;beh&lt;/span&gt;avio&#1103;&#1111;&lt;span
+style='font-size:10.0pt;font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-bidi-font-family:Calibri'&gt;s&lt;/span&gt;m and operant &lt;/span&gt;&lt;span
+class=SpellE&gt;&lt;span style='font-size:9.0pt;font-family:Calibri;mso-fareast-font-family:
+Calibri;mso-bidi-font-family:Calibri'&gt;&ccedil;&lt;/span&gt;&lt;span style='font-size:11.0pt;
+font-family:Garamond;mso-bidi-font-family:Corbel'&gt;onditioning&lt;/span&gt;&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt; found
+&lt;span class=SpellE&gt;t&#1085;at&lt;/span&gt; rats gievn rewadrs i&#1169;&#1169;egula&#1103;&lt;span style='font-size:
+10.0pt;font-family:Calibri;mso-fareast-font-family:Calibri;mso-bidi-font-family:
+Calibri'&gt;&#671;&lt;/span&gt;y&lt;/span&gt; &lt;span style='font-family:
+Calibri;mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri'&gt;&#7727;&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;n&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt; re&lt;span style='font-size:7.0pt'&gt;S&lt;/span&gt;ponse to mun&lt;/span&gt;&lt;span
+style='font-size:9.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;1 &lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt;da&eta;e&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;
+mso-bidi-font-family:Corbel'&gt; tasks &omega;ere &lt;span
+class=SpellE&gt;copmulsively&lt;/span&gt; driven to contin&upsilon;&epsilon;,
+in hopes of a&lt;span style='font-size:9.0pt;font-family:Calibri;
+mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri'&gt;ᾔ&lt;/span&gt;&lt;span
+style='font-size:10.0pt'&gt;o&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;
+mso-bidi-font-family:Corbel'&gt;ther reward. This b&epsilon;&#1085;avior,
+&lt;span class=SpellE&gt;termd&lt;/span&gt; &lsquo;&lt;span class=SpellE&gt;inter&lt;span
+style='font-size:8.0pt;font-family:Helvetica;mso-fareast-font-family:Helvetica;
+mso-bidi-font-family:Helvetica'&gt;&#4326;&lt;/span&gt;ittent&lt;/span&gt; reinfo&#1103;cement’,
+&lt;/span&gt;&lt;span style='font-size:9.0pt;font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt;1&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt; is applicab&#8467;e to our modern &lt;span
+class=SpellE&gt;socail&lt;/span&gt; netw&oslash;&oslash;&#1103;&#1082;s and digital &lt;span
+class=SpellE&gt;pro&#1090;oc&lt;/span&gt; ‘ol, enticccing
+users to obses&lt;span style='font-size:9.0pt;font-family:Calibri;
+mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri'&gt;&#7783;&lt;/span&gt;ively&lt;/span&gt;
+&lt;/span&gt;&lt;span style='font-size:9.0pt;font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt;1&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt; check for &lt;span style='font-size:14.0pt;font-variant:small-caps'&gt;panic&lt;/span&gt;&lt;span style='font-size:11.0pt;'&gt; new &lt;span
+class=SpellE&gt;cotnent&lt;/span&gt;. Fa&lt;span style='font-size:9.0pt;
+font-family:Calibri;mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri'&gt;ḉ&lt;/span&gt;be&oslash;okk&lt;/span&gt;
+and Twwi&#1090;tre are most the potent and &lt;span
+class=SpellE&gt;ubiqq&lt;/span&gt; qq&uuml;itous &lt;span
+class=SpellE&gt;exa&#1084;ples&lt;/span&gt; of &lt;span class=SpellE&gt;syst&epsilon;ms&lt;/span&gt; that &lt;span
+class=SpellE&gt;insti&#322;&lt;span style='font-size:10.0pt;font-family:Calibri;
+mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri'&gt;&#671;&lt;/span&gt;
+panic nd path dep&epsilon;&eta;dence,., Fam&lt;span
+style='font-size:8.0pt'&gt;l&lt;/span&gt;les and friends &lsquo;pan&lt;span
+style='font-size:7.0pt'&gt;l&lt;/span&gt;c&rsquo; &lt;span style='font-size:9.0pt;
+font-family:Garamond;mso-bidi-font-family:Corbel'&gt;1&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt; anther
+other, affected by posts and &lt;span class=SpellE&gt;stat&lt;span style='font-size:
+9.0pt;font-family:Calibri;mso-fareast-font-family:Calibri;mso-bidi-font-family:
+Calibri'&gt;&#650;&lt;/span&gt;s udpates&lt;/span&gt;. These &lt;span
+class=SpellE&gt;communic&lt;/span&gt;&alpha;&#1090;ions&lt;/span&gt;, &lt;span
+class=SpellE&gt;partcula&#1103;&#322;y&lt;/span&gt; when attach&lt;span style='font-size:9.0pt;
+font-family:Garamond;mso-bidi-font-family:Corbel'&gt;3&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;d to &alpha;&lt;/span&gt;&lt;span
+class=SpellE&gt;&lt;span style='font-size:9.0pt;font-family:Calibri;mso-fareast-font-family:
+Calibri;mso-bidi-font-family:Calibri'&gt;&#650;&lt;/span&gt;&lt;span style='font-size:11.0pt;
+font-family:Garamond;mso-bidi-font-family:Corbel'&gt;dib&lt;/span&gt;&lt;span
+style='font-family:Calibri;mso-fareast-font-family:Calibri;mso-bidi-font-family:
+Calibri'&gt;&#671;&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt;&epsilon;&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;
+mso-bidi-font-family:Corbel'&gt; or &lt;span class=SpellE&gt;hapitc&lt;/span&gt; &lt;span
+class=SpellE&gt;stimu&lt;span style='font-size:10.0pt;font-family:Calibri;mso-fareast-font-family:
+Calibri;mso-bidi-font-family:Calibri'&gt;&#671;&lt;/span&gt;i, are m&epsilon;chan&lt;span
+style='font-size:8.0pt'&gt;l&lt;/span&gt;sms of &lt;span class=SpellE&gt;pani&lt;span
+style='font-size:8.0pt'&gt;C&lt;/span&gt; a&lt;span
+style='font-size:7.0pt'&gt;C&lt;/span&gt;rhitect&upsilon;&#1103;e&lt;/span&gt; that &lt;span
+style='font-size:9.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;1&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt; are &lt;span
+class=SpellE&gt;desgned&lt;/span&gt; to &lt;span class=SpellE&gt;i&eta;duce&lt;/span&gt; &lt;span
+class=SpellE&gt;contin&upsilon;al&lt;/span&gt;, obsessi&lt;span
+style='font-size:9.0pt;font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-bidi-font-family:Calibri'&gt;&#7805;&lt;/span&gt;e &lt;span class=SpellE&gt;actlons&lt;/span&gt;
+&lt;span class=SpellE&gt;pa&#1103;rt&lt;/span&gt; on &#1090;he&lt;/span&gt; of the &lt;span
+class=SpellE&gt;c&lt;span style='font-size:7.0pt'&gt;O&lt;/span&gt;n&lt;span style='font-size:
+8.0pt'&gt;$&lt;/span&gt;um&lt;span style='font-size:8.0pt'&gt;&#8494;&lt;/span&gt;er to &lt;span
+class=SpellE&gt;&lt;span style='font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-bidi-font-family:Calibri'&gt;&#7689;&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:
+Garamond;mso-bidi-font-family:Corbel'&gt;&#322;&#1111;click&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt; and &lt;span
+class=SpellE&gt;up&lt;span style='font-size:9.0pt;font-family:Calibri;mso-fareast-font-family:
+Calibri;mso-bidi-font-family:Calibri'&gt;&#7699;&lt;/span&gt;&alpha;ate their &lt;span
+class=SpellE&gt;us&epsilon;r&lt;/span&gt; &lt;span class=SpellE&gt;inte&#1169;&lt;span style='font-size:9.0pt;
+font-family:Calibri;mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri'&gt;&#7711;&lt;/span&gt;ace.&#44;&#44;&rsquo;
+&#208;igi&#1090;al p&alpha;&lt;span class=SpellE&gt;&eta;ic&lt;/span&gt; o&cent;&cent;urs&lt;span style='font-size:7.0pt;font-family:Garamond;
+mso-bidi-font-family:Corbel'&gt;W&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:
+Garamond;mso-bidi-font-family:Corbel'&gt;hen
+
+m&upsilon;ltipl&lt;/span&gt;&lt;span style='font-size:
+9.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;1&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;e, &lt;span
+class=SpellE&gt;simu&lt;/span&gt;&lt;span style='font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt;&#8467;&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:
+Garamond;mso-bidi-font-family:Corbel'&gt;taneous
+
+
+&lt;/span&gt;&lt;span style='font-size:8.0pt;font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt;S&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt;ys&#1090;ems&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;
+mso-bidi-font-family:Corbel'&gt; itne&#1090;mittent of &lt;span
+class=SpellE&gt;r&epsilon;inforc&lt;span style='font-size:9.0pt;font-family:Calibri;
+mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri'&gt;&#1090;&lt;/span&gt;ment
+d&lt;span style='font-size:8.0pt'&gt;E&lt;/span&gt;namd a us&lt;span
+style='font-size:8.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;3&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;r&#1090;s att&epsilon;&eta;tio&eta;
+
+c&lt;/span&gt;&lt;span style='font-size:7.0pt;font-family:
+Garamond;mso-bidi-font-family:Corbel'&gt;O&lt;/span&gt;&lt;span style='font-size:11.0pt;
+font-family:Garamond;mso-bidi-font-family:Corbel'&gt;nc&upsilon;&#1090;&#1090;ent1y. &lt;span
+class=SpellE&gt;&ETH;ig&lt;span style='font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-bidi-font-family:Calibri'&gt;&#7727;&lt;/span&gt;tal comne&lt;span
+style='font-size:9.0pt;font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-bidi-font-family:Calibri'&gt;&#7689;&lt;/span&gt;tivity, fl&lt;span
+style='font-size:9.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;0&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;w,
+and &#1084;ulti&#1090;as&#1082;in&#8458;&lt;/span&gt; on&lt;span
+style='font-family:Calibri;mso-fareast-font-family:Calibri;mso-bidi-font-family:
+Calibri'&gt;&#671;&lt;/span&gt;lne
+
+
+&lt;!-- stopped here --&gt;
+
+someti&mu;&epsilon;s &lt;span
+style='font-size:9.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;1&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;ead a
+to ps&lt;span style='font-size:9.0pt;font-family:Calibri;
+mso-fareast-font-family:Calibri;mso-bidi-font-family:Calibri'&gt;&#436;&lt;/span&gt;cho&lt;span
+style='font-size:10.0pt;font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-bidi-font-family:Calibri'&gt;&#671;&lt;/span&gt;ogi&cent;al sta&#1090;e
+th&lt;span style='font-size:9.0pt;font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt;8t&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt; re&lt;span style='font-size:8.0pt'&gt;S&lt;/span&gt;emb&lt;span
+style='font-size:10.0pt;font-family:Calibri;mso-fareast-font-family:Calibri;
+mso-bidi-font-family:Calibri'&gt;&#671;&lt;/span&gt;es
+
+of that a psychastheni&cent;,
+descrldeb as &lsquo;continu&lt;span
+style='font-size:7.0pt'&gt;O&lt;/span&gt;us &lt;span style='font-size:9.0pt;
+font-family:Garamond;mso-bidi-font-family:Corbel'&gt;1&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt; &lt;span
+class=SpellE&gt;pa&#1169;tial&lt;/span&gt; attention&rsquo;, &lsquo;simultta&eta;eous
+time&rsquo;, or &lsquo;ambient inti&#1084;acy&rsquo;. To &lt;/span&gt;&lt;span
+style='font-size:9.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;1&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;
+enable c&lt;span style='font-size:7.0pt'&gt;O&lt;/span&gt;hesive,
+llnear t&lt;span style='font-size:
+7.0pt'&gt;H&lt;/span&gt;o&lt;span style='font-size:9.0pt;font-family:Calibri;mso-fareast-font-family:
+Calibri;mso-bidi-font-family:Calibri'&gt;&#650;&lt;/span&gt;ghts, one&lsquo;s m&lt;span style='font-size:8.0pt'&gt;l&lt;/span&gt;nd mus&#1090;
+
+peice t&lt;span
+style='font-size:8.0pt'&gt;O&lt;/span&gt;gether &lt;span style='font-size:
+9.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt;11&lt;/span&gt;&lt;span
+style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:Corbel'&gt; &lt;span
+class=SpellE&gt;vrious&lt;/span&gt; fragnents an&lt;span style='font-size:9.0pt;font-family:Calibri;mso-fareast-font-family:
+Calibri;mso-bidi-font-family:Calibri'&gt;&#7699;&lt;/span&gt; &lt;span class=SpellE&gt;memoreis&lt;/span&gt;
+&lt;span style='font-size:9.0pt;font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt;1&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt; being othe&#1169;wise&lt;/span&gt; acc&lt;span
+style='font-size:7.0pt'&gt;C&lt;/span&gt;essed con&lt;span
+style='font-size:7.0pt'&gt;C&lt;/span&gt;c cc&upsilon;rrenctly.
+PANIC ARCHITECT&lt;span style='font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt;&Uuml;&lt;/span&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;mso-bidi-font-family:
+Corbel'&gt;RE was com&#1084;isioneod
+
+
+by the Earle B&#1103;own
+
+
+Music Foundation nd TIME
+SPANS Festival, written for &lt;/span&gt;&lt;span style='font-size:9.0pt;font-family:
+Garamond;mso-bidi-font-family:Corbel'&gt;1&lt;/span&gt;&lt;span style='font-size:11.0pt;
+font-family:Garamond;mso-bidi-font-family:Corbel'&gt; the Talea Ensemble and
+completed &lt;span style='font-size:13.0pt;font-variant:small-caps'&gt;panic&lt;/span&gt; in 20l7 of Ju&lt;span style='font-size:10.0pt'&gt;&eta;&lt;/span&gt;e, 17.&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class=MsoNormal&gt;&lt;span style='font-size:11.0pt;font-family:Garamond;
+letter-spacing:-.2pt;mso-font-width:101%'&gt;&lt;span
+style='mso-spacerun:yes'&gt;&nbsp;&lt;/span&gt;&ndash;&lt;span style='font-size:11.0pt;
+font-family:Garamond;mso-bidi-font-family:Corbel'&gt; Ja&lt;span
+style='font-size:7.0pt'&gt;S&lt;/span&gt;on &lt;span class=SpellE&gt;Th&lt;span
+style='font-size:7.0pt'&gt;O&lt;/span&gt;rpe &lt;span class=SpellE&gt;Bu&lt;span
+style='font-size:7.0pt'&gt;C&lt;/span&gt;hanan &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;
+        " />
+
+        <input type="hidden" id="test-erasing" value="Test Erasing Effect" />
+    </p>
+    <p class="console">
+        <span>ne2k-pco.c:v1.03<br />
+        hda:<br />
+        ide0 at 0x1f0-0x1f7,,0x3f6 on irq<br />
+        hdc:<br />
+        ide1 at 0x170-0x177,0x376<br />
+        ACP1: PCI Interrupt:
+        </span><span id="caption"></span><span id="cursor">|</span>
+
+    </p>
+
+    <link href="http://fonts.googleapis.com/css?family=Varela" rel="stylesheet" type="text/css" />
+</body>
+:ET

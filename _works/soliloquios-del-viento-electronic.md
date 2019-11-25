@@ -24,7 +24,7 @@ media:
   - title: "soliloquios del viento (2017) by Jason Thorpe Buchanan"
     url: https://player.vimeo.com/video/268371130
 headerImage: works-images/soliloquios-interface-opt.jpg
-thumbnailImage: works-images/soliloquios-interface-opt.jpg
+portWrapper: works-images/port-wrapper/soliloquios-interface_660x340.jpg
 score: score_soliloquios-electronic.html
 
 ---

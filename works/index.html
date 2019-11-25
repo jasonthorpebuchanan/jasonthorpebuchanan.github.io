@@ -56,10 +56,10 @@ title: works
   {%- for work in sortedRepYear -%}
 		<div class="portfolio-item works-item p-2 {% for item in work.tags %}{{-item }} {% endfor %}{{ work.size -}}">
 			<div class="portfolio-wrapper">
-        {%- if work.thumbnailImage -%}
-          <img src="{{ site.images }}/{{ work.thumbnailImage }}" alt="">
+        {%- if work.portWrapper -%}
+          <img src="{{ site.images }}/{{ work.portWrapper }}" alt="">
         {% else %}
-          <img src="{{ site.images }}/works-images/thumbnails/switch_misc_400x200.jpg" alt="">
+          <img src="{{ site.images }}/works-images/port-wrapper/switch_misc_400x200.jpg" alt="">
         {%- endif -%}
 			<div class="portfolio-overlay float-center align-bottom"></div>
         <div class="portfolio-caption">
@@ -77,8 +77,8 @@ title: works
             {%- endfor -%}
             {% endcomment %}
 
-          </h5><br><br>
-      <h6 class="portfolio-subtitle font-serif">{{ work.commissionedOrWrittenFor }}</h6>
+          </h5>
+      <h6 class="portfolio-subtitle font-serif"><br><br><br><br>{{ work.commissionedOrWrittenFor }}</h6>
         </div>
         <a data-fancybox data-type="iframe" class="portfolio-link" href="{{ work.url }}" target="_blank"></a>
 			</div>

@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2015-05-09
-describe: "<em>de/ter|   |ior.ation</em> world premiere, Blue Water Chamber Orchestra."
+describe: "<em>de/ter| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |ior.ation</em> world premiere, Blue Water Chamber Orchestra."
 event:
 location:
   building:
@@ -13,7 +13,7 @@ location:
   zip:
 program:
   - composer: Jason Thorpe Buchanan
-    title: "de/ter|   |ior.ation"
+    title: "de/ter| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |ior.ation"
     year: 2015
 headerImage: headers/deterioration-still2.jpg
 thumbnail: updates/deterioration_280.png

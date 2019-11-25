@@ -8,7 +8,7 @@ postDescription: About
 tags:
 background: black
 ---
-<a data-fancybox data-type="iframe" href="http://www.google.com"> <img class="float-sm-left col-sm-5 col-lg-4 p4-0 pb-0" src="{{ site.images }}/jtb-photos/jtb-royaumont-420x600-web.jpg">
+<img class="float-sm-left col-sm-5 col-lg-4 p4-0 pb-0" src="{{ site.images }}/jtb-photos/jtb-royaumont-420x600-web.jpg">
 Jason Thorpe Buchanan is an American composer, Artistic Director of <a href="http://www.switchensemble.com" target="blank"> the [Switch~ Ensemble]</a>, Department Chair and Lecturer in Composition, Theory, and Electronic Music at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand.
 
 <!-- new sentence -->
@@ -21,33 +21,36 @@ Scenes from his multimedia opera <a href="http://www.hungeropera.com" target="bl
 Honors include a Fulbright Fellowship in Hamburg, nomination for the Gaudeamus Prize, fellowships, residencies, and commissions from Royaumont (2016 & 17), MATA, the International Horn Society, AiR USF Verftet (Norway), American-Scandinavian Foundation Grant, the Embassy of Foreign Artists, Geneva (Switzerland), Earle Brown Music Foundation, ASCAP Morton Gould Award (2014 & 2015), Howard Hanson Orchestral Prize, and winner of Iron Composer.
 
 <!-- new sentence -->
-He holds a Ph.D. from the Eastman School of Music, served for three years as Executive Director of the <a href="http://www.vipafestival.org" target="blank">VIPA Festival</a> (Spain), two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, is director of the recently formed Academy for Young Composers at TICF (Thailand), and was course instructor in electronic music and composition, as well as assistant conductor for the Musica Nova Ensemble with <a href="http://bradlubman.me/" target="blank">Brad Lubman</a> at Eastman. He is widely sought internationally as a guest composer and lecturer at institutions such as Chamber Music Campania (Italy), the VIPA Festival (Spain), the University of Virginia, San Jose State University, the University of Nevada, Las Vegas, Queens New Music Festival, MATA, Hamilton College, Portland State University, University of Richmond, University of North Carolina at Greensboro, Michigan State Univerity, the Bergen Center for Elektronisk Kunst (BEK) in Norway, the University of Chicago, and Stanford University.
+He holds a Ph.D. from the Eastman School of Music, served for three years as Executive Director of the <a href="http://www.vipafestival.org" target="blank">VIPA Festival</a> (Spain), two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, is director of the recently formed Academy for Young Composers at TICF (Thailand), and was course instructor in electronic music and composition, as well as assistant conductor for the Musica Nova Ensemble with <a href="http://bradlubman.me/" target="blank">Brad Lubman</a> at Eastman. He is widely sought internationally as a guest composer and lecturer at institutions such as Chamber Music Campania (Italy), the VIPA Festival (Spain), the University of Virginia, San Jose State University, the University of Nevada, Las Vegas, Queens New Music Festival, MATA, Hamilton College, Portland State University, University of Richmond, University of North Carolina at Greensboro, Michigan State Univerity, the Bergen Center for Elektronisk Kunst (BEK) in Norway, the University of Chicago, and Stanford University.</span>
 
-
+<!--
 <iframe class="embed-responsive-item mb-3" src="https://player.vimeo.com/video/245320082" allowfullscreen width="1300" height="736"></iframe>
-<br>
+<br> -->
 
 <!-- YANKED FROM JTB WEBSITE -->
 
 <center>
 <div class="row col-md-12" align="center">
-<div class="col-md-6"><h3><a href="ThorpeBuchanan_CV_Nov.10.2019_web.pdf" target="blank">Download CV</a></h3></div>
-<div class="col-md-6"><h3><a href="ThorpeBuchanan_Portfolio.pdf" target="blank">Download Portfolio</a></h3></div>
+<div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_CV_Nov.10.2019_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
+<span class="bask12">(updated Aug.30.19)</span></div>
+
+<div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
+<span class="bask12">(updated Sep.1.19)</span></div>
 </div>
 </center>
 <br>
-<!-- END SHIT TAKEN FROM JTB PAGE -->
+<!-- END STUFF TAKEN FROM JTB PAGE -->
 
 
 <div class="accordion" id="myaccordion">
 
   <div class="card">
     <div class="card-header" id="headingOne">
-      <h3 class="mb-0">
+
       <center>  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        Long Bio
+        <span class="bask17">[Click for full-length Bio]</span>
         </button></center>
-      </h3>
+
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#myaccordion">
       <div class="card-body" align="justify">

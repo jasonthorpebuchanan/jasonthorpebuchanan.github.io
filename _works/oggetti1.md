@@ -18,8 +18,8 @@ tags:
 media:
   - title: "oggetti I (2014) by Jason Thorpe Buchanan"
     url: https://vimeo.com/109020216
-headerImage: works-images/thumbnails/oggetti_350.jpg
-thumbnailImage: works-images/thumbnails/oggetti_5.jpg
+headerImage: works-images/oggetti_5.jpg
+portWrapper: works-images/port-wrapper/oggetti_660x340.jpg
 score: score_oggetti.html
 
 ---
