@@ -19,12 +19,14 @@ html {
 }
 
 body {
-    background-color: #313131;
-    font-family: "Roboto", Arial, serif;
-    line-height: 1.85;
+    background-color: #050709;
+    background-blend-mode: hard-light;
+    background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg);
+    font-family: "Roboto", Arial, sans-serif;
+    line-height: 1.85; /* was 1.75 in template */
     font-weight: 300;
-    font-size: 15px;
-    color: #eee;
+    font-size: 16px; /* was 15px in template */
+    color: #d9d8d7;
     -ms-overflow-style: scrollbar;
     overflow-x: hidden;
 }
@@ -35,6 +37,9 @@ img {
 }
 
 iframe {
+  background-color: #040508;
+  background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg);
+  background-blend-mode: darken;
     border: 0;
 }
 
@@ -43,17 +48,17 @@ iframe {
 }
 
 ::-moz-selection {
-    background: #4a90e2;
+    background: #5b93d4;
     color: #fff !important;
 }
 
 ::-webkit-selection {
-    background: #4a90e2;
+    background: #5b93d4;
     color: #fff !important;
 }
 
 ::selection {
-    background: #4a90e2;
+    background: #5b93d4;
     color: #fff !important;
 }
 
@@ -66,17 +71,18 @@ body .layout {
     height: 100%;
     min-height: 100%;
     width: 100%;
+    background-color: #000000;
 }
 
 .layout {
-    opacity: 0;
-    -webkit-transition: 1.2s opacity ease;
-            transition: 1.2s opacity ease;
+    opacity: 0.4; /* was 0.0 in template */
+    -webkit-transition: 1.7s opacity ease;
+            transition: 1.7s opacity ease;
             /* - - - - - - - - - - - speed of change - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .layout.fade-in {
-    opacity: 0.;
+    opacity: 0.99; /* was 0 in template */
 }
 
 .scroll-top {
@@ -91,7 +97,7 @@ body .layout {
     text-align: center;
     line-height: 20px;
     font-size: 15px;
-    color: #fff;
+    color: #fff; /* was 222 in jtb */
     -webkit-transition: .5s all ease;
             transition: .5s all ease;
     -webkit-transform: translateY(86px);
@@ -128,8 +134,34 @@ body .layout {
 [Typography]
 */
 
+
+.portfolio-details li>h5 {
+    text-align: center;
+}
+@media (min-width: 991px) {
+  .portfolio-details li>h5 {
+      text-align: left;
+  }
+}
+
+.rep a {
+    color: #999;
+}
+
+footer aside .fa {
+  font-size: 14px;
+  padding: 0rem 0.4rem;
+  width: 100%;
+}
+
+
+.style1 {font-family: "Baskerville", Times, serif;
+	font-size: xx-large;}
+.style2 {font-weight: 500; font-size: 28px; font-family: "Baskerville", Times, serif; color: #555555; text-shadow: 2px 2px #000000; padding: 15px 5px solid #000; display: block;}
+
+
 a {
-    color: #4a90e2;
+    color: #5b93d4;
     -webkit-transition: all .3s ease-in-out;
             transition: all .3s ease-in-out;
 }
@@ -162,7 +194,7 @@ h5 > a:hover,
 h5 > a:focus,
 h6 > a:hover,
 h6 > a:focus {
-    color: #4a90e2;
+    color: #5b93d4;
 }
 
 p,
@@ -195,6 +227,8 @@ h6,
     line-height: 1.2;
     font-weight: 300;
     color: #bfbfbf; /* - - CHECK ME - I AM  CHANGED from 313131 to bfbfbf  - - - - - - - - - - - - - - ! ! ! ! */
+    text-align: center;
+
 }
 
 h1,
@@ -216,25 +250,28 @@ h3,
 .h3 {
     font-size: 24px;
     font-family: "Garamond", Times, serif;
+    font-weight: 700;
+
 
 }
 
 h4,
 .h4 {
-    font-size: 14px;
+    font-size: 16px;
+    font-weight: 600;
 }
 
 h5,
 .h5 {
-    font-weight: 500;
+    font-weight: 600;
     font-size: 13px;
     margin: 0 0 10px;
 }
 
 h6,
 .h6 {
-    font-weight: 300;
-    font-size: 11px;
+    font-weight: 500;
+    font-size: 10px;
     margin: 0 0 10px;
 }
 
@@ -292,7 +329,7 @@ blockquote p:last-child {
 }
 
 blockquote:hover {
-    border-color: #4a90e2;
+    border-color: #5b93d4;
 }
 
 .lead {
@@ -371,7 +408,7 @@ pre {
 }
 
 .progress-bar.progress-bar-brand {
-    background-color: #4a90e2;
+    background-color: #5b93d4;
 }
 
 .pb-number-box {
@@ -506,8 +543,8 @@ select.form-control-sm:not([size]):not([multiple]) {
 /* --- [Button Colors] --- */
 
 .btn.btn-brand {
-    background-color: #4a90e2;
-    border-color: #4a90e2;
+    background-color: #070809;
+    border-color: #070809;
     color: #fff;
     /* &.btn-link {
 		background: transparent;
@@ -526,26 +563,26 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 .btn.btn-brand:hover,
 .btn.btn-brand:focus {
-    background-color: #277adc;
+    background-color: #070809;
     border-color: #277adc;
     color: #fff;
 }
 
 .btn.btn-brand.btn-outline {
     background: transparent;
-    border-color: #4a90e2;
-    color: #4a90e2;
+    border-color: #070809;
+    color: #5b93d4;
 }
 
 .btn.btn-brand.btn-outline:hover,
 .btn.btn-brand.btn-outline:focus {
-    background: #4a90e2;
+    background: #070809;
     color: #fff;
 }
 
 .btn.btn-gray {
-    background-color: #ddd;
-    border-color: #ddd;
+    background-color: #cacbcd; /* this is the details button on concerts page */
+    border-color: #cacbcd;
     color: #444;
     /* &.btn-link {
 		background: transparent;
@@ -577,7 +614,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 .btn.btn-gray.btn-outline:hover,
 .btn.btn-gray.btn-outline:focus {
-    background: #ddd;
+    background: #070809;
     color: #444;
 }
 
@@ -620,7 +657,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 }
 
 .btn.btn-white {
-    background-color: #fff;
+    background-color: #070809;
     border-color: #fff;
     color: #444;
     /* &.btn-link {
@@ -640,8 +677,8 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 .btn.btn-white:hover,
 .btn.btn-white:focus {
-    background-color: #4a90e2;
-    border-color: #4a90e2;
+    background-color: #5b93d4;
+    border-color: #5b93d4;
     color: #fff;
 }
 
@@ -855,7 +892,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 .icon-box-icon {
     font-size: 38px;
     font-size: 56px;
-    color: #4a90e2;
+    color: #5b93d4;
     margin: 0 0 10px;
     -webkit-transition: all .4s linear;
             transition: all .4s linear;
@@ -892,7 +929,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     text-align: center;
     line-height: 38px;
     font-size: 32px;
-    color: #4a90e2;
+    color: #5b93d4;
     -webkit-transition: all .4s linear;
             transition: all .4s linear;
 }
@@ -927,7 +964,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     font-size: 54px;
     line-height: 1;
     margin: 0 0 15px;
-    color: #4a90e2;
+    color: #5b93d4;
 }
 
 .counter .counter-title {
@@ -945,7 +982,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 }
 
 .label-brand {
-    background: #4a90e2;
+    background: #5b93d4;
     color: #fff;
 }
 
@@ -1016,10 +1053,11 @@ select.form-control-sm:not([size]):not([multiple]) {
 */
 
 .accordion .card {
-    border-color: #2b2d2f;
+    border-color: #070809;
     border-radius: 0;
     border-bottom: 0;
       background-color: #070809;
+      color: #d1d2d4
       text-align: justify;
 
 }
@@ -1036,33 +1074,33 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 .accordion .card .card-body {
     border-bottom: 1px solid #2b2d2f;
-    color: #eee;
+    color: #d9d8d7;
     text-align: justify;
       background-color: #070809;
 
 }
 
 .accordion .card-header {
-    text-transform: none;
-    letter-spacing: 2px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 12px;
     background-color: #070809;
-    border-color: #2b2d2f;
-    padding: 4px 6px;
+    border-color: #eaeaea;
+    padding: 12px 18px;
 }
 
 .accordion .card-header a {
     position: relative;
     display: block;
-    color: #4a90e2;
+    color: #5b93d4;
     -webkit-transition: all .3s ease-in-out;
             transition: all .3s ease-in-out;
 }
 
 .accordion .card-header a:hover,
 .accordion .card-header a:focus {
-    color: #bfbfbf;
+    color: #111;
     text-align: justify;
 
 }
@@ -1074,8 +1112,8 @@ select.form-control-sm:not([size]):not([multiple]) {
     right: 0;
     margin-top: -7px;
     font-family: "Roboto";
-    font-size: 20px;
-    line-height: 0.3;
+    font-size: 14px;
+    line-height: 1;
     font-variant: normal;
     text-align: justify;
 
@@ -1779,7 +1817,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 .social-icons > li > a:hover,
 .social-icons > li > a:focus {
-    color: #4a90e2;
+    color: #5b93d4;
 }
 
 /*!------------------------------------------------------------------
@@ -1983,7 +2021,7 @@ body.off-canvas-sidebar-open .layout {
 .special-heading h4,
 .special-heading h5,
 .special-heading h6 {
-    border-bottom: 2px solid #4a90e2;
+    border-bottom: 2px solid #5b93d4;
     display: inline-block;
     padding: 0 0 7px 0;
     margin: 0 0 -2px 0;
@@ -2116,7 +2154,7 @@ body.off-canvas-sidebar-open .layout {
 .icon-list .icon {
     font-size: 19px;
     width: 1%;
-    color: #4a90e2;
+    color: #5b93d4;
     padding-right: 15px;
 }
 
@@ -2353,6 +2391,12 @@ body.off-canvas-sidebar-open .layout {
 [Header & Navigation]
 */
 
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+
 .off-canvas-sidebar-open .header {
     left: -270px;
 }
@@ -2392,8 +2436,8 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .header.header-small {
-    background: #0b0d0f; /* - - CHANGED THIS IS HEADER COLOR check also in JTB css- - - - - - - - - - - ! ! ! ! */
-    border-bottom: 1px solid #f2f2f2;
+    background: #0b0d0f; // #2a313a ;; /* - - CHANGED THIS IS HEADER COLOR check also in JTB was 0a0b0f- - - - - - - - - - - ! ! ! ! */
+    border-bottom: 1px solid rgba(42,49,58,0.2) /* CHANGED this is the split color of the nav bar, alternative was 0px and f2f2f2 */
 }
 
 .header.header-shadow {
@@ -2500,7 +2544,7 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .nav-toggle > a span {
-    background: #313131;
+    background: #313131; /* CHANGED was ddd in JTB custom */
     display: block;
     height: 2px;
     width: 100%;
@@ -2536,7 +2580,7 @@ body.off-canvas-sidebar-open .layout {
 .extra-nav > ul > li > a {
     display: block;
     text-transform: uppercase;
-    letter-spacing: 1.5px;/* - -CHANGED this is for menu text spacing  - - - - - - - - - - - - - - ! ! ! ! */
+    letter-spacing: 1.5px; /* - -CHANGED this is for menu text spacing  - - - - - - - - - - - - - - ! ! ! ! */
     line-height: 24px;
     font-weight: 100;
     font-size: 13px;
@@ -2757,7 +2801,7 @@ body.off-canvas-sidebar-open .layout {
 .header .extra-nav > ul > li > a,
 .header.header-light.header-small .inner-nav > ul > li > a,
 .header.header-light.header-small .extra-nav > ul > li > a {
-    color: #F1f227; /* - - CHECK ME - I AM  CHANGED from GREY to YELLOW  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #ddd; /* - - CHECK ME - I AM  CHANGED from GREY to YELLOW  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .header .inner-nav > ul > li > a.active,
@@ -2840,9 +2884,11 @@ body.off-canvas-sidebar-open .layout {
 
 @media (max-width: 991px) {
     .header {
-        background-color: #Be90d4; /* - - CHECK ME - I AM  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
+        background-color: #000000; /* - - CHECK ME - I AM  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
         padding: 0;
         height: 49px; /* - - CHECK ME - I AM  CHANGED this controls height of v  - - - - - - - - - - - - - - ! ! ! ! */
+        border-bottom: 0px solid rgba(42, 49, 58, 0.2);
+
     }
 
     .header .container,
@@ -3077,13 +3123,14 @@ body.off-canvas-sidebar-open .layout {
 .module,
 .module-sm,
 .module-header {
-    background-color: #000000; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
+  background-color: #000000; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 49px;
     position: relative;
-    padding: 350px 240px; /* - - CHANGED  - this is the height of the header image-  second number is image position in relation to the bottom- - ! ! ! ! */
+    padding: 450px 240px; /* - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom- - ! ! ! ! */  -->
+    min-height: 49px; /* - - CHANGED  - no param in JTB custom */
+
 }
 
 .score-vid-header {
@@ -3099,32 +3146,34 @@ body.off-canvas-sidebar-open .layout {
 .module.module-divider-top,
 .module-sm.module-divider-top,
 .module-header.module-divider-top {
-    border-top: 1px solid #f2f2f2;
+    border-top: 1px solid #dddddd;
 }
 
 .module.module-divider-bottom,
 .module-sm.module-divider-bottom,
 .module-header.module-divider-bottom {
-    border-bottom: 1px solid #f2f2f2;
+    border-bottom: 1px solid #dddddd;
 }
 
 .module,
 .module-sm {
     background-color: #000000; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
 background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg);
-    background-blend-mode:  screen;
+    background-blend-mode:  normal;
     background-position: center;
     background-repeat: repeat-y;
     background-size: 1310px; /* - - CHANGED fbackground image width */
     padding: 70px 0; /* - - CHECK ME - I AM  CHANGED from 100 to 70 I think this is padding for background bio page and others  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
+
 .module-sm {
-    padding: 0px 0;
+    background-color: #000000; /* this is the background color */
+    padding: 40px 0; /* CHANGED 40 in JTB and 0 in template - height of the bio and image, as well as list and portfolio vie filters */
 }
 
 .module-gray {
-    background-color: #212121; /*don't know what this is for I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #000000; /*don't know what this is for I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .flexslider,
@@ -3196,6 +3245,10 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
     position: relative;
     height: 100%;
     width: 100%;
+}
+
+.pager-active {
+  background-color: #000000;
 }
 
 .row-page-title .page-title-captions,
@@ -3321,7 +3374,7 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
     .module-header {
         height: 430px; /* - -  CHANGED  height of cover image area - - - - - - - - - - - ! ! ! ! */
         min-height: 200px;
-        padding: 150px 0px; /* - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
+        padding: 150px 20px; /* - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
 
     .flexslider h1.h1,
@@ -3578,9 +3631,9 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 }
 
 .bg-gradient:after {
-    background-color: #4a90e2;
-    background: -webkit-linear-gradient(45deg, #4a90e2 0%, rgba(74, 144, 226, .3) 100%);
-    background: linear-gradient(45deg, #4a90e2 0%, rgba(74, 144, 226, .3) 100%);
+    background-color: #000000;
+    background: -webkit-linear-gradient(45deg, #5b93d4 0%, rgba(74, 144, 226, .3) 100%);
+    background: linear-gradient(45deg, #5b93d4 0%, rgba(74, 144, 226, .3) 100%);
     content: "";
     left: 0;
     top: 0;
@@ -3977,7 +4030,7 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 .ps-all a:hover,
 .ps-next a:hover,
 .ps-prev a:hover {
-    color: #4a90e2;
+    color: #5b93d4;
 }
 
 .ps-next {
@@ -4047,6 +4100,8 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 
 h2.single-portfolio-title {
     font-size: 25px;
+    text-align: left;
+
 }
 
 h3.single-portfolio-title {
@@ -4323,7 +4378,7 @@ a[rel~="gallery"]:hover {
 
 .post-meta a:hover,
 .post-meta a:focus {
-    color: #4a90e2;
+    color: #5b93d4;
 }
 
 .timeline .post-wrapper {
@@ -4349,7 +4404,7 @@ a[rel~="gallery"]:hover {
 }
 
 .post-tags a:hover {
-    background: #4a90e2;
+    background: #5b93d4;
     color: #fff;
 }
 
@@ -4547,7 +4602,7 @@ a[rel~="gallery"]:hover {
 
 .comment-meta-author a:hover,
 .comment-meta-author a:focus {
-    color: #4a90e2;
+    color: #5b93d4;
 }
 
 .comment-meta-date {
@@ -4561,7 +4616,7 @@ a[rel~="gallery"]:hover {
 
 .comment-meta-date a:hover,
 .comment-meta-date a:focus {
-    color: #4a90e2;
+    color: #5b93d4;
     opacity: 1;
 }
 
@@ -4584,7 +4639,7 @@ a[rel~="gallery"]:hover {
 
 .comment-reply > a:hover,
 .comment-reply > a:focus {
-    background: #4a90e2;
+    background: #5b93d4;
     color: #fff;
 }
 
@@ -4620,7 +4675,7 @@ a[rel~="gallery"]:hover {
 .widget ul li,
 .widget ol li {
     margin-bottom: 10px;
-    border-bottom: 1px solid rgba(238, 238, 238, .9);
+    border-bottom: 0.2px solid rgba(238, 238, 238, .9);
     padding-bottom: 10px;
     font-size: 14px;
 
@@ -4637,7 +4692,7 @@ a[rel~="gallery"]:hover {
 
 .widget a:hover,
 .widget a:focus {
-    color: #4a90e2;
+    color: #5b93d4;
 }
 
 .widget input,
@@ -4682,7 +4737,7 @@ a[rel~="gallery"]:hover {
 }
 
 .search-button:hover {
-    color: #4a90e2;
+    color: #5b93d4;
 }
 
 .widget_archive ul li a,
@@ -4779,7 +4834,7 @@ a[rel~="gallery"]:hover {
 }
 
 .widget_tag_cloud .tagcloud > a:hover {
-    background: #4a90e2;
+    background: #5b93d4;
     color: #fff;
     opacity: 1;
 }
@@ -4918,8 +4973,8 @@ a[rel~="gallery"]:hover {
 
 .footer .widget_tag_cloud .tagcloud > a:hover,
 .off-canvas-sidebar .widget_tag_cloud .tagcloud > a:hover {
-    background-color: #4a90e2;
-    border-color: #4a90e2;
+    background-color: #5b93d4;
+    border-color: #5b93d4;
 }
 
 /*------------------------------------------------------------------
@@ -5132,7 +5187,7 @@ a[rel~="gallery"]:hover {
 }
 
 .product-rating a:hover {
-    color: #4a90e2;
+    color: #5b93d4;
 }
 
 .product-price {
@@ -5291,6 +5346,64 @@ a[rel~="gallery"]:hover {
     margin: 20px 0;
 }
 
+
+
+/*
+   works
+*/
+.filters>li {
+  margin: 10px 15px;
+}
+.filters {
+  padding-bottom: 40px;
+}
+
+/*
+   SPECIALTY
+*/
+.offset:before {
+  display: block;
+  position: relative;
+ 	content: "";
+  width: 0;
+	height: 0px;
+  margin-top: -100px;
+}
+@media (max-width: 991px) {
+  .offset:before {
+    display: block;
+    position: relative;
+   	content: "";
+    width: 0;
+  	height: 0px;
+    margin-top: -100px;
+  }
+}
+
+.breakout {
+    margin-left:-100%;
+    margin-right:-100%;
+}
+
+/*.works-item {
+  min-height: 325px;
+}*/
+
+/*
+   GOOGLE MAPS API FOR CONCERTS
+*/
+.maps-container {
+  height: 300px;
+}
+#map-canvas {
+  height: 100%;
+}
+#inputs {
+  display: none;
+}
+
+
+
 /*------------------------------------------------------------------
 [Footer]
 */
@@ -5303,6 +5416,7 @@ a[rel~="gallery"]:hover {
 }
 
 .footer_width{width: 100%;}
+.footer_full_width{width: 100%; padding-left: 0px; padding-right: 0px;}
 .no-padding{padding-left: 0px; padding-right: 0px;}
 
 .footer a {
