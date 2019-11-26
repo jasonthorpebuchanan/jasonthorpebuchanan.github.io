@@ -3140,7 +3140,15 @@ body.off-canvas-sidebar-open .layout {
 [Modules]
 */
 
-.module,
+.module {
+  background-color: #000000; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    position: relative;
+    padding: 30vh 10vh; /* - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom- - ! ! ! ! */  -->
+}
 .module-sm,
 .module-header {
   background-color: #000000; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
@@ -3166,7 +3174,7 @@ body.off-canvas-sidebar-open .layout {
 .module-sm.module-divider-top,
 .module-header.module-divider-top {
     border-top: 1px solid #dddddd;
-    background-size: contain;
+    background-size: cover;  /* - - CHANGED  this is for the concert listing crazystaves background */
     min-height: 5vh; /* - - CHANGED  - no param in JTB custom */
 }
 
@@ -3183,14 +3191,8 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
     background-blend-mode:  normal;
     background-position: center;
     background-repeat: repeat-y;
-    background-size: contain; /* - - CHANGED fbackground image width */
+    background-size: cover; /* - - CHANGED this is blue crazystaves, not header image */
     padding: 40px 0; /* - - CHECK ME - I AM  CHANGED padding before bio text  - - - - - - - - - - - - - - ! ! ! ! */
-}
-
-
-.module-sm {
-    background-color: #000000; /* this is the background color */
-    padding: 20px 0; /* CHANGED 40 in JTB and 0 in template - height of the bio and image, as well as list and portfolio vie filters */
 }
 
 .module-gray {
