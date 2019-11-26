@@ -22,7 +22,7 @@ program:
     title: Liebes-Lied
 headerImage: headers/romitelli_amok_1600.jpg
 thumbnail: updates/af1-2.jpg
-    tags:
+tags:
       - 2012
       - older
       - switch

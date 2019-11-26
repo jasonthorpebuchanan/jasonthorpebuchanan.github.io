@@ -1762,7 +1762,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 body:after {
     background: rgba(0, 0, 0, .7);
     position: fixed;
-    height: 1px;
+    height: 0px;
     width: 1px;
     bottom: 0;
     right: 0;
