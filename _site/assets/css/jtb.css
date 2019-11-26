@@ -224,8 +224,6 @@ h6 {
     margin: 0 0 20px;
 }
 
-h1,
-.h1,
 h2,
 .h2,
 h3,
@@ -248,16 +246,26 @@ h1,
 .h1 {
     font-size: 46px;
     font-family: "Garamond", Times, serif;
+    line-height: 1.2;
+    font-weight: 300;
     font-variant-caps: small-caps;
+    color: #fafbfc; /* - - CHECK ME - I AM  CHANGED from 313131 to bfbfbf  - - - - - - - - - - - - - - ! ! ! ! */
     text-shadow: 2px 2px #0a0b0f;
+    text-align: center;
   }
 
 h2,
 .h2 {
-    font-size: 32px;
+    font-size: 30px;
     font-family: "Garamond", Times, serif;
-
+    line-height: 1.2;
+    font-weight: 300;
+    font-variant-caps: small-caps;
+    color: #fafbfc; /* - - CHECK ME - I AM  CHANGED from 313131 to bfbfbf  - - - - - - - - - - - - - - ! ! ! ! */
+    text-shadow: 2px 2px #0a0b0f;
+    text-align: center;
 }
+
 
 h3gara,
 .h3gara {
@@ -366,7 +374,6 @@ pre {
     line-height: 1.8;
 }
 
-.bask30 {font-size: 30px; color: #dddddd; font-family: "Libre Baskerville", Times, serif;}
 .bask20bold {font-size: 20px; font-weight: bold; color: #dddddd; font-family: "Libre Baskerville", Times, serif;}
 .bask20 {font-size: 20px; color: #dddddd; font-family: "Libre Baskerville", Times, serif;}
 .bask19 {font-size: 19px; color: #dddddd; font-family: "Libre Baskerville", Times, serif;}
