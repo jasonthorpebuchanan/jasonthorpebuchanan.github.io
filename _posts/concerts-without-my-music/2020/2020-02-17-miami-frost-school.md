@@ -28,7 +28,7 @@ program:
   - composer: Juraj Kojs
     title: new work (2020)
 headerImage: headers/switch-final-press-photo_1920x1080.jpg
-thumbnail: updates/switch-press_431x243.jpg
+thumbnail: updates/switch-press_330.jpg
 tags:
   - 2020
   - new

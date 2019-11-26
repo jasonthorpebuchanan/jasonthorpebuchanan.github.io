@@ -14,7 +14,7 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "Music for Four Saxophones: One (In Stasis)"
     year: 2009
-thumbnail: updates/
+thumbnail: updates/oggetti_5.jpg
 photosFolder:
 tags:
   - 2013
