@@ -24,7 +24,7 @@ tags:
 media:
   - title: "all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan"
     url:
-headerImage: works-images/afir-1200x675.jpg
+headerImage: works-images/afir-1080.jpg
 portWrapper: works-images/port-wrapper/afir-640x360.jpg
 photosFolder: all-forgetting-is-retrieval
 

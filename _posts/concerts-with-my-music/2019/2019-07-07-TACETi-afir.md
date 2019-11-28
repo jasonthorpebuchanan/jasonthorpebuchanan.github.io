@@ -17,7 +17,7 @@ program:
     year: 2019
   - composer:
     title:
-headerImage: headers/afir-1200x675.jpg
+headerImage: headers/afir-1080.jpg
 thumbnail: updates/afir-280-143.jpg
 photosFolder: all-forgetting-is-retrieval
 tags:
