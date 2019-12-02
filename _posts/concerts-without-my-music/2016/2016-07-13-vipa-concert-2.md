@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2016-07-13
-describe: Conducting world premiere of Igor Santos' <em>lamento</em> (2017), Sound for McCormack, Steiger, Gilmore, Papatrechas, Bean. Switch~.
+describe: Conducting world premiere of Igor Santos' <em>lamento</em> (2017), Sound for McCormack, Steiger, Gilmore, Papatrechas, Bean. [Switch~ Ensemble].
 time: "7:30 PM"
 event: VIPA Festival Residency.
 location:

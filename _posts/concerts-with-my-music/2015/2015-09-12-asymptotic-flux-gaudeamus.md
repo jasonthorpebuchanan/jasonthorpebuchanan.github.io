@@ -10,7 +10,7 @@ location:
   venue:
   address:
   city: Utrecht
-country: Netherlands
+  country: Netherlands
 program:
   - composer: Jason Thorpe Buchanan
     title: "Asymptotic Flux: First Study in Entropy"

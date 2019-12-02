@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: Conducting Matt Sargent's <em>Unwound Path</em> (2018), Tech for Cheah and Davis, Switch~ Ensemble.
+describe: Conducting Matt Sargent's <em>Unwound Path</em> (2018), Tech for Cheah and Davis, [Switch~ Ensemble].
 date: 2018-03-06
 time: "7:30 pm"
 location:

@@ -10,7 +10,7 @@ location:
   venue:
   address:
   city: Geneva
-country: Switzerland
+  country: Switzerland
 program:
   - composer: Jason Thorpe Buchanan
     title: "gimme shelter"

@@ -1,9 +1,9 @@
 ---
 layout: concert
-describe: "<em>First Study for Alto Saxophone: doublethink</em>, Michel Bianchini, saxophone."
+describe: "<em>First Study for Alto Saxophone: doublethink</em> (2012), Michel Bianchini, saxophone."
 date: 2014-04-18
 categories: performance
-event: East(a)lia, Eastman School of Music
+event: <em>East(a)lia</em>, Eastman School of Music
 location:
   building:
   venue:

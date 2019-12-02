@@ -1,6 +1,6 @@
 ---
 layout: concert
-describe: "<em>Double Concerto for Two Horns and Chamber Orchestra</em> Eastman Musica Nova Ensemble. Jeff Nelsen & Michael Walker, horn soloists, Brad Lubman, conductor."
+describe: "<em>Double Concerto for Two Horns and Chamber Orchestra</em> (2014), world premiere. Eastman Musica Nova Ensemble. Jeff Nelsen & Michael Walker, horn soloists, Brad Lubman, conductor."
 date: 2014-03-21
 categories: performance
 event: Eastman Musica Nova plays Zorn, Morris, Thorpe Buchanan

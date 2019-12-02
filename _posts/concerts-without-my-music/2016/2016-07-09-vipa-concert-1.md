@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2016-07-09
-describe: Conducting world premiere of Namhoon Kim's <em>Komorebi</em> (2017), Sound for Steiger, Corren, Arrelin, Giang, Gillies. Switch~.
+describe: Conducting world premiere of Namhoon Kim's <em>Komorebi</em> (2017), Sound for Steiger, Corren, Arrelin, Giang, Gillies. [Switch~ Ensemble].
 time: "7:30 PM"
 event: VIPA Festival Residency.
 location:

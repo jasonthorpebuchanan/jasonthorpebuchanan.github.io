@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: <em>pulp</em> (2015), Casey Grev. San Francisco Hot Air Festival.
+describe: "<em>Second Study for Alto Saxophone, Video, and Electronics: pulp</em> (2015), Casey Grev. San Francisco Hot Air Festival."
 date: 2017-03-05
 location:
   institution: Hot Air Festival

@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2014-07-10
-describe: "<em>antistasis 1</em>. Ensemble Nikel."
+describe: "<em>antistasis 1</em> (2014), world premiere. Ensemble Nikel."
 event: Tzlil Meudcan International New Music Festival
 location:
   building:

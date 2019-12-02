@@ -1,12 +1,12 @@
 ---
 layout: concert
 categories: performance
-describe: <em>pulp</em> (2015), Matt Evans.
+describe: "<em>Second Study for Alto Saxophone, Video, and Electronics: pulp</em> (2015), Matt Evans."
 date: 2017-04-26
 location:
-  institution: University of Richmond
+  institution:
   building: North Court
-  venue: Perkinson Recital Hall
+  venue: Perkinson Recital Hall, University of Richmond
   address: 28 Westhampton Way
   city: Richmond
   state: VA

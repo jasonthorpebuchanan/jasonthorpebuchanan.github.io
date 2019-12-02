@@ -1,12 +1,12 @@
 ---
 layout: concert
 categories: performance
-describe: <em>pulp</em> (2015), Casey Grev.
+describe: "<em>Second Study for Alto Saxophone, Video, and Electronics: pulp</em> (2015), Casey Grev."
 date: 2017-03-06
 location:
-  institution: San Francisco Center for New Music
+  institution:
   building:
-  venue:
+  venue: San Francisco Center for New Music
   address:
   city: San Francisco
   state: CA

@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: Conducting premiere of Daniel Reza Sabzghabaei's <em>At any rate</em> (2018), Switch~ Ensemble.
+describe: Conducting premiere of Daniel Reza Sabzghabaei's <em>At any rate</em> (2018), [Switch~ Ensemble].
 date: 2018-03-01
 time: "8:00 pm"
 location:

@@ -10,7 +10,7 @@ location:
   venue:
   address:
   city: Valencia
-country: Spain
+  country: Spain
 program:
   - composer: Jason Thorpe Buchanan
     title: "Asymptotic Flux: First Study in Entropy"

@@ -2,8 +2,8 @@
 layout: concert
 categories: performance
 date: 2014-04-13
-describe: "Conducting Bryan Jacobs' <em>TsTs</em>, Tech for Kokoras. Switch~ Ensemble."
-event: Eastman Computer Music Center Concert
+describe: "Conducting Bryan Jacobs' <em>TsTs</em>, Tech for Kokoras. [Switch~ Ensemble]."
+event: Eastman Computer Music Center Concert.
 location:
   institution: Eastman School of Music
   building: Miller Center

@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2015-04-13
-describe: "<em>...durat(A)ions: 'broken landscape'</em>, Nextet and UNLV Percussion Ensemble April 13, 17, 18."
+describe: "<em>...durat(A)ions: 'broken landscape'</em> (2013), Nextet and UNLV Percussion Ensemble April 13, 17, 18."
 event:
 location:
   building:

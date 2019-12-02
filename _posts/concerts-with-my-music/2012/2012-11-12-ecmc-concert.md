@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2012-11-12
-describe: Conducting <em>Asymptotic Flux, First Study in Entropy</em> and Fausto Romitelli's <em>Amok Koma</em>, Switch~ Ensemble.
+describe: Conducting <em>Asymptotic Flux, First Study in Entropy</em> (2012) and Fausto Romitelli's <em>Amok Koma</em>, [Switch~ Ensemble].
 event: Eastman Computer Music Center Concert
 location:
   institution: Eastman School of Music

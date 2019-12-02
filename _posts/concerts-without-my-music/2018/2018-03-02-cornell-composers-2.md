@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: Conducting premiere of Jihyun Kim's <em>Once Upon a Time...</em> (2018) and Matt Sargent's <em>Unwound Path</em> (2018), Switch~ Ensemble.
+describe: Conducting premiere of Jihyun Kim's <em>Once Upon a Time...</em> (2018) and Matt Sargent's <em>Unwound Path</em> (2018), [Switch~ Ensemble].
 date: 2018-03-02
 time: "8:00 pm"
 location:

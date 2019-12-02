@@ -2,12 +2,10 @@
 layout: concert
 categories: performance
 date: 2016-04-11
-describe: <em>pulp</em> (2015), Casey Grev
+describe: "<em>Second Study for Alto Saxophone, Video, and Electronics: pulp</em> (2015), Casey Grev."
 event:
 location:
-  institution: Michigan State University
-  building:
-  venue:
+  venue: Michigan State University
   address:
   city: East Lansing
   state: MI

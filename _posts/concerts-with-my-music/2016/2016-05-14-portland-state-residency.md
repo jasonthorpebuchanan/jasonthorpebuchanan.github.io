@@ -2,12 +2,10 @@
 layout: concert
 categories: performance
 date: 2016-05-14
-describe: <em>pulp</em> (2015), Sean Fredenburg
+describe: "<em>Second Study for Alto Saxophone, Video, and Electronics: pulp</em> (2015), Sean Fredenburg."
 event: Portland State University
 location:
-  institution: Portland State University
-  building:
-  venue:
+  venue: Portland State University
   address:
   city: Portland
   state: OR

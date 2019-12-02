@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2014-09-06
-describe: "<em>Six Shelley Songs</em>, Sirje Aleksandra Viise, soprano & Davorin Mori, piano."
+describe: "<em>Six Shelley Songs</em> (2008), Sirje Aleksandra Viise, soprano & Davorin Mori, piano."
 event:
 location:
   building:

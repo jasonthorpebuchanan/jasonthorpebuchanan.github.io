@@ -1,6 +1,7 @@
 ---
 layout: concert
 categories: performance
+describe: "Harvard Group for New Music Residency."
 date: 2019-10-05
 time: 8:00pm
 location:

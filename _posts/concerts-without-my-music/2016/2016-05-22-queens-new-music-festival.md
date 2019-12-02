@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2016-05-22
-describe: Conducting Chris Chandler's <em>Smoke and Mirrors</em>, Tech for Diez-Fischer's <em>Loop's Definition</em> and Alexander Schubert's <em>Star Me Kitten</em>, Switch~ Ensemble.
+describe: Conducting Chris Chandler's <em>Smoke and Mirrors</em>, Tech for Diez-Fischer's <em>Loop's Definition</em> and Alexander Schubert's <em>Star Me Kitten</em>, [Switch~ Ensemble].
 event: Queens New Music Festival
 location:
   venue: Secret Theatre

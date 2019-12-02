@@ -1,15 +1,15 @@
 ---
 layout: concert
 categories: performance
-describe: "Winner of Iron Composer 5-hour International Competition. Cleveland, OH."
+describe: "Winner of Iron Composer 5-hour International Competition."
 date: 2014-09-26
 event:
 location:
   building:
   venue:
   address:
-  city: Dravograd
-  country: Slovenia
+  city: Cleveland
+  state: OH
 program:
   - composer: Jason Thorpe Buchanan
     title: oggetti 2.b

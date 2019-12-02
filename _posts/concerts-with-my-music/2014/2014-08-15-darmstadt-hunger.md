@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2014-08-15
-describe: "<em>Hunger (Part III, Sc. 1)</em>. Ensemble Interface, Contemporary Opera Workshop."
+describe: "<em>Hunger (Part III, Sc. 1, 2014)</em>, world premiere. Ensemble Interface, Contemporary Opera Workshop, Aug 14 & 15."
 event: Internationales Musikinstitut Darmstadt
 location:
   building:

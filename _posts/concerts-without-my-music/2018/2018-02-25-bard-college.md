@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: Conducting premiere of Matt Sargent's <em>Unwound Path</em> (2018), Switch~ Ensemble.
+describe: Conducting premiere of Matt Sargent's <em>Unwound Path</em> (2018), [Switch~ Ensemble].
 date: 2018-02-25
 time: "7:30 pm"
 location:

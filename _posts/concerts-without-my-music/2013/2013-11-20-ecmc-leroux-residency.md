@@ -2,8 +2,8 @@
 layout: concert
 categories: switch
 date: 2013-11-20
-describe: Conducting Philippe Leroux's <em>Voi(rex)</em> and Chris Chandler's <em>Smoke and Mirrors</em>, Switch~ Ensemble.
-event: Eastman Computer Music Center Concert
+describe: Conducting Philippe Leroux's <em>Voi(rex)</em> and Chris Chandler's <em>Smoke and Mirrors</em>, [Switch~ Ensemble].
+event: Eastman Computer Music Center Concert, Philippe Leroux, guest composer.
 location:
   institution: Eastman School of Music
   building: Eastman East Wind

@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2016-12-14
-describe: Tech for Chandler, Murray, Sargent. Switch~ Ensemble.
+describe: Tech for Chandler, Murray, Sargent. [Switch~ Ensemble].
 location:
   venue: Center for New Music
   address: 55 Taylor St

@@ -2,11 +2,11 @@
 layout: concert
 categories: performance
 date: 2014-06-02
-describe: "Conducting <em>Asymptotic Flux: First Study in Entropy</em> and <em>Smoke and Mirrors</em> by Christopher Chandler. [Switch~ Ensemble]."
-event: New York City Electroacoustic Music Festival
+describe: "Conducting <em>Asymptotic Flux: First Study in Entropy</em> (2012) and <em>Smoke and Mirrors</em> by Christopher Chandler. [Switch~ Ensemble]."
+event:
 location:
   building:
-  venue:
+  venue: New York City Electroacoustic Music Festival
   address:
   city: NYC
   state: NY

@@ -2,12 +2,10 @@
 layout: concert
 categories: performance
 date: 2016-04-24
-describe: <em>pulp</em> (2015), Emily Jane Loboda
+describe: "<em>Second Study for Alto Saxophone, Video, and Electronics: pulp</em> (2015), Emily Jane Loboda."
 event:
 location:
-  institution: University of North Carolina at Greensboro
-  building:
-  venue:
+  venue: University of North Carolina at Greensboro
   address:
   city: Greensboro
   state: NC

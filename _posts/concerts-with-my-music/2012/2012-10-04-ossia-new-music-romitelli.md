@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2012-10-04
-describe: Conducting world premiere of <em>Asymptotic Flux, First Study in Entropy</em> and Rochester premiere of Fausto Romitelli's <em>Amok Koma</em>, Switch~ Ensemble.
+describe: Conducting world premiere of <em>Asymptotic Flux, First Study in Entropy</em> (2012) and Rochester premiere of Fausto Romitelli's <em>Amok Koma</em>, [Switch~ Ensemble].
 event: Ossia New Music Concert
 location:
   institution: Eastman School of Music

@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2015-05-09
-describe: "<em>de/ter| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |ior.ation</em> world premiere, Blue Water Chamber Orchestra."
+describe: "<em>de/ter| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |ior.ation</em> (2015), world premiere. Blue Water Chamber Orchestra."
 event:
 location:
   building:

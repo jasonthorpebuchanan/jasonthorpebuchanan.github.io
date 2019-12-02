@@ -1,6 +1,6 @@
 ---
 layout: concert
-describe: "<em>Music for Four Saxophones: One (In Stasis)</em> Northwest Wind Symphony, Dan Schmidt, conductor"
+describe: "<em>Music for Four Saxophones: One (In Stasis)</em> (2009). Northwest Wind Symphony, Dan Schmidt, conductor."
 date: 2013-12-26
 categories: performance
 event:
