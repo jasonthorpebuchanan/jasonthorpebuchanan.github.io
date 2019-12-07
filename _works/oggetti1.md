@@ -21,6 +21,8 @@ media:
 headerImage: works-images/oggetti_5.jpg
 portWrapper: works-images/port-wrapper/oggetti_660x340.jpg
 score: score_oggetti.html
+awards: "Commissioned by Chamber Music Campania (Italy)"
+dedication: "For the Fiati 5 Wind Quintet"
 purchase: "Digital Score PDF: $14.95, Score and Parts: $24.95"
 contact: jasontbuchanan[at]gmail.com
 
@@ -38,3 +40,7 @@ Michael Walker, horn<br>
 Christina Dioguardi, bassoon<br>
 <br>
 Recorded June 24, 2014 in Lucera, Italy<br>
+
+<!--
+<iframe width="98%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/164422559&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=false"></iframe>
+--> 
