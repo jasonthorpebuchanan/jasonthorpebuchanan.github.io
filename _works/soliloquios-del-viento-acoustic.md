@@ -32,6 +32,8 @@ media:
 score: score_soliloquios-del-viento.html
 headerImage: works-images/soliloquios-talea.jpg
 portWrapper: works-images/port-wrapper/soliloquios-talea_660x340.jpg
+purchase: "Digital Score PDF: $19.95, Score and Parts (RENTAL ONLY): $149.95"
+contact: jasontbuchanan@gmail.com
 ---
 
 <em>soliloquios del viento</em> was commissioned by Royaumont Académie Voix Nouvelles, written in August 2016 and premiered by the Talea Ensemble & EXAUDI in September, conducted by James Baker. This fourteen-minute work is a meditation on eight poems of Pablo Neruda, reflecting love, distance, and despair. Six singers are set against eight instrumentalists whose fragile and often voiceless sonorities gently color and obscure the murmuring of the text and pointillisic vocal material. The Spanish text is predominantly unintelligible, with the content of Neruda's words instead conjured by the composite texture. He writes of two lovers, their romance characterized by abrasion -- a rendezvous between two scorched, ascetic souls, who consume and destroy one another, entangled yet divided by both sublime transfiguration and inexorable chaos…

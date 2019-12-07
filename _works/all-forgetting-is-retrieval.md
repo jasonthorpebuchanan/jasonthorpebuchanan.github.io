@@ -27,6 +27,8 @@ media:
 headerImage: works-images/afir-1080.jpg
 portWrapper: works-images/port-wrapper/afir-640x360.jpg
 photosFolder: all-forgetting-is-retrieval
+purchase: "Digital Score PDF: $19.95, Score, Parts (RENTAL ONLY), and Max Patch: $129.95"
+contact: jasontbuchanan@gmail.com
 
 ---
 SCORE AND RECORDING COMING SOON

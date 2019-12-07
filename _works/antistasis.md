@@ -19,15 +19,17 @@ media:
 headerImage: works-images/antistasis_1.jpg
 portWrapper: works-images/port-wrapper/antistasis_640x360.jpg
 score: score_antistasis.html
+purchase: "Digital Score PDF: $14.95, Score and Parts: $29.95"
+contact: jasontbuchanan@gmail.com
 
 ---
 
-<em>antistasis</em> for tenor saxophone, percussion, and piano, written for Ensemble Nikel, was commissioned by the Tzlil Meudcan International Contemporary Music Festival. The Ancient Greek word antistasis, meaning opposition, is defined as a rhetorical term for the repetition of a word or phrase in a different or contrary sense. This concept is translated into sound through the repetition of a small number of musical gestures, or objects, that are continually recurring and recontextualized so as to contribute to the composite in a different way. There is a stark structural division halfway through the work where the trio begins to play in strict rhythmic unison, with formulaic durations derived from simple mathematical relationships that become increasingly complex. With each repetition of the rhythmic cycle, the space between cycles increases, while material from the first half of the work gradually penetrates the gaps in the formula until it deteriorates completely. The ensemble members drift apart from one another with complete temporal independence until another structural pillar gives way to a recapitulation of sorts, presenting the original material through the lens of having experienced the abrasive, cyclical material preceding it.
+*antistasis* for tenor saxophone, percussion, and piano, written for Ensemble Nikel, was commissioned by the Tzlil Meudcan International Contemporary Music Festival. The Ancient Greek word antistasis, meaning opposition, is defined as a rhetorical term for the repetition of a word or phrase in a different or contrary sense. This concept is translated into sound through the repetition of a small number of musical gestures, or objects, that are continually recurring and recontextualized so as to contribute to the composite in a different way. There is a stark structural division halfway through the work where the trio begins to play in strict rhythmic unison, with formulaic durations derived from simple mathematical relationships that become increasingly complex. With each repetition of the rhythmic cycle, the space between cycles increases, while material from the first half of the work gradually penetrates the gaps in the formula until it deteriorates completely. The ensemble members drift apart from one another with complete temporal independence until another structural pillar gives way to a recapitulation of sorts, presenting the original material through the lens of having experienced the abrasive, cyclical material preceding it.
 <br><br>
-antistasis 1 (2014) for Ensemble Nikel
+*antistasis 1* (2014) for Ensemble Nikel
 by Jason Thorpe Buchanan
 <br>
-Tzlil Meudcan International Festival and Summer Course for New Music Performance and Composition
+Tzlil Meudcan International Festival and Summer Course for New Music Performance and Composition (Israel)
 <br>
 Patrick Stadler, saxophone
 Brian Archinal, percussion
