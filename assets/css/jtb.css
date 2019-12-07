@@ -4137,6 +4137,12 @@ h3.single-portfolio-title {
     text-align: left;
 }
 
+
+h4.single-portfolio-title {
+    font-size: 17px;
+    text-align: left;
+}
+
 .project-details li {
     padding: 20px 0 5px;
 }
