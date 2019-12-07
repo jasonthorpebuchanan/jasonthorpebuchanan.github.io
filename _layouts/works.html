@@ -63,8 +63,22 @@ layout: page-without-ends
 		              {{ instrument | append: ', ' }}
 		            {%- endif -%}
 		          {%- endfor -%}
+							 {%- endif -%}
 	          </li><br>
-	        {%- endif -%}
+
+					<li>
+						<h5>Dedication:</h5>
+						{%- if page.dedication -%}
+						{{ page.dedication }}
+						{%- endif -%}
+						</li><br>
+						<li>
+							<h5>Awards:</h5>
+							{%- if page.awards -%}
+							{{ page.awards }}
+							{%- endif -%}
+							</li><br>
+
 					<li>
 						<h5>Purchasing information:</h5>
 						{%- if page.purchase -%}
