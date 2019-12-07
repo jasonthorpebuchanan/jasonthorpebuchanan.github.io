@@ -20,7 +20,7 @@ headerImage: works-images/doublethink.png
 portWrapper: works-images/port-wrapper/doublethink_660x340.png
 score: score_doublethink.html
 purchase: "Digital Score PDF: $14.95, Bound Paper Score: $14.95"
-contact: jasontbuchanan@gmail.com
+contact: jasontbuchanan[at]gmail.com
 
 ---
 

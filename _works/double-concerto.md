@@ -33,7 +33,7 @@ headerImage: works-images/doubleconcerto_full.jpg
 portWrapper: works-images/port-wrapper/doubleconcerto_620x390.jpg
 score: score_double-concerto.html
 purchase: "Digital Score PDF: $19.95, Score and Parts (RENTAL ONLY): $149.95"
-contact: jasontbuchanan@gmail.com
+contact: jasontbuchanan[at]gmail.com
 
 
 ---

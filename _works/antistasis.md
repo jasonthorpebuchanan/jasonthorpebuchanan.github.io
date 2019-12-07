@@ -20,7 +20,7 @@ headerImage: works-images/antistasis_1.jpg
 portWrapper: works-images/port-wrapper/antistasis_640x360.jpg
 score: score_antistasis.html
 purchase: "Digital Score PDF: $14.95, Score and Parts: $29.95"
-contact: jasontbuchanan@gmail.com
+contact: jasontbuchanan[at]gmail.com
 
 ---
 

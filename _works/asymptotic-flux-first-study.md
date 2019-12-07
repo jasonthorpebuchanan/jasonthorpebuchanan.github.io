@@ -26,7 +26,7 @@ headerImage: works-images/asymptoticflux_1000x500px.jpg
 portWrapper: works-images/port-wrapper/asymptoticflux_640x360.jpg
 score: score_af1.html
 purchase: "Digital Score PDF: $14.95, Score and Parts: $59.95"
-contact: jasontbuchanan@gmail.com
+contact: jasontbuchanan[at]gmail.com
 ---
 
 <em>Asymptotic Flux: First Study in Entropy</em> was written over a three month period while traveling and hitchhiking throughout Europe, surrounding time spent attending at the IRCAM Manifeste Festival in Paris and the Internationales Musikinstitut Darmstadt.  As one might imagine, composing with pencil and paper while constantly on the move can be rather cumbersome, having only short periods of time available to focus, and often taking place in awkward workspaces like cafes, restaurants, hostels, and the apartments of my various hosts. Most of these environments were quite busy and chaotic spaces.  This situation presented a challenge after having spent most of my compositional activity to date in an academic setting with a piano or other musical equipment readily available.

@@ -26,7 +26,7 @@ score: score_pulp.html
 headerImage: works-images/pulp_847x478.jpg
 portWrapper: works-images/port-wrapper/pulp_660x340.jpg
 photosFolder: pulp
-
+contact: jasontbuchanan[at]gmail.com
 ---
 
 

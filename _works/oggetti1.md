@@ -22,7 +22,7 @@ headerImage: works-images/oggetti_5.jpg
 portWrapper: works-images/port-wrapper/oggetti_660x340.jpg
 score: score_oggetti.html
 purchase: "Digital Score PDF: $14.95, Score and Parts: $24.95"
-contact: jasontbuchanan@gmail.com
+contact: jasontbuchanan[at]gmail.com
 
 ---
 

@@ -20,7 +20,7 @@ headerImage: works-images/durations-unlv-1920x1250.jpg
 portWrapper: works-images/port-wrapper/durations-unlv-640x360.jpg
 score: score_durations.html
 purchase: "Digital Score PDF: $14.95, Score and Parts + Visual Stopwatch Max Patch: $79.95"
-contact: jasontbuchanan@gmail.com
+contact: jasontbuchanan[at]gmail.com
 
 ---
 

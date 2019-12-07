@@ -23,6 +23,8 @@ media:
 headerImage: works-images/surface-still-thumb.jpg
 portWrapper: works-images/port-wrapper/surface-still_660x340.jpg
 photosFolder: surface-tension
+contact: jasontbuchanan[at]gmail.com
+
 
 ---
 

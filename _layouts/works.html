@@ -47,7 +47,7 @@ layout: page-without-ends
 				{%- endif -%}
 
 	<div class="col-6 nopadding">
-					<ul>	<li><h4 class="single-portfolio-title">ABOUT THE WORK:</h4>
+					<ul>	<li><h4 class="single-portfolio-title" align="left">ABOUT THE WORK:</h4>
 </li>
 					<li>
 						<h5>Year Composed:</h5>
@@ -69,6 +69,10 @@ layout: page-without-ends
 						{%- if page.purchase -%}
 						{{ page.purchase }}
 						{%- endif -%}
+						<li>
+							{%- if page.contact -%}
+							{{ page.contact }}
+							{%- endif -%}
 					<li>
 						<ul class="social-icons"><h5>Share:</h5><li><a href="https://facebook.com/sharer.php?u=www.jasonthorpebuchanan.com" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a></li>
 							<li><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url=www.jasonthorpebuchanan.com&via={{ site.twitter }}&related={{ site.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a></li>
@@ -81,7 +85,7 @@ layout: page-without-ends
 
 
 <!-- ****** PROGRAM NOTES BEGIN ****** -->
-<h4 class="single-portfolio-title nopadding">PROGRAM NOTES:</h4>
+<h4 class="single-portfolio-title nopadding" align="left">PROGRAM NOTES:</h4>
 	      {{ content }}
 	<!-- Media end-->
 	{%- endif -%}

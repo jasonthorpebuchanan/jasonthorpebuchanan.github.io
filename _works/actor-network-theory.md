@@ -30,7 +30,7 @@ score: score_actor-network-theory.html
 headerImage: works-images/actor-network-theory.jpg
 portWrapper: works-images/port-wrapper/ant-640x360.jpg
 purchase: "Digital Score PDF: $19.95, Score, Parts (RENTAL ONLY), and Max Patch: $109.95"
-contact: jasontbuchanan@gmail.com
+contact: jasontbuchanan[at]gmail.com
 ---
 
 

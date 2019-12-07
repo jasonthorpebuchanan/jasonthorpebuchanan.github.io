@@ -35,7 +35,7 @@ score: score_panic-architecture.html
 headerImage: works-images/panicarchitecture-talea.jpg
 portWrapper: works-images/port-wrapper/panicarchitecture-talea_640x340.jpg
 purchase: "Digital Score PDF: $19.95, Score and Parts (RENTAL ONLY): $149.95"
-contact: jasontbuchanan@gmail.com
+contact: jasontbuchanan[at]gmail.com
 ---
 
 {% include panic-code.html %}

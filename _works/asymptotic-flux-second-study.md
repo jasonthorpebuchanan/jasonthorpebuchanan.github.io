@@ -32,7 +32,7 @@ headerImage: works-images/AF2_insomnio_1_full.jpg
 portWrapper: works-images/port-wrapper/AF2_insomnio_620x360.jpg
 score: score_af2.html
 purchase: "Digital Score PDF: $19.95, Score and Parts (RENTAL ONLY): $149.95"
-contact: jasontbuchanan@gmail.com
+contact: jasontbuchanan[at]gmail.com
 
 ---
 <em>Asymptotic Flux: Second Study in Entropy (Static Foxy Lump: [II] Second Nudist Tyre Pony)</em> was written between February and April of 2013 for Alarm Will Sound as the second work in a cycle utilizing shared musical objects and compositional devices. The first, for amplified bass clarinet, violin, viola, and cello, was composed over a three-month period while traveling and hitchhiking throughout Europe, surrounding time spent in Paris and Darmstadt. The experience of frantically seeking opportunities to compose while on the move proved challenging, mostly due to the awkward, impromptu workspaces available to me such as cafes, restaurants, hostels, and the apartments of my various hosts. These were typically quite busy, noisy, and chaotic spaces, influencing the character of the music, as well as the title.<br><br>
