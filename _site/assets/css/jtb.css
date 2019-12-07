@@ -221,7 +221,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0 0 20px;
+    margin: 0 0 18px;
 }
 
 h2,
@@ -235,7 +235,7 @@ h5,
 h6,
 .h6 {
     font-family: "Poppins", Arial, serif;
-    line-height: 1.2;
+    line-height: 1.1;
     font-weight: 300;
     color: #fafbfc; /* - - CHECK ME - I AM  CHANGED from 313131 to bfbfbf  - - - - - - - - - - - - - - ! ! ! ! */
     text-align: center;
@@ -322,7 +322,7 @@ ol {
 
 ul > li,
 ol > li {
-    margin: 0 0 5px;
+    margin: 0 0 4px;
 }
 
 em {
@@ -4135,6 +4135,14 @@ h2.single-portfolio-title {
 h3.single-portfolio-title {
     font-size: 22px;
     text-align: left;
+}
+
+
+h4.single-portfolio-title {
+    font-size: 16px;
+    text-align: left;
+    weight: 200px;
+
 }
 
 .project-details li {
