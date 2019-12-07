@@ -51,11 +51,12 @@ Eastman Musica Nova Ensemble, conductor Brad Lubman, soloists Jeff Nelsen & Mich
 Commissioned by the International Horn Society<br>
 Winner, 2015 ASCAP Morton Gould Award
 
+<center>
+<ul><li> <img src="gallery/doubleconcerto_1_172x104.jpg" data-fancybox="images" align="center" valign="center" rel="doubleconcertogal" href="gallery/doubleconcerto_full.jpg" title="World Premiere of Double Concerto for Two Horns and Chamber Orchestra, commissioned by the International Horn Society for horn soloists Jeff Nelsen, Michael Walker, and the Eastman Musica Nova Ensemble with conductor Brad Lubman.">
 
- <img src="gallery/doubleconcerto_1_172x104.jpg" align="center" valign="center" class="fancybox" data-big="gallery/doubleconcerto_full.jpg" title="World Premiere of Double Concerto for Two Horns and Chamber Orchestra, commissioned by the International Horn Society for horn soloists Jeff Nelsen, Michael Walker, and the Eastman Musica Nova Ensemble with conductor Brad Lubman.">
+<img src="gallery/doubleconcerto_2_172x104.jpg" align="center" valign="center" rel="doubleconcertogal" data-fancybox="images" href="gallery/doubleconcerto_2_full.jpg" title="World Premiere of Double Concerto for Two Horns and Chamber Orchestra, commissioned by the International Horn Society for horn soloists Jeff Nelsen, Michael Walker, and the Eastman Musica Nova Ensemble with conductor Brad Lubman." /> </li></ul>
+</center>
 
-
-<img src="gallery/doubleconcerto_2_172x104.jpg" align="center" valign="center" class="fancybox" data-big="gallery/doubleconcerto_2_full.jpg" title="World Premiere of Double Concerto for Two Horns and Chamber Orchestra, commissioned by the International Horn Society for horn soloists Jeff Nelsen, Michael Walker, and the Eastman Musica Nova Ensemble with conductor Brad Lubman." />
 
 <!--
 
