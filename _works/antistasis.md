@@ -19,6 +19,8 @@ media:
 headerImage: works-images/antistasis_1.jpg
 portWrapper: works-images/port-wrapper/antistasis_640x360.jpg
 score: score_antistasis.html
+awards: "Commissioned by the Tzlil Meudcan International Contemporary Music Festival (Israel)"
+dedication: "For Ensemble Nikel"
 purchase: "Digital Score PDF: $14.95, Score and Parts: $29.95"
 contact: jasontbuchanan[at]gmail.com
 
@@ -29,10 +31,14 @@ contact: jasontbuchanan[at]gmail.com
 *antistasis 1* (2014) for Ensemble Nikel
 by Jason Thorpe Buchanan
 <br>
-Tzlil Meudcan International Festival and Summer Course for New Music Performance and Composition (Israel)
-<br>
 Patrick Stadler, saxophone
 Brian Archinal, percussion
 Antoine Francoise, piano
 <br>
 World Premiere: Tel Aviv, Israel - July 10, 2014
+
+<!-- <a data-fancybox data-type="iframe"  href="http://www.jasonthorpebuchanan.com/video---antistasis.html"><img src="http://www.jasonthorpebuchanan.com/images/music/antistasis_655x316.jpg" width="475" height="229"></a>
+
+
+<!-- <iframe width="98%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/162125747&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=false"></iframe>
+ -->
