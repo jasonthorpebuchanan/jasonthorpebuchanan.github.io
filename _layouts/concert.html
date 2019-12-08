@@ -74,14 +74,14 @@ layout: default-without-ends
 				<div class="portfolio-details text-center text-md-left">
 					<ul>
 						<li>
-							<h5>Date:</h5>
-              {{ page.date | date: "%B %d, %Y" }}
+							<h5>Date: &nbsp;&nbsp;<font class="roboto">
+              {{ page.date | date: "%B %d, %Y" }}</font>
 						</li>
             {%- if page.event -%}
               <li>
-                <h5>Event:</h5>
+                <h5>Event: &nbsp;&nbsp;<font class="roboto">
                 {{ page.event }}
-              </li>
+              </font></li>
             {%- endif -%}
             {%- if page.time -%}
               <li>
@@ -90,7 +90,7 @@ layout: default-without-ends
               </li>
             {%- endif -%}
 						<li>
-							<h5>Location:</h5>
+							<h5>Location: &nbsp;&nbsp;<font class="roboto">
               {%- if page.location.institution -%}{{ page.location.institution }}<br />{%- endif -%}
               {%- if page.location.building -%}{{ page.location.building }}<br />{%- endif -%}
               {%- if page.location.venue -%}{{ page.location.venue }}<br />{%- endif -%}
@@ -99,7 +99,7 @@ layout: default-without-ends
                 {{ page.location.city }}, {{ page.location.country }}
               {%- else -%}
                 {{ page.location.city }}, {{ page.location.state }} {{ page.location.zip }}
-              {%- endif -%}
+              {%- endif -%}</font>
 						</li>
             {%- if page.tickets.url -%}
               <li>
@@ -107,11 +107,9 @@ layout: default-without-ends
               </li>
             {%- endif -%}
 						<li>
-							<h5>Share:</h5>
-							<ul class="social-icons">
+							<h5><ul class="social-icons">Share: &nbsp;&nbsp;&nbsp;&nbsp;
 								<li><a href="https://facebook.com/sharer.php?u=www.jasonthorpebuchanan.com" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url=www.jasonthorpebuchanan.com&via={{ site.twitter }}&related={{ site.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a></li>
-							</ul>
+								<li><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url=www.jasonthorpebuchanan.com&via={{ site.twitter }}&related={{ site.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a></li></h5>
 						</li>
 					</ul>
 				</div>

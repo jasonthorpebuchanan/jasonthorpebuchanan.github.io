@@ -49,54 +49,88 @@ layout: page-without-ends
 	<div class="col-6 nopadding">
 					<ul>	<li><h4 class="single-portfolio-title">ABOUT THE WORK:</h4>
 </li>
-					<li>
-						<h5>Year Composed:</h5>
-	          {{ page.yearComposed }}
-					</li><br>
+<!-- <li>{{ page.title }}</li> -->
+<ul>
+<li>  <h5 class="gara24" align="left"><em>{{ page.title }}</em> <font class="gara20">{% if page.yearComposed == nil %}{% else %}({{ page.yearComposed }}){% endif %}</font></h5></li>
+		</ul>	<!--		<li>
+
+						<h5>Year Composed: &nbsp;&nbsp;<font class="roboto">{{ page.yearComposed }}</font>
+					</li> -->
 	        {%- if page.instrumentation -%}
 	          <li>
-	            <h5>Instrumentation:</h5>
+	            <h5>Instrumentation: &nbsp;&nbsp;<font class="roboto">
 							{%- for instrument in page.instrumentation -%}
 		            {%- if forloop.last == true -%}
 		              and {{ instrument -}}
 		            {% else %}
 		              {{ instrument | append: ', ' }}
 		            {%- endif -%}
-		          {%- endfor -%}
-							 {%- endif -%}
-	          </li><br>
+		          {%- endfor -%}</font>
+	          </li>
+						{%- endif -%}
+
+
+					{%- if page.dedication -%}
+					<li>
+						<h5>Dedication: &nbsp;&nbsp;<font class="roboto">
+						{{ page.dedication }}</font>
+						</li>
+						{%- endif -%}
+
+						{%- if page.awards -%}
+						<li>
+							<h5>Commission & Awards: &nbsp;&nbsp;<font class="roboto">
+							{{ page.awards }}</font>
+							</li>
+							{%- endif -%}
+
+							{%- if page.text -%}
+							<li>
+								<h5>Text by: &nbsp;&nbsp;<font class="roboto">
+								{{ page.text }}</font>
+								</li>
+								{%- endif -%}
+
+							{%- if page.premiere -%}
+							<li>
+								<h5>World Premiere: &nbsp;&nbsp;<font class="roboto">
+								{{ page.premiere }}</font>
+								</li>
+								{%- endif -%}
+
+								{%- if page.europeanPremiere -%}
+								<li>
+									<h5>European Premiere: &nbsp;&nbsp;<font class="roboto">
+									{{ page.europeanPremiere }}</font>
+									</li>
+									{%- endif -%}
+
+									{%- if page.americanPremiere -%}
+									<li>
+										<h5>American Premiere: &nbsp;&nbsp;<font class="roboto">
+										{{ page.americanPremiere }}</font>
+										</li>
+										{%- endif -%}
+
+					{%- if page.purchase -%}
+					<li>
+						<h5>Purchasing information: &nbsp;&nbsp;<font class="roboto">
+						{{ page.purchase }}</font>
+						{%- endif -%}
+						</li>
+
+					{%- if page.contact -%}
+						<li>
+							<h5>Contact: &nbsp;&nbsp;<font class="roboto">
+							{{ page.contact }}</font>
+							</li>
+							{%- endif -%}
 
 					<li>
-						<h5>Dedication:</h5>
-						{%- if page.dedication -%}
-						{{ page.dedication }}
-						{%- endif -%}
-						</li><br>
-						<li>
-							<h5>Commission & Awards:</h5>
-							{%- if page.awards -%}
-							{{ page.awards }}
-							{%- endif -%}
-							</li><br>
-
-					<li>
-						<h5>Purchasing information:</h5>
-						{%- if page.purchase -%}
-						{{ page.purchase }}
-						{%- endif -%}
-						</li><br>
-						<li>
-							<h5>Contact:</h5>
-							{%- if page.contact -%}
-							{{ page.contact }}
-							{%- endif -%}
-							</li><br>
-					<li>
-						<h5>Share:</h5> </li>
-				<ul class="social-icons">
-				<li>	<a href="https://facebook.com/sharer.php?u=www.jasonthorpebuchanan.com" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a></li>
-				<li>	<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url=www.jasonthorpebuchanan.com&via={{ site.twitter }}&related={{ site.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a></li>
-						</ul>
+						<h5><ul class="social-icons"><li>Share: &nbsp;&nbsp;&nbsp;
+<a href="https://facebook.com/sharer.php?u=www.jasonthorpebuchanan.com" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url=www.jasonthorpebuchanan.com&via={{ site.twitter }}&related={{ site.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
+					</li>	</ul></h5>
 				</ul>
 			</div></div>
 			<br></section>

@@ -43,6 +43,8 @@ body {
     overflow-x: hidden;
 }
 
+
+
 img {
     max-width: 100%;
     height: auto;
@@ -301,6 +303,19 @@ h6,
     margin: 0 0 10px;
 }
 
+.roboto {
+    background-color: #050709;
+    background-blend-mode: hard-light;
+    background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg);
+    font-family: "Roboto", Arial, sans-serif;
+    line-height: 1.85; /* was 1.75 in template */
+    font-weight: 300;
+    font-size: 16px; /* was 15px in template */
+    color: #d9d8d7;
+    -ms-overflow-style: scrollbar;
+    overflow-x: hidden;
+}
+
 .font-serif {
     font-family: "Lora", "Libre Baskerville", serif;
     font-style: italic;
@@ -374,6 +389,7 @@ pre {
     line-height: 1.8;
 }
 
+.bask24 {font-size: 24px; color: #dddddd; font-family: "Libre Baskerville", Times, serif; text-align: "left";}
 .bask20bold {font-size: 20px; font-weight: bold; color: #dddddd; font-family: "Libre Baskerville", Times, serif;}
 .bask20 {font-size: 20px; color: #dddddd; font-family: "Libre Baskerville", Times, serif;}
 .bask19 {font-size: 19px; color: #dddddd; font-family: "Libre Baskerville", Times, serif;}
@@ -385,6 +401,11 @@ pre {
 .bask13 {font-size: 13px; color: #dddddd; font-family: "Libre Baskerville", Times, serif;}
 .bask12 {font-size: 12px; color: #dddddd; font-family: "Libre Baskerville", Times, serif;}
 .bask11 {font-size: 11px; color: #dddddd; font-family: "Libre Baskerville", Times, serif;}
+
+.gara24 {font-size: 24px; color: #dddddd; font-family: "Garamond", Times, serif; text-align: "left";}
+.gara20 {font-size: 20px; color: #dddddd; font-family: "Garamond", Times, serif; text-align: "left";}
+
+}
 
 /*--------------------------IGNORE ----------------------------------------
 [Alerts]

@@ -34,6 +34,11 @@ headerImage: works-images/hungerpart3_1000x500px.jpg
 portWrapper: works-images/port-wrapper/hunger_660x390.jpg
 photosFolder: hunger
 score: score_hunger.html
+awards: "Selection, Darmstadt Contemporary Opera Workshop<br>
+Selection, FIRST TAKE New American Opera Workshop, Los Angeles<br>
+Selection, MATA Interval 8 Series, NYC"
+text: Darcie Dennigan
+premiere:
 ---
 
 CREATION & BRIEF SYNOPSIS:<br>
@@ -48,3 +53,61 @@ Knut Hamsun's novel <em>Sult</em> is a point of departure for a libretto by awar
 - Jason Thorpe Buchanan & Darcie Dennigan
 <br>
 (September 15, 2014)
+
+<html>
+<center>
+<ul><li>
+
+<img src="gallery/hunger_1_250x145.jpg" align="center" valign="center" data-fancybox="images" href="gallery/hunger_1_full.jpg" data-caption="May.15.15: NYC Premiere of HUNGER: Part III with the [Switch~ Ensemble], Sophia Burgos, Lucy Dhegrae, & Jeff Gavett on the MATA Interval Series at the DiMenna Center." />
+
+    &nbsp;&nbsp;<img src="gallery/hunger_9_250x145.jpg" align="center" valign="center" data-fancybox="images" href="gallery/hunger_9_full.jpg" data-caption="May.15.15: NYC Premiere of HUNGER: Part III with the [Switch~ Ensemble], Sophia Burgos, Lucy Dhegrae, & Jeff Gavett on the MATA Interval Series at the DiMenna Center." />
+
+    <br><br><img src="gallery/hunger_8_250x145.jpg" align="center" valign="center" data-fancybox="images" href="gallery/hunger_8_full.jpg" data-caption="May.15.15: NYC Premiere of HUNGER: Part III with the [Switch~ Ensemble], Sophia Burgos, Lucy Dhegrae, & Jeff Gavett on the MATA Interval Series at the DiMenna Center." />
+
+    &nbsp;&nbsp;<img src="gallery/hunger_4_250x145.jpg" align="center" valign="center" data-fancybox="images" href="gallery/hunger_4_full.jpg" data-caption="May.15.15: NYC Premiere of HUNGER: Part III with the [Switch~ Ensemble], Sophia Burgos, Lucy Dhegrae, & Jeff Gavett on the MATA Interval Series at the DiMenna Center." />
+</li></ul>
+    </center>
+
+
+
+    <section class="score-vid-header module-bg-dark" background-color="#051f4a" background-image="http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg">
+     <div class="container full-width" background-image="http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg">
+       <div class="row full-width" width="100%" background-image="http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg">
+
+<div class="row">
+<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/126475804" frameborder="0" allowfullscreen></iframe><a href="http://theindustryla.org/projects/project_firsttake15.php" target="blank">The Industry</a>'s HUNGER Intro Video
+
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/F6gGU_OKMHA" frameborder="0" allowfullscreen></iframe>HUNGER: Video Capture & Processing<br>
+Sneak Preview MATA 2015</div>
+</div>
+  </div>
+    </section>
+
+
+
+
+
+
+
+
+        <center>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176104947&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176108395&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176111726&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296372657&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296377133&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+
+
+    <br>
+
+
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230945061&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230945809&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230947358&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230940314&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230941784&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230942855&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230943025&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230944623&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+
+     </html>

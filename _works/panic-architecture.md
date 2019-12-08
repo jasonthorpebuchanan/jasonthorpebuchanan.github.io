@@ -36,6 +36,9 @@ headerImage: works-images/panicarchitecture-talea.jpg
 portWrapper: works-images/port-wrapper/panicarchitecture-talea_640x340.jpg
 purchase: "Digital Score PDF: $19.95, Score and Parts (RENTAL ONLY): $149.95"
 contact: jasontbuchanan[at]gmail.com
+awards: "Commissioned by the Earle Brown Music Foundation TIME SPANS Festival"
+dedication: "For the Talea Ensemble"
+premiere: "TIME SPANS Festival, DiMenna Center, NYC - Talea Ensemble - August 1, 2017"
 ---
 
 {% include panic-code.html %}
@@ -46,5 +49,3 @@ Psychasthenia is defined as “a group of neuroses characterized by phobias, obs
 <br><br>
 PANIC ARCHITECTURE (2017)<br>
 	    for Sinfonietta and Electronics<br>
-World Premiere: TIME SPANS Festival, DiMenna Center, New York City - August 1, 2017<br>
-Commissioned and premiered by the Talea Ensemble

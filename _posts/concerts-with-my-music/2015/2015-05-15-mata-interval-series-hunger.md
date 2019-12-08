@@ -37,3 +37,13 @@ tags:
 May 15, 2015: the [Switch~ Ensemble] presents *HUNGER (Part III)* on the MATA Interval Series in New York City alongside the music of Wojtek Blecharz, Chris Chandler, Stylianos Dimou, Stefan Prins, and Zach Sheets in a concert of New Works for Ensemble & Multimedia. DiMenna Center, NYC.
 
 http://www.switchensemble.com/
+
+
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230945061&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230945809&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230947358&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230940314&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230941784&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230942855&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230943025&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>
+     <iframe width="90%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230944623&amp;color=ff5500&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>

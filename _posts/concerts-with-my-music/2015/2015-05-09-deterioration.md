@@ -23,3 +23,8 @@ tags:
 ---
 
 May. 09, 2015: World Premiere of *de/ter|   |ior.ation* with the Blue Water Chamber Orchestra, commissioned as winner of Iron Composer 2015. Cleveland, OH
+
+<section class="score-vid-header module-bg-dark" background-color="#051f4a" background-image="http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg">
+<div class="row full-width" width="100%">
+    <div class="col-12 nopadding"><iframe class="embed-responsive-item" height="165vh" src="https://player.vimeo.com/video/148583261" frameborder="0" allowfullscreen></iframe></div><br>
+</div></section>

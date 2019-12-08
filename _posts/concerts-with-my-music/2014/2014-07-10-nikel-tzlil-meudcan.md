@@ -21,4 +21,7 @@ tags:
 
 Jul. 10, 2014: World premiere of antistasis, Ensemble Nikel, Tzlil Meudcan International New Music Festival – Tel Aviv, Israel.
 
-http://www.jasonthorpebuchanan.com/video---antistasis.html?iframe=true&width=1100&height=740
+<section class="score-vid-header module-bg-dark" background-color="#051f4a" background-image="http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg">
+<div class="row full-width" width="100%">
+    <div class="col-12 nopadding"><iframe class="embed-responsive-item" height="165vh" src="https://www.youtube.com/embed/S_tlkvKRIJc" frameborder="0" allowfullscreen></iframe></div><br>
+</div></section>

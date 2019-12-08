@@ -29,3 +29,8 @@ Sep. 12, 2015: European premiere of Asymptotic Flux: Second Study in Entropy wit
 (click for program notes & info)
 
 http://www.jasonthorpebuchanan.com/music.php#af2
+
+<section class="score-vid-header module-bg-dark" background-color="#051f4a" background-image="http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg">
+<div class="row full-width" width="100%">
+    <div class="col-12 nopadding"><iframe class="embed-responsive-item" height="165vh" src="https://player.vimeo.com/video/204631263" frameborder="0" allowfullscreen></iframe></div><br>
+</div></section>

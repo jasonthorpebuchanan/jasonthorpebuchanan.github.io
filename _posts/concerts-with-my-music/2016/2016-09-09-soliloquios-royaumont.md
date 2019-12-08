@@ -27,3 +27,7 @@ Aug. 21-Sep.9, 2016: Royaumont Académie Voix Nouvelles, World Premiere of *soli
 http://www.jasonthorpebuchanan.com/music.php#soliloquios
 
 http://www.royaumont.com/fr/programme-voix-nouvelles/
+
+
+
+<iframe width="98%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/299758478%3Fsecret_token%3Ds-hFWaz&amp;color=ff9900&amp;inverse=true&amp;auto_play=false&amp;show_user=true"></iframe>

@@ -32,7 +32,7 @@ media:
 headerImage: works-images/doubleconcerto_full.jpg
 portWrapper: works-images/port-wrapper/doubleconcerto_620x390.jpg
 score: score_double-concerto.html
-awards: "Commissioned by the International Horn Society
+awards: "Commissioned by the International Horn Society<br>
 Winner, 2015 ASCAP Morton Gould Award"
 dedication: "For Jeff Nelsen, Mike Walker, Brad Lubman, and the Eastman Musica Nova Ensemble"
 purchase: "Digital Score PDF: $19.95, Score and Parts (RENTAL ONLY): $149.95"

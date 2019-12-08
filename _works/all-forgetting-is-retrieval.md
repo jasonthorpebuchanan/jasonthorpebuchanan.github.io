@@ -5,7 +5,7 @@ composer:
 title: "all-forgetting-is-retrieval"
 duration: 8 minutes
 yearComposed: 2019
-commissionedOrWrittenFor: Commissioned by TACETi Ensemble & Thailand New Music & Arts Symposium
+commissionedOrWrittenFor: Commissioned by Thailand New Music & Arts Symposium
 size: septet, augmented conductor,
 instrumentation:
   - alto saxophone
@@ -29,6 +29,11 @@ portWrapper: works-images/port-wrapper/afir-640x360.jpg
 photosFolder: all-forgetting-is-retrieval
 purchase: "Digital Score PDF: $19.95, Score, Parts (RENTAL ONLY), and Max Patch: $129.95"
 contact: jasontbuchanan[at]gmail.com
+awards: "Commissioned by Thailand New Music & Arts Symposium"
+dedication: "For the TACETi Ensemble"
+premiere: "Thailand New Music and Arts Symposium, Bangkok Arts and Culture Centre, Thailand - July 7, 2019"      
+
+
 
 ---
 SCORE AND RECORDING COMING SOON

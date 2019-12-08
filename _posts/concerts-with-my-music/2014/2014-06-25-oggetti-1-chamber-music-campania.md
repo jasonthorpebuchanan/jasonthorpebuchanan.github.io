@@ -21,4 +21,7 @@ tags:
 
 Jun. 25, 2014: World premiere of oggetti I (Omaggio a Sciarrino), Fiati 5 Wind Quintet at Chamber Music Campania as composer-in-residence. Lucera, Italy.
 
-https://vimeo.com/109020216
+<section class="score-vid-header module-bg-dark" background-color="#051f4a" background-image="http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg">
+<div class="row full-width" width="100%">
+    <div class="col-12 nopadding"><iframe class="embed-responsive-item" height="165vh" src="https://player.vimeo.com/video/109020216" frameborder="0" allowfullscreen></iframe></div><br>
+</div></section>

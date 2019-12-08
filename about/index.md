@@ -120,6 +120,14 @@ He holds a Ph.D. from the Eastman School of Music, served for three years as Exe
       </div>
     </div>
   </div>
+  <br>
+<!--
+<a data-fancybox data-type="iframe" href="http://www.jasonthorpebuchanan.com/video---hunger.html"><img src="http://www.jasonthorpebuchanan.com/images/media/hunger-intro-video.jpg" width="294" height="159"></a>
+-->
+ </div><br>
+  <br>
+  <center><font class="bask14">Please contact me with any questions, including rental/purchase information: jasontbuchanan {at} gmail.com</font>
+
 
 
 

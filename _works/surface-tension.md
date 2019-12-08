@@ -24,6 +24,10 @@ headerImage: works-images/surface-still-thumb.jpg
 portWrapper: works-images/port-wrapper/surface-still_660x340.jpg
 photosFolder: surface-tension
 contact: jasontbuchanan[at]gmail.com
+dedication: For Alexandra Bellon and Anne Briset
+awards: "Commissioned by the Embassy of Foreign Artists, Supported by the Republique et Canton de Geneve"
+premiere: "Embassy of Foreign Artsits, Geneva, Switzerland - May 24, 2018"
+
 
 
 ---
