@@ -26,7 +26,7 @@ media:
 headerImage: works-images/soliloquios-interface-opt.jpg
 portWrapper: works-images/port-wrapper/soliloquios-interface_660x340.jpg
 score: score_soliloquios-electronic.html
-purchase: "Digital Score PDF: $19.95, Score, Parts (RENTAL ONLY), and Max Patch: $109.95"
+purchase: "Digital Score PDF: $34.95, Score, Parts (RENTAL ONLY), and Max Patch: $109.95"
 contact: jasontbuchanan[at]gmail.com
 
 ---
