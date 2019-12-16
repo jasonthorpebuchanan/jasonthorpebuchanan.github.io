@@ -32,7 +32,7 @@ media:
 score: score_soliloquios-del-viento.html
 headerImage: works-images/soliloquios-talea.jpg
 portWrapper: works-images/port-wrapper/soliloquios-talea_660x340.jpg
-purchase: "Digital Score PDF: $19.95, Score and Parts (RENTAL ONLY): $149.95"
+purchase: "Digital Score PDF: $34.95, Score and Parts (RENTAL ONLY): $149.95"
 contact: jasontbuchanan[at]gmail.com
 dedication: For the Talea Ensemble and EXAUDI Vocal Ensemble
 awards: Commissioned by Voix Nouvelles de la Fondation Royaumont
