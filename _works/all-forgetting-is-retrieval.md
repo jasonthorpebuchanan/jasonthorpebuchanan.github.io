@@ -31,6 +31,7 @@ purchase: "Digital Score PDF: $19.95, Score, Parts (RENTAL ONLY), and Max Patch:
 contact: jasontbuchanan[at]gmail.com
 awards: "Commissioned by Thailand New Music & Arts Symposium"
 dedication: "For the TACETi Ensemble"
+score: score_all-forgetting-is-retrieval.html
 premiere: "Thailand New Music and Arts Symposium, Bangkok Arts and Culture Centre, Thailand - July 7, 2019"      
 
 
