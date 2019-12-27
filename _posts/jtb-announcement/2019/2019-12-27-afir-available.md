@@ -14,4 +14,4 @@ tags:
 ---
 "Dec. 27, 2019: The score for *all-forgetting-is-retrieval* (2019), written for the TACETi Ensemble and Piyawat Louilarpprasert for ensemble and augmented conductor, is now available. Audio and Video from the July premiere in Bangkok is currently being edited and will be released in the coming weeks."
 
-<div class="col-2 nopadding score-wrapper" height="160vh"><br>{% include home-score_panic-architecture.html %} </div>
+<div class="col-2 nopadding score-wrapper" height="160vh"><br>{% include home-score_all-forgetting-is-retrieval.html %} </div>
