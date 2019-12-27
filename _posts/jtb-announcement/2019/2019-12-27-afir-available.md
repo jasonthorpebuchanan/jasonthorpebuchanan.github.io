@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "all-forgetting-is-retrieval (2019) score for ensemble and augmented conductor now available. Video coming soon!"
+title: "<em>all-forgetting-is-retrieval</em> (2019) score for ensemble and augmented conductor now available. Video coming soon!"
 date: 2019-12-27
 sortYear: 2019
 categories: news
