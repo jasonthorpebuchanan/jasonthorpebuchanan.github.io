@@ -7,7 +7,7 @@ categories: news
 headerImage: headers/afir-score-p9.jpg
 thumbnail: updates/afir-score.png
 photosFolder: all-forgetting-is-retrieval
-score: score_all-forgetting-is-retrieval.html
+score: home-score_all-forgetting-is-retrieval.html
 tags:
   - new
   - 2019
