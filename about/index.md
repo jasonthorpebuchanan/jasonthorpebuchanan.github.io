@@ -73,25 +73,13 @@ He holds a Ph.D. from the Eastman School of Music, served for three years as Exe
 <br><br>
 <!-- new sentence -->
       In 2015, as Artist-in-Residence at USF Verftet/City Council of Bergen, Norway and nominee for the Gaudeamus Prize,
-      three works were presented by Insomnio, New European Ensemble, and Slagwerk Den Haag at Gaudeamus Muziekweek (NL).
-<br><br>
-<!-- new sentence -->
-      His works </em>walkside, lost</em> and <em>gimme shelter</em> (2015), commissioned by Gaudeamus Muziekweek and Eklekto Percussion Geneva,
-      both explore the structural intersection of precise physical gestures, fragile sounds, and speech alongside live audio and video processing. Three speaking percussionists manipulate household objects, microphones, and speakers embedded in wooden boxes while cameras generate a reservoir of video files.
-      These files are retrieved, re-organized, and composited against one another, creating temporal, aural, and visual dissonances between past and present actions.
-
-<br><br>
-<!-- new sentence -->
-      As 2018 Artist-In-Residence at the Embassy of Foreign Artists in Geneva, Switzerland, he developed a new, interactive processing environment for <em>surface, tension</em> (2018),
+      three works were presented by Insomnio, New European Ensemble, and Slagwerk Den Haag at Gaudeamus Muziekweek (NL).<!-- new sentence --> His works <em>walkside, lost</em> and <em>gimme shelter</em> (2015), commissioned by Gaudeamus Muziekweek and Eklekto Percussion Geneva, both explore the structural intersection of precise physical gestures, fragile sounds, and speech alongside live audio and video processing. Three speaking percussionists manipulate household objects, microphones, and speakers embedded in wooden boxes while cameras generate a reservoir of video files.
+      These files are retrieved, re-organized, and composited against one another, creating temporal, aural, and visual dissonances between past and present actions.<!-- new sentence --> As 2018 Artist-In-Residence at the Embassy of Foreign Artists in Geneva, Switzerland, he developed a new, interactive processing environment for <em>surface, tension</em> (2018),
       responding directly to the discrete physical gestures of performers and governing the behavior of both signal processing and soundfile triggering through wearable technology, sensors, and motion tracking.
 
 <br><br>
 <!-- new sentence -->
-      <em>PANIC ARCHITECTURE</em> (2017), commissioned by the Earle Brown Music Foundation for the Talea Ensemble and TIME SPANS Festival in NYC, evokes a participatory framework demanding compulsive interaction and attention. The relentless influx of email, messages, and notifications compel our constant engagement and response, functioning as both our tether to society and primary mode of interpersonal contact. Intermittent reinforcement entices users to obsessively check for new content. Digital panic occurs when multiple, simultaneous systems demand a user’s attention concurrently.
-
-<br><br>
-<!-- new sentence -->
-      Scenes from his multimedia opera <a href="http://www.hungeropera.com" target="blank"><em>Hunger</em></a> have received performances at Darmstadt (2014) with
+      <em>PANIC ARCHITECTURE</em> (2017), commissioned by the Earle Brown Music Foundation for the Talea Ensemble and TIME SPANS Festival in NYC, evokes a participatory framework demanding compulsive interaction and attention. The relentless influx of email, messages, and notifications compel our constant engagement and response, functioning as both our tether to society and primary mode of interpersonal contact. Intermittent reinforcement entices users to obsessively check for new content. Digital panic occurs when multiple, simultaneous systems demand a user’s attention concurrently.<!-- new sentence --> Scenes from his multimedia opera <a href="http://www.hungeropera.com" target="blank"><em>Hunger</em></a> have received performances at Darmstadt (2014) with
       <a href="http://www.ensembleinterface.com/" target="blank">Ensemble Interface</a> (DE), <a href="http://theindustryla.org" target="blank">The Industry</a>’s FIRST TAKE in L.A. (2015) with
       <a href="http://wildup.la" target="blank">wild Up</a>, and the <a href="http://matafestival.org/mata-interval/" target="blank">MATA</a> Interval Series in New York City (2015) with
       <a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a>.
@@ -100,18 +88,11 @@ He holds a Ph.D. from the Eastman School of Music, served for three years as Exe
 
 <br><br>
 <!-- new sentence -->
-      Primary mentors have included Ricardo Zohn-Muldoon, Steven Takasugi, Pierluigi Billone, Chaya Czernowin, Raphaël Cendo, David Liptak, Virko Baley, Peter Michael Hamel, Jorge Villavicencio Grossmann, Pablo Furman, and Georges Aperghis.
+      Primary mentors have included Ricardo Zohn-Muldoon, Steven Takasugi, Pierluigi Billone, Chaya Czernowin, Raphaël Cendo, David Liptak, Virko Baley, Peter Michael Hamel, Jorge Villavicencio Grossmann, Pablo Furman, and Georges Aperghis.<!-- new sentence --> Jason served for three years as Executive Director of the <a href="http://www.vipafestival.org" target="blank">Valencia International Performance Academy & Festival</a> (Spain), for two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, and as founding Director of the TICF Academy for Young Composers, as well as course instructor in electronic music and composition, board member of OSSIA, and assistant conductor for the Musica Nova Ensemble with conductor <a href="http://bradlubman.me/" target="blank">Brad Lubman</a> at the Eastman School of Music.
 
 <br><br>
 <!-- new sentence -->
-      Jason served for three years as Executive Director of the <a href="http://www.vipafestival.org" target="blank">Valencia International Performance Academy & Festival</a> (Spain), for two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, and as founding Director of the TICF Academy for Young Composers, as well as course instructor in electronic music and composition, board member of OSSIA, and assistant conductor for the Musica Nova Ensemble with conductor <a href="http://bradlubman.me/" target="blank">Brad Lubman</a> at the Eastman School of Music.
-
-<br><br>
-<!-- new sentence -->
-      He is widely sought internationally as a guest composer and lecturer at institutions including the University of Virginia, San Jose State University, UNLV, Queens New Music Festival, MATA, UT Austin, Tzlil Meudcan Festival (Tel Aviv), Hamilton College, Chamber Music Campania (Italy), Portland State University, TRANSIT Festival Belgium, University of Richmond, UNCG, Michigan State University, University of Northern Colorado, the Bergen Center for Elektronisk Kunst (BEK) in Norway, the University of Chicago, and Stanford University.
-<br><br>
-<!-- new sentence -->
-      He holds a Ph.D. in Composition from the Eastman School of Music, and degrees in Composition and Music Technology from San José State University (BM & BA, 2008) and the University of Nevada, Las Vegas (MM, 2010), where he taught courses in composition and theory.
+      He is widely sought internationally as a guest composer and lecturer at institutions including the University of Virginia, San Jose State University, UNLV, Queens New Music Festival, MATA, UT Austin, Tzlil Meudcan Festival (Tel Aviv), Hamilton College, Chamber Music Campania (Italy), Portland State University, TRANSIT Festival Belgium, University of Richmond, UNCG, Michigan State University, University of Northern Colorado, the Bergen Center for Elektronisk Kunst (BEK) in Norway, the University of Chicago, and Stanford University.<!-- new sentence --> He holds a Ph.D. in Composition from the Eastman School of Music, and degrees in Composition and Music Technology from San José State University (BM & BA, 2008) and the University of Nevada, Las Vegas (MM, 2010), where he taught courses in composition and theory.
 
 <br><br>
 <!-- new sentence -->
