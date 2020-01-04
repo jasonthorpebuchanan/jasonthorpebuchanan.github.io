@@ -2,8 +2,8 @@
 layout: page
 categories: blog
 headerImage: jtb_mixer_1200x800.jpg
-date: 2019-11-18
-manualDate: Nov. 18 2019
+date: 2020-01-04
+manualDate: Jan. 4 2020
 postDescription: About
 tags:
 background: black
@@ -23,7 +23,7 @@ Scenes from his multimedia opera <a href="http://www.hungeropera.com" target="bl
 Honors include a Fulbright Fellowship in Hamburg, nomination for the Gaudeamus Prize, fellowships, residencies, and commissions from Royaumont (2016 & 17), MATA, the International Horn Society, AiR USF Verftet (Norway), an American-Scandinavian Foundation Grant, the Embassy of Foreign Artists Residency, Geneva (Switzerland), Earle Brown Music Foundation, ASCAP Morton Gould Award (2014 & 2015), Howard Hanson Orchestral Prize, and winner of Iron Composer.
 
 <!-- new sentence -->
-He holds a Ph.D. from the Eastman School of Music, served for three years as Executive Director of the <a href="http://www.vipafestival.org" target="blank">VIPA Festival</a> (Spain), two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, is director of the recently formed Academy for Young Composers at TICF (Thailand), and was course instructor in electronic music and composition, as well as assistant conductor for the Musica Nova Ensemble with <a href="http://bradlubman.me/" target="blank">Brad Lubman</a> at Eastman. He is widely sought internationally as a guest composer and lecturer at institutions including UT Austin, Chamber Music Campania (Italy), the VIPA Festival (Spain), the University of Virginia, SJSU, Tzlil Meudcan (Israel), UNLV, Queens New Music Festival, MATA, Hamilton College, Portland State University, Transit Festival in Belgium, University of Richmond, UNCG, Michigan State Univerity, University of Northern Colorado, the Bergen Center for Elektronisk Kunst (BEK) in Norway, the University of Chicago, and Stanford University.
+He holds a Ph.D. from the Eastman School of Music, served for three years as Executive Director of the <a href="http://www.vipafestival.org" target="blank">VIPA Festival</a> (Spain), two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, is director of the recently formed Academy for Young Composers at TICF (Thailand), and was course instructor in electronic music and composition, as well as assistant conductor for the Musica Nova Ensemble with <a href="http://bradlubman.me/" target="blank">Brad Lubman</a> at Eastman. He is widely sought internationally as a guest composer and lecturer at institutions including UT Austin, Chamber Music Campania (Italy), the VIPA Festival (Spain), the University of Virginia, SJSU, Tzlil Meudcan (Israel), UNLV, Queens New Music Festival, MATA, Hamilton College, Portland State University, Transit Festival in Belgium, University of Richmond, UNCG, Michigan State Univerity, University of Northern Colorado, China-ASEAN Music Week, Yong Siew Toh Conservatory in Singapore, the Bergen Center for Elektronisk Kunst (BEK) in Norway, the University of Chicago, and Stanford University.
 
 <!--
 <iframe class="embed-responsive-item mb-3" src="https://player.vimeo.com/video/245320082" allowfullscreen width="1300" height="736"></iframe>
@@ -92,7 +92,7 @@ He holds a Ph.D. from the Eastman School of Music, served for three years as Exe
 
 <br><br>
 <!-- new sentence -->
-      He is widely sought internationally as a guest composer and lecturer at institutions including the University of Virginia, San Jose State University, UNLV, Queens New Music Festival, MATA, UT Austin, Tzlil Meudcan Festival (Tel Aviv), Hamilton College, Chamber Music Campania (Italy), Portland State University, TRANSIT Festival Belgium, University of Richmond, UNCG, Michigan State University, University of Northern Colorado, the Bergen Center for Elektronisk Kunst (BEK) in Norway, the University of Chicago, and Stanford University.<!-- new sentence --> He holds a Ph.D. in Composition from the Eastman School of Music, and degrees in Composition and Music Technology from San José State University (BM & BA, 2008) and the University of Nevada, Las Vegas (MM, 2010), where he taught courses in composition and theory.
+      He is widely sought internationally as a guest composer and lecturer at institutions including the University of Virginia, San Jose State University, UNLV, Queens New Music Festival, MATA, UT Austin, Tzlil Meudcan Festival (Tel Aviv), Hamilton College, Chamber Music Campania (Italy), Portland State University, TRANSIT Festival Belgium, University of Richmond, UNCG, Michigan State University, University of Northern Colorado, China-ASEAN Music Week, Yong Siew Toh Conservatory in Singapore, the Bergen Center for Elektronisk Kunst (BEK) in Norway, the University of Chicago, and Stanford University.<!-- new sentence --> He holds a Ph.D. in Composition from the Eastman School of Music, and degrees in Composition and Music Technology from San José State University (BM & BA, 2008) and the University of Nevada, Las Vegas (MM, 2010), where he taught courses in composition and theory.
 
 <br><br>
 <!-- new sentence -->
