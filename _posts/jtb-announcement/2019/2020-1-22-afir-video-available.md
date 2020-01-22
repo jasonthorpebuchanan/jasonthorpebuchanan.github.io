@@ -14,4 +14,4 @@ tags:
   - video
 ---
 "Dec. 27, 2019: The video for *all-forgetting-is-retrieval* (2019), written for the TACETi Ensemble and Piyawat Louilarpprasert for ensemble and augmented conductor, is now available."
-<a href="https://player.vimeo.com/video/386270819" target="blank"><img src="headers/afir-video_1000.jpg"></a>
+<a href="https://player.vimeo.com/video/386270819" target="blank">https://player.vimeo.com/video/386270819</a>
