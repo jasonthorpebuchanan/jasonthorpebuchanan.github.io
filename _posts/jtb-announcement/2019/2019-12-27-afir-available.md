@@ -12,5 +12,8 @@ tags:
   - new
   - 2019
   - score
+media:
+  - title: "all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan"
+    url: https://player.vimeo.com/video/386270819?quality=4K
 ---
 "Dec. 27, 2019: The score for *all-forgetting-is-retrieval* (2019), written for the TACETi Ensemble and Piyawat Louilarpprasert for ensemble and augmented conductor, is now available. Audio and Video from the July premiere in Bangkok is currently being edited and will be released in the coming weeks."
