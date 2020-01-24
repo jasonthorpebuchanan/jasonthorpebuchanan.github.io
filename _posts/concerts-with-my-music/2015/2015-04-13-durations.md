@@ -18,9 +18,6 @@ program:
 thumbnail: updates/durations_280x116.png
 tags:
   - 2015
-media:
-  - title: "...durat(A)ions: 'broken landscape' (2013) for Iktus Percussion by Jason Thorpe Buchanan"
-    url: https://www.youtube.com/embed/rGdumjQBYB8
 ---
 
 Apr. 13, 17, & 18, 2015: …durat(A)ions: "broken landscape" Guest Composer, NEXTET, University of Nevada, Las Vegas

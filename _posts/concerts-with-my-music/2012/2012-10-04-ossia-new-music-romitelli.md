@@ -25,9 +25,11 @@ tags:
   - switch
   - older
   - conducting
-media:
-  - title: "Asymptotic Flux: First Study in Entropy (2012) by Jason Thorpe Buchanan"
-    url: https://player.vimeo.com/video/123763683
 ---
 
 Conducting the world premiere of <em>Asymptotic Flux, First Study in Entropy</em> (2012) and Rochester premiere of Fausto Romitelli's <em>Amok Koma</em>, [Switch~ Ensemble].
+
+<section class="score-vid-header module-bg-dark" background-color="#051f4a" background-image="http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg">
+<div class="row full-width" width="100%">
+    <div class="col-12 nopadding"><iframe class="embed-responsive-item" height="165vh" src="https://player.vimeo.com/video/123763683" frameborder="0" allowfullscreen></iframe></div><br>
+</div></section>
