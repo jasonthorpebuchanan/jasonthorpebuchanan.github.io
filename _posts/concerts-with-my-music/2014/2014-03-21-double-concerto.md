@@ -24,6 +24,9 @@ thumbnail: updates/doubleconcerto_350.jpg
 photosFolder:
 tags:
   - 2014
+media:
+  - title: "Double Concerto (2014) for Two Horns and Chamber Orchestra by Jason Thorpe Buchanan"
+    url: https://player.vimeo.com/video/110432545
 ---
 
 Mar. 21, 2014: *Double Concerto for Two Horns and Chamber Orchestra*, Eastman Musica Nova Ensemble – Brad Lubman, conductor Jeff Nelsen & Michael Walker, horn soloists.

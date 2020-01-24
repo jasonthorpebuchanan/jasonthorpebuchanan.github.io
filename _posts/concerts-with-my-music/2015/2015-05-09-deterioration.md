@@ -20,6 +20,9 @@ thumbnail: updates/deterioration_280.png
 photosFolder: deterioration
 tags:
   - 2015
+media:
+  - title: "de/ter| |ior.ation (in/ |minate| ) for chamber orchestra (2015) by Jason Thorpe Buchanan"
+    url: https://player.vimeo.com/video/148583261
 ---
 
 May. 09, 2015: World Premiere of *de/ter|   |ior.ation* with the Blue Water Chamber Orchestra, commissioned as winner of Iron Composer 2015. Cleveland, OH

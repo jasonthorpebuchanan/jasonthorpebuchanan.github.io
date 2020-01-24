@@ -21,6 +21,9 @@ thumbnail: updates/talea_280x114.png
 photosFolder: panic-architecture
 tags:
   - 2017
+media:
+  - title: "PANIC ARCHITECTURE (2017) by Jason Thorpe Buchanan (w/intro)"
+  - url: https://player.vimeo.com/video/245320082?quality=2K
 ---
 
 Aug. 2, 2017: Time Spans Festival, New York City. New work *PANIC ARCHITECTURE* for the Talea Ensemble. Commissioned by the Earle Brown Music Foundation.

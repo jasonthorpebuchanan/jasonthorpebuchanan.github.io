@@ -19,6 +19,9 @@ thumbnail: updates/af2-mizzou_330.jpg
 tags:
   - 2013
   - older
+media:
+  - title: "Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan"
+    url: https://player.vimeo.com/video/109624253
 ---
 
 Jul. 27, 2013: <em>Asymptotic Flux: Second Study in Entropy</em>, world premiere. Alarm Will Sound."
