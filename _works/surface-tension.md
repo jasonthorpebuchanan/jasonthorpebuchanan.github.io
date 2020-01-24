@@ -19,7 +19,7 @@ tags:
   - percussion
 media:
   - title: "surface, tension (2018) by Jason Thorpe Buchanan"
-    url: https://player.vimeo.com/video/306876693?quality=4K
+    url: https://player.vimeo.com/video/306876693?quality=2K
 headerImage: works-images/surface-still-thumb.jpg
 portWrapper: works-images/port-wrapper/surface-still_660x340.jpg
 photosFolder: surface-tension

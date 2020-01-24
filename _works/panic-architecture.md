@@ -30,7 +30,7 @@ tags:
   - electroacoustic
 media:
   - title: "PANIC ARCHITECTURE (2017) by Jason Thorpe Buchanan (w/intro)"
-  - url: https://player.vimeo.com/video/245320082?quality=4K
+  - url: https://player.vimeo.com/video/245320082?quality=2K
 score: score_panic-architecture.html
 headerImage: works-images/panicarchitecture-talea.jpg
 portWrapper: works-images/port-wrapper/panicarchitecture-talea_640x340.jpg

@@ -23,7 +23,7 @@ tags:
   - conducted
 media:
   - title: "all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan"
-    url: https://player.vimeo.com/video/386270819?quality=4K
+    url: https://player.vimeo.com/video/386270819?quality=2K
 headerImage: works-images/afir-1080.jpg
 portWrapper: works-images/port-wrapper/afir-640x360.jpg
 photosFolder: all-forgetting-is-retrieval
