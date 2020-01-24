@@ -67,7 +67,7 @@ layout: default-without-ends
 
 {%- if page.media -%}
 <!-- Media-->
-<section>
+<section class="module bg-dark-50">
 <div class="col-12 mb-5">
   {% assign printHeader = false %}  <!-- successfully removed header -->
   {%- for item in page.media -%}
@@ -94,7 +94,6 @@ layout: default-without-ends
       </div>
     {% endcomment %}
     {%- endif -%}
-  {%- endfor -%}
 </div>
 </section>
 
