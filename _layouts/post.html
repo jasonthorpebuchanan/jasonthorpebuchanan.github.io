@@ -61,7 +61,7 @@ layout: default-without-ends
     <div class="single-portfolio-title nopadding" width="98%">
       <div class="row portfolio-details" width="98%">
           {%- if page.score  -%}
-        <div class="col-3">{% include {{ page.score }} %}</div>
+        <div class="col-2">{% include {{ page.score }} %}</div>
         {%- endif -%}
 
 
@@ -69,7 +69,7 @@ layout: default-without-ends
 
 {%- if page.media -%}
 <!-- Media-->
-<div class="col-9 mb-5">
+<div class="col-10 mb-5">
   {% assign printHeader = false %}  <!-- successfully removed header -->
   {%- for item in page.media -%}
     {%- if item.url contains 'youtube' or item.url contains 'vimeo' -%}
