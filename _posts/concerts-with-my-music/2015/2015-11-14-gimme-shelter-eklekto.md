@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2015-11-14
-describe: "<em>gimme shelter</em> (2015), world premiere. Eklekto Percussion."
+describe: "<em>gimme shelter</em> for three percussionists, electronics, and live video processing (2015), world premiere. Commissioned by Eklekto Percussion. L'Abri - Espace culturel."
 event:
 location:
   institution: L'Abri – Espace culturel

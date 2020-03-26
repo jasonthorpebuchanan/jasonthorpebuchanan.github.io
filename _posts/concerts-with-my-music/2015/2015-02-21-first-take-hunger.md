@@ -20,4 +20,10 @@ tags:
   - 2015
 ---
 
-Feb. 21, 2015: The Industry's Los Angeles FIRST TAKE West Coast Workshop for New Operas presents Part III of *Hunger* with wild Up at the Wallis Annenberg Center for the Performing Arts
+Feb. 21, 2015: The Industry's Los Angeles FIRST TAKE West Coast Workshop for New Operas presents Part III of *Hunger* with wild Up at the Wallis Annenberg Center for the Performing Arts.
+
+
+
+http://theindustryla.org/"
+
+http://theindustryla.org/projects/project_firsttake15.php" 

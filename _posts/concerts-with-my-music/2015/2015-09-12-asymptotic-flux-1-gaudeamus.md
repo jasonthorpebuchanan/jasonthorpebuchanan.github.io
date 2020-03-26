@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2015-09-12
-describe: "<em>Asymptotic Flux: Second Study in Entropy</em> (2013), European premiere. Insomnio Ensemble."
+describe: "<em>Asymptotic Flux: First Study in Entropy</em> (2013), Dutch premiere. New European Ensemble."
 event: Gaudeamus Muziekweek
 location:
   institution:

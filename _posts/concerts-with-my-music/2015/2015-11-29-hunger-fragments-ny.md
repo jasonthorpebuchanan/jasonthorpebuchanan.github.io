@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2015-11-29
-describe: "<em>hunger fragments</em> (2015) for sixteen solo voices, world premiere. NY Virtuoso Singers."
+describe: "<em>hunger fragments</em> (2015) for sixteen solo voices, world premiere. Commissioned by the NY Virtuoso Singers."
 event: National Sawdust
 location:
   institution:

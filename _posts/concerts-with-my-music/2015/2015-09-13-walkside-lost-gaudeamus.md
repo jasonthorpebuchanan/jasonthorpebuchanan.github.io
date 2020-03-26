@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2015-09-13
-describe: "<em>walkside, lost</em> (2015), world premiere. Slagwerk Den Haag."
+describe: "<em>walkside, lost</em> (2015) for three percusssionists, electronics, and live video processing, world premiere. Slagwerk Den Haag. Commissioned by Gaudeamus Muziekweeek as a nominee for the 2015 Gaudeamus Prize."
 event: Gaudeamus Muziekweek
 location:
   institution:

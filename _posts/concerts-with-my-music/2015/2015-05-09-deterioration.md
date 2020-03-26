@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2015-05-09
-describe: "<em>de/ter| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |ior.ation</em> (2015), world premiere. Blue Water Chamber Orchestra."
+describe: "<em>de/ter| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |ior.ation</em> (2015), world premiere. Commissioned by Blue Water Chamber Orchestra as winner of Iron Composer 2015."
 event:
 location:
   building:

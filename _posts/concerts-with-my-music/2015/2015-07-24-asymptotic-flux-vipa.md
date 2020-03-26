@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2015-07-24
-describe: "<em>Asymptotic Flux: First Study in Entropy</em> (2013), European premiere. Mivos Quartet."
+describe: "<em>Asymptotic Flux: First Study in Entropy</em> (2013), European premiere. Mivos Quartet and Madison Greenstone."
 event: VIPA Festival
 location:
   institution:
