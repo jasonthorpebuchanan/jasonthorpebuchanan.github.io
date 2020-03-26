@@ -3,8 +3,8 @@ layout: post
 title: "New Music Box, Linea performance at June in Buffalo. <em>Asymptotic Flux: First Study in Entropy</em> by Jason Thorpe Buchanan is an unearthly collage of sounds. Though conceptually direct, the [result was] delightfully ambiguous: frantic joy could be as easily heard as extreme distemperment."
 date: 2013-07-02
 categories: news
-headerImage:
-thumbnail:
+headerImage: headers/jib-linea.jpg
+thumbnail: updates/jib-linea-250.jpg
 photosFolder:
 tags:
   - older
