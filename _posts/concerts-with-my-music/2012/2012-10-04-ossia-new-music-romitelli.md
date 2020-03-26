@@ -33,3 +33,6 @@ Conducting the world premiere of <em>Asymptotic Flux, First Study in Entropy</em
 <div class="row full-width" width="100%">
     <div class="col-12 nopadding"><iframe class="embed-responsive-item" height="165vh" src="https://player.vimeo.com/video/123763683" frameborder="0" allowfullscreen></iframe></div><br>
 </div></section>
+
+
+<a href="http://www.jasonthorpebuchanan.com/img/Ossia_october_2012.png">(poster)</a>
