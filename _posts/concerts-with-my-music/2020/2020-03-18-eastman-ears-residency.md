@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: <em>soliloquios del viento</em> (2017), Switch~ Ensemble. Tech for Katharina Rosenberger's <em>Up Close</em> (2019).
+describe: <b>POSTPONED</b> <em>soliloquios del viento</em> (2017), Switch~ Ensemble. Tech for Katharina Rosenberger's <em>Up Close</em> (2019).
 date: 2020-03-18
 time:
 location:
