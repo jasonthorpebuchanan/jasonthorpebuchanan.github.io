@@ -20,3 +20,5 @@ tags:
   - rest is noise
   - saxophone
 ---
+
+May.07.2012: Rochester premiere of <em>First Study for Alto Saxophone: doublethink</em> with Diane Hunger, saxophone. Rest is Noise Concert, The Little Theatre, Rochester, NY."
