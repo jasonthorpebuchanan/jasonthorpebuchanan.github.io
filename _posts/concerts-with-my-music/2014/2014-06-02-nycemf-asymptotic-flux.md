@@ -18,7 +18,7 @@ program:
   - composer: Chris Chandler
     title: "Smoke and Mirrors"
     year:
-thumbnail: updates/smokeandmirrors-400-opt.png
+thumbnail: updates/smokeandmirrorsnycemf_339x191.png
 tags:
   - 2014
   - switch

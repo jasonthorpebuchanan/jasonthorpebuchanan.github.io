@@ -23,6 +23,9 @@ photosFolder: soliloquios-del-viento
 tags:
   - 2019
   - new
+media:
+  - title: "soliloquios del viento (2016; rev. 2017) by Jason Thorpe Buchanan"
+    url: https://player.vimeo.com/video/400224384?quality=4K
 ---
 
 Transit Festival. Ensemble Interface performs *Soliloquios del Viento* (2017) alongside works by Ashley Fure, Wieland Hoban, and Maya Verlaak with electric guitarist Nico Couck.
