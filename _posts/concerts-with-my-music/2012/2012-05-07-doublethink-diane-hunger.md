@@ -17,7 +17,6 @@ program:
 thumbnail:  
 tags:
   - 2012
-  - older
   - rest is noise
   - saxophone
 ---
