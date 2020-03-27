@@ -35,6 +35,3 @@ media:
 ---
 
 Conducting Bryan Jacobs' *TsTs*. the [Switch~ Ensemble]. Jason Thorpe Buchanan, conductor ECMC Concert. Rochester, NY
-
-
-https://www.youtube.com/watch?v=TZPGeIO4478

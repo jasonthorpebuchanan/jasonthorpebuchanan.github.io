@@ -5,11 +5,13 @@ date: 2014-03-21
 categories: performance
 event: Eastman Musica Nova plays Zorn, Morris, Thorpe Buchanan
 location:
+  institution:
   building:
   venue:
   address:
   city: Rochester
   state: NY
+  zip: 
 program:
   - composer: Jason Thorpe Buchanan
     title: "Double Concerto for Two Horns and Chamber Orchestra"

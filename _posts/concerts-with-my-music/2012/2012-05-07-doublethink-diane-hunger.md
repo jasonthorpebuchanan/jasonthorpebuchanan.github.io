@@ -1,9 +1,9 @@
 ---
 layout: concert
-categories: performance
+describe: "Rochester premiere of <em>First Study for Alto Saxophone: doublethink</em> with Diane Hunger, saxophone. Rest is Noise Concert, The Little Theatre, Rochester, NY."
 date: 2012-05-07
+categories: performance
 event: Rest is Noise Concert
-describe: Rochester premiere of <em>First Study for Alto Saxophone: doublethink</em> with Diane Hunger, saxophone. Rest is Noise Concert, The Little Theatre, Rochester, NY.
 location:
   institution:
   venue: The Little Theatre
@@ -16,6 +16,7 @@ program:
     title: First Study for Alto Saxophone: doublethink
 thumbnail:  
 tags:
+  - 2012
   - older
   - rest is noise
   - saxophone
