@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-date: 2014-07-10
+date: 2014-06-25
 describe: "<em>oggetti I (Omaggio a Sciarrino)</em> (2014), world premiere. Fiati 5 Wind Quintet. Composer-in-Residence."
 event: Chamber Music Campania
 location:
