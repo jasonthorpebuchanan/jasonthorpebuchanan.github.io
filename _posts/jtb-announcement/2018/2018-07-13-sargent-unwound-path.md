@@ -10,7 +10,9 @@ tags:
   - 2018
   - conducting
   - switch
+media:
+  - title: "Unwound Path (2018) by Matt Sargent"
+    url:  https://www.youtube.com/embed/MBC-1Qb4NFI
+
 ---
 New video recording of Matt Sargent's Unwound Path (2018) at Cornell University with the [Switch~ Ensemble], Jason Thorpe Buchanan, conductor & A/V recording.
-
-https://www.youtube.com/watch?v=MBC-1Qb4NFI
