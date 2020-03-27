@@ -27,6 +27,11 @@ tags:
   - 2014
   - switch
   - conducting
+media:
+  - title: "TsTs (2010) by Bryan Jacobs"
+    url:   https://www.youtube.com/embed/TZPGeIO4478
+
+
 ---
 
 Conducting Bryan Jacobs' *TsTs*. the [Switch~ Ensemble]. Jason Thorpe Buchanan, conductor ECMC Concert. Rochester, NY
