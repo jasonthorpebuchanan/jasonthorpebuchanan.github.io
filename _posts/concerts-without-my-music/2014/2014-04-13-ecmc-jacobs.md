@@ -27,8 +27,6 @@ tags:
   - 2014
   - switch
   - conducting
-
-
 ---
 
 Conducting Bryan Jacobs' *TsTs*. the [Switch~ Ensemble]. Jason Thorpe Buchanan, conductor ECMC Concert. Rochester, NY
