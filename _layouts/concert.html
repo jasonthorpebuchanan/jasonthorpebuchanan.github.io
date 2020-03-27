@@ -119,6 +119,43 @@ layout: default-without-ends
 </section>
 <!-- Portfolio end-->
 
+<!-- end score -->
+
+{%- if page.media -%}
+<!-- Media-->
+<div class="col-10 mb-5">
+  {% assign printHeader = false %}  <!-- successfully removed header -->
+  {%- for item in page.media -%}
+    {%- if item.url contains 'youtube' or item.url contains 'vimeo' -%}
+      {%- if printHeader == true -%}
+        <h2 class="text-left">Media</h2>
+        {% assign printHeader = nil %}
+      {%- endif -%}
+      <div class="mb-3"><iframe class="embed-responsive-item mb-3" src="{{ item.url }}" allowfullscreen width="1300" height="736"></iframe></div>
+    {%- elsif item.url contains 'soundcloud' -%}
+      {%- if printHeader == true -%}
+        <h2 class="text-left">Media</h2>
+        {% assign printHeader = nil %}
+      {%- endif -%}
+      {%- if item.url contains 'sets' -%}
+        <div class="col-12 mb-3">{% include soundcloud_player.html type="playlists" trackID=item.ID %}</div>
+      {%- else -%}
+        <div class="col-12 mb-3">{% include soundcloud_player.html type="tracks" trackID=item.ID %}</div>
+      {%- endif -%}
+    {%- else -%}
+    {% comment %}
+      <div class="col-12 mb-3">
+        <audio src="{{ item.url }}" preload="auto" />
+      </div>
+    {% endcomment %}
+    {%- endif -%}
+  {%- endfor -%}
+</div>
+{%- endif -%}
+</div>  </div>
+</section>
+<!-- Module end-->
+
 {%- if page.photosFolder -%}
 <!-- Gallery-->
 <section class="module bg-dark-50">
