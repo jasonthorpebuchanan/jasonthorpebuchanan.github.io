@@ -7,7 +7,7 @@ headerImage:
 thumbnail: updates/gaudeamus.png
 photosFolder: gaudeamus
 tags:
-  - older
+  - 2014
 ---
 
 www.muziekweek.nl

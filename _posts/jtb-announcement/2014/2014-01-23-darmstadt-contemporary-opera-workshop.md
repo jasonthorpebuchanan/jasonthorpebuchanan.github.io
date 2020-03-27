@@ -7,7 +7,7 @@ headerImage: headers/sult-darmstadt.jpg
 thumbnail: updates/sult-darmstadt_330.jpg
 photosFolder:
 tags:
-  - older
+  - 2014
 ---
 
 Jan. 23, 2014: Selected to write new works for Contemporary Opera Workshop at the Internationales Musikinstitut Darmstadt (August 2014).

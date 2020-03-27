@@ -7,7 +7,7 @@ headerImage: headers/vipa2015-mivos_1500.jpg
 thumbnail: updates/vipa2015-quartet_330.jpg
 photosFolder: vipa2015
 tags:
-  - older
+  - 2014
 ---
 
 http://www.vipafestival.org/

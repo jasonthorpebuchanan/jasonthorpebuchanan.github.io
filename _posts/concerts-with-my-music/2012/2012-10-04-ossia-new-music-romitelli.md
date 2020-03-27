@@ -21,7 +21,6 @@ program:
 headerImage: headers/romitelli_amok_1600.jpg
 thumbnail: updates/af1-2.jpg
 tags:
-  - 2012
   - switch
   - older
   - conducting

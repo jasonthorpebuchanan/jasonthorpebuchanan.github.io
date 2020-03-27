@@ -7,5 +7,5 @@ headerImage: headers/af2-mizzou_1920.jpg
 thumbnail: updates/af2-mizzou_330.jpg
 photosFolder:
 tags:
-  - older
+  - 2014
 ---

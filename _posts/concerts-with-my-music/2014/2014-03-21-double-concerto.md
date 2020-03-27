@@ -11,7 +11,7 @@ location:
   address:
   city: Rochester
   state: NY
-  zip: 
+  zip:
 program:
   - composer: Jason Thorpe Buchanan
     title: "Double Concerto for Two Horns and Chamber Orchestra"

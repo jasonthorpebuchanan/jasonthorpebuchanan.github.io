@@ -17,7 +17,6 @@ program:
     year: 2013
 thumbnail: updates/af2-mizzou_330.jpg
 tags:
-  - 2013
   - older
 ---
 

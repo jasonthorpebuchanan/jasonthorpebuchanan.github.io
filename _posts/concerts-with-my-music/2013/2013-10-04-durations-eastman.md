@@ -17,7 +17,6 @@ program:
     year: 2013
 thumbnail: updates/iktusquartet.jpg
 tags:
-  - 2013
   - older
 ---
 

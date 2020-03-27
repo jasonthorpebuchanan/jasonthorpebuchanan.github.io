@@ -19,7 +19,6 @@ program:
 headerImage: headers/jib-linea.jpg
 thumbnail: updates/jib-linea-250.jpg
 tags:
-  - 2012
   - linea
   - older
 ---

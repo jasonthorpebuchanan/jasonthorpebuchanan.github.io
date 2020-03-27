@@ -17,6 +17,5 @@ program:
 thumbnail: updates/oggetti_5.jpg
 photosFolder:
 tags:
-  - 2013
   - older
 ---
