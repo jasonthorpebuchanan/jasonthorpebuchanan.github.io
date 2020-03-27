@@ -19,4 +19,7 @@ tags:
   - older
   - piano
   - las vegas
+media:
+  - title: "Karttikeya (Study No. 1) by Jason Thorpe Buchanan"
+    url:  https://www.youtube.com/embed/xi3z4L61bj8
 ---
