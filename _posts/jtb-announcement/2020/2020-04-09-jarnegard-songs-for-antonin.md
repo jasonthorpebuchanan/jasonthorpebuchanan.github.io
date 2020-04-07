@@ -4,7 +4,7 @@ title: "New video of <em>Songs for Antonin</em> by Esaias Järnegard"
 date: 2020-04-09
 categories: news
 headerImage: headers/jarnegard-arete.png
-thumbnail: updates/jarnegard-arete-300px.png
+thumbnail: updates/jarnegard-arete-250px.png
 photosFolder:
 tags:
   - 2019
