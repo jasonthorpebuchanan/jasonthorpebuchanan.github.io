@@ -34,10 +34,10 @@ He holds a Ph.D. from the Eastman School of Music, served for three years as Exe
 <center>
 <div class="row col-md-12" align="center">
 <div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_CV_May.1.2020_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
-<span class="bask12">(updated Jan.22.20)</span></div>
+<span class="bask12">(updated May.1.2020)</span></div>
 
 <div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
-<span class="bask12">(updated Sep.1.19)</span></div>
+<span class="bask12">(updated Sep.1.2019)</span></div>
 </div>
 </center>
 <br>
