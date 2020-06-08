@@ -5,13 +5,13 @@
 
 
 
-<div class="row row-portfolio" data-columns="1">
+<div class="row row-portfolio" data-columns="1" id="sortedNews">
 	<div class="grid-sizer"></div>
 
 	{% assign sortedNewsPosts = site.posts | where_exp:"item", "item.categories contains 'news'" %}
 
 	<ul>
-		{%- for post in sortedNewsPosts limit:44 -%}
+		{%- for post in sortedNewsPosts limit:61 -%}
 
 		<div class="portfolio-item posts-item p-2 {% for item in post.tags %}{{-item }} {% endfor %}{{ post.date -}}" width="100%">
 
