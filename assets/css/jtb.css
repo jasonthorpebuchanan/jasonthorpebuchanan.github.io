@@ -1741,7 +1741,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     top: 0;
     right: 0;
     bottom: 0;
-    min-height: 80vh;
+    min-height: 10vh; /* - - CHECK ME - I AM CHANGED from June 22 from 80vh  - - - - - - - - - - - - - - ! ! ! ! */
     z-index: -1;
 }
 
@@ -3207,7 +3207,7 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 .module-header.module-divider-top {
     border-top: 1px solid #dddddd;
     background-size: cover;  /* - - CHANGED  this is for the concert listing crazystaves background */
-    min-height: 5vh; /* - - CHANGED  - no param in JTB custom */
+  /* - -  min-height: 5vh;  CHANGED  - removed param June 22 */
 }
 
 .module.module-divider-bottom,
@@ -3419,7 +3419,7 @@ background-position: top;
 
     .module-header {
         height: 45vh; /* - -  CHANGED  height of cover image area - - - - - - - - - - - ! ! ! ! */
-        min-height: 30vh; /* - -  CHANGED  height of cover image area, new and critical this one - - - */
+        min-height: 10vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
         padding: 8vh 2px; /* - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
 
