@@ -3418,7 +3418,7 @@ background-position: top;
     }
 
     .module-header {
-        height: 60vh; /* - -  CHANGED  height of cover image area - - - - - - - - - - - ! ! ! ! */
+        height: 45vh; /* - -  CHANGED  height of cover image area - - - - - - - - - - - ! ! ! ! */
         min-height: 30vh; /* - -  CHANGED  height of cover image area, new and critical this one - - - */
         padding: 8vh 2px; /* - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
