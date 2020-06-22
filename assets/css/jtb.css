@@ -1741,7 +1741,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     top: 0;
     right: 0;
     bottom: 0;
-    min-height: 10vh; /* - - CHECK ME - I AM CHANGED from June 22 from 80vh  - - - - - - - - - - - - - - ! ! ! ! */
+    min-height: 3vh; /* - - CHECK ME - I AM CHANGED from June 22 from 80vh  - - - - - - - - - - - - - - ! ! ! ! */
     z-index: -1;
 }
 
@@ -3225,7 +3225,7 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 .flexslider,
 .module-slides,
 .full-height {
-    min-height: 10vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 60  - - - - - - - - - - - - - - ! ! ! ! */
+    min-height: 3vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 60  - - - - - - - - - - - - - - ! ! ! ! */
     height: 70vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 80  - - - - I think this is the height of the navigation bar- - - - - - - - - - ! ! ! ! */
     padding: 0;
 }
@@ -3244,7 +3244,7 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
     position: relative;
     display: table-cell;
     vertical-align: middle;
-    min-height: 10vh;
+    min-height: 3vh;
 }
 
 .flexslider .container,
@@ -3419,7 +3419,7 @@ background-position: top;
 
     .module-header {
         height: 45vh; /* - -  CHANGED  height of cover image area - - - - - - - - - - - ! ! ! ! */
-        min-height: 10vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
+        min-height: 3vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
         padding: 8vh 2px; /* - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
 
