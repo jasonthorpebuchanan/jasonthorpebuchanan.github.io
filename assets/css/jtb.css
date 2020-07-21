@@ -3418,7 +3418,7 @@ background-position: top;
     }
 
     .module-header {
-        height: 45vh; /* - -  CHANGED  height of cover image area - - - - - - - - - - - ! ! ! ! */
+        height: 40vh; /* - -  CHANGED  height of cover image area parallax banner huahin - - - - - - - - - - - ! ! ! ! */
         min-height: 3vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
         padding: 8vh 2px; /* - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
