@@ -3174,20 +3174,20 @@ body.off-canvas-sidebar-open .layout {
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
-    position: absolute; /* -- CHANGED Jul 21 - was relative now absolute -- */
-    padding: 20vh 5vh; /* -- CHANGED Jul 21 - was 40 10 now 20 5 -- */ /* - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom huahin - - ! ! ! ! */  -->
+    position: absolute;
+    padding: 20vh 6vh; /* - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom - huahin - - ! ! ! ! */  -->
 }
 
 .module,
-.module-sm { /* -- CHANGED this is not the hua hin or afir photo -- */
+.module-sm {
     background-color: #000000; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
-    background-position: center;
 background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg);
     background-blend-mode:  normal;
+    background-position: center;
     background-repeat: repeat-y;
-    background-size: contain; /* - - CHANGED this is blue crazystaves, not header image */
     width: 100%;
-    position: relative; /* -- CHANGED Jul 21 - was relative now absolute -- */
+    position: relative;
+    background-size: contain; /* - - CHANGED this is blue crazystaves, not header image */
     padding: 40px 30px; /* - - CHECK ME - I AM  CHANGED padding before bio text  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
@@ -3410,7 +3410,7 @@ background-position: top;
 
 @media (max-width: 992px) {
     .wrapper {
-        padding-top: 45px;  /* - CHANGED this CONTROLS DISTANCE of image FROM MENU - - - - - - ! ! ! ! */
+        padding-top: 40px;  /* - CHANGED this CONTROLS DISTANCE of image FROM MENU - - - - - - ! ! ! ! */
     }
 
     .module-page-title {
@@ -3418,9 +3418,9 @@ background-position: top;
     }
 
     .module-header {
-        height: 20vh; /* -- CHANGED Jul 21 - was 40 now 20 -- *//* - -  CHANGED  height of cover image area parallax banner huahin - - - - - - - - - - - ! ! ! ! */
+        height: 20vh; /* - -  CHANGED  height of cover image area parallax banner huahin - - - - - - - - - - - ! ! ! ! */
         min-height: 3vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
-        padding: 6vh 1px; /* -- CHANGED Jul 21 - was 8vh and 1px, now 6vh and 1px  -- *//* - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
+        padding: 7vh 1px; /* - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
 
     .flexslider h1.h1,
