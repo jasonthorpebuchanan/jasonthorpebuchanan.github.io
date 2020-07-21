@@ -3175,7 +3175,7 @@ body.off-canvas-sidebar-open .layout {
     background-size: contain;
     width: 100%;
     position: absolute;
-    padding: 20vh 6vh; /* - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom - huahin - - ! ! ! ! */  -->
+    padding: 0px 0px; /* - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom - huahin - - ! ! ! ! */  -->
 }
 
 .module,
@@ -3418,7 +3418,7 @@ background-position: top;
     }
 
     .module-header {
-        height: 10vh; /* - -  CHANGED  height of cover image area parallax banner huahin - - - - - - - - - - - ! ! ! ! */
+        height: 40vh; /* - -  CHANGED  height of cover image area parallax banner huahin - - - - - - - - - - - ! ! ! ! */
         min-height: 3vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
         padding: 7vh 1px; /* - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
