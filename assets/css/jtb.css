@@ -3174,8 +3174,8 @@ body.off-canvas-sidebar-open .layout {
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
-    position: relative;
-    padding: 30vh 10vh; /* - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom- - ! ! ! ! */  -->
+    position: absolute;
+    padding: 20vh 6vh; /* - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom - huahin - - ! ! ! ! */  -->
 }
 
 .module,
