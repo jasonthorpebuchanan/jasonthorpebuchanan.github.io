@@ -3410,7 +3410,7 @@ background-position: top;
 
 @media (max-width: 992px) {
     .wrapper {
-        padding-top: 45px;  /* - CHANGED this CONTROLS DISTANCE of image FROM MENU - - - - - - ! ! ! ! */
+        padding-top: 40px;  /* - CHANGED this CONTROLS DISTANCE of image FROM MENU - - - - - - ! ! ! ! */
     }
 
     .module-page-title {
@@ -3418,7 +3418,7 @@ background-position: top;
     }
 
     .module-header {
-        height: 10vh; /* - -  CHANGED  height of cover image area parallax banner huahin - - - - - - - - - - - ! ! ! ! */
+        height: 20vh; /* - -  CHANGED  height of cover image area parallax banner huahin - - - - - - - - - - - ! ! ! ! */
         min-height: 3vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
         padding: 7vh 1px; /* - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
