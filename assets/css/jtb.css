@@ -3174,8 +3174,8 @@ body.off-canvas-sidebar-open .layout {
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
-    position: absolute;
-    padding: 20vh 6vh; /* - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom - huahin - - ! ! ! ! */  -->
+    position: absolute; /* huahin - - CHANGED  - */
+    padding: 30vh 6vh; /* huahin - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom -  - - ! ! ! ! */  -->
 }
 
 .module,
@@ -3186,7 +3186,7 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
     background-position: center;
     background-repeat: repeat-y;
     width: 100%;
-    position: relative;
+    position: relative; /* huahin - - CHANGED  - */
     background-size: contain; /* - - CHANGED this is blue crazystaves, not header image */
     padding: 40px 30px; /* - - CHECK ME - I AM  CHANGED padding before bio text  - - - - - - - - - - - - - - ! ! ! ! */
 }
@@ -3418,9 +3418,9 @@ background-position: top;
     }
 
     .module-header {
-        height: 40vh; /* - -  CHANGED  height of cover image area parallax banner huahin - - - - - - - - - - - ! ! ! ! */
+        height: 30vh; /* huahin - -  CHANGED  height of cover image area parallax banner  - - - - - - - - - - - ! ! ! ! */
         min-height: 3vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
-        padding: 7vh 1px; /* - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
+        padding: 7vh 1px; /* huahin - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
 
     .flexslider h1.h1,
