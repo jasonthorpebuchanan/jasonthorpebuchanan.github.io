@@ -3559,7 +3559,7 @@ background-position: top;
 .bg-dark,
 .bg-gradient {
     color: #1a1b1f; /* - - CHECK ME - I AM  CHANGED from WHITE to NEAR BLACK  - - - - - - - - - - - - - - ! ! ! ! */
-    opacity: 0.94;
+    opacity: 0.71;
     -webkit-transition: 3.2s opacity ease;
             transition: 3.2s opacity ease;
 }
