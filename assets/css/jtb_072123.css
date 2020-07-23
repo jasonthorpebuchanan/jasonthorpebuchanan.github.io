@@ -3680,8 +3680,8 @@ background-position: top;
 
 .bg-gradient:after {
     background-color: #000000;
-    background: -webkit-linear-gradient(45deg, #5b93d4 0%, rgba(74, 144, 226, .4) 90%);
-    background: linear-gradient(45deg, #5b93d4 0%, rgba(74, 144, 226, .3) 100%);
+    background: -webkit-linear-gradient(45deg, #5b93d4 0%, rgba(74, 144, 226, .1) 90%);
+    background: linear-gradient(45deg, #5b93d4 0%, rgba(74, 144, 226, .1) 90%);
     content: "";
     left: 0;
     top: 0;
