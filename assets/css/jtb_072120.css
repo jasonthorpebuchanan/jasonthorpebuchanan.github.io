@@ -90,7 +90,7 @@ body .layout {
 }
 
 .layout {
-    opacity: 0.4; /* was 0.0 in template */
+    opacity: 0.6; /* was 0.0 in template */
     -webkit-transition: 1.7s opacity ease;
             transition: 1.7s opacity ease;
             /* - - - - - - - - - - - speed of change - - - - - - - - - - - - - - ! ! ! ! */
