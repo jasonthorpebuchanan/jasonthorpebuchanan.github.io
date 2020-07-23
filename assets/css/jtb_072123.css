@@ -3419,8 +3419,8 @@ background-position: top;
 
     .module-header {
         height: 100%; /* from 30vh to 100% huahin - -  CHANGED  height of cover image area parallax banner  - - - - - - - - - - - ! ! ! ! */
-        min-height: 24vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
-        padding: 7vh 1px; /* huahin - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
+        min-height: 26vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
+        padding: 9vh 1px; /* huahin - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
 
     .flexslider h1.h1,
@@ -3680,7 +3680,7 @@ background-position: top;
 
 .bg-gradient:after {
     background-color: #000000;
-    background: -webkit-linear-gradient(45deg, #5b93d4 0%, rgba(74, 144, 226, .3) 100%);
+    background: -webkit-linear-gradient(45deg, #5b93d4 0%, rgba(74, 144, 226, .4) 90%);
     background: linear-gradient(45deg, #5b93d4 0%, rgba(74, 144, 226, .3) 100%);
     content: "";
     left: 0;
