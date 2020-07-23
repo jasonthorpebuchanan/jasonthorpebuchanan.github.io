@@ -90,7 +90,7 @@ body .layout {
 }
 
 .layout {
-    opacity: 0.6; /* was 0.0 in template */
+    opacity: 0.4; /* was 0.0 in template */
     -webkit-transition: 1.7s opacity ease;
             transition: 1.7s opacity ease;
             /* - - - - - - - - - - - speed of change - - - - - - - - - - - - - - ! ! ! ! */
@@ -3559,7 +3559,7 @@ background-position: top;
 .bg-dark,
 .bg-gradient {
     color: #1a1b1f; /* - - CHECK ME - I AM  CHANGED from WHITE to NEAR BLACK  - - - - - - - - - - - - - - ! ! ! ! */
-    opacity: 0.92;
+    opacity: 0.94;
     -webkit-transition: 3.2s opacity ease;
             transition: 3.2s opacity ease;
 }
