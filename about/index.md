@@ -9,7 +9,9 @@ tags:
 background: black
 ---
 <img class="float-sm-left col-sm-5 col-lg-4 p4-0 pb-0" src="{{ site.images }}/jtb-photos/jtb-royaumont-420x600-web.jpg">
-Jason Thorpe Buchanan is an American composer whose works explore multiplicity, intelligibility, behavior, and the integration of live performance with technology. He is Artistic Director of <a href="http://www.switchensemble.com" target="blank"> the [Switch~ Ensemble]</a>, Department Chair/Lecturer in Composition, Theory, and Electroacoustic Music at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand, and Visiting Lecturer in Composition and Interim Director of the Electronic Music Studios (UTEMS) at the Butler School of Music, University of Texas at Austin.  
+Jason Thorpe Buchanan is an American composer whose works explore multiplicity, intelligibility, behavior, and the integration of live performance with technology. He is Artistic Director of <a href="http://www.switchensemble.com" target="blank"> the [Switch~ Ensemble]</a>, Department Chair/Lecturer in Composition, Theory, and Electroacoustic Music at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand, and Visiting Lecturer in Composition and Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/" target="blank">Butler School of Music, University of Texas at Austin</a>.  
+
+
 
 <!-- new sentence -->
 
