@@ -23,7 +23,6 @@ Scenes from his multimedia opera <a href="http://www.hungeropera.com" target="bl
 Honors include a Fulbright Fellowship (Hamburg, Germany), nomination for the 2015 Gaudeamus Prize, fellowships and commissions from Royaumont (2016 & 2017), MATA, the International Horn Society, and the Earle Brown Music Foundation. He was the recipient of an American-Scandinavian Foundation Grant, two ASCAP Morton Gould Awards (2014 & 2015), and the Howard Hanson Orchestral Prize, was winner of Iron Composer (2015), 2015 Artist-in-Residence at USF Verftet (Bergen, Norway), 2017 Artist-in-Residence at the Brush Creek Foundation (Wyoming), and 2018 Artist-in-Residence at the Embassy of Foreign Artists (Geneva, Switzerland).
 
 
-
 <!-- new sentence -->
 He holds a Ph.D. from the Eastman School of Music, served for three years as Executive Director of the <a href="http://www.vipafestival.org" target="blank">VIPA Festival</a> (Spain), two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, and one year as director of the Academy for Young Composers at TICF (Thailand).
 
