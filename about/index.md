@@ -40,8 +40,8 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 
 <center>
 <div class="row col-md-12" align="center">
-<div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_CV_May.1.2020_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
-<span class="bask12">(updated May.1.2020)</span></div>
+<div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_CV_Aug.25.2020_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
+<span class="bask12">(updated Aug.25.2020)</span></div>
 
 <div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
 <span class="bask12">(updated Sep.1.2019)</span></div>
@@ -80,11 +80,9 @@ As a nominee for the 2015 Gaudeamus Prize, three works were presented by Insomni
 <br><br>
 <!-- new sentence --> Scenes from his multimedia opera <a href="http://www.hungeropera.com" target="blank"><em>Hunger</em></a> have received performances at Darmstadt (2014) with
 <a href="http://www.ensembleinterface.com/" target="blank">Ensemble Interface</a> (DE), <a href="http://theindustryla.org" target="blank">The Industry</a>’s FIRST TAKE in L.A. (2015) with
-<a href="http://wildup.la" target="blank">wild Up</a>, and the <a href="http://matafestival.org/mata-interval/" target="blank">MATA</a> Interval Series in New York City (2015) with <a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a>.
-
-<br><br>
+<a href="http://wildup.la" target="blank">wild Up</a>, and the <a href="http://matafestival.org/mata-interval/" target="blank">MATA</a> Interval Series in New York City (2015) with <a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a>.<br>
 <!-- new sentence -->
-“Hunger is a kind of training session in mental disintegration... An ungodly opera needs ugly music, singers who produce primal sounds, an electric guitar that sounds scraped raw, a wailing orchestra effects, cuts the ear like a knife. Buchanan delivers.” <em>&#8212; L.A. Times</em>
+“<em>Hunger</em> is a kind of training session in mental disintegration... An ungodly opera needs ugly music, singers who produce primal sounds, an electric guitar that sounds scraped raw, a wailing orchestra effects, cuts the ear like a knife. Buchanan delivers.” <em>&#8212; L.A. Times</em>
 
 <br><br>
 <!-- new sentence -->
