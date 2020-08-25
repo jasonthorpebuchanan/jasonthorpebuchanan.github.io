@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<em>walkside, lost</em> (2015) featured on Score Follower as a Fall 2019 selected work. #FollowMyScore"
+title: "walkside, lost (2015) featured on Score Follower as a Fall 2019 selected work. #FollowMyScore"
 date: 2019-11-28
 sortYear: 2019
 categories: news
