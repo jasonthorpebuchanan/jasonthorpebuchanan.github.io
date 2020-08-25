@@ -63,47 +63,46 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#myaccordion">
       <div class="card-body" align="justify">
-      Jason Thorpe Buchanan is an American composer of opera, orchestral, chamber, electroacoustic, and intermedia works that explore fragmentation, multiplicity, intelligibility, and the integration of live performance with technology. He is currently Artistic Director of <a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a>, and Department Chair/Lecturer in Composition, Theory, and Electronic Music Composition at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand. His works have been described as "an uneathly collage of sounds", "sharply-edged", and "free jazz gone wrong--in a good way."
-
-<br><br>
-      <!-- new sentence -->
-
-      Jason is the recipient of a 2010-11 Fulbright Fellowship at the Hochschule für Musik und Theater in Hamburg (DE) as a visiting scholar,
-      a fellowship and commissions from Royaumont for <em>soliloquios del viento</em> (2016) for the <a href="http://taleaensemble.org/" target="blank">Talea Ensemble</a>+EXAUDI Vocal Ensemble
-      and <em>ACTOR-NETWORK THEORY</em> (2017)
-      for the Académie Voix Nouvelles Ensemble,
-      a 2015 American-Scandinavian Foundation Grant,
-      a 2014 commission from the International Horn Society and 2015 ASCAP Morton Gould Award for <em>Double Concerto</em> (2014) written for the Eastman Musica Nova Ensemble, soloists Jeff Nelsen, Michael Walker, and conductor Brad Lubman,
-      a 2014 ASCAP Morton Gould Award & Howard Hanson Orchestral Prize (2014) for <em>Asymptotic Flux: Second Study in Entropy</em> (2013) commissioned by the Mizzou International Composers Festival for <a href="www.alarmwillsound.com" target="blank">Alarm Will Sound</a>,
-      a commission from the Blue Water Chamber Orchestra as winner of Iron Composer (2014), commissions from <a href="http://www.ensemblenikel.com/" target="blank">Ensemble Nikel</a> (Israel, 2014) and <a href="http://www.iktuspercussion.com" target="blank">Iktus Percussion</a> (2013),
-      the German/American Fulbright Commission (2011) and winner of newEar Composer’s Competition (2013).
-<br><br>
-<!-- new sentence -->
-      In 2015, as Artist-in-Residence at USF Verftet/City Council of Bergen, Norway and nominee for the Gaudeamus Prize,
-      three works were presented by Insomnio, New European Ensemble, and Slagwerk Den Haag at Gaudeamus Muziekweek (NL).<!-- new sentence --> His works <em>walkside, lost</em> and <em>gimme shelter</em> (2015), commissioned by Gaudeamus Muziekweek and Eklekto Percussion Geneva, both explore the structural intersection of precise physical gestures, fragile sounds, and speech alongside live audio and video processing. Three speaking percussionists manipulate household objects, microphones, and speakers embedded in wooden boxes while cameras generate a reservoir of video files.
-      These files are retrieved, re-organized, and composited against one another, creating temporal, aural, and visual dissonances between past and present actions.<!-- new sentence --> As 2018 Artist-In-Residence at the Embassy of Foreign Artists in Geneva, Switzerland, he developed a new, interactive processing environment for <em>surface, tension</em> (2018),
-      responding directly to the discrete physical gestures of performers and governing the behavior of both signal processing and soundfile triggering through wearable technology, sensors, and motion tracking.
+Jason Thorpe Buchanan is an American composer of operatic, orchestral, chamber, electroacoustic, and intermedia works that explore fragmentation, multiplicity, intelligibility, behavior, and the integration of live performance with technology. He is Artistic Director of <a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a>, Department Chair/Lecturer in Composition, Theory, and Electronic Music Composition at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand, and Visiting Lecturer in Composition and Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/" target="blank">Butler School of Music, University of Texas at Austin.</a>  His works have been described as "an unearthly collage of sounds", "sharply-edged", and "free jazz gone wrong&#8212;in a good way."
 
 <br><br>
 <!-- new sentence -->
-      <em>PANIC ARCHITECTURE</em> (2017), commissioned by the Earle Brown Music Foundation for the Talea Ensemble and TIME SPANS Festival in NYC, evokes a participatory framework demanding compulsive interaction and attention. The relentless influx of email, messages, and notifications compel our constant engagement and response, functioning as both our tether to society and primary mode of interpersonal contact. Intermittent reinforcement entices users to obsessively check for new content. Digital panic occurs when multiple, simultaneous systems demand a user’s attention concurrently.<!-- new sentence --> Scenes from his multimedia opera <a href="http://www.hungeropera.com" target="blank"><em>Hunger</em></a> have received performances at Darmstadt (2014) with
-      <a href="http://www.ensembleinterface.com/" target="blank">Ensemble Interface</a> (DE), <a href="http://theindustryla.org" target="blank">The Industry</a>’s FIRST TAKE in L.A. (2015) with
-      <a href="http://wildup.la" target="blank">wild Up</a>, and the <a href="http://matafestival.org/mata-interval/" target="blank">MATA</a> Interval Series in New York City (2015) with
-      <a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a>.
-
-      An ungodly opera needs ugly music, singers who produce primal sounds, an electric guitar that sounds scraped raw, a wailing orchestra effects, cuts the ear like a knife. Buchanan delivers.” <em>– L.A. Times</em>
+Jason is the recipient of a 2010-11 Fulbright Fellowship at the Hochschule für Musik und Theater in Hamburg (DE) as a visiting scholar, a 2013 commission for <em>Asymptotix Flux: Second Study in Entropy</em> from the Mizzou International Composers Festival for <a href="www.alarmwillsound.com" target="blank">Alarm Will Sound</a>, the Howard Hanson Orchestral Prize (2014), a 2014 commission for <em>Double Concerto</em> from the International Horn Society written for the Eastman Musica Nova Ensemble, soloists Jeff Nelsen, Michael Walker, and conductor Brad Lubman, a 2014 commission from the Blue Water Chamber Orchestra as winner of Iron Composer (2014), two ASCAP Morton Gould Awards (2014 & 2015), an American-Scandinavian Foundation Grant (2015), a fellowship and commissions from Royaumont for <em>soliloquios del viento</em> (2016), written for the <a href="http://taleaensemble.org/" target="blank">Talea Ensemble</a>+EXAUDI Vocal Ensemble and <em>ACTOR-NETWORK THEORY</em> (2017) for the Académie Voix Nouvelles Ensemble, and commissions from <a href="http://www.ensemblenikel.com/" target="blank">Ensemble Nikel</a>/Tzlil Meudcan (Israel, 2014) and <a href="http://www.iktuspercussion.com" target="blank">Iktus Percussion</a> (NYC, 2013), a German/American Fulbright Commission (2011), winner of newEar Composer’s Competition (2013), and 2015 Artist-in-Residence at USF Verftet/City Council of Bergen, Norway.
 
 <br><br>
 <!-- new sentence -->
-      Primary mentors have included Ricardo Zohn-Muldoon, Steven Takasugi, Pierluigi Billone, Chaya Czernowin, Raphaël Cendo, David Liptak, Virko Baley, Peter Michael Hamel, Jorge Villavicencio Grossmann, Pablo Furman, and Georges Aperghis.<!-- new sentence --> Jason served for three years as Executive Director of the <a href="http://www.vipafestival.org" target="blank">Valencia International Performance Academy & Festival</a> (Spain), for two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, and as founding Director of the TICF Academy for Young Composers, as well as course instructor in electronic music and composition, board member of OSSIA, and assistant conductor for the Musica Nova Ensemble with conductor <a href="http://bradlubman.me/" target="blank">Brad Lubman</a> at the Eastman School of Music.
+As a nominee for the 2015 Gaudeamus Prize, three works were presented by Insomnio, New European Ensemble, and Slagwerk Den Haag at Gaudeamus Muziekweek (NL).<!-- new sentence --> His works <em>walkside, lost</em> and <em>gimme shelter</em> (2015), commissioned by Gaudeamus Muziekweek and Eklekto Percussion Geneva, both explore the structural intersection of precise physical gestures, fragile sounds, and speech alongside live audio and video processing.<!-- new sentence --> Three speaking percussionists manipulate household objects, microphones, and speakers embedded in wooden boxes while cameras generate a reservoir of video files. These files are retrieved, re-organized, and composited against one another, creating temporal, aural, and visual dissonances between past and present actions.<!-- new sentence --> As 2018 Artist-In-Residence at the Embassy of Foreign Artists in Geneva, Switzerland, he developed a new, interactive processing environment for <em>surface, tension</em> (2018), responding directly to the discrete physical gestures of performers and governing the behavior of both signal processing and soundfile triggering through wearable technology, sensors, and motion tracking.
 
 <br><br>
 <!-- new sentence -->
-      He is widely sought internationally as a guest composer and lecturer at institutions including the University of Virginia, San Jose State University, UNLV, Queens New Music Festival, MATA, UT Austin, Tzlil Meudcan Festival (Tel Aviv), Hamilton College, Chamber Music Campania (Italy), Portland State University, TRANSIT Festival Belgium, University of Richmond, UNCG, Michigan State University, University of Northern Colorado, China-ASEAN Music Week, Yong Siew Toh Conservatory in Singapore, the Bergen Center for Elektronisk Kunst (BEK) in Norway, the University of Chicago, and Stanford University.<!-- new sentence --> He holds a Ph.D. in Composition from the Eastman School of Music, and degrees in Composition and Music Technology from San José State University (BM & BA, 2008) and the University of Nevada, Las Vegas (MM, 2010), where he taught courses in composition and theory.
+<em>PANIC ARCHITECTURE</em> (2017), commissioned by the Earle Brown Music Foundation for the Talea Ensemble and TIME SPANS Festival in NYC, evokes a participatory framework demanding compulsive interaction and attention. The relentless influx of email, messages, and notifications compel our constant engagement and response, functioning as both our tether to society and primary mode of interpersonal contact. Intermittent reinforcement entices users to obsessively check for new content. Digital panic occurs when multiple, simultaneous systems demand a user’s attention concurrently.
+
+<br><br>
+<!-- new sentence --> Scenes from his multimedia opera <a href="http://www.hungeropera.com" target="blank"><em>Hunger</em></a> have received performances at Darmstadt (2014) with
+<a href="http://www.ensembleinterface.com/" target="blank">Ensemble Interface</a> (DE), <a href="http://theindustryla.org" target="blank">The Industry</a>’s FIRST TAKE in L.A. (2015) with
+<a href="http://wildup.la" target="blank">wild Up</a>, and the <a href="http://matafestival.org/mata-interval/" target="blank">MATA</a> Interval Series in New York City (2015) with <a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a>.
 
 <br><br>
 <!-- new sentence -->
-      Current projects include the multimedia opera Hunger, and a large work for the Hong Kong New Music Ensemble commissioned by the MATA Festival in NYC (2020).
+“Hunger is a kind of training session in mental disintegration... An ungodly opera needs ugly music, singers who produce primal sounds, an electric guitar that sounds scraped raw, a wailing orchestra effects, cuts the ear like a knife. Buchanan delivers.” <em>&#8212; L.A. Times</em>
+
+<br><br>
+<!-- new sentence -->
+<em>all-forgetting-is-retrieval</em> (2019) for ensemble and augmented conductor was commissioned by the Thailand New Music and Arts Symposium, exploring the formation of human memory, retrieval, failure, and the emotional space of "lost" experiences&#8212;the inability to be truly present in a moment, or further commit to memory experiences that are simultaneously both formative and fleeting. The rapid loss of their fidelity is staggering, and this work attempt to confront that impermanence and decay.
+
+<br><br>
+<!-- new sentence -->
+Primary mentors have included Ricardo Zohn-Muldoon, Steven Takasugi, Pierluigi Billone, Chaya Czernowin, Raphaël Cendo, David Liptak, Virko Baley, Peter Michael Hamel, Jorge Villavicencio Grossmann, Pablo Furman, and Georges Aperghis.<!-- new sentence --> Jason served for three years as Executive Director of the <a href="http://www.vipafestival.org" target="blank">Valencia International Performance Academy & Festival</a> (Spain), for two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, and as founding Director of the TICF Academy for Young Composer in Thailand. As a doctoral student, he served as instructor in electronic music and composition, board member of OSSIA, and assistant conductor for the Musica Nova Ensemble with conductor <a href="http://bradlubman.me/" target="blank">Brad Lubman</a> at the Eastman School of Music.
+
+<br><br>
+<!-- new sentence -->
+As a guest composer, conductor, and lecturer, he is been widely sought internationally at institutions such as the University of Chicago, Stanford University, TRANSIT Festival (Belgium), Tzlil Meudcan Festival (Israel), Chamber Music Campania (Italy), Eastman School of Music, University of Miami Frost School of Music, Music Science Share Educators Conference (Shanghai, China), the Queens New Music Festival, MATA, the Thailand New Music and Arts Symposium, Yong Siew Toh Conservatory (Singapore), the Bergen Center for Elektronisk Kunst (BEK; Norway), and over two dozen Universities throughout the United States.<!-- new sentence --> He holds a Ph.D. in Composition from the Eastman School of Music, and degrees in Composition and Music Technology from San José State University (BM & BA, 2008) and the University of Nevada, Las Vegas (MM, 2010), where he taught courses in composition and theory.
+
+
+<br><br>
+<!-- new sentence -->
+Current projects include the multimedia opera Hunger, and a large work for the International Contemporary Ensemble and Hong Kong New Music Ensemble commissioned by the MATA Festival in NYC.
+
 
       </div>
     </div>
