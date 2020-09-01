@@ -7,7 +7,7 @@ headerImage: headers/jarnegard-arete.png
 thumbnail: updates/jarnegard-arete-250px.png
 photosFolder:
 tags:
-  - 2019
+  - 2020
   - conducting
   - switch
 media:

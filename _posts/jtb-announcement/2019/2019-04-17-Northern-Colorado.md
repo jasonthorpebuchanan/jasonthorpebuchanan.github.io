@@ -8,7 +8,6 @@ headerImage: headers/northern-colorado-sign.jpg
 thumbnail: updates/UNC-560.png
 photosFolder:
 tags:
-  - new
   - 2019
   - lecture
 ---

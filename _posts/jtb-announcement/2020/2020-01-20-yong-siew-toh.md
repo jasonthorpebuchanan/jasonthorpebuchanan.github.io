@@ -9,7 +9,7 @@ thumbnail: updates/yst_300.jpg
 photosFolder:
 tags:
   - new
-  - 2019
+  - 2020
   - lecture
 ---
 Jan. 20, 2020: Yong Siew Toh Conservatory of Music, Guest Composer Lecture, Singapore.

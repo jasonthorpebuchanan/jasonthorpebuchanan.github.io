@@ -7,7 +7,6 @@ headerImage: headers/ticf-group-workshop.jpg
 thumbnail: updates/ticf-academy-2000px@2x.png
 photosFolder: ticf
 tags:
-  - new
   - 2019
   - lecture
 ---
