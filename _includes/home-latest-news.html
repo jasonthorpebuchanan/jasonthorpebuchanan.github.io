@@ -11,7 +11,7 @@
 	{% assign sortedNewsPosts = site.posts | where_exp:"item", "item.categories contains 'news'" %}
 
 	<ul>
-		{%- for post in sortedNewsPosts limit:53 -%}
+		{%- for post in sortedNewsPosts limit:43 -%}
 
 		<div class="portfolio-item posts-item p-2 {% for item in post.tags %}{{-item }} {% endfor %}{{ post.date -}}" width="100%">
 
