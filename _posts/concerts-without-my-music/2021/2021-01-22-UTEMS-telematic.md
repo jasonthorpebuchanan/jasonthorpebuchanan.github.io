@@ -1,8 +1,8 @@
 ---
 layout: concert
 categories: performance
-describe: Producing five telematic world premieres by UT Austin graduate student composers, with the [Switch~ Ensemble].
 date: 2021-01-22
+describe: Producing five telematic world premieres by UT Austin graduate student composers, with the [Switch~ Ensemble].
 time:
 location:
   institution: University of Texas at Austin
