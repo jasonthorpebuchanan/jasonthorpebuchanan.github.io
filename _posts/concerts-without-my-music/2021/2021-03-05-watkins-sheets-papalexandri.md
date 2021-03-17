@@ -4,8 +4,8 @@ categories: performance
 date: 2021-03-05
 describe: Producing three online world premieres by Zach Sheets, Zachary Watkins, and Marianthi Papalexandri-Alexandri with the [Switch~ Ensemble].
 time:
-location:
-  institution: The Internet
+location: The Internet
+  institution:
   building:
   venue: YouTube!
   address:
