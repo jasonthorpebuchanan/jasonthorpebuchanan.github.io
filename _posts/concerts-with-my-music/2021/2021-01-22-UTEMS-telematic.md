@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: <em>all-forgetting-is-retrieval</em> (2019), Less Than <10, online, socially distanced recording premiere.
+describe: Producing five telematic world premieres by UT Austin graduate student composers, with the [Switch~ Ensemble].
 date: 2021-01-22
 time:
 location:
