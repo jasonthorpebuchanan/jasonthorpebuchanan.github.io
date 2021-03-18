@@ -9,7 +9,7 @@ location:
   building:
   venue: The Internet
   address:
-  city:
+  city: New York
   state: NY
   zip:
 program:
