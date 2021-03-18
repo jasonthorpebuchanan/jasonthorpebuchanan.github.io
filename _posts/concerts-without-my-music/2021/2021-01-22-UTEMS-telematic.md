@@ -7,7 +7,7 @@ time:
 location:
   institution: University of Texas at Austin
   building:
-  venue: Butler School of Music, University of Texas at Austin
+  venue: Butler School of Music
   address:
   city: Austin
   state: TX
