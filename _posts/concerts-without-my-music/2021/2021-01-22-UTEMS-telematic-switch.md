@@ -28,6 +28,8 @@ thumbnail: updates/diels_filament-250x125.jpg
 tags:
   - 2021
   - new
+  - switch
+  - telematic
 
 ---
 
