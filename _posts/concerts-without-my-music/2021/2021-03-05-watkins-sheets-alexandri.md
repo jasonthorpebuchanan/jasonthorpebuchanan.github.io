@@ -19,12 +19,14 @@ program:
   title: Warden (2021)
 - composer: Zachary James Watkins
   title: Do Your Best, Never Say Can't, and Love One Another (2021)
-headerImage: headers/arete-4.jpg
-thumbnail: updates/diels_filament-250x125.jpg
+headerImage: headers/Switch-March-5-800-opt.png
+thumbnail: updates/Switch-March-5-300-opt.png
 tags:
-  - 2021
-  - new
+- 2021
+- new
+- switch
+- telematic
 
 ---
 
-Less Than <10 is a student run ensemble at the Butler School of Music, University of Texas at Austin.
+The [Switch~ Ensemble] premieres two brand new works by Zachary Sheets and Zachary James Watkins, alongside the world premiere release of a video recording of Marianthi Papalexandri-Alexandri's "Duo for Motor and Sound Panels".
