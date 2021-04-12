@@ -4,7 +4,7 @@ categories: blog
 headerImage: JTB_HuaHin_1800x899.jpg
 date: 2020-01-04
 manualDate: Jan. 4 2020
-postDescription: About 
+postDescription: About
 tags:
 background: black
 ---
@@ -40,7 +40,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 
 <center>
 <div class="row col-md-12" align="center">
-<div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_CV_Aug.25.2020_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
+<div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_CV_Apr.11.2021_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
 <span class="bask12">(updated Aug.25.2020)</span></div>
 
 <div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
