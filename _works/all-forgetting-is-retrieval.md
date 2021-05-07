@@ -22,12 +22,14 @@ tags:
   - chamber
   - conducted
 media:
-  - title: "all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan"
-    url: https://player.vimeo.com/video/386270819?quality=2K
+- title: "all-forgetting-is-retrieval (2019) - Less Than 10"
+  url: https://player.vimeo.com/video/545829340?quality=2K
+- title: "all-forgetting-is-retrieval (2019) - TACETi Ensemble"
+  url: https://player.vimeo.com/video/386270819?quality=2K
 headerImage: works-images/afir-1080.jpg
 portWrapper: works-images/port-wrapper/afir-640x360.jpg
 photosFolder: all-forgetting-is-retrieval
-purchase: "Digital Score PDF: $19.95, Score, Parts (RENTAL ONLY), and Max Patch: $129.95"
+purchase: "Perusal PDF Score: $20; Score, Parts, Max Patch (and remote consultation): $200"
 contact: jasontbuchanan[at]gmail.com
 awards: "Commissioned by Thailand New Music & Arts Symposium"
 dedication: "For the TACETi Ensemble"
