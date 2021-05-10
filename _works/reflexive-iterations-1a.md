@@ -22,6 +22,7 @@ tags:
 media:
 - title:
   url:
+score: score_reflexive-iterations-1a.html
 headerImage: works-images/reflexive-iterations-1080x549.jpg
 portWrapper: works-images/port-wrapper/reflexive-iterations-640x360.jpg
 photosFolder: ReflexiveIterations
