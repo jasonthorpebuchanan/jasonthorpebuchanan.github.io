@@ -6,7 +6,7 @@ title: "Reflexive Iterations 1.a"
 duration: 22 minutes
 yearComposed: 2020
 commissionedOrWrittenFor: Commissioned by Thailand New Music & Arts Symposium
-size: quintet, electronic musician
+size: quintet, electronic musician,
 instrumentation:
   - tenor saxophone
   - bass clarinet
@@ -20,7 +20,7 @@ tags:
   - chamber
   - unconducted
 media:
-- title: 
+- title:
   url:
 headerImage: works-images/reflexive-iterations-1080x549.jpg
 portWrapper: works-images/port-wrapper/reflexive-iterations-640x360.jpg
@@ -29,8 +29,7 @@ purchase: "Perusal PDF Score: $20; Score and Parts: $100"
 contact: jasontbuchanan[at]gmail.com
 awards: "Commissioned by Thailand New Music & Arts Symposium"
 dedication: "For the TACETi Ensemble"
-score: score_reflexive-iterations-1a.html
-premiere: "Thailand New Music and Arts Symposium, Bangkok Arts and Culture Centre, Thailand - July 7, 2019"      
+premiere: "Thailand New Music and Arts Symposium, Bangkok Arts and Culture Centre, Thailand - December 20, 2020"      
 
 ---
 <em>Reflexive Iterations 1.a</em> was written for the TACETi Ensemble to be premiered during the 2020 Thailand New Music and Art Symposium. The work expands upon the “no-input” mixing tradition in noise music, routing input from various contact microphones through an analog system with which the performers control signal flow through both physical proximity and electrical attenuation. The mixer/composer manipulates these signals through gain staging, attenuation, and bandpass filters which change the power of different frequency components within the audio spectrum. These are then routed through auxiliary sends to two systems of effect pedals, back into the mixer and a 4-channel car amplifier, and finally out to four discrete speakers. Each speaker emits air pressure waves, which are both perceived by the audience and musicians, as well as fed back through the system again via the same contact microphones which first converted the sound into electrical signals. In other words, they “hear” themselves. The physical behavior of the musicians on stage influence the character and quality of this recursive process based on the position and proximity of the microphones to the speakers, “tuning” and also introducing new, physical noise by touching the microphone or plastic filter against the vibrating speaker cone itself.
