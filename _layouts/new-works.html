@@ -1,52 +1,39 @@
----
-layout: page-without-ends
----
-	<head>
-		<script type="text/javascript">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	{% include head.html %}
+	<link rel="stylesheet" href="/assets/css/jtb_072123.css">
+</head>
 
-		function toggle_text(shown, hidden) {
-					 var e = document.getElementById(shown);
-					 var f = document.getElementById(hidden);
-				if(e.style.display == 'inline') {
-											e.style.display = 'none';
-											f.style.display = 'inline';
-					}
-					else {
-											e.style.display = 'inline';
-											f.style.display = 'none';
-					}
-		}
-		</script>
 
-		 <script language="javascript">
-		<!--
-		function getItem(id)
-				{
-						var itm = false;
-						if(document.getElementById)
-								itm = document.getElementById(id);
-						else if(document.all)
-								itm = document.all[id];
-						else if(document.layers)
-								itm = document.layers[id];
-						return itm;
-				}
-				function toggleItem(id)
-				{
-						itm = getItem(id);
-						if(!itm)
-								return false;
-						if(itm.style.display == 'none')
-								itm.style.display = '';
-						else
-								itm.style.display = 'none';
-						return false;
-				}
-		</script>
-		<script src="{{ site.assets }}js/jtb-jquery-3.3.1.min.js"></script>
-		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-		<script src="{{ site.assets }}/js/lightbox-plus-jquery.min.js"></script>
-	</head>
+<body>
+	{%- if page.headerImage -%}
+	  <!-- Page Header-->
+	  <section class="module-header parallax bg-dark bg-dark-50" data-background="{{ site.images }}/{{ page.headerImage }}">
+	  	<div class="container">
+
+	  </section>
+	  <!-- Page Header end-->
+	{%- endif -%}
+
+
+	<!-- Layout-->
+
+
+	<!-- Scripts -->
+	{% include scripts.html %}
+	<!-- Scripts end-->
+
+	<script>
+	function init() {
+	var vidDefer = document.getElementsByTagName('iframe');
+	for (var i=0; i<vidDefer.length; i++) {
+	if(vidDefer[i].getAttribute('data-src')) {
+	vidDefer[i].setAttribute('src',vidDefer[i].getAttribute('data-src'));
+	} } }
+	window.onload = init;
+	</script>
+
 
 {% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'performance'" %}
 {% comment %}{% assign currentPiecePerfs = site.works | where_exp:"item", "item.title contains 'page.title'" %}{% endcomment %}
@@ -245,3 +232,6 @@ layout: page-without-ends
 	    </div>
 	  </div>
 	</section>
+
+</body>
+</html>
