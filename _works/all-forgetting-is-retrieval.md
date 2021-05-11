@@ -22,7 +22,7 @@ tags:
   - chamber
   - conducted
 media:
-- title: "all-forgetting-is-retrieval (2019) - Less Than 10"
+- title: "all-forgetting-is-retrieval (2019) - Less Than 10 Ensemble"
   url: https://player.vimeo.com/video/545829340?quality=2K
 - title: "all-forgetting-is-retrieval (2019) - TACETi Ensemble"
   url: https://player.vimeo.com/video/386270819?quality=2K
