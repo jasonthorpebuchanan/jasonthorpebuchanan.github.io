@@ -1,5 +1,5 @@
 ---
-layout: page-without-ends
+layout: works
 ---
 
 {% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'performance'" %}
@@ -7,10 +7,6 @@ layout: page-without-ends
 
 	{%- if page.media -%}
 	<!-- Media-->
-	<head>
-		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-
-		<script src="/assets/js/lightbox-plus-jquery.min.js"></script></head>
 	<section>
 	<div class="col-12 mb-5">
 		{% assign printHeader = false %}  <!-- successfully removed header -->
