@@ -1,6 +1,8 @@
 ---
-layout: page-without-ends
+layout: default-without-ends
 ---
+	<link rel="stylesheet" href="/assets/css/jtb_072123.css">
+
 		<script type="text/javascript">
 
 		function toggle_text(shown, hidden) {
@@ -42,8 +44,25 @@ layout: page-without-ends
 						return false;
 				}
 		</script>
+		<script src="{{ site.assets }}js/jtb-jquery-3.3.1.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 		<script src="{{ site.assets }}/js/lightbox-plus-jquery.min.js"></script>
+
+</head>
+
+		<!-- Scripts -->
+		{% include scripts.html %}
+		<!-- Scripts end-->
+
+		<script>
+		function init() {
+		var vidDefer = document.getElementsByTagName('iframe');
+		for (var i=0; i<vidDefer.length; i++) {
+		if(vidDefer[i].getAttribute('data-src')) {
+		vidDefer[i].setAttribute('src',vidDefer[i].getAttribute('data-src'));
+		} } }
+		window.onload = init;
+		</script>
 
 {% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'performance'" %}
 {% comment %}{% assign currentPiecePerfs = site.works | where_exp:"item", "item.title contains 'page.title'" %}{% endcomment %}
@@ -51,7 +70,7 @@ layout: page-without-ends
 	{%- if page.media -%}
 	<!-- Media-->
 	<section>
-	<div class="col-12 mb-5">
+	<div class="col-10 mb-4">
 		{% assign printHeader = false %}  <!-- successfully removed header -->
 		{%- for item in page.media -%}
 			{%- if item.url contains 'youtube' or item.url contains 'vimeo' -%}
@@ -88,7 +107,7 @@ layout: page-without-ends
 					{%- if page.score  -%}
 		<!--		<div class="col-6 nopadding score-wrapper">{% include {{ page.score }} %}</div> -->
 		<h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4>
-				<div class="col-6 nopadding">{% include {{ page.score }} %}</div>
+				<div class="col-6 nopadding"><a data-fancybox data-type="iframe" class="score-wrapper" href="{{ work.url }}" target="_blank">{% include {{ page.score }} %}</a></div>
 
 
 
