@@ -201,7 +201,56 @@ layout: page-without-ends
 	    </div>
 	  </div>
 		<!-- ****** PERFORMANCES END ****** -->
-					<!-- Scripts -->
-					{% include scripts.html %}
-					<!-- Scripts end-->
+
+
+					<!-- THIS IS FOR SCORES -->
+					<script type="text/javascript">
+
+					function toggle_text(shown, hidden) {
+					       var e = document.getElementById(shown);
+					       var f = document.getElementById(hidden);
+					    if(e.style.display == 'inline') {
+					                  e.style.display = 'none';
+					                  f.style.display = 'inline';
+					      }
+					      else {
+					                  e.style.display = 'inline';
+					                  f.style.display = 'none';
+					      }
+					}
+					</script>
+
+					 <script language="javascript">
+					<!--
+					function getItem(id)
+					    {
+					        var itm = false;
+					        if(document.getElementById)
+					            itm = document.getElementById(id);
+					        else if(document.all)
+					            itm = document.all[id];
+					        else if(document.layers)
+					            itm = document.layers[id];
+					        return itm;
+					    }
+					    function toggleItem(id)
+					    {
+					        itm = getItem(id);
+					        if(!itm)
+					            return false;
+					        if(itm.style.display == 'none')
+					            itm.style.display = '';
+					        else
+					            itm.style.display = 'none';
+					        return false;
+					    }
+					//-->
+					</script>
+
+
+					<script src="assets/js/jtb-jquery-3.3.1.min.js"></script>
+
+					<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+					<script src="{{ site.assets }}/js/lightbox-plus-jquery.min.js"></script>
 	</section>
