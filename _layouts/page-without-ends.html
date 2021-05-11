@@ -2,12 +2,10 @@
 layout: default-without-ends
 ---
 <!DOCTYPE html>
-<html lang="en">
+
 	<head>
 		{% include head.html %}
-		<link rel="stylesheet" href="/assets/css/jtb_072123.css">
 	</head>
-	<body>
 {%- if page.headerImage -%}
   <!-- Page Header-->
   <section class="module-header parallax bg-dark bg-dark-50" data-background="{{ site.images }}/{{ page.headerImage }}">
@@ -31,5 +29,4 @@ layout: default-without-ends
     {{ content }}
   </div>
 </section>
-</body>
 <!-- Module end-->
