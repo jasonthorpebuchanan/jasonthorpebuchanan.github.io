@@ -47,8 +47,12 @@ layout: page-without-ends
 		<div class="single-portfolio-title nopadding" width="98%">
 			<div class="row" width="98%">
 					{%- if page.score  -%}
-				<div class="col-6 nopadding score-wrapper">{% include {{ page.score }} %}</div>
+		<!--		<div class="col-6 nopadding score-wrapper">{% include {{ page.score }} %}</div> -->
+				<div class="col-6 nopadding score-wrapper"><a href="{{ page.score }}">{% include {{ page.score }} %}</a></div>
+
 				{%- endif -%}
+
+
 
 	<div class="col-6 nopadding">
 					<ul>	<li><h4 class="single-portfolio-title">ABOUT THE WORK:</h4>
@@ -197,5 +201,7 @@ layout: page-without-ends
 	    </div>
 	  </div>
 		<!-- ****** PERFORMANCES END ****** -->
-
+					<!-- Scripts -->
+					{% include scripts.html %}
+					<!-- Scripts end-->
 	</section>
