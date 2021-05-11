@@ -1,8 +1,6 @@
 ---
 layout: page-without-ends
 ---
-	<link rel="stylesheet" href="/assets/css/jtb_072123.css">
-
 		<script type="text/javascript">
 
 		function toggle_text(shown, hidden) {
@@ -55,7 +53,7 @@ layout: page-without-ends
 	{%- if page.media -%}
 	<!-- Media-->
 	<section>
-	<div class="col-10 mb-4">
+	<div class="col-10 mb-3">
 		{% assign printHeader = false %}  <!-- successfully removed header -->
 		{%- for item in page.media -%}
 			{%- if item.url contains 'youtube' or item.url contains 'vimeo' -%}
@@ -90,19 +88,13 @@ layout: page-without-ends
 		<div class="single-portfolio-title nopadding" width="98%">
 			<div class="row" width="98%">
 					{%- if page.score  -%}
-		<!--		<div class="col-6 nopadding score-wrapper">{% include {{ page.score }} %}</div> -->
-		<h4 class="single-portfolio-title" align="left">VIEW SCORE: TEST</h4>
-		<br>
-				<div class="col-6 nopadding">{% include {{ page.score }} %}</div>
+		<h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4>
 
-
-
+				<div class="col-6 nopadding score-wrapper"><ul>{% include {{ page.score }} %}</div>
 				{%- endif -%}
 
 
-
-
-	<div class="col-6 nopadding">
+	<div class="col-6 nopadding score-wrapper">
 					<ul>	<li><h4 class="single-portfolio-title">ABOUT THE WORK:</h4>
 </li>
 <!-- <li>{{ page.title }}</li> -->
@@ -114,7 +106,7 @@ layout: page-without-ends
 					</li> -->
 	        {%- if page.instrumentation -%}
 	          <li>
-	            <h5>Instrumentation: &nbsp;&nbsp;<font class="roboto">
+	            <h5 align="left">Instrumentation: &nbsp;&nbsp;<font class="roboto">
 							{%- for instrument in page.instrumentation -%}
 		            {%- if forloop.last == true -%}
 		              and {{ instrument -}}
@@ -128,62 +120,62 @@ layout: page-without-ends
 
 					{%- if page.dedication -%}
 					<li>
-						<h5>Dedication: &nbsp;&nbsp;<font class="roboto">
+						<h5 align="left">Dedication: &nbsp;&nbsp;<font class="roboto">
 						{{ page.dedication }}</font>
 						</li>
 						{%- endif -%}
 
 						{%- if page.awards -%}
 						<li>
-							<h5>Commission & Awards: &nbsp;&nbsp;<font class="roboto">
+							<h5 align="left">Commission & Awards: &nbsp;&nbsp;<font class="roboto">
 							{{ page.awards }}</font>
 							</li>
 							{%- endif -%}
 
 							{%- if page.text -%}
 							<li>
-								<h5>Text by: &nbsp;&nbsp;<font class="roboto">
+								<h5 align="left">Text by: &nbsp;&nbsp;<font class="roboto">
 								{{ page.text }}</font>
 								</li>
 								{%- endif -%}
 
 							{%- if page.premiere -%}
 							<li>
-								<h5>World Premiere: &nbsp;&nbsp;<font class="roboto">
+								<h5 align="left">World Premiere: &nbsp;&nbsp;<font class="roboto">
 								{{ page.premiere }}</font>
 								</li>
 								{%- endif -%}
 
 								{%- if page.europeanPremiere -%}
 								<li>
-									<h5>European Premiere: &nbsp;&nbsp;<font class="roboto">
+									<h5 align="left">European Premiere: &nbsp;&nbsp;<font class="roboto">
 									{{ page.europeanPremiere }}</font>
 									</li>
 									{%- endif -%}
 
 									{%- if page.americanPremiere -%}
 									<li>
-										<h5>American Premiere: &nbsp;&nbsp;<font class="roboto">
+										<h5 align="left">American Premiere: &nbsp;&nbsp;<font class="roboto">
 										{{ page.americanPremiere }}</font>
 										</li>
 										{%- endif -%}
 
 					{%- if page.purchase -%}
 					<li>
-						<h5>Purchasing information: &nbsp;&nbsp;<font class="roboto">
+						<h5 align="left">Purchasing information: &nbsp;&nbsp;<font class="roboto">
 						{{ page.purchase }}</font>
 						{%- endif -%}
 						</li>
 
 					{%- if page.contact -%}
 						<li>
-							<h5>Contact: &nbsp;&nbsp;<font class="roboto">
+							<h5 align="left">Contact: &nbsp;&nbsp;<font class="roboto">
 							{{ page.contact }}</font>
 							</li>
 							{%- endif -%}
 
 					<li>
-						<h5><ul class="social-icons"><li>Share: &nbsp;&nbsp;&nbsp;
+						<h5 align="left"><ul class="social-icons"><li>Share: &nbsp;&nbsp;&nbsp;
 <a href="https://facebook.com/sharer.php?u=www.jasonthorpebuchanan.com" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 			<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url=www.jasonthorpebuchanan.com&via={{ site.twitter }}&related={{ site.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
 					</li>	</ul></h5>

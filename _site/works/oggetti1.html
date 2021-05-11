@@ -109,6 +109,171 @@ function getItem(id)
 			<!-- Wrapper-->
 			<div class="row" height="auto">
 					<head>
+				<header class="header header-right header-sub-menu-dark">
+  <div class="container-fluid">
+    <!-- Logos-->
+    <div class="inner-header">
+      <a class="inner-brand" href="http://localhost:4000/about/">
+        <img class="brand-dark" src="/assets/images/home-animated.gif" height="43" width="46" alt="[+]">
+        <img class="brand-light" src="/assets/images/home-animated.gif" height="43" width="46" alt="[+]">
+      </a></div>
+    <!-- Navigation--><div class="inner-navigation collapse">
+      <div class="inner-navigation-inline">
+        <div class="inner-nav">
+          <ul><li><a class="" href="http://localhost:4000/" alt="Home">Home</a></li><li><a class="" href="http://localhost:4000/about/" alt="About">About</a></li><li><a class="" href="http://localhost:4000/concerts/" alt="Concerts">Concerts</a></li><li><a class="" href="http://localhost:4000/works/" alt="Works">Works</a></li><li class="menu-item-has-children">
+                  <a class="" href="/media/">Media</a>
+                  <ul class="sub-menu"><li><a href="http://localhost:4000/media/">Audio and Video</a></li><li><a href="http://localhost:4000/media/photos/">Photos</a></li></ul>
+                </li></ul>
+        </div>
+        <!-- Inner nav end -->
+      </div>
+    </div>
+    <!-- Extra menu-->
+    <!-- <div class="extra-nav">
+      <ul>
+        <li><a class="open-offcanvas" href="#"><span>Menu</span><span class="fa fa-bars"></span></a></li>
+      </ul>
+    </div> -->
+    <!-- Mobile menu-->
+    <div class="nav-toggle"><a href="#" data-toggle="collapse" data-target=".inner-navigation"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a></div>
+  </div>
+</header>
+
+		<!DOCTYPE html>
+<html lang="en">
+	<head>
+
+
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+<!-- Plugins and Icon Fonts-->
+<link href="/assets/css/plugins.min.css" rel="stylesheet">
+<!-- lightbox CSS-->
+<link href="/assets/css/lightbox.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="assets/css/jtb-jquery.fancybox.min.css" />
+
+
+<!-- THIS IS FOR SCORES -->
+<script type="text/javascript">
+
+function toggle_text(shown, hidden) {
+       var e = document.getElementById(shown);
+       var f = document.getElementById(hidden);
+    if(e.style.display == 'inline') {
+                  e.style.display = 'none';
+                  f.style.display = 'inline';
+      }
+      else {
+                  e.style.display = 'inline';
+                  f.style.display = 'none';
+      }
+}
+</script>
+
+ <script language="javascript">
+<!--
+function getItem(id)
+    {
+        var itm = false;
+        if(document.getElementById)
+            itm = document.getElementById(id);
+        else if(document.all)
+            itm = document.all[id];
+        else if(document.layers)
+            itm = document.layers[id];
+        return itm;
+    }
+    function toggleItem(id)
+    {
+        itm = getItem(id);
+        if(!itm)
+            return false;
+        if(itm.style.display == 'none')
+            itm.style.display = '';
+        else
+            itm.style.display = 'none';
+        return false;
+    }
+//-->
+</script>
+
+<script src="assets/js/jtb-jquery-3.3.1.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<script src="/assets/js/lightbox-plus-jquery.min.js"></script>
+
+	</head>
+
+
+	<body>
+		<!-- Layout-->
+		<div class="layout">
+
+
+
+
+
+		<!-- all-forgetting-is-retrieval LESS THAN 10 BEGIN -->
+    <!--<div class="row full-width" width="100%" height="50vh">
+			<div class="col-2 nopadding score-wrapper"><img src="scores/works/scores/all-forgetting-is-retrieval_score/all-forgetting_thumb_339.gif" rel="all-forgetting-score-score" height="339" width="240" data-fancybox="images" href="scores/works/scores/all-forgetting-is-retrieval_score/all-forgetting-is-retrieval_(2019)_ThorpeBuchanan__1.png" data-caption="all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan">
+<img rel="all-forgetting-score" data-fancybox="images" href="scores/works/scores/all-forgetting-is-retrieval_score/all-forgetting-is-retrieval_(2019)_ThorpeBuchanan__2.png" data-caption="all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan">
+<img rel="all-forgetting-score" data-fancybox="images" href="scores/works/scores/all-forgetting-is-retrieval_score/all-forgetting-is-retrieval_(2019)_ThorpeBuchanan__3.png" data-caption="all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan">
+<img rel="all-forgetting-score" data-fancybox="images" href="scores/works/scores/all-forgetting-is-retrieval_score/all-forgetting-is-retrieval_(2019)_ThorpeBuchanan__4.png" data-caption="all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan">
+<img rel="all-forgetting-score" data-fancybox="images" href="scores/works/scores/all-forgetting-is-retrieval_score/all-forgetting-is-retrieval_(2019)_ThorpeBuchanan__5.png" data-caption="all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan">
+<img rel="all-forgetting-score" data-fancybox="images" href="scores/works/scores/all-forgetting-is-retrieval_score/all-forgetting-is-retrieval_(2019)_ThorpeBuchanan__6.png" data-caption="all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan">
+<img rel="all-forgetting-score" data-fancybox="images" href="scores/works/scores/all-forgetting-is-retrieval_score/all-forgetting-is-retrieval_(2019)_ThorpeBuchanan__7.png" data-caption="all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan">
+<img rel="all-forgetting-score" data-fancybox="images" href="scores/works/scores/all-forgetting-is-retrieval_score/all-forgetting-is-retrieval_(2019)_ThorpeBuchanan__8.png" data-caption="all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan">
+<img rel="all-forgetting-score" data-fancybox="images" href="scores/works/scores/all-forgetting-is-retrieval_score/all-forgetting-is-retrieval_(2019)_ThorpeBuchanan__9.png" data-caption="all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan">
+<img rel="all-forgetting-score" data-fancybox="images" href="scores/works/scores/all-forgetting-is-retrieval_score/all-forgetting-is-retrieval_(2019)_ThorpeBuchanan__10.png" data-caption="all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan">
+ </div>&nbsp;
+<br> -->
+
+<!-- Page Header end-->
+
+
+
+<script src="/assets/js/plugins.min.js"></script>
+<script src="/assets/js/charts.js"></script>
+<script src="/assets/js/custom.min.js"></script>
+
+
+<script src="assets/js/jtb-jquery-3.3.1.min.js" type="18818c4fd68f7f60b1dc13ee-text/javascript"></script>
+
+<!-- this is for scores -->
+
+<script language="javascript"><!--
+function getItem(id)
+{var itm=false;if(document.getElementById)
+itm=document.getElementById(id);else if(document.all)
+itm=document.all[id];else if(document.layers)
+itm=document.layers[id];return itm;}
+function toggleItem(id)
+{itm=getItem(id);if(!itm)
+return false;if(itm.style.display=='none')
+itm.style.display='';else
+itm.style.display='none';return false;}</script>
+
+
+
+		<script>
+		function init() {
+		var vidDefer = document.getElementsByTagName('iframe');
+		for (var i=0; i<vidDefer.length; i++) {
+		if(vidDefer[i].getAttribute('data-src')) {
+		vidDefer[i].setAttribute('src',vidDefer[i].getAttribute('data-src'));
+		} } }
+		window.onload = init;
+		</script>
+	</body>
+</html>
+
+
 		
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -212,9 +377,7 @@ function getItem(id)
   	<div class="container">
 
   </section>
-  <!-- Page Header end--><!-- Module --><section class="module module-divider-bottom"><div class="container" background-color="#1a1c1e" background-image="backgrounds/crazystavesdarkblue3.jpg">	<link rel="stylesheet" href="/assets/css/jtb_072123.css">
-
-		<script type="text/javascript">
+  <!-- Page Header end--><!-- Module --><section class="module module-divider-bottom"><div class="container" background-color="#1a1c1e" background-image="backgrounds/crazystavesdarkblue3.jpg">		<script type="text/javascript">
 
 		function toggle_text(shown, hidden) {
 					 var e = document.getElementById(shown);
@@ -263,14 +426,16 @@ function getItem(id)
 
 <!-- Media-->
 	<section>
-	<div class="col-10 mb-4">
+	<div class="col-10 mb-3">
 		  <!-- successfully removed header --><div class="mb-3"><iframe class="embed-responsive-item mb-3" src="https://player.vimeo.com/video/109020216" allowfullscreen width="1300" height="736"></iframe></div></div>
 	</section>
 
 	<!-- ****** SCORE AND DETAILS BEGIN ****** -->
 	<section>
 		<div class="single-portfolio-title nopadding" width="98%">
-			<div class="row" width="98%"><!--		<div class="col-6 nopadding score-wrapper">
+			<div class="row" width="98%"><h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4>
+
+				<div class="col-6 nopadding score-wrapper"><ul>
 <h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4>
 <img src="scores/oggetti_score/oggetti_1_p1_thumb.jpg" height="300" width="212" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_01.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
 <img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_03.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
@@ -284,24 +449,7 @@ function getItem(id)
 <img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_11.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
 <img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_12.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
 <img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_14.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
-</div> -->
-		<h4 class="single-portfolio-title" align="left">VIEW SCORE: TEST</h4>
-		<br>
-				<div class="col-6 nopadding">
-<h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4>
-<img src="scores/oggetti_score/oggetti_1_p1_thumb.jpg" height="300" width="212" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_01.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
-<img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_03.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
-<img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_04.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
-<img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_05.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
-<img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_06.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
-<img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_07.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
-<img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_08.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
-<img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_09.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
-<img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_10.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
-<img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_11.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
-<img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_12.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
-<img rel="oggettisscore" data-fancybox="images" href="scores/oggetti_score/oggetti_1_JasonThorpeBuchanan_Jan.2015_Page_14.png" data-caption="oggetti 1 (2014) by Jason Thorpe Buchanan">
-</div><div class="col-6 nopadding">
+</div><div class="col-6 nopadding score-wrapper">
 					<ul>	<li><h4 class="single-portfolio-title">ABOUT THE WORK:</h4>
 </li>
 <!-- <li>oggetti 1</li> -->
@@ -311,27 +459,27 @@ function getItem(id)
 
 						<h5>Year Composed: &nbsp;&nbsp;<font class="roboto">2014</font>
 					</li> --><li>
-	            <h5>Instrumentation: &nbsp;&nbsp;<font class="roboto">
+	            <h5 align="left">Instrumentation: &nbsp;&nbsp;<font class="roboto">
 		              alto flute, 
 		              oboe, 
 		              clarinet, 
 		              horn, and bassoon</font>
 	          </li><li>
-						<h5>Dedication: &nbsp;&nbsp;<font class="roboto">
+						<h5 align="left">Dedication: &nbsp;&nbsp;<font class="roboto">
 						For the Fiati 5 Wind Quintet</font>
 						</li><li>
-							<h5>Commission & Awards: &nbsp;&nbsp;<font class="roboto">
+							<h5 align="left">Commission & Awards: &nbsp;&nbsp;<font class="roboto">
 							Commissioned by Chamber Music Campania (Italy)</font>
 							</li><li>
-								<h5>World Premiere: &nbsp;&nbsp;<font class="roboto">
+								<h5 align="left">World Premiere: &nbsp;&nbsp;<font class="roboto">
 								Lucera, Italy - Fiati 5 Wind Quintet - June 24, 2014</font>
 								</li><li>
-						<h5>Purchasing information: &nbsp;&nbsp;<font class="roboto">
+						<h5 align="left">Purchasing information: &nbsp;&nbsp;<font class="roboto">
 						Digital Score PDF: $14.95, Score and Parts: $24.95</font></li><li>
-							<h5>Contact: &nbsp;&nbsp;<font class="roboto">
+							<h5 align="left">Contact: &nbsp;&nbsp;<font class="roboto">
 							jasontbuchanan[at]gmail.com</font>
 							</li><li>
-						<h5><ul class="social-icons"><li>Share: &nbsp;&nbsp;&nbsp;
+						<h5 align="left"><ul class="social-icons"><li>Share: &nbsp;&nbsp;&nbsp;
 <a href="https://facebook.com/sharer.php?u=www.jasonthorpebuchanan.com" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 			<a href="https://twitter.com/intent/tweet?text=oggetti 1&url=www.jasonthorpebuchanan.com&via=jasontbuchanan&related=jasontbuchanan" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
 					</li>	</ul></h5>
