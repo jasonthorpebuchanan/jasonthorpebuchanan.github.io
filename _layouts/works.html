@@ -1,6 +1,10 @@
 ---
 layout: page-without-ends
 ---
+	<head>
+		{% include head.html %}
+		<link rel="stylesheet" href="/assets/css/jtb_072123.css">
+	</head>
 
 {% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'performance'" %}
 {% comment %}{% assign currentPiecePerfs = site.works | where_exp:"item", "item.title contains 'page.title'" %}{% endcomment %}
