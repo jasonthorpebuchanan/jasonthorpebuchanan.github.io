@@ -80,7 +80,7 @@ title: works
           </h5>
       <h6 class="portfolio-subtitle font-serif"><br><br><br><br>{{ work.commissionedOrWrittenFor }}</h6>
         </div>
-        <a href="{{ work.url }}" target="_blank"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="{{ work.url }}" target="_blank"></a>
 			</div>
     </div>
   {%- endfor -%}
