@@ -4,7 +4,7 @@ title: "TICF Academy for Young Composers"
 date: 2019-07-05
 categories: news
 headerImage: headers/ticf-group-workshop.jpg
-thumbnail: updates/ticf-academy-2000px@2x.png
+thumbnail: updates/ticf-academy-2000px@2x.jpg
 photosFolder: ticf
 tags:
   - 2019
