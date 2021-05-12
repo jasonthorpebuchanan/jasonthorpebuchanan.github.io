@@ -17,7 +17,7 @@ program:
     title: Voi(rex)
   - composer: Christopher Chandler
     title: Smoke and Mirrors
-thumbnail: updates/voirex-400-opt.png    
+thumbnail: updates/voirex-400-opt.jpg
 tags:
   - older
   - switch

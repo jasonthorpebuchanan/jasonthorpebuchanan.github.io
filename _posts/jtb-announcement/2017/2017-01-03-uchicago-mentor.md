@@ -4,7 +4,7 @@ title: "Guest lecturer & technical consultant/mentor composer, University of Chi
 date: 2017-01-03
 categories: news
 headerImage:
-thumbnail: updates/switch-santos-still_280.png
+thumbnail: updates/switch-santos-still_280.jpg
 photosFolder:
 tags:
   - 2017

@@ -27,7 +27,7 @@ program:
     title: I want you to be
   - composer: Samuel Gillies
     title: Apologies, I Am Here Now
-thumbnail: updates/vipa_280.png
+thumbnail: updates/vipa_280.jpg
 photosFolder: vipa
 tags:
   - 2016

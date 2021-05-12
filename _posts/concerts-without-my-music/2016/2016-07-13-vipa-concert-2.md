@@ -27,7 +27,7 @@ program:
     title: lamento
   - composer: Timothy McCormack
     title: karst survey
-thumbnail: updates/vipa_280.png
+thumbnail: updates/vipa_280.jpg
 photosFolder: vipa
 tags:
   - 2016

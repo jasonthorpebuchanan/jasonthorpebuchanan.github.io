@@ -21,7 +21,7 @@ program:
     title: Labyrinth Meditations
   - composer: Zach Sheets
     title: Seer
-thumbnail: updates/TsTs-400.png
+thumbnail: updates/TsTs-400.jpg
 photosFolder:
 tags:
   - 2014

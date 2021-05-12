@@ -19,7 +19,7 @@ program:
     title: "Asymptotic Flux: Second Study in Entropy"
     year: 2013
 headerImage: headers/gaudeamus-shake.jpg
-thumbnail: updates/insomnio_280.png
+thumbnail: updates/insomnio_280.jpg
 photosFolder: gaudeamus
 tags:
   - 2015

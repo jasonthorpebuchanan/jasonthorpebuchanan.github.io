@@ -16,7 +16,7 @@ program:
     title: "de/ter| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |ior.ation"
     year: 2015
 headerImage: headers/deterioration-still2.jpg
-thumbnail: updates/deterioration_280.png
+thumbnail: updates/deterioration_280.jpg
 photosFolder: deterioration
 tags:
   - 2015
