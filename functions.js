@@ -1,37 +1,3 @@
-document.getElementById("test-typing").click();
-
-var str = "<p>panic<span style='color:red;'>panic</span> panic panic !</p>",
-    i = 0,
-    isTag,
-    text;
-
-(function type() {
-    text = str.slice(0, ++i);
-    if (text === str) return;
-
-    document.getElementById('typewriter').innerHTML = text;
-
-    var char = text.slice(-1);
-    if( char === '<' ) isTag = true;
-    if( char === '>' ) isTag = false;
-
-    if (isTag) return type();
-    setTimeout(type
-
-var blacktime = 1400;
-var whitetime = 1000;
-//These can be as long as you desire in milliseconds
-setTimeout(whiteFunc,blacktime);
-function whiteFunc(){
-    document.getElementById("blink").style.color = "white";
-    setTimeout(blackFunc,whitetime);
-}
-function blackFunc(){
-    document.getElementById("blink").style.color = "black";
-    setTimeout(whiteFunc,blacktime);
-
-}
-
 var captionLength = 0;
 var caption = '';
 
@@ -71,7 +37,7 @@ function testErasingEffect() {
         erase();
     } else {
         $('#caption').html("You didn't write anything to erase, but that's ok!");
-        setTimeout('testErasingEffect()', 180);
+        setTimeout('testErasingEffect()', 200);
     }
 }
 
