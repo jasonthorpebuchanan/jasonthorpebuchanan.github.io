@@ -1,57 +1,19 @@
 ---
 layout: page-without-ends
 ---
-		<script type="text/javascript">
+<!-- BEGIN BEGIN works.html -->
 
-		function toggle_text(shown, hidden) {
-					 var e = document.getElementById(shown);
-					 var f = document.getElementById(hidden);
-				if(e.style.display == 'inline') {
-											e.style.display = 'none';
-											f.style.display = 'inline';
-					}
-					else {
-											e.style.display = 'inline';
-											f.style.display = 'none';
-					}
-		}
-		</script>
+			<!-- BEGIN jquery and fancybox scripts -->
+		<script src="{{ site.assets }}/js/jtb-jquery-3.3.1.min.js"></script>
 
-		 <script language="javascript">
-		<!--
-		function getItem(id)
-				{
-						var itm = false;
-						if(document.getElementById)
-								itm = document.getElementById(id);
-						else if(document.all)
-								itm = document.all[id];
-						else if(document.layers)
-								itm = document.layers[id];
-						return itm;
-				}
-				function toggleItem(id)
-				{
-						itm = getItem(id);
-						if(!itm)
-								return false;
-						if(itm.style.display == 'none')
-								itm.style.display = '';
-						else
-								itm.style.display = 'none';
-						return false;
-				}
-		</script>
-		<script src="{{ site.assets }}js/jtb-jquery-3.3.1.min.js"></script>
-		<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-		<script src="{{ site.assets }}/js/lightbox-plus-jquery.min.js"></script>
+
 
 
 {% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'performance'" %}
 {% comment %}{% assign currentPiecePerfs = site.works | where_exp:"item", "item.title contains 'page.title'" %}{% endcomment %}
 
 	{%- if page.media -%}
-	<!-- Media-->
+	<!-- BEGIN Media INCLUDES VIMEO AND YOUTUBE EMBEDS -->
 	<section>
 	<div class="col-10 mb-3">
 		{% assign printHeader = false %}  <!-- successfully removed header -->
@@ -83,18 +45,22 @@ layout: page-without-ends
 	</div>
 	</section>
 
-	<!-- ****** SCORE AND DETAILS BEGIN ****** -->
+	<!-- ****** SCORE AND DETAILS BEGIN HERE ****** -->
 	<section>
-		<div class="single-portfolio-title nopadding" width="98%">
+		<div class="single-portfolio-title nopadding" width="99%">
 			<div class="row" width="98%">
 					{%- if page.score  -%}
-		<h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4>
 
-				<div class="col-6 nopadding score-wrapper"><ul>{% include {{ page.score }} %}</div>
+	<!-- BEGIN SCORE -->
+	<h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4></div>
+<!--  <div class="row" width="98%"> -->
+<div class="container">
+<div class="col-6 nopadding score-wrapper"><ul>{% include {{ page.score }} %}</div></div>
+						<!-- END SCORE -->
 				{%- endif -%}
 
 
-	<div class="col-6 nopadding score-wrapper">
+	<div class="col-6 nopadding">
 					<ul>	<li><h4 class="single-portfolio-title">ABOUT THE WORK:</h4>
 </li>
 <!-- <li>{{ page.title }}</li> -->
@@ -232,12 +198,10 @@ layout: page-without-ends
 								<br>
 						</div>
 						{% else %}
-						<!-- Piece Title: {{ piece.title }} -->
-						<!-- Page Title: {{ page.title }} -->
-						<!-- ---------------------------- -->
 	          {%- endif -%}
 	        {%- endfor -%}
 	      {%- endfor -%}
 	    </div>
 	  </div>
 	</section>
+	<!-- END END END works.html END END END-->
