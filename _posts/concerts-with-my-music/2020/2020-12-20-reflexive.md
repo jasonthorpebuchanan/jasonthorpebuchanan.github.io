@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 describe: <em>Reflexive Iterations 1.a</em> (2020), TACETi Ensemble, 2020 Thailand New Music and Arts Symposium
-date: 2021-04-08
+date: 2020-12-20
 time:
 location:
   institution: Bangkok Arts and Culture Center
@@ -14,11 +14,11 @@ location:
 program:
   - composer: Jason Thorpe Buchanan
     title: Reflexive Iterations 1.a
-    year: 2019
-headerImage: headers/arete-4.jpg
-thumbnail: updates/diels_filament-250x125.jpg
+    year: 2020
+headerImage: headers/reflexive-iterations-1080x549.jpg
+thumbnail: updates/reflexive-iterations-250x125.jpg
 tags:
-  - 2021
+  - 2020
   - new
   - thailand
 

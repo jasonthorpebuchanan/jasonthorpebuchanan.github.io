@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Northern Colorado Visting Composer"
+title: "Northern Colorado Visiting Composer"
 date: 2019-04-17
 sortYear: 2019
 categories: news

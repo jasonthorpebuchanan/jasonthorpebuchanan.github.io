@@ -22,15 +22,15 @@ program:
 - composer: Zoetrope
   title: Monte Taylor (2020)
 - composer: Lydia Wayne Chang
-  title: Project Agree: Mission for the Internet Communities (2020)
-headerImage: headers/arete-4.jpg
-thumbnail: updates/diels_filament-250x125.jpg
+  title: Project Agree- Mission for the Internet Communities (2020)
+headerImage: headers/telematic-trailer-playbutton-800.png
+thumbnail: updates/telematic-trailer-playbutton-300.png
 tags:
-  - 2021
-  - new
-  - switch
-  - telematic
+- 2021
+- new
+- switch
+- telematic
 
 ---
 
-Less Than <10 is a student run ensemble at the Butler School of Music, University of Texas at Austin.
+The [Switch~ Ensemble] premieres five brand new Telematic works written by UT Austin Graduate Student Composers Nathan Nokes, Ian Whillock, Geli Li, Monte Taylor, and Lydia Wayne Chang.
