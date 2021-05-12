@@ -1,72 +1,79 @@
-<script type="text/javascript">
+
+PANIC
+
+<html lang=">" dir="ltr">
+<head>
+  <style>
 
 
-var str = "<p>panic<span style='color:red;'>panic</span> panic <img src='http://placehold.it/150x150'> panic !</p>",
-    i = 0,
-    isTag,
-    text;
+  .panic{
 
-(function type() {
-    text = str.slice(0, ++i);
-    if (text === str) return;
-
-    document.getElementById('typewriter').innerHTML = text;
-
-    var char = text.slice(-1);
-    if( char === '<' ) isTag = true;
-    if( char === '>' ) isTag = false;
-
-    if (isTag) return type();
-    setTimeout(type
-</script>
-
-<script type="text/javascript">
-document.getElementById("test-typing").click();
-</script>
-
-<script>
-var blacktime = 1400;
-var whitetime = 1000;
-//These can be as long as you desire in milliseconds
-setTimeout(whiteFunc,blacktime);
-function whiteFunc(){
-    document.getElementById("blink").style.color = "white";
-    setTimeout(blackFunc,whitetime);
-}
-function blackFunc(){
-    document.getElementById("blink").style.color = "black";
-    setTimeout(whiteFunc,blacktime);
-
-}
-</script>
+  	position: absolute;
+  	top: 7%;
+  	transform: 	translateY(30%);
+          font-size:720%;
+  }
 
 
 
-<style>
-
-
-.panic{
-
-	position: absolute;
-	top: 7%;
-	transform: 	translateY(30%);
-        font-size:720%;
-}
-
-
-
-</style>
+  </style>
 
 
 
 
+  <script type="text/javascript">
+
+  var str = "<p>panic<span style='color:red;'>panic</span> panic panic !</p>",
+      i = 0,
+      isTag,
+      text;
+
+  (function type() {
+      text = str.slice(0, ++i);
+      if (text === str) return;
+
+      document.getElementById('typewriter').innerHTML = text;
+
+      var char = text.slice(-1);
+      if( char === '<' ) isTag = true;
+      if( char === '>' ) isTag = false;
+
+      if (isTag) return type();
+      setTimeout(type
+  </script>
+
+  <script type="text/javascript">
+  document.getElementById("test-typing").click();
+  </script>
+
+  <script>
+  var blacktime = 1400;
+  var whitetime = 1000;
+  //These can be as long as you desire in milliseconds
+  setTimeout(whiteFunc,blacktime);
+  function whiteFunc(){
+      document.getElementById("blink").style.color = "white";
+      setTimeout(blackFunc,whitetime);
+  }
+  function blackFunc(){
+      document.getElementById("blink").style.color = "black";
+      setTimeout(whiteFunc,blacktime);
+
+  }
+  </script>
 
 
-<!-- GAP -->
+  <!-- GAP -->
 
 
 
-<script type="text/javascript" src="http://www.jasonthorpebuchanan.com/functions.js"> </script>
+  <script type="text/javascript" src="http://www.jasonthorpebuchanan.com/functions.js"> </script>
+
+
+  </head>
+  <body>
+
+
 
 
 
@@ -366,3 +373,5 @@ style='font-size:7.0pt'>C</span>hanan <o:p></o:p></span></p>
     </p>
 
     <link href='http://fonts.googleapis.com/css?family=Varela' rel='stylesheet' type='text/css'>
+
+  </body>

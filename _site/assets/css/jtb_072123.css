@@ -312,6 +312,7 @@ h6,
     font-family: "Roboto", Arial, sans-serif;
     line-height: 1.85; /* was 1.75 in template */
     font-weight: 300;
+    text-align: left;
     font-size: 16px; /* was 15px in template */
     color: #d9d8d7;
     -ms-overflow-style: scrollbar;
@@ -4151,12 +4152,14 @@ background-position: top;
 
 h2.single-portfolio-title {
     font-size: 25px;
+    float: left;
     text-align: left;
 
 }
 
 h3.single-portfolio-title {
     font-size: 22px;
+      float: left;
     text-align: left;
 }
 
@@ -4164,6 +4167,7 @@ h3.single-portfolio-title {
 h4.single-portfolio-title {
     font-size: 16px;
     text-align: left;
+      float: left;
     weight: 200px;
 
 }

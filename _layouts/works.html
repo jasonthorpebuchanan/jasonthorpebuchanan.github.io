@@ -12,67 +12,28 @@ layout: page-without-ends
 {% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'performance'" %}
 {% comment %}{% assign currentPiecePerfs = site.works | where_exp:"item", "item.title contains 'page.title'" %}{% endcomment %}
 
-	{%- if page.media -%}
-	<!-- BEGIN Media INCLUDES VIMEO AND YOUTUBE EMBEDS -->
-	<section>
-	<div class="col-10 mb-3">
-		{% assign printHeader = false %}  <!-- successfully removed header -->
-		{%- for item in page.media -%}
-			{%- if item.url contains 'youtube' or item.url contains 'vimeo' -%}
-				{%- if printHeader == true -%}
-					<h2 class="text-left">Media</h2>
-					{% assign printHeader = nil %}
-				{%- endif -%}
-				<div class="mb-3"><iframe class="embed-responsive-item mb-3" src="{{ item.url }}" allowfullscreen width="1300" height="736"></iframe></div>
-			{%- elsif item.url contains 'soundcloud' -%}
-				{%- if printHeader == true -%}
-					<h2 class="text-left">Media</h2>
-					{% assign printHeader = nil %}
-				{%- endif -%}
-				{%- if item.url contains 'sets' -%}
-					<div class="col-12 mb-3">{% include soundcloud_player.html type="playlists" trackID=item.ID %}</div>
-				{%- else -%}
-					<div class="col-12 mb-3">{% include soundcloud_player.html type="tracks" trackID=item.ID %}</div>
-				{%- endif -%}
-			{%- else -%}
-			{% comment %}
-				<div class="col-12 mb-3">
-					<audio src="{{ item.url }}" preload="auto" />
-				</div>
-			{% endcomment %}
-			{%- endif -%}
-		{%- endfor -%}
-	</div>
-	</section>
 
 	<!-- ****** SCORE AND DETAILS BEGIN HERE ****** -->
-	<section>
-		<div class="single-portfolio-title nopadding" width="99%">
-			<div class="row" width="98%">
+<section>
+<div class="single-portfolio-title nopadding" width="99%">
+		<div class="row" width="99%">
 					{%- if page.score  -%}
 
 	<!-- BEGIN SCORE -->
-	<h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4></div>
-<!--  <div class="row" width="98%"> -->
-<div class="container">
-<div class="col-6 nopadding score-wrapper"><ul>{% include {{ page.score }} %}</div></div>
+	<p class="mb-1">		<div class="col-md-3"><h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4>
+		<br>
+		<p class="mb-1">	    	<div class="container">	<p class="mb-1" align="left">	  <div class="score-wrapper"><ul>{% include {{ page.score }} %}</div></div>
 						<!-- END SCORE -->
-				{%- endif -%}
+						{%- endif -%}
+      </div>
 
+			<div class="col-md-8"><!--begin 2nd div-->
+				<div><ul>	<h4 class="single-portfolio-title">ABOUT THE WORK:</h4>
 
-	<div class="col-6 nopadding">
-					<ul>	<li><h4 class="single-portfolio-title">ABOUT THE WORK:</h4>
-</li>
-<!-- <li>{{ page.title }}</li> -->
-<ul>
-<li>  <h5 class="gara24" align="left"><em>{{ page.title }}</em> <font class="gara20">{% if page.yearComposed == nil %}{% else %}({{ page.yearComposed }}){% endif %}</font></h5></li>
-		</ul>	<!--		<li>
-
-						<h5>Year Composed: &nbsp;&nbsp;<font class="roboto">{{ page.yearComposed }}</font>
-					</li> -->
-	        {%- if page.instrumentation -%}
-	          <li>
-	            <h5 align="left">Instrumentation: &nbsp;&nbsp;<font class="roboto">
+<p class="mb-1"><ul>  <h5 class="gara24" align="left"><em>{{ page.title }}</em> <font class="gara19">{% if page.yearComposed == nil %}{% else %}({{ page.yearComposed }}){% endif %}</font></h5></ul>
+</p>	        {%- if page.instrumentation -%}
+<p class="mb-1">
+           <h6>Instrumentation: &nbsp;&nbsp;<font class="roboto">
 							{%- for instrument in page.instrumentation -%}
 		            {%- if forloop.last == true -%}
 		              and {{ instrument -}}
@@ -80,86 +41,116 @@ layout: page-without-ends
 		              {{ instrument | append: ', ' }}
 		            {%- endif -%}
 		          {%- endfor -%}</font>
-	          </li>
+
 						{%- endif -%}
 
 
 					{%- if page.dedication -%}
-					<li>
-						<h5 align="left">Dedication: &nbsp;&nbsp;<font class="roboto">
+<p class="mb-1">
+						<h6>Dedication: &nbsp;&nbsp;<font class="roboto">
 						{{ page.dedication }}</font>
-						</li>
+
 						{%- endif -%}
 
 						{%- if page.awards -%}
-						<li>
-							<h5 align="left">Commission & Awards: &nbsp;&nbsp;<font class="roboto">
+<p class="mb-1">
+							<h6>Commission & Awards: &nbsp;&nbsp;<font class="roboto">
 							{{ page.awards }}</font>
-							</li>
+
 							{%- endif -%}
 
 							{%- if page.text -%}
-							<li>
-								<h5 align="left">Text by: &nbsp;&nbsp;<font class="roboto">
+<p class="mb-1" align="left">
+								<h6>Text by: &nbsp;&nbsp;<font class="roboto">
 								{{ page.text }}</font>
-								</li>
+
 								{%- endif -%}
 
 							{%- if page.premiere -%}
-							<li>
-								<h5 align="left">World Premiere: &nbsp;&nbsp;<font class="roboto">
+<p class="mb-1">
+								<h6>World Premiere: &nbsp;&nbsp;<font class="roboto">
 								{{ page.premiere }}</font>
-								</li>
+
 								{%- endif -%}
 
 								{%- if page.europeanPremiere -%}
-								<li>
-									<h5 align="left">European Premiere: &nbsp;&nbsp;<font class="roboto">
+	<p class="mb-1">
+									<h6>European Premiere: &nbsp;&nbsp;<font class="roboto">
 									{{ page.europeanPremiere }}</font>
-									</li>
+
 									{%- endif -%}
 
 									{%- if page.americanPremiere -%}
-									<li>
-										<h5 align="left">American Premiere: &nbsp;&nbsp;<font class="roboto">
+	<p class="mb-1">
+										<h6>American Premiere: &nbsp;&nbsp;<font class="roboto">
 										{{ page.americanPremiere }}</font>
-										</li>
+
+
 										{%- endif -%}
 
 					{%- if page.purchase -%}
-					<li>
-						<h5 align="left">Purchasing information: &nbsp;&nbsp;<font class="roboto">
+<p class="mb-1">				<h6 align="left">Purchasing information: &nbsp;&nbsp;<font class="roboto">
 						{{ page.purchase }}</font>
 						{%- endif -%}
-						</li>
+
+
+
 
 					{%- if page.contact -%}
-						<li>
-							<h5 align="left">Contact: &nbsp;&nbsp;<font class="roboto">
+<p class="mb-1">
+							<h5>Contact: &nbsp;&nbsp;<font class="roboto">
 							{{ page.contact }}</font>
-							</li>
+
 							{%- endif -%}
 
-					<li>
-						<h5 align="left"><ul class="social-icons"><li>Share: &nbsp;&nbsp;&nbsp;
+<p class="mb-1">
+						<h5><ul class="social-icons"><li>Share: &nbsp;&nbsp;&nbsp;
 <a href="https://facebook.com/sharer.php?u=www.jasonthorpebuchanan.com" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 			<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url=www.jasonthorpebuchanan.com&via={{ site.twitter }}&related={{ site.twitter }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="fa fa-twitter"></i></a>
-					</li>	</ul></h5>
-				</ul>
+						</ul></h5>
 			</div></div>
 			<br></section>
-			<!-- ****** SCORE AND DETAILS END ****** -->
+			<!-- ************ ****** ******  END SCORE AND DETAILS END ************ ****** ******  -->
 
+			{%- if page.media -%}
+			<!-- BEGIN Media INCLUDES VIMEO AND YOUTUBE EMBEDS -->
+			<section>
+			<div class="col-10 mb-3">
+				{% assign printHeader = false %}  <!-- successfully removed header -->
+				{%- for item in page.media -%}
+					{%- if item.url contains 'youtube' or item.url contains 'vimeo' -%}
+						{%- if printHeader == true -%}
+							<h2 class="text-left">Media</h2>
+							{% assign printHeader = nil %}
+						{%- endif -%}
+						<div class="mb-3"><iframe class="embed-responsive-item mb-3" src="{{ item.url }}" allowfullscreen width="1300" height="736"></iframe></div>
+					{%- elsif item.url contains 'soundcloud' -%}
+						{%- if printHeader == true -%}
+							<h2 class="text-left">Media</h2>
+							{% assign printHeader = nil %}
+						{%- endif -%}
+						{%- if item.url contains 'sets' -%}
+							<div class="col-12 mb-3">{% include soundcloud_player.html type="playlists" trackID=item.ID %}</div>
+						{%- else -%}
+							<div class="col-12 mb-3">{% include soundcloud_player.html type="tracks" trackID=item.ID %}</div>
+						{%- endif -%}
+					{%- else -%}
+					{% comment %}
+						<div class="col-12 mb-3">
+							<audio src="{{ item.url }}" preload="auto" />
+						</div>
+					{% endcomment %}
+					{%- endif -%}
+				{%- endfor -%}
+			</div>
+			</section>
 
 <!-- ****** PROGRAM NOTES BEGIN ****** -->
 <h4 class="single-portfolio-title nopadding">PROGRAM NOTES:</h4>
-	      {{ content }}
+	    <font class="roboto">  {{ content }}
 	<!-- Media end-->
 	{%- endif -%}
 <!-- ****** PROGRAM NOTES END ****** -->
-
-
-
 
 
 
@@ -170,7 +161,9 @@ layout: page-without-ends
 
 
 	    <h4 class="single-portfolio-title">Performances of {{ page.title }}</h4>
-	    <div class="concert-program mb-3">
+			<br>
+				<p class="mb-1" align="left">
+	    <div class="concert-program mb-3"> <font class="roboto">
 	      {%- for performance in performancePosts -%}
 	        {%- for piece in performance.program -%}
 	          {%- if piece.title == page.title -%}
@@ -185,7 +178,7 @@ layout: page-without-ends
 	<div class="col-sm-8 mb-3 location-details">
 									{{ performance.date | date: "%B %d, %Y" }} <br />
 									{%- if performance.event -%}{{ performance.event }}<br />{%- endif -%}
-									{%- if performance.location.institution -%}{{ performance.location.institution }}{%- endif -%}{%- if performance.location.building -%}, {{ performance.location.building }}<br />{%- endif -%}
+									{%- if performance.location.institution -%}{{ performance.location.institution }}{%- endif -%}, &nbsp; {%- if performance.location.building -%}, {{ performance.location.building }}<br />{%- endif -%}
 									{%- if performance.location.venue -%}{{ performance.location.venue }}<br />{%- endif -%}
 									{%- if performance.location.address -%}{{ performance.location.address }}<br />{%- endif -%}
 									{%- if performance.location.country -%}
