@@ -5,7 +5,7 @@ date: 2019-11-28
 sortYear: 2019
 categories: news
 headerImage: headers/follow-my-walkside.png
-thumbnail: updates/follow-my-walkside.png
+thumbnail: updates/follow-my-walkside.jpg
 photosFolder:
 tags:
   - new

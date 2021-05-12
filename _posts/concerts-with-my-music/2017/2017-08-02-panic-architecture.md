@@ -17,7 +17,7 @@ program:
   - composer:
     title:
 headerImage:
-thumbnail: updates/talea_280x114.png
+thumbnail: updates/talea_280x114.jpg
 photosFolder: panic-architecture
 tags:
   - 2017

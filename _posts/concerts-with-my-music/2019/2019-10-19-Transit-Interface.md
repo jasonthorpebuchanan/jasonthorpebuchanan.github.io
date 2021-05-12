@@ -18,7 +18,7 @@ program:
   - composer:
     title:
 headerImage: headers/soliloquios-interface-opt.jpg
-thumbnail: updates/transit-289px.png
+thumbnail: updates/transit-289px.jpg
 photosFolder: soliloquios-del-viento
 tags:
   - 2019

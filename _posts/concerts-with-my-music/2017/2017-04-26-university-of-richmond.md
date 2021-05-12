@@ -23,7 +23,7 @@ program:
     year: 2015
   - composer: Eric Wubbels
     title: this is this is this is
-thumbnail: updates/pulp_1_240x160.png
+thumbnail: updates/pulp_1_240x160.jpg
 tags:
   - 2017
 
