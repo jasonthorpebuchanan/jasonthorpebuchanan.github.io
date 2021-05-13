@@ -91,8 +91,8 @@ body .layout {
 
 .layout {
     opacity: 0.4; /* was 0.0 in template */
-    -webkit-transition: 1.3s opacity ease;
-            transition: 1.3s opacity ease;
+    -webkit-transition: 1.7s opacity ease;
+            transition: 1.7s opacity ease;
             /* - - - - - - - - - - - speed of change - - - - - - - - - - - - - - ! ! ! ! */
 }
 
@@ -115,8 +115,8 @@ body .layout {
     color: #fff; /* was 222 in jtb */
     -webkit-transition: .5s all ease;
             transition: .5s all ease;
-    -webkit-transform: translateY(86px);
-            transform: translateY(86px);
+    -webkit-transform: translateY(20px);
+            transform: translateY(20px);
 }
 
 .scroll-top:hover,
@@ -3198,6 +3198,7 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 .score-vid-header {
     background-color: #000000; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
     background-position: 50%;
+    background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue884.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 49px;
