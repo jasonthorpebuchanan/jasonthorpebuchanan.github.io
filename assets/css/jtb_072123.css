@@ -91,19 +91,19 @@ body .layout {
 
 .layout {
     opacity: 0.4; /* was 0.0 in template */
-    -webkit-transition: 1.7s opacity ease;
-            transition: 1.7s opacity ease;
+    -webkit-transition: 1.2s opacity ease;
+            transition: 1.2s opacity ease;
             /* - - - - - - - - - - - speed of change - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .layout.fade-in {
-    opacity: 0.99; /* was 0 in template */
+    opacity: 0.98; /* was 0 in template */
 }
 
 .scroll-top {
     background: #000;
     border-radius: 0px;
-    position: fixed;
+    position: sticky;
     bottom: 14px;
     right: 20px;
     height: 40px;
@@ -3176,9 +3176,10 @@ body.off-canvas-sidebar-open .layout {
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: contain;
+        background-color: transparent !important;
     width: 100%;
     position: relative; /* huahin -- if absolute this disappears, keep as relative - - CHANGED  - */
-    padding: 41vh 6vh; /* huahin - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom -  - - ! ! ! ! */  -->
+    padding: 39vh 6vh; /* huahin - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom -  - - ! ! ! ! */  -->
 }
 
 .module,
@@ -3262,6 +3263,23 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 .parallax {
     background-color: transparent !important;
 background-position: top;
+overflow-y: hidden
+z-index: auto;
+  -webkit-overflow-scrolling: touch;
+     overflow: hidden !important;
+}
+
+.banner {
+   overflow: hidden !important;
+}
+
+.depth_section {
+    overflow: hidden !important;
+}
+
+.parallax-container {
+  // ...
+  -webkit-overflow-scrolling: touch;
 }
 
 .header + .wrapper .module:first-child {
