@@ -25,3 +25,10 @@
 		{% endfor %}
 	</ul>
 </div>
+<script defer>
+  $("document").ready(function() {
+     setTimeout(function() {
+       $("#foo").trigger('click');
+     },7000);
+   });
+</script>

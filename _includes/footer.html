@@ -15,16 +15,13 @@
           			{%- endfor -%}
           		{% endif %}
           	{% endfor %}
-          {% endcapture %}
-
-
+          {% endcapture %}å
 
           <!-- portfolio -->
           <div class="row row-portfolio-filter">
           <div class="col-sm-12">
           	<ul class="filters" id="filters">
-
-          		<li><a href="#" data-filter=".new" class="foo">New</a></li>
+          		<li><a href="#" class="active" data-filter=".new" id="foo">New</a></li>
               <li><a href="#" data-filter=".2020">2020</a></li>
               <li><a href="#" data-filter=".2019">2019</a></li>
           		<li><a href="#" data-filter=".2018">2018</a></li>
@@ -115,10 +112,11 @@
   </div>
 
 </footer>
-<script defer>
+
+<!-- <script defer>
 $("document").ready(function() {
      setTimeout(function() {
        $(".foo").trigger('click');
      },10000);
    });
-</script>
+</script> -->

@@ -326,16 +326,13 @@ function getItem(id)
           
           <!-- capture the process of appending tags in a list -->
           <!-- append current tag to tagString, strip all whitespace, but retain space between words -->
-          
-
-
+          å
 
           <!-- portfolio -->
           <div class="row row-portfolio-filter">
           <div class="col-sm-12">
           	<ul class="filters" id="filters">
-
-          		<li><a href="#" data-filter=".new" class="foo">New</a></li>
+          		<li><a href="#" class="active" data-filter=".new" id="foo">New</a></li>
               <li><a href="#" data-filter=".2020">2020</a></li>
               <li><a href="#" data-filter=".2019">2019</a></li>
           		<li><a href="#" data-filter=".2018">2018</a></li>
@@ -995,6 +992,13 @@ http://www.newmusicbox.org/articles/2014-ascap-morton-gould-young-composer-award
 		
 	</ul>
 </div>
+<script defer>
+  $("document").ready(function() {
+     setTimeout(function() {
+       $("#foo").trigger('click');
+     },7000);
+   });
+</script>
 
         </aside>
       </div>
@@ -1384,6 +1388,14 @@ http://www.newmusicbox.org/articles/2014-ascap-morton-gould-young-composer-award
 
 </footer>
 
+<!-- <script defer>
+$("document").ready(function() {
+     setTimeout(function() {
+       $(".foo").trigger('click');
+     },10000);
+   });
+</script> -->
+
 				<!-- Footer end-->
 				<a class="scroll-top" href="#top"><i class="fa fa-angle-up"></i></a>
 			</div>
@@ -1456,11 +1468,5 @@ itm.style.display='none';return false;}</script><script src="http://www.google.c
 <!-- ********************* END END foot.html END END *********************  -->
 
 	</body>
-	<script async>
-	$("document").ready(function() {
-       setTimeout(function() {
-         $(".foo").trigger('click');
-       },1000);
-     });
-	</script>
+
 </html>
