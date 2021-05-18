@@ -47,11 +47,11 @@
 
 					{% include foot.html %}
 	</body>
-	<script async>
+	<script defer>
 	$("document").ready(function() {
        setTimeout(function() {
          $(".foo").trigger('click');
-       },1000);
+       },2000);
      });
 	</script>
 </html>
