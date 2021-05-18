@@ -10,6 +10,7 @@ tags:
   - 2020
   - conducting
   - switch
+  - new
 media:
   - title: "Songs for Antonin (2018) by Esaias Järnegard"
     url:  https://www.youtube.com/embed/hWkUkK8uVPk

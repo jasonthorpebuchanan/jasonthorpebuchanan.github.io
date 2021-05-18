@@ -7,7 +7,6 @@ headerImage: headers/telematics.jpg
 thumbnail: updates/telematics.jpg
 photosFolder: UT-austin/
 tags:
-  - new
   - 2019
   - lecture
 ---

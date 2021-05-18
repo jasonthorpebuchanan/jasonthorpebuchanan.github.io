@@ -29,6 +29,7 @@ photosFolder: harvard
 tags:
   - 2019
   - switch
+  - new
 ---
 
 The [Switch~ Ensemble] is ensemble-in-residence for the Harvard Group for New Music at Harvard University for the annual Thelma E. Goldberg Concert September 29 through October 5, 2019.

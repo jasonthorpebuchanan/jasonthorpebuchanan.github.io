@@ -8,7 +8,6 @@ headerImage: headers/yst.jpg
 thumbnail: updates/yst_300.jpg
 photosFolder:
 tags:
-  - new
   - 2020
   - lecture
 ---

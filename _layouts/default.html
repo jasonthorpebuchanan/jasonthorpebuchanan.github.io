@@ -41,8 +41,17 @@
 		vidDefer[i].setAttribute('src',vidDefer[i].getAttribute('data-src'));
 		} } }
 		window.onload = init;
-		
+
 		</script>
+
+
 					{% include foot.html %}
 	</body>
+	<script async>
+	$("document").ready(function() {
+       setTimeout(function() {
+         $(".foo").trigger('click');
+       },1000);
+     });
+	</script>
 </html>

@@ -1,5 +1,4 @@
-
-<footer class="footer">
+  <footer class="footer">
   <div class="footer_width">
 
     <!-- BEGIN SEARCH TAGS -->
@@ -18,20 +17,14 @@
           	{% endfor %}
           {% endcapture %}
 
-          <script language="javascript">
 
-         	 $(document).ready(function() {
-               setTimeout(function() {
-                 $('[data-filter=".2020"]').trigger('click');
-               },10);
-
-         </script>
 
           <!-- portfolio -->
           <div class="row row-portfolio-filter">
           <div class="col-sm-12">
           	<ul class="filters" id="filters">
-          		<li><a class="current" data-filter=".new">New</a></li>
+
+          		<li><a href="#" data-filter=".new" class="foo">New</a></li>
               <li><a href="#" data-filter=".2020">2020</a></li>
               <li><a href="#" data-filter=".2019">2019</a></li>
           		<li><a href="#" data-filter=".2018">2018</a></li>
@@ -41,7 +34,6 @@
                   <li><a href="#" data-filter=".older">older</a></li>
                     <li><a href="#" data-filter=".conducting">conducting</a></li>
                     <li><a href="#" data-filter=".switch">switch</a></li>
-
           		{% comment %}
           		{%- for tag in tagArray -%}
           			<li><a href="#" data-filter=".{{ tag }}">{{ tag | capitalize }}</a></li>
@@ -49,7 +41,12 @@
           		{% endcomment %}
           	</ul>
           </div>
+
+
+
+
           </div>
+
 
 
     <!-- END SEARCH TAGS -->
@@ -74,6 +71,8 @@
           {% include home-latest-performances.html %}
         </aside>
       </div>
+
+
 
       <!-- <div class="col-md-6 col-lg-3">
         <aside class="widget widget_tag_cloud">
@@ -114,4 +113,5 @@
       </div>
     </div>
   </div>
+
 </footer>

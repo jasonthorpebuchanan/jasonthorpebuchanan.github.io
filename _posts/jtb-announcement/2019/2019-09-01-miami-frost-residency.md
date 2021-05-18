@@ -6,7 +6,6 @@ categories: news
 headerImage: headers/arete-4.jpg
 thumbnail: updates/arete-4.jpg
 tags:
-  - new
   - 2019
   - lecture
   - switch
