@@ -18,7 +18,14 @@
           	{% endfor %}
           {% endcapture %}
 
+          <script language="javascript">
 
+         	 $(document).ready(function() {
+               setTimeout(function() {
+                 $('[data-filter=".2020"]').trigger('click');
+               },10);
+
+         </script>
 
           <!-- portfolio -->
           <div class="row row-portfolio-filter">
