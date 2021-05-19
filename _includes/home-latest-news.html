@@ -11,7 +11,7 @@
 	{% assign sortedNewsPosts = site.posts | where_exp:"item", "item.categories contains 'news'" %}
 
 	<ul>
-		{%- for post in sortedNewsPosts limit:80 -%}
+		{%- for post in sortedNewsPosts limit:23 -%}
 
 		<div class="portfolio-item posts-item p-2 {% for item in post.tags %}{{-item }} {% endfor %}{{ post.date -}}" width="100%">
 
@@ -28,7 +28,31 @@
 <script defer>
   $("document").ready(function() {
      setTimeout(function() {
-       $("#foo").trigger('click');
-     },7000);
+       $("#foo").click();
+     },500);
    });
 </script>
+
+
+<!--
+<div id="update-limit"><button>click here</button></div>
+	 <div id="counter">0</div>
+
+
+	 <script type='text/javascript'>
+	 var poke = document.getElementById('update-limit');
+	 var cmp = document.getElementById('counter');
+	 poke.addEventListener('click', myfonction)
+
+
+
+
+	 //===========================================================
+	 function myfonction() {
+		 cmp.innerHTML = parseInt(cmp.innerHTML) +1;
+
+
+	 }
+
+	 </script>
+-->
