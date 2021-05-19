@@ -24,7 +24,7 @@ program:
   - composer: Igor C Silva
     title: Smart-alienation
 headerImage: headers/silva_smart-alienation_1000x500.jpg
-thumbnail: updates/ears-opt@2x.png
+thumbnail: updates/ears-opt@2x.jpg
 tags:
   - 2019
   - switch
