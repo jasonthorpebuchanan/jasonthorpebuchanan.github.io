@@ -28,7 +28,6 @@ program:
 tags:
     - 2019
     - switch
-    - new
 thumbnail: updates/rosenberger.jpg
 photosFolder: harvard
 headerImage: headers/rosenberger.jpg

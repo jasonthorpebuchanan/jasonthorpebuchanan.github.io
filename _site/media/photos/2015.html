@@ -91,7 +91,6 @@ function getItem(id)
 <!-- ********************* END END head.html END END *********************  -->
 
 		<link rel="stylesheet" href="/assets/css/jtb_072123.css">
-
 	</head>
 
 
@@ -941,7 +940,7 @@ function getItem(id)
 			<a data-fancybox data-type="iframe" href="/news/2019/09/01/miami-frost-residency.html" target="_blank"><div class="row justify-content-start"><div class="col-4"><img src="/assets/images/updates/arete-4.jpg" class="rounded media-left img-fluid" alt=""></div><div class="media-body col-8"><strong>University of Miami Frost School of Music Residency</strong>. Conducting new works by six faculty members during a Switch~ Ensemble residency at the Frost School of Music, University of Miami on February 18, 2020: Charles Norman Mason,... </div></div></a>
 
 			</li></div>
-		<div class="portfolio-item posts-item p-2 2019 switch new 2019-08-31 00:00:00 +0700" width="100%">
+		<div class="portfolio-item posts-item p-2 2019 switch 2019-08-31 00:00:00 +0700" width="100%">
 
 
 		
@@ -1030,37 +1029,6 @@ http://5plus5-festival.de/
 		
 	</ul>
 </div>
-<!-- <script defer>
-  $("document").ready(function() {
-     setTimeout(function() {
-       $("#foo").click();
-     },500);
-   });
-</script> -->
-
-
-<!--
-<div id="update-limit"><button>click here</button></div>
-	 <div id="counter">0</div>
-
-
-	 <script type='text/javascript'>
-	 var poke = document.getElementById('update-limit');
-	 var cmp = document.getElementById('counter');
-	 poke.addEventListener('click', myfonction)
-
-
-
-
-	 //===========================================================
-	 function myfonction() {
-		 cmp.innerHTML = parseInt(cmp.innerHTML) +1;
-
-
-	 }
-
-	 </script>
--->
 
         </aside>
       </div>
@@ -1123,7 +1091,7 @@ http://5plus5-festival.de/
 
 				<li>
 					<div class="post-date">February 17, 2020</div><a data-fancybox data-type="iframe" href="/performance/2020/02/17/miami-frost-school.html" target="_blank"><div class="row justify-content-start"><div class="col-4"><img src="/assets/images/updates/switch-press_330.jpg" class="rounded media-left img-fluid" alt=""></div><div class="media-body col-8">Conducting six world premieres by faculty composers, Switch~ Ensemble.<br />Frost School of Music, University of Miami,&nbsp;Coral Gables, FL</div></div></a></li></div>
-		<div class="portfolio-item posts-item p-7 2019 switch new 2019-12-05 00:00:00 +0700" width="100%">
+		<div class="portfolio-item posts-item p-7 2019 switch 2019-12-05 00:00:00 +0700" width="100%">
 
 				<li>
 					<div class="post-date">December 05, 2019</div><a data-fancybox data-type="iframe" href="/performance/2019/12/05/ucsd-rosenberger.html" target="_blank"><div class="row justify-content-start"><div class="col-4"><img src="/assets/images/updates/rosenberger.jpg" class="rounded media-left img-fluid" alt=""></div><div class="media-body col-8">Workshop premiere of <em>Up Close</em> with support from Guggenheim and New Music USA.<br />Experimental Theatre,&nbsp;San Diego, CA</div></div></a></li></div>
@@ -1402,13 +1370,6 @@ http://5plus5-festival.de/
 		
 	</ul>
 </div>
-<script>
-  $(document).ready(function() {
-     setTimeout(function() {
-       $("#onload").click();
-     },2000);
-   });
-</script>
 
         </aside>
       </div>
@@ -1530,12 +1491,22 @@ itm.style.display='none';return false;}</script><script src="http://www.google.c
 
 					<!-- ********************* BEGIN BEGIN foot.html BEGIN BEGIN *********************  -->
 <!-- lightbox CSS-->
-<link href="/assets/css/lightbox.min.css" rel="stylesheet"  defer>
-<link rel="stylesheet" href="/assets/css/jtb-jquery.fancybox.min.css" defer/>
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"  defer></script>
+<link href="/assets/css/lightbox.min.css" rel="stylesheet" async>
+<link rel="stylesheet" href="/assets/css/jtb-jquery.fancybox.min.css" async/>
+<script src="/assets/css/jquery.fancybox.min3.5.7.css"  async></script>
 
+<!-- ********************* limit updates and events to tag new on load *********************  -->
+<script defer>
+  $(document).ready(function() {
+     setTimeout(function() {
+       $("#onload").click();
+     },1500);
+   });
+</script>
 <!-- ********************* END END foot.html END END *********************  -->
 
+
+		
 	</body>
 
 </html>
