@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- DEFAULT WITHOUT ENDS has head.html *AND* off-canvas-sidebar.html *AND* scripts.html *AND* footer.html  -->
+
 	<head>
 		<!-- ********************* BEGIN BEGIN head.html BEGIN BEGIN *********************  -->
 
@@ -46,6 +48,77 @@
 <script src="/assets/js/lightbox-plus-jquery.min.js"></script>
 
 
+<!-- THIS IS FOR SCORES -->
+<script type="text/javascript" defer>
+function toggle_text(shown, hidden) {
+       var e = document.getElementById(shown);
+       var f = document.getElementById(hidden);
+    if(e.style.display == 'inline') {
+                  e.style.display = 'none';
+                  f.style.display = 'inline';
+      }
+      else {
+                  e.style.display = 'inline';
+                  f.style.display = 'none';
+      }
+}</script>
+
+ <script language="javascript" defer>
+<!--
+function getItem(id)
+    {
+        var itm = false;
+        if(document.getElementById)
+            itm = document.getElementById(id);
+        else if(document.all)
+            itm = document.all[id];
+        else if(document.layers)
+            itm = document.layers[id];
+        return itm;
+    }
+    function toggleItem(id)
+    {
+        itm = getItem(id);
+        if(!itm)
+            return false;
+        if(itm.style.display == 'none')
+            itm.style.display = '';
+        else
+            itm.style.display = 'none';
+        return false;
+    }
+//-->
+</script>
+
+
+<!-- ********************* END END head.html END END *********************  -->
+
+	</head>
+	<body>
+		<!-- Layout-->
+<!--		<div class="layout"> -->
+			<!-- Header-->
+			<!-- Header end-->
+			<!-- Wrapper-->
+			<div class="row" height="auto">
+				<!-- ************************* BEGIN BEGIN page-without-ends.html BEGIN BEGIN ************************* -->
+	<head>
+		<!DOCTYPE html>
+<html lang="en">
+	<head>
+
+<link rel="stylesheet" href="/assets/css/bootstrap.min.css" async>
+<script src="/assets/js/jtb-bootstrap-4.3.1.min.js" async></script>
+
+
+<!-- Plugins and Icon Fonts-->
+<link href="/assets/css/plugins.min.css" rel="stylesheet" async>
+<!-- lightbox CSS-->
+<link href="/assets/css/lightbox.min.css" rel="stylesheet" defer>
+
+<link rel="stylesheet" href="/assets/css/jtb-jquery.fancybox.min.css" defer/>
+
+<script src="/assets/js/jquery.fancybox.min3.5.7.js" defer></script>
 
 <!-- THIS IS FOR SCORES -->
 <script type="text/javascript" defer>
@@ -89,80 +162,7 @@ function getItem(id)
 //-->
 </script>
 
-<!-- ********************* END END head.html END END *********************  -->
 
-	</head>
-	<body>
-		<!-- Layout-->
-<!--		<div class="layout"> -->
-			<!-- Header-->
-			<!-- Header end-->
-			<!-- Wrapper-->
-			<div class="row" height="auto">
-				<!-- ************************* BEGIN BEGIN page-without-ends.html BEGIN BEGIN ************************* -->
-	<head>
-		<!DOCTYPE html>
-<html lang="en">
-	<head>
-
-
-<link rel="stylesheet" href="/assets/css/bootstrap.min.css" async>
-<script src="/assets/js/jtb-bootstrap-4.3.1.min.js" async></script>
-
-
-<!-- Plugins and Icon Fonts-->
-<link href="/assets/css/plugins.min.css" rel="stylesheet" async>
-<!-- lightbox CSS-->
-<link href="/assets/css/lightbox.min.css" rel="stylesheet" defer>
-
-<link rel="stylesheet" href="/assets/css/jtb-jquery.fancybox.min.css" defer/>
-
-<script src="/assets/js/jquery.fancybox.min3.5.7.js" defer></script>
-
-
-<!-- THIS IS FOR SCORES -->
-<script type="text/javascript" async>
-
-function toggle_text(shown, hidden) {
-       var e = document.getElementById(shown);
-       var f = document.getElementById(hidden);
-    if(e.style.display == 'inline') {
-                  e.style.display = 'none';
-                  f.style.display = 'inline';
-      }
-      else {
-                  e.style.display = 'inline';
-                  f.style.display = 'none';
-      }
-}
-</script>
-
- <script language="javascript" async>
-<!--
-function getItem(id)
-    {
-        var itm = false;
-        if(document.getElementById)
-            itm = document.getElementById(id);
-        else if(document.all)
-            itm = document.all[id];
-        else if(document.layers)
-            itm = document.layers[id];
-        return itm;
-    }
-    function toggleItem(id)
-    {
-        itm = getItem(id);
-        if(!itm)
-            return false;
-        if(itm.style.display == 'none')
-            itm.style.display = '';
-        else
-            itm.style.display = 'none';
-        return false;
-    }
-//-->
-</script>
 
 <script src="/assets/js/lightbox-plus-jquery.min.js" defer></script>
 
@@ -181,12 +181,14 @@ function getItem(id)
   	<div class="container">
 
   </section>
-  <!-- Page Header end--><!-- Module --><section class="module module-divider-bottom"><div class="container" background-color="#1a1c1e"><!-- BEGIN BEGIN works.html -->
+  <!-- Page Header end--><!-- Module --><section class="module module-divider-bottom"><div class="container" background-color="#1a1c1e"><!-- PAGE WITHOUT ENDS has from-index.html *AND* default-without-ends.html   -->
+<!-- DEFAULT WITHOUT ENDS has head.html *AND* off-canvas-sidebar.html *AND* scripts.html *AND* footer.html  -->
+
+
+<!-- BEGIN BEGIN works.html -->
 
 			<!-- BEGIN jquery and fancybox scripts -->
 		<script src="http://www.jasonthorpebuchanan.com/assets/js/jtb-jquery-3.3.1.min.js"></script>
-
-
 
 
 
@@ -197,9 +199,9 @@ function getItem(id)
 <section>
 <div class="single-portfolio-title nopadding" width="99%">
 		<div class="row" width="99%"><!-- BEGIN SCORE -->
-	<p class="mb-1">		<div class="col-md-3"><h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4>
+	<p class="mb-1"><div class="col-md-4"><h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4>
 		<br>
-		<p class="mb-1">	    	<div class="container">	<p class="mb-1" align="left">	  <div class="score-wrapper"><ul><!-- BEGIN score_all-forgetting-is-retrieval.html -->
+		<div class="container">	<p class="mb-3" align="left"><div class="score-wrapper"><ul><!-- BEGIN score_all-forgetting-is-retrieval.html -->
 <img align="left" src="scores/all-forgetting-is-retrieval_score/all-forgetting_thumb_339.gif" rel="all-forgetting-score" height="331" width="234" data-fancybox="images" href="scores/all-forgetting-is-retrieval_score/all-forgetting-is-retrieval_(2019)_ThorpeBuchanan__2.png" data-caption="all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan">
 <img rel="all-forgetting-score" data-fancybox="images" href="scores/all-forgetting-is-retrieval_score/all-forgetting-is-retrieval_(2019)_ThorpeBuchanan__2.png" data-caption="all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan">
 <img rel="all-forgetting-score" data-fancybox="images" href="scores/all-forgetting-is-retrieval_score/all-forgetting-is-retrieval_(2019)_ThorpeBuchanan__3.png" data-caption="all-forgetting-is-retrieval (2019) by Jason Thorpe Buchanan">

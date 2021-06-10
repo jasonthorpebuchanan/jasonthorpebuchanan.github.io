@@ -31,7 +31,6 @@ html {
 }
 
 body {
-    background-color: #050709;
     background-blend-mode: hard-light;
     background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg);
     font-family: "Roboto", Arial, sans-serif;
@@ -306,9 +305,7 @@ h6,
 }
 
 .roboto {
-    background-color: #050709;
     background-blend-mode: hard-light;
-    background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg);
     font-family: "Roboto", Arial, sans-serif;
     line-height: 1.85; /* was 1.75 in template */
     font-weight: 300;
@@ -3997,7 +3994,7 @@ z-index: auto;
 }
 
 .portfolio-item:hover .portfolio-overlay {
-    opacity: 0.8;  /* - - CHECK ME - I AM  CHANGED try removing? - - - - - */
+    opacity: 0.5;  /* - - CHECK ME - I AM  CHANGED try removing? - - - - - */
 }
 
 .portfolio-item:hover .portfolio-caption {

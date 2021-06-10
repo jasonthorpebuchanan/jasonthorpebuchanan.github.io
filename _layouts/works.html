@@ -11,8 +11,6 @@ layout: page-without-ends
 		<script src="http://www.jasonthorpebuchanan.com/assets/js/jtb-jquery-3.3.1.min.js"></script>
 
 
-
-
 {% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'performance'" %}
 {% comment %}{% assign currentPiecePerfs = site.works | where_exp:"item", "item.title contains 'page.title'" %}{% endcomment %}
 
@@ -21,12 +19,13 @@ layout: page-without-ends
 <section>
 <div class="single-portfolio-title nopadding" width="99%">
 		<div class="row" width="99%">
+
 					{%- if page.score  -%}
 
 	<!-- BEGIN SCORE -->
-	<p class="mb-1">		<div class="col-md-3"><h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4>
+	<p class="mb-1"><div class="col-md-4"><h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4>
 		<br>
-		<p class="mb-1">	    	<div class="container">	<p class="mb-1" align="left">	  <div class="score-wrapper"><ul>{% include {{ page.score }} %}</div></div>
+		<div class="container">	<p class="mb-3" align="left"><div class="score-wrapper"><ul>{% include {{ page.score }} %}</div></div>
 						<!-- END SCORE -->
 						{%- endif -%}
       </div>
