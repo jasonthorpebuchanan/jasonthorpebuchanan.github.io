@@ -3997,7 +3997,7 @@ z-index: auto;
 }
 
 .portfolio-item:hover .portfolio-overlay {
-    opacity: 0.8;  /* - - CHECK ME - I AM  CHANGED try removing? - - - - - */
+    opacity: 0.5;  /* - - CHECK ME - I AM  CHANGED try removing? - - - - - */
 }
 
 .portfolio-item:hover .portfolio-caption {
