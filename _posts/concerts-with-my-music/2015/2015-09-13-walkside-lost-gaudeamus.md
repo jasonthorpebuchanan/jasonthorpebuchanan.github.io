@@ -26,7 +26,7 @@ Sep. 13, 2015: World premiere of walkside, lost commissioned by Gaudeamus Muziek
 
 http://muziekweek.nl/
 
-<section class="score-vid-header module-bg-dark" background-color="#051f4a" background-image="http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg">
+<section class="score-vid-header module-bg-dark" background-color="#051f4a">
 <div class="row full-width" width="100%">
     <div class="col-12 nopadding"><iframe class="embed-responsive-item" height="165vh" src="https://player.vimeo.com/video/140159929" frameborder="0" allowfullscreen></iframe></div><br>
 </div><br>

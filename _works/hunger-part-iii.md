@@ -70,9 +70,9 @@ Knut Hamsun's novel <em>Sult</em> is a point of departure for a libretto by awar
 
 
 
-    <section class="score-vid-header module-bg-dark" background-color="#051f4a" background-image="http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg">
-     <div class="container full-width" background-image="http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg">
-       <div class="row full-width" width="100%" background-image="http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg">
+    <section class="score-vid-header module-bg-dark" background-color="#051f4a">
+     <div class="container full-width">
+       <div class="row full-width" width="100%">
 
 <div class="row">
 <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/126475804" frameborder="0" allowfullscreen></iframe><a href="http://theindustryla.org/projects/project_firsttake15.php" target="blank">The Industry</a>'s HUNGER Intro Video

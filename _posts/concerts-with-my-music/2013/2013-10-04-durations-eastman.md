@@ -24,7 +24,7 @@ Oct. 04, 2013: durat(A)ions 'broken landscape', for Iktus Percussion at the East
 
 http://jasonthorpebuchanan.com/img/concerts/IKTUS-poster-2.0_02.png
 
-<section class="score-vid-header module-bg-dark" background-color="#051f4a" background-image="http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg">
+<section class="score-vid-header module-bg-dark" background-color="#051f4a">
 <div class="row full-width" width="100%">
     <div class="col-12 nopadding"><iframe class="embed-responsive-item" height="165vh" src="https://www.youtube.com/embed/rGdumjQBYB8" frameborder="0" allowfullscreen></iframe></div><br>
 </div></section>

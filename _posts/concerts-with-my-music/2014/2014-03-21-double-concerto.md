@@ -32,7 +32,7 @@ Mar. 21, 2014: *Double Concerto for Two Horns and Chamber Orchestra*, Eastman Mu
 
 Eastman Musica Nova plays Zorn, Morris, Thorpe Buchanan – Rochester, NY
 
-<section class="score-vid-header module-bg-dark" background-color="#051f4a" background-image="http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue1400.jpg">
+<section class="score-vid-header module-bg-dark" background-color="#051f4a">
 <div class="row full-width" width="100%">
     <div class="col-12 nopadding"><iframe class="embed-responsive-item" height="165vh" src="https://player.vimeo.com/video/110432545" frameborder="0" allowfullscreen></iframe></div><br>
 </div></section>
