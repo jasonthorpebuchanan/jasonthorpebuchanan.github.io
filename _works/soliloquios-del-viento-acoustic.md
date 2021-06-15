@@ -25,6 +25,7 @@ instrumentation:
 tags:
   - chamber
   - acoustic
+  - voices
 media:
   - title: "soliloquios del viento (2016) by Jason Thorpe Buchanan"
     url: https://soundcloud.com/jasontbuchanan/soliloquios-del-viento-2016-talea-ensemble-exaudi-james-baker-conductor
