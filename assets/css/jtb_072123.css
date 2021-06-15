@@ -4910,7 +4910,7 @@ a[rel~="gallery"]:hover {
     letter-spacing: 0.9px;
     line-height: 23px;
     font-size: 8px;
-    color: #111;
+    color: #333;
 }
 
 .widget_tag_cloud .tagcloud > a:hover {
