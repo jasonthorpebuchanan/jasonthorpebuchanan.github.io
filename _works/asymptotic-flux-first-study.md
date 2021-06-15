@@ -16,7 +16,6 @@ instrumentation:
   - electronics
 tags:
   - electronics
-  - video
   - chamber
 media:
   - title: "Asymptotic Flux: First Study in Entropy (2012) by Jason Thorpe Buchanan"

@@ -8,15 +8,12 @@ yearComposed: 2015
 commissionedOrWrittenFor: Commissioned by The New York Virtuoso Singers
 size: sixteen solo voices
 instrumentation:
-  - sixteen solo voices
+  - sixteen voices
 tags:
   - acoustic
   - voices
 media:
-    - title: hunger fragments
-      url:
-      type:
-      ID:
+
 headerImage: works-images/nyvirtuososingers_1200x600.jpg
 portWrapper: works-images/port-wrapper/nyvirtuososingers_660x340.jpg
 score: score_hunger-fragments.html

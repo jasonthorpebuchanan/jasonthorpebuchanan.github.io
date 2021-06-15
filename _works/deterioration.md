@@ -6,7 +6,7 @@ title: "de/ter| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |ior.ation"
 duration: 9 minutes
 yearComposed: 2015
 commissionedOrWrittenFor: Commissioned by the Blue Water Chamber Orchestra as winner of Iron Composer 2014
-size: chamber orchestra
+size: "chamber orchestra"
 instrumentation:
   - 2.2.2.1-1.2.0.0-Timp+1 Perc-6.5.4.3.2
   - 2 flutes
@@ -26,6 +26,7 @@ instrumentation:
 tags:
   - acoustic
   - orchestra
+  
 media:
   - title: "de/ter| |ior.ation (in/ |minate| ) for chamber orchestra (2015) by Jason Thorpe Buchanan"
     url: https://player.vimeo.com/video/148583261
