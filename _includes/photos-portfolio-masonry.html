@@ -1,4 +1,7 @@
-{%- assign imageFiles = site.static_files | where: "image", true -%}
+{%- assign imageFiles = site.static_files | where: "image", true | sort: 'date' | reverse -%}
+
+<!-- {%- assign imagefiles = site.static_files | sort: 'date' | reverse -%} -->
+
 
 <!-- Portfolio-->
 <div class="container-fluid">
