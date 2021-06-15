@@ -6,7 +6,7 @@ title: "Double Concerto for Two Horns and Chamber Orchestra"
 duration: 8 minutes
 yearComposed: 2014
 commissionedOrWrittenFor: Commissioned by the International Horn Society for the Eastman Music Nova Ensemble, Jeff Nelsen, Mike Walker, and Brad Lubman
-size: two horns and chamber orchestra
+size: "chamber orchestra"
 instrumentation:
   - 1.1.2.1-4.1.1.0-3 Perc-1.1.1.1.1
   - flute
