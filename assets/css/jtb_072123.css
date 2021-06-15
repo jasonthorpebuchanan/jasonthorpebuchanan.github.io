@@ -3803,12 +3803,14 @@ z-index: auto;
 
 .filters > li a {
     color: #eeeeee; /* - - CHECK ME - I AM  CHANGED from black to off white  - - - - - - - - - - - - - - ! ! ! ! */
-    opacity: .3; /* - - CHECK ME - I AM  CHANGED from .4 to .3  - - - - - - - - - - - - - - ! ! ! ! */
+    opacity: .5; /* - - CHECK ME - I AM  CHANGED from .4 to .3  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .filters > li a:hover,
 .filters > li a.current {
     opacity: 1;
+    font-size: 15px;
+
 }
 
 @media (max-width: 767px) {
