@@ -4917,6 +4917,8 @@ a[rel~="gallery"]:hover {
     background: #5b93d4;
     color: #fff;
     opacity: 1;
+    font-size: 9px;
+
 }
 
 /* --- [ Twitter Feed Widget ] --- */
