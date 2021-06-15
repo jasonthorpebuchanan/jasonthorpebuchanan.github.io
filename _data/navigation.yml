@@ -19,6 +19,11 @@
       url: /media/
     - page: Photos
       url: /media/photos/
+
+- title: Photos
+  url:  /media/photos/
+  sublinks:
+
     # - page: Resources
     #   url: /media/resources.html
 
