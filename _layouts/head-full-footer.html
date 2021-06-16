@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- DEFAULT has head.html *AND* header.html *AND* off-canvas-sidebar.html *AND* scripts.html *AND* foot.html *AND* footer.html  -->
+	<head>
+		{% include head.html %}
+		<link rel="stylesheet" href="/assets/css/jtb_072123.css">
+	</head>
+
+ 
+	<body>
+		<!-- Layout-->
+		<div class="layout">
+			<!-- Header-->
+			{% include header.html %}
+			<!-- Header end-->
+			<!-- Wrapper-->
+			<div class="wrapper" background-color="#051f4a">
+				{{ content }}
+				<!-- Footer-->
+				{% include full-footer.html %}
+				<!-- Footer end-->
+				<a class="scroll-top" href="#top"><i class="fa fa-angle-up"></i></a>
+			</div>
+			<!-- Wrapper end-->
+		</div>
+		<!-- Layout end-->
+		{%- comment -%}
+			<!-- Off canvas-->
+			{% include off-canvas-sidebar.html %}
+			<!-- Off canvas end-->
+		{%- endcomment -%}
+		<!-- Scripts -->
+		{% include scripts.html %}
+		<!-- Scripts end-->
+
+
+					{% include foot.html %}
+
+
+	</body>
+
+</html>

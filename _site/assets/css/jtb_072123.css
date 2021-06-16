@@ -3179,6 +3179,17 @@ body.off-canvas-sidebar-open .layout {
     padding: 39vh 6vh; /* huahin - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom -  - - ! ! ! ! */  -->
 }
 
+.module-header-news {
+  background-color: #000000; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+        background-color: transparent !important;
+    width: 100%;
+    position: relative; /* huahin -- if absolute this disappears, keep as relative - - CHANGED  - */
+    padding: 9vh 6vh; /* huahin - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom -  - - ! ! ! ! */  -->
+}
+
 .module,
 .module-sm {
     background-color: #000000; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
@@ -3803,12 +3814,14 @@ z-index: auto;
 
 .filters > li a {
     color: #eeeeee; /* - - CHECK ME - I AM  CHANGED from black to off white  - - - - - - - - - - - - - - ! ! ! ! */
-    opacity: .3; /* - - CHECK ME - I AM  CHANGED from .4 to .3  - - - - - - - - - - - - - - ! ! ! ! */
+    opacity: .5; /* - - CHECK ME - I AM  CHANGED from .4 to .3  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .filters > li a:hover,
 .filters > li a.current {
     opacity: 1;
+    font-size: 15px;
+
 }
 
 @media (max-width: 767px) {
@@ -4910,13 +4923,15 @@ a[rel~="gallery"]:hover {
     letter-spacing: 0.9px;
     line-height: 23px;
     font-size: 8px;
-    color: #111;
+    color: #333;
 }
 
 .widget_tag_cloud .tagcloud > a:hover {
     background: #5b93d4;
     color: #fff;
     opacity: 1;
+    font-size: 9px;
+
 }
 
 /* --- [ Twitter Feed Widget ] --- */
