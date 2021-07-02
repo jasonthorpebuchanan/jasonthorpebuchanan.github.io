@@ -32,49 +32,81 @@ During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composi
 <br>
 I have given guest lectures, workshops, and taught courses at:
 <br><br>
-Stanford University, CCRMA Colloquium (California, USA)
+
 <br>
 University of Chicago (USA)
-<br>
-Eastman School of Music, Eastman Audio Research Studio (New York, USA)
-<br>
-University of Virginia (USA)
-<br>
-University of Northern Colorado (USA)
-<br>
-University of Texas at Austin (USA)
+
+
+
+
 <br>
 University of Nevada, Las Vegas (USA)
 <br>
 San Jose State University (California, USA)
-<br>
-Thailand New Music and Arts Symposium, International Composers Institute of Thailand (Bangkok)
-<br>
-Thailand International Composers Festival, TICF Academy
+
+
 <br>
 Chamber Music Campania (Italy)
 <br>
-Valencia International Performance Academy & Festival (Spain)
+2021 - International Composers Institute of Thailand (online)
 <br>
-Ball State University, School of Music (Indiana, USA)
+2020 - International Composers Institute of Thailand (online)
 <br>
-Music Science Share, Music Educator’s Conference (online), Shanghai (China)
+2020 - Thailand New Music and Arts Symposium (Bangkok)
 <br>
-University of Miami, Frost School of Music (Florida, USA)
+2020 - Ball State University, School of Music (online), (Indiana, USA)
 <br>
-Yong Siew Toh Conservatory of Music (Singapore)
+2020 - Music Science Share, Music Educator’s Conference (online), Shanghai (China)
 <br>
-Hamilton College Music Department (New York, USA)
+2020 - University of Miami, Frost School of Music (Florida, USA)
 <br>
-Embassy of Foreign Artists, Geneva (Switzerland)
+2020 - Yong Siew Toh Conservatory of Music (Singapore)
 <br>
-Ithaca College Composition Seminar (New York)
+2019 - University of Texas at Austin (USA)
 <br>
-Vernon Salon Series (Oakland, California)
+2019 - Thailand International Composers Festival, TICF Academy
 <br>
-Portland State University (Oregon, USA)
+2019 - University of Northern Colorado (USA)
 <br>
-Bergen senter for Elektronisk Kunst (BEK), Bergen (Norway)
+2019 - Eastman School of Music, Eastman Audio Research Studio (New York, USA)
+<br>
+2018 - Hamilton College Music Department (New York, USA)
+<br>
+2018 - Embassy of Foreign Artists, Geneva (Switzerland)
+<br>
+2018 - Ithaca College Composition Seminar (New York)
+<br>
+2017 - Stanford University, CCRMA Colloquium (California, USA)
+<br>
+2017 - University of Virginia (USA)
+<br>
+2017 - Valencia International Performance Academy & Festival (Spain)
+<br>
+2017 - University of Chicago (USA)
+<br>
+2016 - San Jose State University (California, USA)
+<br>
+2016 - Vernon Salon Series (Oakland, California)
+<br>
+2016 - NEON Music Festival, University of Nevada, Las Vegas (USA)
+<br>
+2016 - Valencia International Performance Academy & Festival (Spain)
+<br>
+2016 - Portland State University (Oregon, USA)
+<br>
+2016 - University of Chicago (USA)
+<br>
+2015 - Bergen senter for Elektronisk Kunst (BEK), Bergen (Norway)
+<br>
+2015 - University of Nevada, Las Vegas (USA)
+<br>
+2015 - Valencia International Performance Academy & Festival (Spain)
+<br>
+2014 - Tzlil Meudcan International Composers Festival, Tel Aviv (Israel)
+<br>
+2014 - Chamber Music Campania, Lucera (Italy)
+<br>
+2013 - University of Missouri, Mizzou International Composers Festival (USA)
 
 
 <br>
