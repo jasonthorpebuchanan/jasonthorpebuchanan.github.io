@@ -22,8 +22,9 @@ background: black
 <br><br>
 
 
-<h2>Teaching</h2>
+<h2>Teaching</h2><br>
 Since 2018, I have been Full-Time Lecturer in Composition, Music Theory, and Electroacoustic Music Composition at the College of Music, Mahidol University in Thailand, and since 2019 have been Department Chair of Composition and Theory.
+<br>
 During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composition & Interim Director of the Electronic Music Studios (UTEMS) at the Butler School of Music, University of Texas at Austin.
 
 <br><br>
