@@ -9,13 +9,13 @@ tags:
 background: black
 ---
 <h3>Active courses:</h3>
-<a href="http://www.jasonthorpebuchanan.com/grad20th.html">MSTC 526 - Graduate Seminar in 20th and 21st Century Music Composition and Theory</a><br />
+<a href="http://www.jasonthorpebuchanan.com/20th.html">MSCY 313 Music in the Twentieth Century</a><br />
 <br />
 <a href="http://www.jasonthorpebuchanan.com/electronic.html">MSTC 471 - Electronic Music Composition I</a><br />
 <br />
 <a href="http://www.jasonthorpebuchanan.com/contemporary.html">MSTC 133/233 - Contemporary Music Ensemble, Semester 1</a>
 <br />
-<a href="http://www.jasonthorpebuchanan.com/studioclass.html">Studio Class, Sem. 1 2019</a>
+<a href="http://www.jasonthorpebuchanan.com/studioclass.html">Studio Class, Sem. 1 2021</a>
 <br />
 <a href="http://www.jasonthorpebuchanan.com/complessons.html">Composition Lessons</a>
 
