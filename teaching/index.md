@@ -8,9 +8,7 @@ postDescription: Teaching
 tags:
 background: black
 ---
-Active courses:
-<p><br />
-<br />
+<b>Active courses:</b>
 <a href="http://www.jasonthorpebuchanan.com/grad20th.html">MSTC 526 - Graduate Seminar in 20th and 21st Century Music Composition and Theory</a><br />
 <br />
 <a href="http://www.jasonthorpebuchanan.com/electronic.html">MSTC 471 - Electronic Music Composition I</a><br />
@@ -19,16 +17,16 @@ Active courses:
 <br />
 <a href="http://www.jasonthorpebuchanan.com/studioclass.html">Studio Class, Sem. 1 2019</a></p>
 <br />
-<a href="http://www.jasonthorpebuchanan.com/complessons.html">Composition Lessons</a></p>
-</body>
-</html>
+<a href="http://www.jasonthorpebuchanan.com/complessons.html">Composition Lessons</a>
+
+<br><br>
 
 
 <b>Teaching</b>
 Since 2018, I have been Full-Time Lecturer in Composition, Music Theory, and Electroacoustic Music Composition at the College of Music, Mahidol University in Thailand, and since 2019 have been Department Chair of Composition and Theory.
 During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composition & Interim Director of the Electronic Music Studios (UTEMS) at the Butler School of Music, University of Texas at Austin.
 
-<br><br><br>
+<br><br>
 
 <b>Workshops, Seminars, Lectures, Masterclasses</b>
 <br>
@@ -79,7 +77,7 @@ Portland State University						    Portland, OR
 Bergen senter for Elektronisk Kunst (BEK)				Bergen, Norway
 
 
-<br><br><br>
+<br><br>
 
 <b>Courses Taught at UT</b>
 <br>
@@ -124,12 +122,8 @@ Sight Singing & Ear Training III, Fall 2018
 <br>
 
 
+<br>
 
-<!--
-<iframe class="embed-responsive-item mb-3" src="https://player.vimeo.com/video/245320082" allowfullscreen width="1300" height="736"></iframe>
-<br> -->
-
-<!-- YANKED FROM JTB WEBSITE -->
 
 <center>
 <div class="row col-md-12" align="center">
