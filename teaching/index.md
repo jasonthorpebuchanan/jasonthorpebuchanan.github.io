@@ -8,7 +8,7 @@ postDescription: Teaching
 tags:
 background: black
 ---
-<h2>Active courses:</h2>
+<h3>Active courses:</h3>
 <a href="http://www.jasonthorpebuchanan.com/grad20th.html">MSTC 526 - Graduate Seminar in 20th and 21st Century Music Composition and Theory</a><br />
 <br />
 <a href="http://www.jasonthorpebuchanan.com/electronic.html">MSTC 471 - Electronic Music Composition I</a><br />
@@ -81,7 +81,7 @@ Bergen senter for Elektronisk Kunst (BEK), Bergen (Norway)
 
 <br>
 
-<h2>Courses Taught at UT</h2>
+<h3>Courses Taught at University of Texas at Austin</h3>
 <br>
 Composition Lessons, Fall 2020 (4 masters and 4 doctoral students)
 <br>
@@ -93,36 +93,42 @@ Dissertation Co-Advisor, Nathan Nokes
 
 <br>
 
-<h2>Courses Taught at Mahidol</h2>
+<h3>Courses Taught at the College of Music, Mahidol University</h3>
 Composition Lessons, Spr. ‘19 (4), Fall ‘19 (5), Spr. ‘20 (5), Fall ‘20 (3), Spr. ‘21 (4), Fall ’21 (3)
 <br>
 Composition Studio Class, Fall 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021
 <br>
-Contemporary Music Ensemble (Lab), Spr. ‘19, Fall ‘19, Spr. ‘20, Fall ‘20, Spr. ’21, Fall 2021
+MSTC 133/233 Contemporary Music Ensemble (Composition Lab), Spr. ‘19, Fall ‘19, Spr. ‘20, Fall ‘20, Spr. ’21, Fall 2021
 <br>
-Group Composition, Spring 2019, Fall 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021
+MSTC 252 Western Music Theory IV, Spring 2019, Fall 2018, Spring 2021
 <br>
-Western Music Theory IV, Spring 2019, Fall 2018, Spring 2021
+MSCY 313 Music in the Twentieth Century, Spring 2019, Spring 2020, Fall 2021
 <br>
-Music in the Twentieth Century, Spring 2019, Spring 2020, Fall 2021
+MSTC 524 Graduate Composition Pedagogy, Fall 2020
 <br>
-Graduate Composition Pedagogy, Fall 2020
+MSTC 471 Electroacoustic Composition I, Fall 2018, Fall 2019, Fall 2020, Fall 2021
 <br>
-Electroacoustic Composition I, Fall 2018, Fall 2019, Fall 2020, Fall 2021
-<br>
-Graduate Electroacoustic Composition, Spring 2020, Fall 2021
+MSTC 528 Graduate Electroacoustic Composition, Spring 2020, Fall 2021
 <br>
 Electroacoustic Composition II, Spring 2019
 <br>
 Graduate Seminar in 20th and 21st Century Music Composition and Theory, Fall 2019
 <br>
-Western Music Theory III, Fall 2018
+MSTC 251 Western Music Theory III, Fall 2018
 <br>
-Western Music Theory II, Fall 2018
+MSTC 152 Western Music Theory II, Fall 2018
 <br>
-Sight Singing & Ear Training III, Fall 2018
+MSTC 231 Sight Singing & Ear Training III, Fall 2018
+
+<br> 
+
+<h3>Courses Taught at the Eastman School of Music</h3>
+<br>
+CMP 226 Introduction to Computer Music Techniques II, Spring 2014
+<br>
 
 
+<br>
 
 <br>
 
