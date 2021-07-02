@@ -60,14 +60,14 @@ Valencia International Performance Academy & Festival (Spain)
 <br>
 Ball State University, School of Music (Indiana, USA)
 <br>
-Music Science Share, Music Educator’s Conference (online), Shanghai (China)       
+Music Science Share, Music Educator’s Conference (online), Shanghai (China)
 <br>
 University of Miami, Frost School of Music (Florida, USA)
 <br>
 Yong Siew Toh Conservatory of Music (Singapore)
 <br>
 Hamilton College Music Department (New York, USA)
-<br>			    
+<br>
 Embassy of Foreign Artists, Geneva (Switzerland)
 <br>
 Ithaca College Composition Seminar (New York)
@@ -81,17 +81,6 @@ Bergen senter for Elektronisk Kunst (BEK), Bergen (Norway)
 
 <br>
 
-<h3>Courses Taught at University of Texas at Austin</h3>
-<br>
-Composition Lessons, Fall 2020 (4 masters and 4 doctoral students)
-<br>
-MUS 329J Introduction to Computer Music: Visual Programming with Max, Fall 2020
-<br>
-Electronic Music Seminar, Fall 2020
-<br>
-Dissertation Co-Advisor, Nathan Nokes
-
-<br>
 
 <h3>Courses Taught at the College of Music, Mahidol University</h3>
 Composition Lessons, Spr. ‘19 (4), Fall ‘19 (5), Spr. ‘20 (5), Fall ‘20 (3), Spr. ‘21 (4), Fall ’21 (3)
@@ -110,15 +99,28 @@ MSTC 471 Electroacoustic Composition I, Fall 2018, Fall 2019, Fall 2020, Fall 20
 <br>
 MSTC 528 Graduate Electroacoustic Composition, Spring 2020, Fall 2021
 <br>
-Electroacoustic Composition II, Spring 2019
+MSTC 472 Electroacoustic Composition II, Spring 2019
 <br>
-Graduate Seminar in 20th and 21st Century Music Composition and Theory, Fall 2019
+MSTC 526 Graduate Seminar in 20th and 21st Century Music Composition and Theory, Fall 2019
 <br>
 MSTC 251 Western Music Theory III, Fall 2018
 <br>
 MSTC 152 Western Music Theory II, Fall 2018
 <br>
 MSTC 231 Sight Singing & Ear Training III, Fall 2018
+
+<br>
+
+
+<h3>Courses Taught at University of Texas at Austin</h3>
+<br>
+Composition Lessons, Fall 2020 (4 masters and 4 doctoral students)
+<br>
+MUS 329J Introduction to Computer Music: Visual Programming with Max, Fall 2020
+<br>
+Electronic Music Seminar, Fall 2020
+<br>
+Dissertation Co-Advisor, Nathan Nokes
 
 <br>
 
