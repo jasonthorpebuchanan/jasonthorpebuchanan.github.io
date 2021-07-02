@@ -34,23 +34,23 @@ During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composi
 <br>
 I have given guest lectures, workshops, and taught courses at:
 <br>
-Stanford University, CCRMA Colloquium
+Stanford University, CCRMA Colloquium (California, USA)
 <br>
-University of Chicago
+University of Chicago (USA)
 <br>
-Eastman School of Music, Eastman Audio Research Studio
+Eastman School of Music, Eastman Audio Research Studio (New York, USA)
 <br>
-University of Virginia
+University of Virginia (USA)
 <br>
-University of Northern Colorado
+University of Northern Colorado (USA)
 <br>
-University of Texas at Austin
+University of Texas at Austin (USA)
 <br>
-University of Nevada, Las Vegas
+University of Nevada, Las Vegas (USA)
 <br>
-San Jose State University
+San Jose State University (California, USA)
 <br>
-Thailand New Music and Arts Symposium, International Composers Institute of Thailand
+Thailand New Music and Arts Symposium, International Composers Institute of Thailand (Bangkok)
 <br>
 Thailand International Composers Festival, TICF Academy
 <br>
@@ -58,25 +58,25 @@ Chamber Music Campania (Italy)
 <br>
 Valencia International Performance Academy & Festival (Spain)
 <br>
-Ball State University, School of Music	         				Muncie, Indiana
+Ball State University, School of Music (Indiana, USA)  				
 <br>
-Music Science Share, Music Educator’s Conference (online)                      Shanghai, China
+Music Science Share, Music Educator’s Conference (online), Shanghai (China)                   
 <br>
-University of Miami, Frost School of Music				         Miami, FL
+University of Miami, Frost School of Music (Florida, USA)				      
 <br>
-Yong Siew Toh Conservatory of Music		        			         Singapore
+Yong Siew Toh Conservatory of Music (Singapore)		        			  
 <br>
-Hamilton College Music Department					      Clinton, NY
+Hamilton College Music Department (New York, USA)		
+<br>			    
+Embassy of Foreign Artists, Geneva (Switzerland)
 <br>
-Embassy of Foreign Artists					      Geneva, Switzerland
+Ithaca College Composition Seminar (New York)
 <br>
-Ithaca College Composition Seminar			    		        Ithaca, NY
+Vernon Salon Series (Oakland, California)
 <br>
-Vernon Salon Series							     Oakland, CA
+Portland State University (Oregon, USA)
 <br>
-Portland State University						    Portland, OR
-<br>
-Bergen senter for Elektronisk Kunst (BEK)				Bergen, Norway
+Bergen senter for Elektronisk Kunst (BEK), Bergen (Norway)
 
 
 <br>
