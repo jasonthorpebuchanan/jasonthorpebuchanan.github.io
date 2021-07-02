@@ -1,15 +1,13 @@
 ---
 layout: page
 categories: blog
-headerImage: JTB_HuaHin_1800x899.jpg
+headerImage: assets/images/headers/jtb-lecture1.jpg
 date: 2021-07-02
 manualDate: July. 2 2021
 postDescription: Teaching
 tags:
 background: black
 ---
-<img class="float-sm-left col-sm-5 col-lg-4 p4-0 pb-0" src="{{ site.images }}/jtb-photos/jtb-royaumont-420x600-web.jpg">
-
 Active courses:
 <p><br />
 <br />
@@ -33,57 +31,97 @@ During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composi
 <br><br><br>
 
 <b>Workshops, Seminars, Lectures, Masterclasses</b>
+<br>
 I have given guest lectures, workshops, and taught courses at:
+<br>
 Stanford University, CCRMA Colloquium
+<br>
 University of Chicago
-Eastman School of Music, Eastman Audio REesearch Studio
+<br>
+Eastman School of Music, Eastman Audio Research Studio
+<br>
 University of Virginia
+<br>
 University of Northern Colorado
+<br>
 University of Texas at Austin
+<br>
 University of Nevada, Las Vegas
+<br>
 San Jose State University
+<br>
 Thailand New Music and Arts Symposium, International Composers Institute of Thailand
+<br>
 Thailand International Composers Festival, TICF Academy
+<br>
 Chamber Music Campania (Italy)
+<br>
 Valencia International Performance Academy & Festival (Spain)
+<br>
 Ball State University, School of Music	         				Muncie, Indiana
+<br>
 Music Science Share, Music Educator’s Conference (online)                      Shanghai, China
+<br>
 University of Miami, Frost School of Music				         Miami, FL
+<br>
 Yong Siew Toh Conservatory of Music		        			         Singapore
+<br>
 Hamilton College Music Department					      Clinton, NY
+<br>
 Embassy of Foreign Artists					      Geneva, Switzerland
+<br>
 Ithaca College Composition Seminar			    		        Ithaca, NY
+<br>
 Vernon Salon Series							     Oakland, CA
+<br>
 Portland State University						    Portland, OR
+<br>
 Bergen senter for Elektronisk Kunst (BEK)				Bergen, Norway
-Rutgers University Music Department				      New Brunswick, NJ
-San Francisco Community Music Center			         San Francisco, CA
+
 
 <br><br><br>
 
 <b>Courses Taught at UT</b>
+<br>
 Composition Lessons, Fall 2020 (4 masters and 4 doctoral students)
+<br>
 MUS 329J Introduction to Computer Music: Visual Programming with Max, Fall 2020
+<br>
 Electronic Music Seminar, Fall 2020
+<br>
 Dissertation Co-Advisor, Nathan Nokes
 
 <br><br><br>
 
 <b>Courses Taught at Mahidol</b>
 Composition Lessons, Spr. ‘19 (4), Fall ‘19 (5), Spr. ‘20 (5), Fall ‘20 (3), Spr. ‘21 (4), Fall ’21 (3)
+<br>
 Composition Studio Class, Fall 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021
+<br>
 Contemporary Music Ensemble (Lab), Spr. ‘19, Fall ‘19, Spr. ‘20, Fall ‘20, Spr. ’21, Fall 2021
+<br>
 Group Composition, Spring 2019, Fall 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021
+<br>
 Western Music Theory IV, Spring 2019, Fall 2018, Spring 2021
+<br>
 Music in the Twentieth Century, Spring 2019, Spring 2020, Fall 2021
+<br>
 Graduate Composition Pedagogy, Fall 2020
+<br>
 Electroacoustic Composition I, Fall 2018, Fall 2019, Fall 2020, Fall 2021
+<br>
 Graduate Electroacoustic Composition, Spring 2020, Fall 2021
+<br>
 Electroacoustic Composition II, Spring 2019
+<br>
 Graduate Seminar in 20th and 21st Century Music Composition and Theory, Fall 2019
+<br>
 Western Music Theory III, Fall 2018
+<br>
 Western Music Theory II, Fall 2018
+<br>
 Sight Singing & Ear Training III, Fall 2018
+<br>
 
 
 
@@ -104,20 +142,6 @@ Sight Singing & Ear Training III, Fall 2018
 </center>
 <br>
 <!-- END STUFF TAKEN FROM JTB PAGE -->
-
-
-<div class="accordion" id="myaccordion">
-
-  <div class="card">
-    <div class="card-header" id="headingOne">
-
-      <center>  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        <span class="bask17">[Click for full-length Bio]</span>
-        </button></center>
-
-    </div>
-
-
 
 
 
