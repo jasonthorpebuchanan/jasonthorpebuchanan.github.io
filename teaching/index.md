@@ -9,6 +9,23 @@ tags:
 background: black
 ---
 <img class="float-sm-left col-sm-5 col-lg-4 p4-0 pb-0" src="{{ site.images }}/jtb-photos/jtb-royaumont-420x600-web.jpg">
+
+Active courses:
+<p><br />
+<br />
+<a href="http://www.jasonthorpebuchanan.com/grad20th.html">MSTC 526 - Graduate Seminar in 20th and 21st Century Music Composition and Theory</a><br />
+<br />
+<a href="http://www.jasonthorpebuchanan.com/electronic.html">MSTC 471 - Electronic Music Composition I</a><br />
+<br />
+<a href="http://www.jasonthorpebuchanan.com/contemporary.html">MSTC 133/233 - Contemporary Music Ensemble, Semester 1</a></p>
+<br />
+<a href="http://www.jasonthorpebuchanan.com/studioclass.html">Studio Class, Sem. 1 2019</a></p>
+<br />
+<a href="http://www.jasonthorpebuchanan.com/complessons.html">Composition Lessons</a></p>
+</body>
+</html>
+
+
 <b>Teaching</b>
 Since 2018, I have been Full-Time Lecturer in Composition, Music Theory, and Electroacoustic Music Composition at the College of Music, Mahidol University in Thailand, and since 2019 have been Department Chair of Composition and Theory.
 During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composition & Interim Director of the Electronic Music Studios (UTEMS) at the Butler School of Music, University of Texas at Austin.
