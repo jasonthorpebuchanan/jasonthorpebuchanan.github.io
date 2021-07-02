@@ -13,23 +13,24 @@ background: black
 <br />
 <a href="http://www.jasonthorpebuchanan.com/electronic.html">MSTC 471 - Electronic Music Composition I</a><br />
 <br />
-<a href="http://www.jasonthorpebuchanan.com/contemporary.html">MSTC 133/233 - Contemporary Music Ensemble, Semester 1</a></p>
+<a href="http://www.jasonthorpebuchanan.com/contemporary.html">MSTC 133/233 - Contemporary Music Ensemble, Semester 1</a>
 <br />
-<a href="http://www.jasonthorpebuchanan.com/studioclass.html">Studio Class, Sem. 1 2019</a></p>
+<a href="http://www.jasonthorpebuchanan.com/studioclass.html">Studio Class, Sem. 1 2019</a>
 <br />
 <a href="http://www.jasonthorpebuchanan.com/complessons.html">Composition Lessons</a>
 
 <br><br>
 
 
-<h2>Teaching</h2><br>
+<h3>Teaching</h3>
+<br>
 Since 2018, I have been Full-Time Lecturer in Composition, Music Theory, and Electroacoustic Music Composition at the College of Music, Mahidol University in Thailand, and since 2019 have been Department Chair of Composition and Theory.
 <br>
 During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composition & Interim Director of the Electronic Music Studios (UTEMS) at the Butler School of Music, University of Texas at Austin.
 
-<br><br>
+<br>
 
-<h2>Workshops, Seminars, Lectures, Masterclasses</h2>
+<h3>Workshops, Seminars, Lectures, Masterclasses</h3>
 <br>
 I have given guest lectures, workshops, and taught courses at:
 <br>
@@ -78,7 +79,7 @@ Portland State University						    Portland, OR
 Bergen senter for Elektronisk Kunst (BEK)				Bergen, Norway
 
 
-<br><br>
+<br>
 
 <h2>Courses Taught at UT</h2>
 <br>
@@ -90,7 +91,7 @@ Electronic Music Seminar, Fall 2020
 <br>
 Dissertation Co-Advisor, Nathan Nokes
 
-<br><br><br>
+<br>
 
 <h2>Courses Taught at Mahidol</h2>
 Composition Lessons, Spr. ‘19 (4), Fall ‘19 (5), Spr. ‘20 (5), Fall ‘20 (3), Spr. ‘21 (4), Fall ’21 (3)
@@ -120,7 +121,7 @@ Western Music Theory III, Fall 2018
 Western Music Theory II, Fall 2018
 <br>
 Sight Singing & Ear Training III, Fall 2018
-<br>
+
 
 
 <br>
