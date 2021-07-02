@@ -10,9 +10,7 @@ background: black
 ---
 <h3>Active courses:</h3>
 <a href="http://www.jasonthorpebuchanan.com/20th.html">MSCY 313 Music in the Twentieth Century</a><br />
-<br />
 <a href="http://www.jasonthorpebuchanan.com/electronic.html">MSTC 471 - Electronic Music Composition I</a><br />
-<br />
 <a href="http://www.jasonthorpebuchanan.com/contemporary.html">MSTC 133/233 - Contemporary Music Ensemble, Semester 1</a>
 <br />
 <a href="http://www.jasonthorpebuchanan.com/studioclass.html">Studio Class, Sem. 1 2021</a>
