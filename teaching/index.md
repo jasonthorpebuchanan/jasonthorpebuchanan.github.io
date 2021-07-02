@@ -28,12 +28,7 @@ During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composi
 
 <br>
 
-<h3>Workshops, Seminars, Lectures, Masterclasses</h3>
-<br>
-I have given guest lectures, workshops, and taught courses at:
-<br><br>
-Chamber Music Campania (Italy)
-<br>
+<h3>Guest Lectures, Workshops, Seminars, Masterclasses</h3>
 2021 - International Composers Institute of Thailand (online)
 <br>
 2020 - International Composers Institute of Thailand (online)
@@ -129,7 +124,6 @@ MSTC 231 Sight Singing & Ear Training III, Fall 2018
 
 
 <h3>Courses Taught at University of Texas at Austin</h3>
-<br>
 Composition Lessons, Fall 2020 (4 masters and 4 doctoral students)
 <br>
 MUS 329J Introduction to Computer Music: Visual Programming with Max, Fall 2020
@@ -141,7 +135,6 @@ Dissertation Co-Advisor, Nathan Nokes
 <br>
 
 <h3>Courses Taught at the Eastman School of Music</h3>
-<br>
 CMP 226 Introduction to Computer Music Techniques II, Spring 2014
 <br>
 
