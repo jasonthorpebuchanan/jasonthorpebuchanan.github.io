@@ -1,7 +1,7 @@
 ---
 layout: page
 categories: blog
-headerImage: images/headers/jtb-lecture1.jpg
+headerImage: jtb-lecture.jpg
 date: 2021-07-02
 manualDate: July. 2 2021
 postDescription: Teaching
@@ -32,20 +32,6 @@ During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composi
 <br>
 I have given guest lectures, workshops, and taught courses at:
 <br><br>
-
-<br>
-University of Chicago (USA)
-
-
-
-
-<br>
-University of Nevada, Las Vegas (USA)
-<br>
-San Jose State University (California, USA)
-
-
-<br>
 Chamber Music Campania (Italy)
 <br>
 2021 - International Composers Institute of Thailand (online)
