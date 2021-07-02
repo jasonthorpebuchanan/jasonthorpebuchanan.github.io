@@ -33,7 +33,7 @@ During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composi
 <h3>Workshops, Seminars, Lectures, Masterclasses</h3>
 <br>
 I have given guest lectures, workshops, and taught courses at:
-<br>
+<br><br>
 Stanford University, CCRMA Colloquium (California, USA)
 <br>
 University of Chicago (USA)
@@ -58,15 +58,15 @@ Chamber Music Campania (Italy)
 <br>
 Valencia International Performance Academy & Festival (Spain)
 <br>
-Ball State University, School of Music (Indiana, USA)  				
+Ball State University, School of Music (Indiana, USA)
 <br>
-Music Science Share, Music Educator’s Conference (online), Shanghai (China)                   
+Music Science Share, Music Educator’s Conference (online), Shanghai (China)       
 <br>
-University of Miami, Frost School of Music (Florida, USA)				      
+University of Miami, Frost School of Music (Florida, USA)
 <br>
-Yong Siew Toh Conservatory of Music (Singapore)		        			  
+Yong Siew Toh Conservatory of Music (Singapore)
 <br>
-Hamilton College Music Department (New York, USA)		
+Hamilton College Music Department (New York, USA)
 <br>			    
 Embassy of Foreign Artists, Geneva (Switzerland)
 <br>
@@ -120,7 +120,7 @@ MSTC 152 Western Music Theory II, Fall 2018
 <br>
 MSTC 231 Sight Singing & Ear Training III, Fall 2018
 
-<br> 
+<br>
 
 <h3>Courses Taught at the Eastman School of Music</h3>
 <br>
