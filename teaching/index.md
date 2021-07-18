@@ -12,21 +12,21 @@ background: black
 MSCY 313 Music in the Twentieth Century - <a href="http://www.jasonthorpebuchanan.com/20th.html">Syllabus, Sem. 1, 2021-22</a><br />
 MSTC 471 - Electronic Music Composition I - <a href="http://www.jasonthorpebuchanan.com/electronic.html">Syllabus, Sem. 1, 2021-22</a><br />
 MSTC 133/233 - Contemporary Music Ensemble - <a href="http://www.jasonthorpebuchanan.com/contemporary.html">Syllabus, Sem. 1, 2021-22</a>
-<br><br>
+<br />
 Composition Studio Class - <a href="http://www.jasonthorpebuchanan.com/studioclass.html">Syllabus, Sem. 1, 2021-22</a>
 <br />
 Composition Lessons - <a href="http://www.jasonthorpebuchanan.com/complessons.html">Syllabus, Sem. 1, 2021-22</a>
-<br><br>
-I am available for private lessons, mentorship, guest lectures, and general consultation or advice online on a case by case basis. Feel free to contact me at jasontbuchanan[at]gmail[dot]composition
 <br><br>
 
 
 <h3>Teaching</h3>
 Since 2018, I have been Full-Time Lecturer in Composition, Music Theory, and Electroacoustic Music Composition at the <a href="https://www.music.mahidol.ac.th/composition-and-theory-department/" target="_blank">College of Music, Mahidol University</a> in Thailand, and since 2019 have been Department Chair of Composition and Theory.
-<br>
+<br><br>
 During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composition & Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/perform-and-study/division-ensemble/composition">Butler School of Music, University of Texas at Austin</a>.
+<br><br>
+I am available for lessons, mentorship, guest lectures, and general consultation online on a case by case basis. Feel free to contact me at jasontbuchanan[at]gmail[dot]composition
+<br><br>
 
-<br>
 
 <h3>Guest Lectures, Workshops, Seminars, Masterclasses</h3>
 2021 - International Composers Institute of Thailand (online)
