@@ -12,11 +12,12 @@ background: black
 MSCY 313 Music in the Twentieth Century - <a href="http://www.jasonthorpebuchanan.com/20th.html">Syllabus, Sem. 1, 2021-22</a><br />
 MSTC 471 - Electronic Music Composition I - <a href="http://www.jasonthorpebuchanan.com/electronic.html">Syllabus, Sem. 1, 2021-22</a><br />
 MSTC 133/233 - Contemporary Music Ensemble - <a href="http://www.jasonthorpebuchanan.com/contemporary.html">Syllabus, Sem. 1, 2021-22</a>
-<br />
+<br><br>
 Composition Studio Class - <a href="http://www.jasonthorpebuchanan.com/studioclass.html">Syllabus, Sem. 1, 2021-22</a>
 <br />
 Composition Lessons - <a href="http://www.jasonthorpebuchanan.com/complessons.html">Syllabus, Sem. 1, 2021-22</a>
-
+<br><br>
+I am available for private lessons, mentorship, guest lectures, and general consultation or advice online on a case by case basis. Feel free to contact me at jasontbuchanan[at]gmail[dot]composition
 <br><br>
 
 
