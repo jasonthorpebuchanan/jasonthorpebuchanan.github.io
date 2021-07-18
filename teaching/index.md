@@ -15,7 +15,7 @@ MSTC 133/233 - Contemporary Music Ensemble - <a href="http://www.jasonthorpebuch
 <br />
 Composition Studio Class - <a href="http://www.jasonthorpebuchanan.com/studioclass.html">Syllabus, Sem. 1, 2021-22</a>
 <br />
-Composition Lessons - <a href="http://www.jasonthorpebuchanan.com/complessons.html">Syllabus, Sem. 1, 2021-22</a>
+Composition Lessons - <!--<a href="http://www.jasonthorpebuchanan.com/complessons.html">-->Syllabus, Sem. 1, 2021-22</a>
 <br><br>
 
 
@@ -24,7 +24,7 @@ Since 2018, I have been Full-Time Lecturer in Composition, Music Theory, and Ele
 <br><br>
 During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composition & Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/perform-and-study/division-ensemble/composition">Butler School of Music, University of Texas at Austin</a>.
 <br><br>
-I am available for lessons, mentorship, guest lectures, and general consultation online on a case by case basis. Feel free to contact me at jasontbuchanan[at]gmail[dot]composition
+I am available for lessons, mentorship, guest lectures, and general consultation online on a case by case basis. Feel free to contact me at jasontbuchanan[at]gmail[dot]com.
 <br><br>
 
 
