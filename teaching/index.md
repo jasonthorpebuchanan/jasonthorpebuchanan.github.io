@@ -15,7 +15,7 @@ MSTC 133/233 - Contemporary Music Ensemble - <a href="http://www.jasonthorpebuch
 <br />
 Composition Studio Class - <a href="http://www.jasonthorpebuchanan.com/studioclass.html">Syllabus, Sem. 1, 2021-22</a>
 <br />
-Composition Lessons - <!--<a href="http://www.jasonthorpebuchanan.com/complessons.html">-->Syllabus, Sem. 1, 2021-22</a>
+Composition Lessons - <!--<a href="http://www.jasonthorpebuchanan.com/complessons.html">-->Syllabus, Sem. 1, 2021-22
 <br><br>
 
 
