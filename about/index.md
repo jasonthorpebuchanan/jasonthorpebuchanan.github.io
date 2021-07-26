@@ -26,6 +26,13 @@ Scenes from his multimedia opera <a href="http://www.hungeropera.com" target="bl
 <!-- new para -->
 He holds a Ph.D. from the Eastman School of Music, served for three years as Executive Director of the <a href="http://www.vipafestival.org" target="blank">VIPA Festival</a> (Spain), two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, as founding director of the TICF International Academy for Young Composers, and as a Faculty Artist at the International Composition Institute of Thailand.
 
+<br>
+Primary mentors have included <a href="http://ricardozohnmuldoon.com/" target="blank">
+Ricardo Zohn-Muldoon</a>,
+<a href="http://www.steventakasugi.com/" target="blank">Steven Takasugi</a>, <a href="https://www.pierluigibillone.com/en/home/" target="blank">Pierluigi Billone</a>,
+<a href="http://chayaczernowin.com/" target="blank">Chaya Czernowin</a>, Raphaël Cendo, David Liptak, Virko Baley, Peter Michael Hamel, Jorge Villavicencio Grossmann, Pablo Furman, and
+<a href="http://www.aperghis.com/english.html" target="blank">Georges Aperghis</a>.
+
 As a guest composer, conductor, and lecturer, he is widely sought internationally at institutions such as the University of Chicago, Stanford, TRANSIT Festival (Belgium), TIME SPANS Festival (NYC), Chamber Music Campania (Italy), Eastman, University of Miami Frost School of Music, Music Science Share Educators Conference (Shanghai), Queens New Music Festival, MATA, the Thailand New Music and Arts Symposium, Yong Siew Toh Conservatory (Singapore), the Bergen Center for Elektronisk Kunst (BEK, Norway), and over two dozen Universities throughout the United States. Current projects include a large work on the subject of human memory for the International Contemporary Ensemble and Hong Kong New Music Ensemble, commissioned by the MATA Festival in NYC, and research in the field of telematic performance with the [Switch~ Ensemble].
 
 
@@ -118,17 +125,9 @@ As a nominee for the 2015 Gaudeamus Prize, three works were presented by
 
 
 
-
-
-" target="blank">
-<a href="" target="blank">
-<a href="" target="blank">
-
-
-
 <br><br>
 <!-- new sentence -->
-Primary mentors have included <a href="<a href="http://ricardozohnmuldoon.com/" target="blank">
+Primary mentors have included <a href="http://ricardozohnmuldoon.com/" target="blank">
 Ricardo Zohn-Muldoon</a>,
 <a href="http://www.steventakasugi.com/" target="blank">Steven Takasugi</a>, <a href="https://www.pierluigibillone.com/en/home/" target="blank">Pierluigi Billone</a>,
 <a href="http://chayaczernowin.com/" target="blank">Chaya Czernowin</a>, Raphaël Cendo, David Liptak, Virko Baley, Peter Michael Hamel, Jorge Villavicencio Grossmann, Pablo Furman, and
