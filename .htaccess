@@ -74,7 +74,7 @@ AddType image/svg+xml .svg
     ExpiresByType image/x-icon "access plus 1 month"
     ExpiresByType image/vnd.microsoft.icon "access plus 1 month"
 
-    ExpiresByType text/html "access plus 3 hours"
+    ExpiresByType text/html "access plus 1 minute"
 
     ExpiresByType text/x-javascript "access plus 1 month"
     ExpiresByType application/x-javascript "access plus 6 months"
