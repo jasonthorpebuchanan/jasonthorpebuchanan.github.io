@@ -1,7 +1,7 @@
 ---
 layout: page
 categories: blog
-headerImage: JTB_HuaHin_1400x770.jpg
+headerImage: JTB_HuaHin_1600x862.jpg
 date: 2020-01-04
 manualDate: Jan. 4 2020
 postDescription: About
