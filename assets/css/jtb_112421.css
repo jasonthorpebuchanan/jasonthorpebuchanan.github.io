@@ -89,7 +89,7 @@ body .layout {
 }
 
 .layout {
-    opacity: 0.4; /* was 0.0 in template */
+    opacity: 0.2; /* was 0.0 in template */
     -webkit-transition: 1.2s opacity ease;
             transition: 1.2s opacity ease;
             /* - - - - - - - - - - - speed of change - - - - - - - - - - - - - - ! ! ! ! */
@@ -3170,13 +3170,13 @@ body.off-canvas-sidebar-open .layout {
 
 .module-header {
   background-color: #000000; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
-    background-position: 100%;
+    background-position: 105%;
     background-repeat: no-repeat;
     background-size: contain;
         background-color: transparent !important;
     width: 100%;
     position: relative; /* huahin -- if absolute this disappears, keep as relative - - CHANGED  - */
-    padding: 26vh 6vh; /* huahin - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom -  - - ! ! ! ! */  -->
+    padding: 30vh 6vh; /* huahin - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom -  - - ! ! ! ! */  -->
 }
 
 .module-header-news {
@@ -3185,9 +3185,9 @@ body.off-canvas-sidebar-open .layout {
     background-repeat: no-repeat;
     background-size: contain;
         background-color: transparent !important;
-    width: 100%;
+    width: 20%;
     position: relative; /* huahin -- if absolute this disappears, keep as relative - - CHANGED  - */
-    padding: 24vh 12vh; /* huahin - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom -  - - ! ! ! ! */  -->
+    padding: 24vh 28vh; /* huahin - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom -  - - ! ! ! ! */  -->
 }
 
 .module,
@@ -3200,19 +3200,19 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
     width: 100%;
     position: relative;
     background-size: contain; /* - - CHANGED this is blue crazystaves, not header image */
-    padding: 40px 30px; /* - - CHECK ME - I AM  CHANGED padding before bio text  - - - - - - - - - - - - - - ! ! ! ! */
+    padding: 40px 36px; /* - - CHECK ME - I AM  CHANGED first number distance before bio text on about page - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 
 .score-vid-header {
     background-color: #000000; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
-    background-position: 50%;
+    background-position: 100%;
     background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue885.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 49px;
     position: relative;
-    padding: 0px 20px; /* - - CHANGED  - this is the height of the header image-  second number is image position in relation to the bottom- - ! ! ! ! */
+    padding: 20px 20px; /* - - CHANGED  - first number padding before content on index - this is the height of the header image-  second number is image position in relation to the bottom- - ! ! ! ! */
 }
 
 .module.module-divider-top,
@@ -3450,7 +3450,7 @@ z-index: auto;
     .module-header {
         height: 100%; /* from 30vh to 100% huahin - -  CHANGED  height of cover image area parallax banner  - - - - - - - - - - - ! ! ! ! */
         min-height: 26vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
-        padding: 9vh 1px; /* huahin - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
+        padding: 18vh 1px; /* first number is size of image in smaller mode - huahin - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
 
     .flexslider h1.h1,
@@ -3589,7 +3589,7 @@ z-index: auto;
 .bg-dark,
 .bg-gradient {
     color: #1a1b1f; /* - - CHECK ME - I AM  CHANGED from WHITE to NEAR BLACK  - - - - - - - - - - - - - - ! ! ! ! */
-    opacity: 0.6;
+    opacity: 0.9;
     -webkit-transition: 3.2s opacity ease;
             transition: 3.2s opacity ease;
 }
