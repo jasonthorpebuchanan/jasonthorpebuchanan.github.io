@@ -24,8 +24,8 @@ media:
 score: score_oggetti-II.html
 headerImage: works-images/oggetti-II-1080x549.jpg
 portWrapper: works-images/port-wrapper/oggetti-II-640x360.jpg
-photosFolder: ReflexiveIterations
-purchase: "Perusal PDF Score: $20; Score and Parts: $100"
+photosFolder: OggettiII
+purchase: "Perusal PDF Score: $20; Score and Parts: $80"
 contact: jasontbuchanan[at]gmail.com
 awards: "Commissioned by Thailand New Music & Arts Symposium"
 dedication: "For the TACETi Ensemble"
