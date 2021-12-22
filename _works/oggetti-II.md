@@ -13,7 +13,6 @@ instrumentation:
   - violin
   - electric guitar
   - percussion
-  - electronics
 tags:
   - electronics
   - chamber
