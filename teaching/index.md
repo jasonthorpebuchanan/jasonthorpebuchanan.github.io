@@ -1,7 +1,7 @@
 ---
 layout: page
 categories: blog
-headerImage: lecture-1-jtb-cropped.jpg
+headerImage: jtb-lecture-1080x607.jpg
 date: 2021-07-02
 manualDate: July. 2 2021
 postDescription: Teaching
