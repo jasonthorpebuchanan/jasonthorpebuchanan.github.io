@@ -96,7 +96,7 @@ body .layout {
 }
 
 .layout.fade-in {
-    opacity: 0.98; /* was 0 in template */
+    opacity: 0.1; /* was 0 in template */
 }
 
 .scroll-top {
