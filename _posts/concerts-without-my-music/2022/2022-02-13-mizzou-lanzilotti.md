@@ -20,7 +20,7 @@ program:
   - composer: Heather Stebbins
     title: Among Arrows
 headerImage: headers/switch-final-press-photo_1920x1080.jpg
-thumbnail: updates/switch-press_330.jpg
+thumbnail: updates/Rosenberger 6-camvln1-330.jpg
 tags:
   - 2022
   - switch
