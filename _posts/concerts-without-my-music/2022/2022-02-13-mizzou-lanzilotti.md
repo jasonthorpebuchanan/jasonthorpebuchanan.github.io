@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 describe: [Switch~] is Ensemble-in-Residence at the University of Missouri. Works by Leilehua Lanzilotti, Christopher Chandler, and Heather Stebbins at the George Caleb Bingham Art Gallery.
-date: 2022-02-15
+date: 2022-02-13
 time:
 location:
   institution: University of Missouri
@@ -26,4 +26,4 @@ tags:
   - switch
 ---
 
-the [Switch~ Ensemble] is in residence at the University of Missouri for two performances of [Switch~] repertoire and student works. Missouri premiere of Jason Thorpe Buchanan's <em>soliloquios del viento</em>.
+the [Switch~ Ensemble] is in residence at the University of Missouri for two performances of [Switch~] repertoire and student works.
