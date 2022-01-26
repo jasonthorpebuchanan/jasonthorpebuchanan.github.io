@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: [Switch~] is Ensemble-in-Residence at the University of Missouri. Conducting the Missouri premiere of <em>soliloquios del viento</em> (2016; rev. 2017) alongside works by Cathy van Eck, Anna-Louise Walton, and Mizzou student composers with the [Switch~ Ensemble].
+describe: "[Switch~] is Ensemble-in-Residence at the University of Missouri. Conducting the Missouri premiere of <em>soliloquios del viento</em> (2016; rev. 2017) alongside works by Cathy van Eck, Anna-Louise Walton, and Mizzou student composers with the [Switch~ Ensemble]."
 date: 2022-02-15
 time:
 location:

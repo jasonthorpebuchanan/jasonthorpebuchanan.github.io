@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: [Switch~] is Ensemble-in-Residence at the University of Missouri. Works by Leilehua Lanzilotti, Christopher Chandler, and Heather Stebbins at the George Caleb Bingham Art Gallery.
+describe: "[Switch~] is Ensemble-in-Residence at the University of Missouri. Works by Leilehua Lanzilotti, Christopher Chandler, and Heather Stebbins at the George Caleb Bingham Art Gallery."
 date: 2022-02-13
 time:
 location:
