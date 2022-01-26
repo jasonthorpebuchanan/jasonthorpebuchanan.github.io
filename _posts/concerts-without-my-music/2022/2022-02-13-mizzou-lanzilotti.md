@@ -24,6 +24,7 @@ thumbnail: updates/switch-press_330.jpg
 tags:
   - 2022
   - switch
+  - new
 ---
 
-the [Switch~ Ensemble] is in residence at the University of Missouri for two performances of [Switch~] repertoire and student works.
+The [Switch~ Ensemble] is in residence at the University of Missouri for two performances of [Switch~] repertoire and student works.
