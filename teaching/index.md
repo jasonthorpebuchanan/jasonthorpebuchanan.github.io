@@ -11,10 +11,10 @@ background: black
 
 <h3>Teaching</h3>
 In September 2022, I join the faculty at the Hochschule für Musik Carl Maria von Weber in Dresden, Germany as Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the Hybrid Music Lab.
-
-Since 2018, I have been Full-Time Lecturer in Composition, Music Theory, and Electroacoustic Music Composition at the <a href="https://www.music.mahidol.ac.th/composition-and-theory-department/" target="_blank">College of Music, Mahidol University</a> in Thailand, and since 2019 have been Department Chair of Composition and Theory.
 <br><br>
 During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composition & Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/perform-and-study/division-ensemble/composition">Butler School of Music, University of Texas at Austin</a>.
+<br><br>
+From 2018-2022, I have served as Full-Time Lecturer in Composition, Music Theory, and Electroacoustic Music Composition at the <a href="https://www.music.mahidol.ac.th/composition-and-theory-department/" target="_blank">College of Music, Mahidol University</a> in Thailand, and from 2019-22 served as Department Chair of Composition and Theory.
 <br><br>
 I am available for lessons, mentorship, guest lectures, and general consultation online on a case by case basis. Feel free to contact me at jasontbuchanan[at]gmail[dot]com.
 <br><br>
