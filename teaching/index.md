@@ -8,16 +8,6 @@ postDescription: Teaching
 tags:
 background: black
 ---
-<h3>Active courses:</h3>
-MSCY 313 Music in the Twentieth Century - <a href="http://www.jasonthorpebuchanan.com/20th.html">Syllabus, Sem. 1, 2021-22</a><br />
-MSTC 471 - Electronic Music Composition I - <a href="http://www.jasonthorpebuchanan.com/electronic.html">Syllabus, Sem. 1, 2021-22</a><br />
-MSTC 133/233 - Contemporary Music Ensemble - <a href="http://www.jasonthorpebuchanan.com/contemporary.html">Syllabus, Sem. 1, 2021-22</a>
-<br />
-Composition Studio Class - <a href="http://www.jasonthorpebuchanan.com/studioclass.html">Syllabus, Sem. 1, 2021-22</a>
-<br />
-Composition Lessons - <!--<a href="http://www.jasonthorpebuchanan.com/complessons.html">-->Syllabus, Sem. 1, 2021-22
-<br><br>
-
 
 <h3>Teaching</h3>
 In September 2022, I join the faculty at the Hochschule für Musik Carl Maria von Weber in Dresden, Germany as Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the Hybrid Music Lab.
@@ -98,11 +88,13 @@ I am available for lessons, mentorship, guest lectures, and general consultation
 
 
 <h3>Courses Taught at the College of Music, Mahidol University</h3>
-Composition Lessons, Spr. ‘19 (4), Fall ‘19 (5), Spr. ‘20 (5), Fall ‘20 (3), Spr. ‘21 (4), Fall ’21 (3)
+Composition Lessons, Spr. ‘19 (4), Fall ‘19 (5), Spr. ‘20 (5), Fall ‘20 (3), Spr. ‘21 (4), Fall ’21 (3), Spring '22 (5), Fall '22 (6)
 <br>
-Composition Studio Class, Fall 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021
+Composition Studio Class, Fall 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022
 <br>
-MSTC 133/233 Contemporary Music Ensemble (Composition Lab), Spr. ‘19, Fall ‘19, Spr. ‘20, Fall ‘20, Spr. ’21, Fall 2021
+MSTC 133/233 Contemporary Music Ensemble (Composition Lab), Spr. ‘19, Fall ‘19, Spr. ‘20, Fall ‘20, Spr. ’21, Fall 2021, Spring 2022
+<br>
+MSTC 472 Electroacoustic Composition II, Spring 2019, Spring 2022
 <br>
 MSTC 252 Western Music Theory IV, Spring 2019, Fall 2018, Spring 2021
 <br>
@@ -113,8 +105,6 @@ MSTC 524 Graduate Composition Pedagogy, Fall 2020
 MSTC 471 Electroacoustic Composition I, Fall 2018, Fall 2019, Fall 2020, Fall 2021
 <br>
 MSTC 528 Graduate Electroacoustic Composition, Spring 2020, Fall 2021
-<br>
-MSTC 472 Electroacoustic Composition II, Spring 2019
 <br>
 MSTC 526 Graduate Seminar in 20th and 21st Century Music Composition and Theory, Fall 2019
 <br>
@@ -144,7 +134,15 @@ CMP 226 Introduction to Computer Music Techniques II, Spring 2014
 
 
 <br>
-
+<h3>Active courses:</h3>
+MSCY 313 Music in the Twentieth Century - <a href="http://www.jasonthorpebuchanan.com/20th.html">Syllabus, Sem. 1, 2021-22</a><br />
+MSTC 471 - Electronic Music Composition I - <a href="http://www.jasonthorpebuchanan.com/electronic.html">Syllabus, Sem. 1, 2021-22</a><br />
+MSTC 133/233 - Contemporary Music Ensemble - <a href="http://www.jasonthorpebuchanan.com/contemporary.html">Syllabus, Sem. 1, 2021-22</a>
+<br />
+Composition Studio Class - <a href="http://www.jasonthorpebuchanan.com/studioclass.html">Syllabus, Sem. 1, 2021-22</a>
+<br />
+Composition Lessons - <!--<a href="http://www.jasonthorpebuchanan.com/complessons.html">-->Syllabus, Sem. 1, 2021-22
+<br><br>
 <br>
 
 
