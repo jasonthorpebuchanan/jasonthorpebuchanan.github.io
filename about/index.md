@@ -2,14 +2,14 @@
 layout: page
 categories: blog
 headerImage: JTB_HuaHin_2200x1136.jpg
-date: 2021-11-24
-manualDate: Jan. 4 2020
+date: 2022-08-04
+manualDate: Aug. 5 2022
 postDescription: About
 tags:
 background: black
 ---
 <img class="float-sm-left col-sm-5 col-lg-4 p4-0 pb-0" src="{{ site.images }}/jtb-photos/jtb-royaumont-420x600-web.jpg">
-Jason Thorpe Buchanan is an American composer whose works explore multiplicity, intelligibility, behavior, and the integration of live performance with technology. He is Artistic Director of <a href="http://www.switchensemble.com" target="blank"> the [Switch~ Ensemble]</a>, Department Chair/Lecturer in Composition, Theory, and Electroacoustic Music at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand, and Fall 2020 Visiting Lecturer in Composition/Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/" target="blank">Butler School of Music, University of Texas at Austin</a>.  
+Jason Thorpe Buchanan is an American composer whose works explore multiplicity, intelligibility, behavior, and the integration of live performance with technology. He is Artistic Director of <a href="http://www.switchensemble.com" target="blank"> the [Switch~ Ensemble]</a> and Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the Hochschule für Musik Carl Maria von Weber in Dresden, Germany in the Hybrid Music Lab. He previously served from 2018-2022 as Department Chair/Lecturer in Composition, Theory, and Electroacoustic Music at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand, 2022 Interim Managing Director of the <a href="https://newmusic.missouri.edu/Mizzou target="blank">New Music Initiative at the University of Missouri</a>, and 2020 Visiting Lecturer in Composition/Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/" target="blank">Butler School of Music, University of Texas at Austin</a>.
 
 <!-- new para -->
 Jason is the recipient of a 2010-11 Fulbright Fellowship (Hamburg, Germany), nomination for the 2015 Gaudeamus Prize, an American-Scandinavian Foundation Grant, two ASCAP Morton Gould Young Composer Awards (2014 & 2015), the Howard Hanson Orchestral Prize (2014), fellowships and commissions from Royaumont (2016 & 2017), the Mizzou International Composers Festival, MATA, the International Horn Society, Gaudeamus Muziekweek, Eklekto Percussion, Tzlil Meudcan, the German/American Fulbright Commission, the Earle Brown Music Foundation, and winner of Iron Composer (2014), 2015 Artist-in-Residence at USF Verftet (Bergen, Norway), 2017 Artist-in-Residence at the Brush Creek Foundation (Wyoming), and 2018 Artist-in-Residence at the Embassy of Foreign Artists (Geneva, Switzerland).
@@ -68,10 +68,12 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#myaccordion">
       <div class="card-body" align="justify">
+
+      Jason Thorpe Buchanan is an American composer whose works explore multiplicity, intelligibility, behavior, and the integration of live performance with technology.
+
+
 Jason Thorpe Buchanan is an American composer of operatic, orchestral, chamber, electroacoustic, and intermedia works which explore fragmentation, multiplicity, intelligibility, behavior, and the integration of live performance with technology. He is Artistic Director of
-<a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a>, Department Chair/Lecturer in Composition, Theory, and Electronic Music Composition at the
-<a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand, and Visiting Lecturer in Composition/Interim Director of the Electronic Music Studios (UTEMS) at the
-<a href="https://music.utexas.edu/" target="blank">Butler School of Music, University of Texas at Austin.</a>  His works have been described as "an unearthly collage of sounds", "sharply-edged", and "free jazz gone wrong&#8212;in a good way."
+<a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a> and Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the Hochschule für Musik Carl Maria von Weber in Dresden, Germany in the Hybrid Music Lab. He previously served from 2018-2022 as Department Chair/Lecturer in Composition, Theory, and Electroacoustic Music at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand, 2022 Interim Managing Director of the <a href="https://newmusic.missouri.edu/Mizzou target="blank">New Music Initiative at the University of Missouri</a>, and 2020 Visiting Lecturer in Composition/Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/" target="blank">Butler School of Music, University of Texas at Austin</a>.   His works have been described as "an unearthly collage of sounds", "sharply-edged", and "free jazz gone wrong&#8212;in a good way."
 
 <br><br>
 <!-- new sentence -->
