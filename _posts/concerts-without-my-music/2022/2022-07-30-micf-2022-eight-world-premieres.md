@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: "MICF 2022 - Alarm Will Sound: Eight World Premieres"
+describe: "MICF 2022 - Alarm Will Sound: Eight World Premieres, Managing Director."
 date: 2022-07-30
 time:
 location:
