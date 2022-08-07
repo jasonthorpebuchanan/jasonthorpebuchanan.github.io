@@ -4,7 +4,7 @@ title: "MNMI Interim Managing Director"
 date: 2022-02-06
 categories: news
 headerImage: headers/jtb_mizzou_sign_1600.jpg
-thumbnail: updates/jtb_mizzou_sign_300.jpg
+thumbnail: updates/jtb_mizzou_sign_330.jpg
 photosFolder: Mizzou
 tags:
   - 2022
