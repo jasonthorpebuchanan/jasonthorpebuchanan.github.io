@@ -32,7 +32,7 @@ html {
 
 body {
     background-blend-mode: hard-light;
-    background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue2400-opt.jpg);
+    background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
     font-family: "Roboto", Arial, sans-serif;
     line-height: 1.85; /* was 1.75 in template */
     font-weight: 300;
@@ -51,7 +51,7 @@ img {
 
 iframe {
   background-color: #040508;
-  background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue2400-opt.jpg);
+  background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
   background-blend-mode: darken;
     border: 0;
 }
@@ -2821,7 +2821,7 @@ body.off-canvas-sidebar-open .layout {
 .module,
 .module-sm {
     background-color: #000000; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
-background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue2400-opt.jpg);
+background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
     background-blend-mode:  normal;
     background-position: center;
     background-repeat: repeat-y;
@@ -2835,7 +2835,7 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 .score-vid-header {
     background-color: #000000; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
     background-position: 100%;
-    background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue2400-opt.jpg);
+    background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 49px;
