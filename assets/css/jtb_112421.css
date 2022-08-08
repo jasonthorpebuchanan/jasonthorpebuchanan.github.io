@@ -90,8 +90,8 @@ body .layout {
 
 .layout {
     opacity: 0.2; /* was 0.0 in template */
-    -webkit-transition: 1.2s opacity ease;
-            transition: 1.2s opacity ease;
+    -webkit-transition: 0.9s opacity ease;
+            transition: 0.9s opacity ease;
             /* - - - - - - - - - - - speed of change - - - - - - - - - - - - - - ! ! ! ! */
 }
 
@@ -112,8 +112,8 @@ body .layout {
     line-height: 20px;
     font-size: 15px;
     color: #fff; /* was 222 in jtb */
-    -webkit-transition: .5s all ease;
-            transition: .5s all ease;
+    -webkit-transition: .4s all ease;
+            transition: .4s all ease;
     -webkit-transform: translateY(20px);
             transform: translateY(20px);
 }
@@ -1300,8 +1300,8 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 .flexslider .slides {
     height: 100% !important;
-    -webkit-transition-delay: 1s;
-            transition-delay: 1s;
+    -webkit-transition-delay: 0.9s;
+            transition-delay: 0.9s;
 }
 
 .flexslider .slides {
