@@ -32,7 +32,8 @@ html {
 
 body {
     background-blend-mode: hard-light;
-    background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue2400-opt.jpg);
+    /* BODY background-image is what loads first before page--this should be black, removed background-image in new version*/
+    background-color: #010101;
     font-family: "Roboto", Arial, sans-serif;
     line-height: 1.85; /* was 1.75 in template */
     font-weight: 300;
@@ -2821,7 +2822,7 @@ body.off-canvas-sidebar-open .layout {
 .module,
 .module-sm {
     background-color: #000000; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
-background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
+background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue2400-opt.jpg);
     background-blend-mode:  normal;
     background-position: center;
     background-repeat: repeat-y;
