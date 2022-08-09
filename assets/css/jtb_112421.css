@@ -14,9 +14,9 @@ img {vertical-align: top;}
 
 .fancybox-slide--iframe .fancybox-content {
     width  : 100%;
-    height : 93%;
+    height : 96%;
     max-width  : 2200px;
-    max-height : 93%;
+    max-height : 98%;
     margin: 0;
 }
 
@@ -2721,7 +2721,7 @@ body.off-canvas-sidebar-open .layout {
         background-color: transparent !important;
     width: 100%;
     position: relative; /* huahin -- if absolute this disappears, keep as relative - - CHANGED  - */
-    padding: 31vh 6vh; /* huahin - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom -  - - ! ! ! ! */  -->
+    padding: 33vh 6vh; /* huahin - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom -  - - ! ! ! ! */  -->
 }
 
 .module-header-news {
@@ -2732,7 +2732,7 @@ body.off-canvas-sidebar-open .layout {
         background-color: transparent !important;
     width: 20%;
     position: relative; /* huahin -- if absolute this disappears, keep as relative - - CHANGED  - */
-    padding: 29vh 28vh; /* huahin - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom -  - - ! ! ! ! */  -->
+    padding: 31vh 28vh; /* huahin - - CHANGED  - was 0 0 in JTB custom this is the height of the header image-  second number is image position in relation to the bottom -  - - ! ! ! ! */  -->
 }
 
 .module,
@@ -2994,7 +2994,7 @@ z-index: auto;
 
     .module-header {
         height: 100%; /* from 30vh to 100% huahin - -  CHANGED  height of cover image area parallax banner  - - - - - - - - - - - ! ! ! ! */
-        min-height: 26vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
+        min-height: 28vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
         padding: 18vh 1px; /* first number is size of image in smaller mode - huahin - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
 
