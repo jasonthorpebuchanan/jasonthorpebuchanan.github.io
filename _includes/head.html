@@ -17,7 +17,7 @@
 {% if page.postDescription %}
   <meta property="og:description" content="{{ page.postDescription }}">
 {% else %}
-  <meta property="og:description" content="{{ page.excerpt }}">
+  <meta property="og:description" content="{{ page.excerpt }}"/>
 {% endif %}
 
 <title>{{ page.title | strip_html }}</title>
