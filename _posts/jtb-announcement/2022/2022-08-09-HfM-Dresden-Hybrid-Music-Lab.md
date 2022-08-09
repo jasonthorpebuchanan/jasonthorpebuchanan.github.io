@@ -5,7 +5,7 @@ date: 2022-08-09
 categories: news
 headerImage: headers/hfm-dresden-building-logo.jpg
 thumbnail: updates/hfm-dresden-building-logo_330.jpg
-photosFolder: Mizzou
+photosFolder: Dresden
 tags:
   - 2022
   - job
