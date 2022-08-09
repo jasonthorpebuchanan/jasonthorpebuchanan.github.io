@@ -14,4 +14,4 @@ tags:
   - new
 ---
 
-In September, Jason Thorpe Buchanan will join the faculty of the Hybrid Music Lab at the Hochschule für Musik Carl Maria von Webern as Artistic Associate/Lecturer in New Media and Digital Technologies for Music, teaching seminars and workshops in audiovisual/intermedia composition and network music/telematic performance with colleagues Stefan Prins, Artemi-Maria Gioti, Christoph Mann, and Franz Martin Olbrisch. [www.hfmdd.de/en/](https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab)
+In September, Jason Thorpe Buchanan will join the faculty of the Hybrid Music Lab at the Hochschule für Musik Carl Maria von Webern as Artistic Associate/Lecturer in New Media and Digital Technologies for Music, teaching seminars and workshops in audiovisual/intermedia composition and network music/telematic performance with colleagues Stefan Prins, Artemi-Maria Gioti, Christoph Mann, and Franz Martin Olbrisch. [HfM Dresden, Hybrid Music Lab](https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab)
