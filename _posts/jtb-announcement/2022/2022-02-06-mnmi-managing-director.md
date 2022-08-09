@@ -3,7 +3,7 @@ layout: post
 title: "Mizzou New Music Initiative Interim Managing Director"
 date: 2022-02-06
 categories: news
-headerImage: headers/jtb_mizzou_sign_1600.jpg
+headerImage: headers/jtb_mizzou_sign-2022_1600.jpg
 thumbnail: updates/jtb_mizzou_sign_330.jpg
 photosFolder: Mizzou
 tags:
