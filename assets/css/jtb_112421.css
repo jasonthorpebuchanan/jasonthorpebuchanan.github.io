@@ -4289,7 +4289,7 @@ a[rel~="gallery"]:hover {
 
 .widget .widget-title {
     border-bottom: 1px solid rgba(238, 238, 238, .9);
-    padding: 0 0 10px;
+    padding: 1 1 10px;
     margin: 0 0 10px;
 }
 
@@ -4297,7 +4297,7 @@ a[rel~="gallery"]:hover {
     text-transform: uppercase;
     letter-spacing: 1.9px; /* CHANGED this is spacing of text EVENTS and UPDATES */
     font-size: 15px;
-    margin: 0;
+    margin: 0.1;
 }
 
 .widget ul,
