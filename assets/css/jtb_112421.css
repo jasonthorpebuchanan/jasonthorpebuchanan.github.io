@@ -2995,7 +2995,7 @@ z-index: auto;
     .module-header {
         height: 100%; /* from 30vh to 100% huahin - -  CHANGED  height of cover image area parallax banner  - - - - - - - - - - - ! ! ! ! */
         min-height: 12vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
-        padding: 18vh 1px; /* first number is size of image in smaller mode - huahin - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
+        padding: 12vh 1px; /* first number is size of image in smaller mode - huahin - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
 
     .flexslider h1.h1,
