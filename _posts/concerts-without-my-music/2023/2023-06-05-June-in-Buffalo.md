@@ -20,7 +20,7 @@ program:
     title:
     year:
 headerImage: headers/switch-final-press-photo_1920x1080.jpg
-thumbnail: updates/ub-330.jpg
+thumbnail: updates/switch-press_330.jpg
 tags:
   - 2023
   - switch
