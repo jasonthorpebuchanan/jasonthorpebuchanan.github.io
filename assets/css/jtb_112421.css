@@ -4284,13 +4284,13 @@ a[rel~="gallery"]:hover {
 */
 
 .widget {
-    margin: 0 0 10px;
+    margin: 1 1 10px;
 }
 
 .widget .widget-title {
     border-bottom: 1px solid rgba(238, 238, 238, .9);
     padding: 1 1 10px;
-    margin: 0 0 10px;
+    margin: 1 1 10px;
 }
 
 .widget .widget-title h5 {
