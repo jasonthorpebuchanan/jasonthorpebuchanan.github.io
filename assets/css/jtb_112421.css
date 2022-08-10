@@ -3135,8 +3135,8 @@ z-index: auto;
 .bg-gradient {
     color: #1a1b1f; /* - - CHECK ME - I AM  CHANGED from WHITE to NEAR BLACK  - - - - - - - - - - - - - - ! ! ! ! */
     opacity: 0.9;
-    -webkit-transition: 3.2s opacity ease;
-            transition: 3.2s opacity ease;
+    -webkit-transition: 3.0s opacity ease;
+            transition: 3.0s opacity ease;
 }
 
 .bg-dark h1,
