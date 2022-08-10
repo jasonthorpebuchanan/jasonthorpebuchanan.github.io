@@ -4,7 +4,7 @@ title: "Guest Composer Lecture, Portland State University, Composition & Saxopho
 date: 2016-05-10
 categories: news
 headerImage:
-thumbnail: updates/jtb-portland-lecture_280-45.jpg
+thumbnail: updates/2017/jtb-portland-lecture_280-45.jpg
 photosFolder:
 tags:
   - 2016

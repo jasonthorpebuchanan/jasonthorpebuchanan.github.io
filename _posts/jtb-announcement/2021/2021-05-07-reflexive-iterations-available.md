@@ -5,7 +5,7 @@ date: 2021-05-07
 sortYear: 2021
 categories: news
 headerImage: headers/reflexive_iterations_score_p6.png
-thumbnail: updates/reflexive_iterations_score.jpg
+thumbnail: updates/2021/reflexive_iterations_score.jpg
 photosFolder: reflexive-iterations
 score: home-score_reflexive-iterations.html
 tags:

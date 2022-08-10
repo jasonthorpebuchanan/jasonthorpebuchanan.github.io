@@ -16,7 +16,7 @@ program:
     title: Reflexive Iterations 1.a
     year: 2020
 headerImage: headers/reflexive-iterations-1080x549.jpg
-thumbnail: updates/reflexive-iterations-250x125.jpg
+thumbnail: updates/2020/reflexive-iterations-250x125.jpg
 tags:
   - 2020
   - new

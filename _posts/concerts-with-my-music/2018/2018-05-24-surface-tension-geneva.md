@@ -15,7 +15,7 @@ program:
     title: surface, tension
     year: 2018
 headerImage: headers/surface-still.jpg
-thumbnail: updates/surface-still-thumb.jpg
+thumbnail: updates/2018/surface-still-thumb.jpg
 photosFolder: surface, tension
 tags:
   - 2018

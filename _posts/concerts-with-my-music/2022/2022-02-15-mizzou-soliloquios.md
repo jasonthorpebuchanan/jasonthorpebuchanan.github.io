@@ -25,7 +25,7 @@ program:
   - composer: Anna-Louise Walton
     title: Uttered
 headerImage: headers/switch-final-press-photo_1920x1080.jpg
-thumbnail: updates/2021-switch-soliloquios-19-330.jpg
+thumbnail: updates/2021/2021-switch-soliloquios-19-330.jpg
 tags:
   - 2022
   - switch

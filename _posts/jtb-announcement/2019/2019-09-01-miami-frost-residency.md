@@ -4,7 +4,7 @@ title: "University of Miami Frost School of Music Residency"
 date: 2019-09-01
 categories: news
 headerImage: headers/arete-4.jpg
-thumbnail: updates/arete-4.jpg
+thumbnail: updates/2019/arete-4.jpg
 tags:
   - 2019
   - lecture

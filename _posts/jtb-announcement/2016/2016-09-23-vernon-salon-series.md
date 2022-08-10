@@ -4,7 +4,7 @@ title: "Guest Composer talk, Vernon Salon Series, Oakland"
 date: 2016-09-27
 categories: news
 headerImage:
-thumbnail: updates/jtb-portland-lecture_280-45.jpg
+thumbnail: updates/2017/jtb-portland-lecture_280-45.jpg
 photosFolder:
 tags:
   - 2016

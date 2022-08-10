@@ -5,7 +5,7 @@ date: 2020-01-20
 sortYear: 2020
 categories: news
 headerImage: headers/yst.jpg
-thumbnail: updates/yst_300.jpg
+thumbnail: updates/2020/yst_300.jpg
 photosFolder:
 tags:
   - 2020

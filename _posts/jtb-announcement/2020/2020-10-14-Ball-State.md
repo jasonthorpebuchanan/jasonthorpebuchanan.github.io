@@ -5,7 +5,7 @@ date: 2020-10-14
 sortYear: 2020
 categories: news
 headerImage: headers/ball-state-logo.jpg
-thumbnail: updates/ball-state-logo-250.jpg
+thumbnail: updates/2020/ball-state-logo-250.jpg
 photosFolder:
 tags:
   - 2020

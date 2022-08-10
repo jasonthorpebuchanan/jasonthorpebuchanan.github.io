@@ -5,7 +5,7 @@ date: 2019-04-17
 sortYear: 2019
 categories: news
 headerImage: headers/northern-colorado-sign.jpg
-thumbnail: updates/UNC-560.jpg
+thumbnail: updates/2019/UNC-560.jpg
 photosFolder:
 tags:
   - 2019

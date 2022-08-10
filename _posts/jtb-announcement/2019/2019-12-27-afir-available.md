@@ -5,7 +5,7 @@ date: 2019-12-27
 sortYear: 2019
 categories: news
 headerImage: headers/afir-score-p9.jpg
-thumbnail: updates/afir-score.png
+thumbnail: updates/2019/afir-score.png
 photosFolder: all-forgetting-is-retrieval
 score: home-score_all-forgetting-is-retrieval.html
 tags:

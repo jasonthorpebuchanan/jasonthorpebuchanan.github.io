@@ -4,7 +4,7 @@ title: "College of Music, Mahidol University"
 date: 2018-04-06
 categories: news
 headerImage: headers/jason-office-mahidol.jpg
-thumbnail: updates/mahidol-logo.jpg
+thumbnail: updates/2018/mahidol-logo.jpg
 photosFolder: mahidol
 tags:
   - 2018

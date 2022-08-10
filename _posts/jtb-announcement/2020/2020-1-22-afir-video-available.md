@@ -5,7 +5,7 @@ date: 2020-1-22
 sortYear: 2020
 categories: news
 headerImage: headers/afir-video_1000.jpg
-thumbnail: updates/afir-video_400.jpg
+thumbnail: updates/2020/afir-video_400.jpg
 photosFolder: all-forgetting-is-retrieval
 score: home-score_all-forgetting-is-retrieval.html
 tags:

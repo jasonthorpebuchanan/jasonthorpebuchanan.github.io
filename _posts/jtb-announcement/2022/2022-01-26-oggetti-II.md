@@ -5,7 +5,7 @@ describe: "Score and video recording of <em>oggetti II</em> World Premiere at th
 date: 2022-01-26
 sortYear: 2022
 headerImage: works-images/oggetti-II-1080x549.jpg
-thumbnail: updates/oggetti-II-250x125.jpg
+thumbnail: updates/2022/oggetti-II-250x125.jpg
 photosFolder:
 score: home-score_oggetti-II.html
 tags:

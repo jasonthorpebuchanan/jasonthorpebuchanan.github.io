@@ -24,7 +24,7 @@ program:
   - composer: Caleb Fried
     title: walk over; hot coals (2019)
 headerImage: headers/harvard-tj.jpg
-thumbnail: updates/harvard-tj.jpg
+thumbnail: updates/2019/harvard-tj.jpg
 photosFolder: harvard
 tags:
   - 2019

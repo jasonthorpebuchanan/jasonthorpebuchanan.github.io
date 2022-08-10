@@ -4,7 +4,7 @@ categories: news
 title: "University of Chicago Switch~ Residency"
 date: 2017-05-09
 headerImage: headers/ensemble.jpeg
-thumbnail: updates/ensemble.jpg
+thumbnail: updates/2017/ensemble.jpg
 photosFolder: uchicago
 tags:
   - 2017

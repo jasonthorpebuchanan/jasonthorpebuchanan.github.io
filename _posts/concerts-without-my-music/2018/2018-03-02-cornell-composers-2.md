@@ -24,7 +24,7 @@ program:
   - composer: Jihyun Kim
     title: Once Upon a Time... (2018)
 headerImage: headers/cornell-cond.jpg
-thumbnail: updates/cornell-kim-behind_280x160.jpg
+thumbnail: updates/2018/cornell-kim-behind_280x160.jpg
 photosFolder: upstate-NY-tour
 tags:
   - 2018

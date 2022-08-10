@@ -24,7 +24,7 @@ program:
 - composer: Lydia Wayne Chang
   title: Project Agree- Mission for the Internet Communities (2020)
 headerImage: headers/telematic-trailer-playbutton-800.png
-thumbnail: updates/telematic-trailer-playbutton-300.jpg
+thumbnail: updates/2021/telematic-trailer-playbutton-300.jpg
 tags:
 - 2021
 - new

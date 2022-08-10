@@ -4,7 +4,7 @@ title: "UT Austin Visting Composer"
 date: 2019-10-09
 categories: news
 headerImage: headers/telematics.jpg
-thumbnail: updates/telematics.jpg
+thumbnail: updates/2019/telematics.jpg
 photosFolder: UT-austin/
 tags:
   - 2019

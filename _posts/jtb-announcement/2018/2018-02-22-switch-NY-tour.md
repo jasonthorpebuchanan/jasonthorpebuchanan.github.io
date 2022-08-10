@@ -4,7 +4,7 @@ title: "Switch~ Ensemble Upstate New York Tour"
 date: 2018-03-06
 categories: news
 headerImage: headers/cornell-composers.jpg
-thumbnail: updates/cornell.jpg
+thumbnail: updates/2018/cornell.jpg
 photosFolder:
 tags:
   - 2018

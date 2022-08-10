@@ -5,7 +5,7 @@ date: 2021-5-07
 sortYear: 2021
 categories: news
 headerImage: headers/less-than-10-1920.jpg
-thumbnail: updates/less-than-10-250.jpg
+thumbnail: updates/2021/less-than-10-250.jpg
 photosFolder: all-forgetting-is-retrieval
 score: home-score_all-forgetting-is-retrieval.html
 tags:

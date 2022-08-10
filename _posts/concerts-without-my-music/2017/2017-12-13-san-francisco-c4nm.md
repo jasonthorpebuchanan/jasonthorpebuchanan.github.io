@@ -25,7 +25,7 @@ program:
     title: Tarr
   - composer: Victor Ibarra
     title: Química del agua
-thumbnail: updates/c4nm_280_opt.jpg
+thumbnail: updates/2017/c4nm_280_opt.jpg
 tags:
   - 2017
   - switch

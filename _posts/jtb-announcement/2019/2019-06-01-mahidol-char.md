@@ -4,7 +4,7 @@ title: "Department Chair of Composition & Music Theory."
 date: 2019-06-06
 categories: news
 headerImage: headers/lecture-grisey.jpg
-thumbnail: updates/lecture-grisey_330.jpg
+thumbnail: updates/2019/lecture-grisey_330.jpg
 photosFolder: mahidol
 tags:
   - 2019

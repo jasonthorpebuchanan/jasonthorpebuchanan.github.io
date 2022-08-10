@@ -20,7 +20,7 @@ program:
 - composer: Zachary James Watkins
   title: Do Your Best, Never Say Can't, and Love One Another (2021)
 headerImage: headers/Switch-March-5-800-opt.png
-thumbnail: updates/Switch-March-5-300-opt.jpg
+thumbnail: updates/2021/Switch-March-5-300-opt.jpg
 tags:
 - 2021
 - new

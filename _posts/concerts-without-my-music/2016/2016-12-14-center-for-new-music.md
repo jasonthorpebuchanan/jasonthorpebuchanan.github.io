@@ -22,7 +22,7 @@ program:
     title: Ad Marginem des Versuchs
   - composer: Ben Isaacs
     title: allone
-thumbnail: updates/switch-SF_280x149.jpg
+thumbnail: updates/2016/switch-SF_280x149.jpg
 tags:
   - 2016
   - switch

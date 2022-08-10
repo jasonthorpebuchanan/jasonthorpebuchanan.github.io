@@ -5,7 +5,7 @@ date: 2017-11-06
 categories: news
 author: "Jason Thorpe Buchanan"
 headerImage: headers/c4nm-workshop.jpg
-thumbnail: updates/c4nm-still-2.jpg
+thumbnail: updates/2017/c4nm-still-2.jpg
 tags:
   - 2017
   - switch

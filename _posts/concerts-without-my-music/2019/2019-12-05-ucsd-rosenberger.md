@@ -30,7 +30,7 @@ tags:
     - switch
 thumbnail: updates/rosenberger.jpg
 photosFolder: harvard
-headerImage: headers/rosenberger.jpg
+headerImage: headers/2019/rosenberger.jpg
 ---
 
 The [Switch~ Ensemble] performs a new commission from Katharina Rosenberger titled <em>Up-Close</em> at UCSD with support from Guggenheim and New Music USA alongside music by Ashley Fure, Anna-Louise Walton, and Katharina Rosenberger's trio <em>surge</em> (2018).
