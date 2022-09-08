@@ -62,7 +62,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <!--        <img src="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close.jpg" class="figure-img img-fluid"> -->
       <figcaption class="figure-caption text-center">Precompositional work on <em>Double Concerto</em> (2014)</figcaption>
     </figure></div>
-   <div class="col-sm-2 nopadding mx-auto" align="center">&nbsp;&nbsp;</div>
+   <div class="col-sm-1 nopadding mx-auto" align="center">&nbsp;&nbsp;</div>
     <div class="col-sm-5 nopadding mx-auto" align="right">
     <figure class="figure">
       <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" class="rounded media-left img-fluid" alt=""></div></a>
