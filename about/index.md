@@ -171,14 +171,12 @@ Current projects include a large work on the subject of human memory for the Int
       <img src="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close.jpg" class="figure-img img-fluid">
       <figcaption class="figure-caption text-center">Precompositional work on <em>Double Concerto</em> (2014)</figcaption>
     </figure>
-  </div>
-
-  <div class="col-sm-6 mx-auto">
     <figure class="figure">
       <img src="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" class="figure-img img-fluid">
       <figcaption class="figure-caption text-center">Final sketches for <em>Panic Architecture</em> (2017)</figcaption>
     </figure>
   </div>
+<br><br>
 
   <div class="col-sm-8 mx-auto">
     <figure class="figure">
@@ -186,7 +184,7 @@ Current projects include a large work on the subject of human memory for the Int
       <figcaption class="figure-caption text-center">Sketches for <em>all-forgetting-is-retrieval</em> (2019)</figcaption>
     </figure>
   </div>
-
+<br>
 <!--  <center> <a href="long-bio">long bio</a> -->
 
 <!--
