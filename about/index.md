@@ -66,6 +66,8 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
         </button></center>
 
     </div>
+
+
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#myaccordion">
       <div class="card-body" align="justify">
 
@@ -160,9 +162,30 @@ Current projects include a large work on the subject of human memory for the Int
  <br>
   <br>
   <center><font class="bask14">Please contact me with any questions, including rental/purchase information: jasontbuchanan {at} gmail.com</font>
+</div></div>
 
 
 
+  <div class="col-sm-6 mx-auto">
+    <figure class="figure">
+      <img src="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close.jpg" class="figure-img img-fluid">
+      <figcaption class="figure-caption text-center">Precompositional work on <em>Double Concerto</em> (2014)</figcaption>
+    </figure>
+  </div>
+
+  <div class="col-sm-6 mx-auto">
+    <figure class="figure">
+      <img src="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" class="figure-img img-fluid">
+      <figcaption class="figure-caption text-center">Final sketches for <em>Panic Architecture</em> (2017)</figcaption>
+    </figure>
+  </div>
+
+  <div class="col-sm-8 mx-auto">
+    <figure class="figure">
+      <img src="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript-opt.jpg" class="figure-img img-fluid">
+      <figcaption class="figure-caption text-center">Sketches for <em>all-forgetting-is-retrieval</em> (2019)</figcaption>
+    </figure>
+  </div>
 
 <!--  <center> <a href="long-bio">long bio</a> -->
 
