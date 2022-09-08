@@ -57,7 +57,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <br>
 
 
-<div class="row col-md-12" align="center">
+<div class="row col-md-8" align="center">
 
 {% include manuscripts.html %}
 <br>
