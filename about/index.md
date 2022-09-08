@@ -58,7 +58,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 
 <!-- START MANUSCRIPT -->
 <center>
-<div class="row full-width" width="90%" height="40vh">
+<div class="row full-width" width="90%" height="30vh">
   <div class="col-sm-5 mx-auto" align="left"><figure class="figure">
     <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close-manuscript.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close-manuscript.jpg" class="rounded media-left img-fluid" alt=""></div></a>
       <figcaption class="figure-caption text-center">Precompositional work on <em>Double Concerto</em> (2014)</figcaption>
@@ -105,7 +105,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <!--        <img src="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript-opt.jpg" class="figure-img img-fluid">   -->
       <figcaption class="figure-caption text-center">Sketches for <em>all-forgetting-is-retrieval</em> (2019)</figcaption>
     </figure>
-  </div>
+  </div></div>
 <br><br>
 
 </center>
