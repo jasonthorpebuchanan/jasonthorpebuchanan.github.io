@@ -62,12 +62,12 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 
 <br>
 
-<div class="row col-md-6" align="center">
+<div class="row col-md-12" align="center">
   {% include photos-portfolio-masonry.html folderName='manuscript' %}
 
 
 <center>
-<div class="row col-md-10" align="center">
+<div class="row col-md-12" align="center">
 {% include full-length-bio.html %}
 
 
