@@ -49,15 +49,15 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <span class="bask12">(updated Apr.11.2021)</span></div>
 
 <div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
-<span class="bask12">(updated Sep.1.2019)</span></div>
+<span class="bask12">(updated Sep.8.2022)</span></div>
 </div>
 </center>
 <br>
 <!-- END STUFF TAKEN FROM JTB PAGE -->
 
 <center>
-<div class="row col-md-10" align="center">
-<div class="col-md-10"><span class="bask18">
+<div class="row col-md-11" align="center">
+<div class="col-md-11"><span class="bask18">
 
 
 {% include manuscripts.html %}
