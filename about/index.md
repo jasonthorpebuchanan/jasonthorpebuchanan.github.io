@@ -70,10 +70,10 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
       <figcaption class="figure-caption text-center">Final sketches for <em>Panic Architecture</em> (2017)</figcaption>
     </figure>
   </div></div>
-<br><br>
+<br>
 
-
-<div class="row full-width" width="90%" height="50vh">
+<center>
+<div class="row full-width" width="90%" height="40vh">
   <div class="col-sm-9 nopadding mx-auto" align="center">
     <figure class="figure">
       <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript-opt.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript-opt.jpg" class="rounded media-left img-fluid" alt=""></div></a>
