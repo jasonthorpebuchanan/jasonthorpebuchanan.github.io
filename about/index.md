@@ -68,7 +68,6 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 
 <center>
 <div class="row col-md-10" align="center">
-
 {% include full-length-bio.html %}
 
 
