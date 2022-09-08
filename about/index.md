@@ -65,12 +65,33 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
    &nbsp;&nbsp;
     <div class="col-sm-6 mx-auto" align="right">
     <figure class="figure">
-      <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" class="rounded media-left img-fluid" alt=""></div></a>
+      <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2015/2015-walkside-score-gaudeamus.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2015/2015-walkside-score-gaudeamus.jpg" class="rounded media-left img-fluid" alt=""></div></a>
+    <!--  <img src="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" class="figure-img img-fluid"> -->
+      <figcaption class="figure-caption text-center">Sketche for <em>walkside, lost</em> (2015)</figcaption>
+    </figure>
+  </div></div>
+<br>
+
+<center>
+<div class="row full-width" width="90%" height="40vh">
+  <div class="col-sm-6 mx-auto" align="left">
+    <figure class="figure">
+    <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" class="rounded media-left img-fluid" alt=""></div></a>
+<!--        <img src="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close.jpg" class="figure-img img-fluid"> -->
+      <figcaption class="figure-caption text-center">Precompositional work on <em>Double Concerto</em> (2014)</figcaption>
+    </figure></div>
+   &nbsp;&nbsp;
+    <div class="col-sm-6 mx-auto" align="right">
+    <figure class="figure">
+      <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2017/2017-actor-network-theory-sketches.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2017/2017-actor-network-theory-sketches.jpg" class="rounded media-left img-fluid" alt=""></div></a>
     <!--  <img src="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" class="figure-img img-fluid"> -->
       <figcaption class="figure-caption text-center">Final sketches for <em>Panic Architecture</em> (2017)</figcaption>
     </figure>
   </div></div>
 <br>
+
+
+
 
 <center>
 
