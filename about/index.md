@@ -55,16 +55,18 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <br>
 <!-- END STUFF TAKEN FROM JTB PAGE -->
 <br>
-<div class="row full-width" width="90%" height="50vh">
+<div class="row full-width" width="90%" height="40vh">
   <div class="col-sm-5 nopadding mx-auto" align="left">
     <figure class="figure">
-      <img src="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close.jpg" class="figure-img img-fluid">
+    <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close.jpg" class="rounded media-left img-fluid" alt=""></div></a>
+<!--        <img src="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close.jpg" class="figure-img img-fluid"> -->
       <figcaption class="figure-caption text-center">Precompositional work on <em>Double Concerto</em> (2014)</figcaption>
     </figure></div>
    <div class="col-sm-2 nopadding mx-auto" align="center">&nbsp;&nbsp;</div>
     <div class="col-sm-5 nopadding mx-auto" align="right">
     <figure class="figure">
-      <img src="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" class="figure-img img-fluid">
+      <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" class="rounded media-left img-fluid" alt=""></div></a>
+    <!--  <img src="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" class="figure-img img-fluid"> -->
       <figcaption class="figure-caption text-center">Final sketches for <em>Panic Architecture</em> (2017)</figcaption>
     </figure>
   </div></div>
@@ -74,11 +76,13 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <div class="row full-width" width="90%" height="50vh">
   <div class="col-sm-9 nopadding mx-auto" align="center">
     <figure class="figure">
-      <img src="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript-opt.jpg" class="figure-img img-fluid">
+      <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript-opt.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript-opt.jpg" class="rounded media-left img-fluid" alt=""></div></a>
+<!--        <img src="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript-opt.jpg" class="figure-img img-fluid">   -->
       <figcaption class="figure-caption text-center">Sketches for <em>all-forgetting-is-retrieval</em> (2019)</figcaption>
     </figure>
   </div></div>
 <br><br>
+
 
 </center>
 
