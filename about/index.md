@@ -79,7 +79,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 
       <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2015/2015-pulp-sketch-2000px-manuscript.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2015/2015-pulp-sketch-2000px-manuscript.jpg" class="rounded media-left img-fluid" alt=""></div></a>
       <figcaption class="figure-caption text-center">Sketches for <em>pulp</em> (2015)</figcaption>
-    </figure></div></div>
+    </figure></div>
 <br><br>
 
 <center>
@@ -105,7 +105,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <!--        <img src="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript-opt.jpg" class="figure-img img-fluid">   -->
       <figcaption class="figure-caption text-center">Sketches for <em>all-forgetting-is-retrieval</em> (2019)</figcaption>
     </figure>
-  </div></div>
+  </div>
 <br><br>
 
 </center>
