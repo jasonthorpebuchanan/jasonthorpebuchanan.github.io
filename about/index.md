@@ -55,6 +55,27 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <br>
 <!-- END STUFF TAKEN FROM JTB PAGE -->
 
+<center>
+<div class="row col-md-12" align="center">
+<div class="col-md-12"><span class="bask17">
+
+
+{% include manuscripts.html %}
+
+<br>
+
+  {% include photos-portfolio-masonry.html folderName='manuscript' %}
+
+
+</span>
+<br>
+
+
+</div>
+</div>
+</center>
+<br>
+
 
 <div class="accordion" id="myaccordion">
 
@@ -152,15 +173,6 @@ Current projects include a large work on the subject of human memory for the Int
  <br>
   <br>
   <center><font class="bask14">Please contact me with any questions, including rental/purchase information: jasontbuchanan {at} gmail.com</font>
-
-
-  <div class="row col-md-8 mx-auto" align="center">
-  {% include manuscripts.html %}
-
-  <br>
-
-  <div class="row col-md-12" align="center">
-    {% include photos-portfolio-masonry.html folderName='manuscript' %}
 
 
 <!--  <center> <a href="long-bio">long bio</a> -->
