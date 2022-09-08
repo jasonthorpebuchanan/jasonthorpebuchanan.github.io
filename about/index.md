@@ -60,16 +60,18 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
     <figure class="figure">
       <img src="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close.jpg" class="figure-img img-fluid">
       <figcaption class="figure-caption text-center">Precompositional work on <em>Double Concerto</em> (2014)</figcaption>
-    </figure>
+    </figure></div>
 
     <div class="col-sm-5 nopadding mx-auto" align="right">
     <figure class="figure">
       <img src="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" class="figure-img img-fluid">
       <figcaption class="figure-caption text-center">Final sketches for <em>Panic Architecture</em> (2017)</figcaption>
     </figure>
-  </div>
+  </div></div>
 <br><br>
 
+
+<div class="row full-width" width="90%" height="50vh">
   <div class="col-sm-9 nopadding mx-auto" align="center">
     <figure class="figure">
       <img src="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript-opt.jpg" class="figure-img img-fluid">
