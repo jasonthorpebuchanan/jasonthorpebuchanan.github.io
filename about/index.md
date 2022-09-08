@@ -166,11 +166,14 @@ Current projects include a large work on the subject of human memory for the Int
 
 
 
-  <div class="col-sm-6 mx-auto">
+<div class="row full-width" width="90%" height="50vh">
+  <div class="col-sm-5 nopadding mx-auto" align="left">
     <figure class="figure">
       <img src="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close.jpg" class="figure-img img-fluid">
       <figcaption class="figure-caption text-center">Precompositional work on <em>Double Concerto</em> (2014)</figcaption>
     </figure>
+
+    <div class="col-sm-5 nopadding mx-auto" align="right">
     <figure class="figure">
       <img src="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" class="figure-img img-fluid">
       <figcaption class="figure-caption text-center">Final sketches for <em>Panic Architecture</em> (2017)</figcaption>
@@ -178,12 +181,12 @@ Current projects include a large work on the subject of human memory for the Int
   </div>
 <br><br>
 
-  <div class="col-sm-8 mx-auto">
+  <div class="col-sm-9 nopadding mx-auto" align="center">
     <figure class="figure">
       <img src="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript-opt.jpg" class="figure-img img-fluid">
       <figcaption class="figure-caption text-center">Sketches for <em>all-forgetting-is-retrieval</em> (2019)</figcaption>
     </figure>
-  </div>
+  </div></div>
 <br>
 <!--  <center> <a href="long-bio">long bio</a> -->
 
