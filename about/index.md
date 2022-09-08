@@ -42,7 +42,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <br> -->
 
 <!-- YANKED FROM JTB WEBSITE -->
-
+<html>
 <center>
 <div class="row col-md-12" align="center">
 <div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_CV_Apr.11.2021_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
@@ -56,75 +56,23 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <!-- END STUFF TAKEN FROM JTB PAGE -->
 <br>
 
-<!-- START MANUSCRIPT -->
-<center>
-<div class="row full-width" width="90%" height="30vh">
-  <div class="col-sm-5 mx-auto" align="left"><figure class="figure">
-    <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close-manuscript.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close-manuscript.jpg" class="rounded media-left img-fluid" alt=""></div></a>
-      <figcaption class="figure-caption text-center">Precompositional work on <em>Double Concerto</em> (2014)</figcaption>
-    </figure></div>
-   <div class="col-sm-1 mx-auto" align="center">&nbsp;&nbsp;</div>
-    <div class="col-sm-5 mx-auto" align="right">
-    <figure class="figure">
-      <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2015/2015-walkside-score-gaudeamus-manuscript.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2015/2015-walkside-score-gaudeamus-manuscript.jpg" class="rounded media-left img-fluid" alt=""></div></a>
-      <figcaption class="figure-caption text-center">Sketch for <em>walkside, lost</em> (2015)</figcaption>
-    </figure></div></div>
-<br>
 
-<center>
-<div class="row full-width" width="90%" height="30vh">
-<center>
-<div class="col-sm-6 nopadding mx-auto" align="center">
-<figure class="figure">
-
-      <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2015/2015-pulp-sketch-2000px-manuscript.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2015/2015-pulp-sketch-2000px-manuscript.jpg" class="rounded media-left img-fluid" alt=""></div></a>
-      <figcaption class="figure-caption text-center">Sketches for <em>pulp</em> (2015)</figcaption>
-    </figure></div>
-<br><br>
-
-<center>
-<div class="row full-width" width="90%" height="30vh">
-  <div class="col-sm-5 mx-auto" align="left"><figure class="figure">
-    <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches-manuscript.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches-manuscript.jpg" class="rounded media-left img-fluid" alt=""></div></a>
-      <figcaption class="figure-caption text-center">Final sketches for <em>Panic Architecture</em> (2017)</figcaption>
-    </figure></div>
-<div class="col-sm-1 mx-auto" align="center">&nbsp;&nbsp;</div>
-    <div class="col-sm-5 mx-auto" align="right">
-    <figure class="figure">
-      <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2017/2017-actor-network-theory-sketches-manuscript.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2017/2017-actor-network-theory-sketches-manuscript.jpg" class="rounded media-left img-fluid" alt=""></div></a>
-      <figcaption class="figure-caption text-center">Sketches for <em>Actor Network Theory</em> (2017)</figcaption>
-    </figure></div></div>
-<br>
-
-<center>
-<div class="row full-width" width="90%" height="30vh">
-  <center>
-  <div class="col-sm-10 nopadding mx-auto" align="center">
-    <figure class="figure">
-      <a data-fancybox data-type="iframe" href="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript.jpg" target="_blank" class="figure-img img-fluid"><div class="row"><img src="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript.jpg" class="rounded media-left img-fluid" alt=""></div></a>
-<!--        <img src="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript-opt.jpg" class="figure-img img-fluid">   -->
-      <figcaption class="figure-caption text-center">Sketches for <em>all-forgetting-is-retrieval</em> (2019)</figcaption>
-    </figure>
-  </div>
-<br><br>
-
-</center>
-<!-- END MANUSCRIPT -->
+<!-- START ACCORDION FULL LENGTH BIO -->
 <center>
 <div class="accordion" id="myaccordion">
+<center>
+          <div class="card">
+                <div class="card-header" id="headingOne">
 
-  <div class="card">
-    <div class="card-header" id="headingOne">
+      <center>      <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                      <span class="bask17">[Click for full-length Bio]</span>
+                    </button>
 
-      <center>  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        <span class="bask17">[Click for full-length Bio]</span>
-        </button></center>
-
-    </div>
-
+                </div>
+          </div>
 
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#myaccordion">
-      <div class="card-body" align="justify">
+  <div class="card-body" align="justify">
 
       Jason Thorpe Buchanan is an American composer whose works explore multiplicity, intelligibility, behavior, and the integration of live performance with technology.
 
@@ -219,6 +167,9 @@ Current projects include a large work on the subject of human memory for the Int
   <center><font class="bask14">Please contact me with any questions, including rental/purchase information: jasontbuchanan {at} gmail.com</font>
 
 
+
+{% include manuscripts.html %}
+<br>
   {% include photos-portfolio-masonry.html folderName='manuscript' %}
 
 
