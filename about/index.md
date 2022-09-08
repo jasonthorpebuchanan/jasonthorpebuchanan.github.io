@@ -51,7 +51,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
 <span class="bask12">(updated Sep.1.2019)</span></div>
 </div>
-</center>
+
 <br>
 <!-- END STUFF TAKEN FROM JTB PAGE -->
 <br>
@@ -61,7 +61,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
       <img src="{{ site.images }}/auto-add/featured/2014/2014-double-concerto-horn-partials-close.jpg" class="figure-img img-fluid">
       <figcaption class="figure-caption text-center">Precompositional work on <em>Double Concerto</em> (2014)</figcaption>
     </figure></div>
-
+   <div class="col-sm-2 nopadding mx-auto" align="center">&nbsp;&nbsp;</div>
     <div class="col-sm-5 nopadding mx-auto" align="right">
     <figure class="figure">
       <img src="{{ site.images }}/auto-add/featured/2017/2017-panic-annotations-2-sketches.jpg" class="figure-img img-fluid">
@@ -80,6 +80,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
   </div></div>
 <br><br>
 
+</center>
 
 <div class="accordion" id="myaccordion">
 
