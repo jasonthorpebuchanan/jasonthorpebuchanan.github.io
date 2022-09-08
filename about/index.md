@@ -105,7 +105,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <!--        <img src="{{ site.images }}/auto-add/featured/2019/2019-all-forgetting-taceti-tnmas-sketches-manuscript-opt.jpg" class="figure-img img-fluid">   -->
       <figcaption class="figure-caption text-center">Sketches for <em>all-forgetting-is-retrieval</em> (2019)</figcaption>
     </figure>
-  </div></div>
+  </div>
 <br><br>
 
 </center>
