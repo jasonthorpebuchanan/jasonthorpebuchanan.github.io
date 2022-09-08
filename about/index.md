@@ -56,7 +56,6 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <!-- END STUFF TAKEN FROM JTB PAGE -->
 <br>
 
-</span>
 
 <div class="row col-md-12" align="center">
 
@@ -66,10 +65,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 </div>
 
 <center>
-<div class="row col-md-12" align="center">
-<center>
 {% include full-length-bio.html %}
-</div>
 <br>
 
 <!--  <center> <a href="long-bio">long bio</a> -->
