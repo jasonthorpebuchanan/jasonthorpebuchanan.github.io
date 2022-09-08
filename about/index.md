@@ -65,8 +65,9 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <div class="row col-md-6" align="center">
   {% include photos-portfolio-masonry.html folderName='manuscript' %}
 
-<div class="row col-md-12" align="center">
+<div class="row col-md-10" align="center">
 <center>
+{% include full-length-bio.html %}
 
 
 <!--  <center> <a href="long-bio">long bio</a> -->
