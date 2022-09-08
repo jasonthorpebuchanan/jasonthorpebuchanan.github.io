@@ -216,6 +216,7 @@ Current projects include a large work on the subject of human memory for the Int
   <center><font class="bask14">Please contact me with any questions, including rental/purchase information: jasontbuchanan {at} gmail.com</font>
 
 
+  {% include photos-portfolio-masonry.html folderName='manuscript' %}
 
 
 
