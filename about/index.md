@@ -110,7 +110,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 
 </center>
 <!-- END MANUSCRIPT -->
-
+<center>
 <div class="accordion" id="myaccordion">
 
   <div class="card">
