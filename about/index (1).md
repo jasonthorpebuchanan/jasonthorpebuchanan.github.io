@@ -55,21 +55,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <br>
 <!-- END STUFF TAKEN FROM JTB PAGE -->
 
-<center>
-<div class="row col-md-12" align="center">
-<div class="col-md-12"><span class="bask18">
 
-
-{% include manuscripts.html %}
-
-<br>
-
-  {% include photos-portfolio-masonry.html folderName='manuscript' %}
-
-<br>
-<br>
-
-<center>
 <div class="accordion" id="myaccordion">
 
   <div class="card">
@@ -83,8 +69,11 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#myaccordion">
       <div class="card-body" align="justify">
 
+      Jason Thorpe Buchanan is an American composer whose works explore multiplicity, intelligibility, behavior, and the integration of live performance with technology.
+
+
 Jason Thorpe Buchanan is an American composer of operatic, orchestral, chamber, electroacoustic, and intermedia works which explore fragmentation, multiplicity, intelligibility, behavior, and the integration of live performance with technology. He is Artistic Director of
-<a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a> and Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the Hochschule für Musik Carl Maria von Weber in Dresden, Germany in the Hybrid Music Lab. He previously served from 2018-2022 as Department Chair/Lecturer in Composition, Theory, and Electroacoustic Music at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand, 2022 Interim Managing Director of the <a href="https://newmusic.missouri.edu/Mizzou target="blank">New Music Initiative at the University of Missouri</a>, and 2020 Visiting Lecturer in Composition/Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/" target="blank">Butler School of Music, University of Texas at Austin</a>.   His works have been described as "an unearthly collage of sounds", "sharply-edged", and "free jazz gone wrong&#8212;in a good way."
+<a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a> and Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the Hochschule für Musik Carl Maria von Weber in Dresden, Germany in the Hybrid Music Lab. He previously served from 2018-2022 as Department Chair/Lecturer in Composition, Theory, and Electroacoustic Music at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand, 2022 Interim Managing Director of the <a href="https://newmusic.missouri.edu/Mizzou" target="blank">New Music Initiative at the University of Missouri</a>, and 2020 Visiting Lecturer in Composition/Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/" target="blank">Butler School of Music, University of Texas at Austin</a>.   His works have been described as "an unearthly collage of sounds", "sharply-edged", and "free jazz gone wrong&#8212;in a good way."
 
 <br><br>
 <!-- new sentence -->
@@ -159,6 +148,11 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 Current projects include a large work on the subject of human memory for the International Contemporary Ensemble and Hong Kong New Music Ensemble, commissioned by the MATA Festival in NYC, and research in the field of telematic performance with the [Switch~ Ensemble].
 
 
+
+
+
+
+
   <br>
 <!--
 <a data-fancybox data-type="iframe" href="http://www.jasonthorpebuchanan.com/video---hunger.html"><img src="http://www.jasonthorpebuchanan.com/images/media/hunger-intro-video.jpg" width="294" height="159"></a>
@@ -168,6 +162,8 @@ Current projects include a large work on the subject of human memory for the Int
   <center><font class="bask14">Please contact me with any questions, including rental/purchase information: jasontbuchanan {at} gmail.com</font>
 
 
+
+
 <!--  <center> <a href="long-bio">long bio</a> -->
 
 <!--
@@ -175,6 +171,7 @@ Current projects include a large work on the subject of human memory for the Int
 
 {% include soundcloud_player.html type="tracks" trackID=blanknumber %}
 
+<div class="col-sm-6 mx-auto">
   <figure class="figure">
     <img src="{{ site.images }}/blank.jpg" class="figure-img img-fluid">
     <figcaption class="figure-caption text-center">To read more <em>The Turin Horse</em>, <a href="https://www.blank.html">click here.</a></figcaption>
