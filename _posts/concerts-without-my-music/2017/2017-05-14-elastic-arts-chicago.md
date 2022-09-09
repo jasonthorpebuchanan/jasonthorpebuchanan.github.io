@@ -23,6 +23,8 @@ program:
   - composer: Elvira Garifzyanova
     title: Aurora Borealis
 thumbnail: updates/2017/myers_aquinnah_400x200.jpg
+500pxImage: updates/2017/2017-myers_aquinnah_500px.jpg
+headerImage: headers/2017/2017-myers_aquinnah_1000x500px.jpg
 photosFolder: uchicago
 tags:
   - 2017
