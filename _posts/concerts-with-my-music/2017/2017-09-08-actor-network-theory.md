@@ -17,13 +17,13 @@ program:
     year: 2017
   - composer:
     title:
-headerImage:
-thumbnail: updates/royaumont_280.png
+headerImage: headers/2017/2017-ant-still.jpg
+thumbnail: updates/2017/2017-ant-still_330.jpg
+500pxImage: updates/2017/2017-ant-still_500.jpg
 photosFolder: actor-network-theory
 tags:
   - 2017
 ---
-
 Sep. 8, 2017: Royaumont, Asnières-sur-Oise, Paris Region. New work *ACTOR-NETWORK THEORY* for the Ensemble Voix Nouvelles. Commissioned by Royaumont Fondation.
 
 <section class="score-vid-header module-bg-dark" background-color="#051f4a">

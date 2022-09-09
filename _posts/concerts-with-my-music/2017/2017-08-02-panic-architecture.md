@@ -16,8 +16,9 @@ program:
     year: 2017
   - composer:
     title:
-headerImage:
-thumbnail: updates/talea_280x114.jpg
+headerImage: headers/2017/panicarchitecture-talea_1800.jpg
+thumbnail: updates/2017/panicarchitecture-talea_330.jpg
+500pxImage: works-images/port-wrapper/panicarchitecture-talea_640x340.jpg
 photosFolder: panic-architecture
 tags:
   - 2017
