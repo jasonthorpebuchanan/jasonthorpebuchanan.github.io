@@ -24,8 +24,9 @@ program:
     title: Black Petal
   - composer: Anna-Louise Walton
     title: Uttered
-headerImage: headers/switch-final-press-photo_1920x1080.jpg
+headerImage: headers/2021/2021-switch-soliloquios-19-1000px.jpg
 thumbnail: updates/2021/2021-switch-soliloquios-19-330.jpg
+500pxImage: updates/2021/2021-switch-soliloquios-19-_500.jpg
 tags:
   - 2022
   - switch

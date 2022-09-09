@@ -19,8 +19,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: soliloquios del viento
     year: 2017
-headerImage: headers/arete-4.jpg
-thumbnail: updates/2020/diels_filament-250x125.jpg
+headerImage: headers/2019/diels_filament-1000x500.jpg
+thumbnail: updates/2019/diels_filament-250x125.jpg
+500pxImage: updates/2019/diels_filament_500.jpg
 tags:
   - 2020
   - new

@@ -15,8 +15,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: Reflexive Iterations 1.a
     year: 2020
-headerImage: headers/reflexive-iterations-1080x549.jpg
+headerImage: headers/2020/reflexive-iterations-1080x549.jpg
 thumbnail: updates/2020/reflexive-iterations-250x125.jpg
+500pxImage: updates/2020/reflexive-iterations_500.jpg
 tags:
   - 2020
   - new
