@@ -14,7 +14,9 @@ location:
 program:
   - composer: Magnus Lindberg
     title: UR
-thumbnail: updates/lindberg-jason.jpg    
+thumbnail: updates/2013/lindberg-jason.jpg    
+headerImage: headers/2013/lindberg-jason_720.jpg
+500pxImage: updates/2013/lindberg-jason_500.jpg
 tags:
   - older
   - switch

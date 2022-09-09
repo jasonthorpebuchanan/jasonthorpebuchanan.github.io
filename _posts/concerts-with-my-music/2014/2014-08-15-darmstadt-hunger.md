@@ -14,7 +14,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "HUNGER (Part III)"
     year: 2014
-thumbnail: updates/hunger_2_250x145.jpg
+headerImage: headers/2014/sult-darmstadt.jpg
+thumbnail: updates/2014/sult-darmstadt_330.jpg
+500pxImage: updates/2014/sult-darmstadt_500.jpg
 tags:
   - 2014
 ---

@@ -15,7 +15,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "...durat(A)ions: 'broken landscape'"
     year: 2013
-thumbnail: updates/durations_280x116.jpg
+thumbnail: updates/2015/durations-unlv_330.jpg
+headerImage: headers/2015/durations-unlv.jpg
+500pxImage: updates/2015/durations-unlv_500.jpg
 tags:
   - 2015
 ---

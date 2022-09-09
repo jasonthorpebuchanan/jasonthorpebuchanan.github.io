@@ -20,7 +20,6 @@ tags:
   - switch
 
 ---
-
 Jul. 13, 2015: World Premiere of Second Study for Alto Saxophone, Electronics, and Video: pulp with Matt Evans at the World Saxophone Congress in Strasbourg, France.
 
 

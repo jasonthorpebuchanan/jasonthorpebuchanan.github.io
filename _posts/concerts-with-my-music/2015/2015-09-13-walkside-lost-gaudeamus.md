@@ -16,7 +16,8 @@ program:
     title: "walkside, lost"
     year: 2015
 headerImage: headers/2015/walksidelost_full1.jpg
-thumbnail: updates/2015/walksidelost_full1.jpg
+thumbnail: updates/2015/walksidelost_full1_330.jpg
+500pxImage: updates/2015/walksidelost_full1_500.jpg
 photosFolder: walkside-lost
 tags:
   - 2015

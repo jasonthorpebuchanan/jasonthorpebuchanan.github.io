@@ -14,8 +14,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "Second Study for Alto Saxophone, Video, and Electronics: pulp"
     year: 2015
-headerImage: headers/pulp_6_full.jpg
-thumbnail: updates/pulp-280x156.png
+headerImage: headers/2016/pulp_5_full.jpg
+thumbnail: updates/2016/pulp_5_330.png
+500pxImage: updates/2016/pulp_5_500.jpg
 photosFolder: pulp
 tags:
   - 2016

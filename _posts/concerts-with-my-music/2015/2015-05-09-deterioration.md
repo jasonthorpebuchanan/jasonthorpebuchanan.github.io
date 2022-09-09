@@ -15,8 +15,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "de/ter| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |ior.ation"
     year: 2015
-headerImage: headers/deterioration-still2.jpg
-thumbnail: updates/deterioration_280.jpg
+headerImage: headers/2015/deterioration_1_full.jpg
+thumbnail: updates/2015/deterioration_1_330.jpg
+500pxImage: updates/2015/deterioration_1_500.jpg
 photosFolder: deterioration
 tags:
   - 2015

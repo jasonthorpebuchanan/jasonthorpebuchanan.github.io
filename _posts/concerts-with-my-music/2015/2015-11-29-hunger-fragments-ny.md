@@ -15,7 +15,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "hunger fragments"
     year: 2015
-thumbnail: updates/nyvirtuososingers_280.jpg
+headerImage: headers/2015/nyvirtuososingers.jpg
+500pxImage: updates/2015/nyvirtuososingers_500.jpg
+thumbnail: updates/2015/nyvirtuososingers_330.jpg
 tags:
   - 2015
 ---

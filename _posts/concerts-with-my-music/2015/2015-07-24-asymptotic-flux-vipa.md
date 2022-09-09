@@ -21,5 +21,4 @@ thumbnail: updates/2015/AF1_mivos_1_330.jpg
 tags:
   - 2015
 ---
-
 Jul. 24, 2015: European premiere of *Asymptotic Flux: First Study in Entropy* with Mivos Quartet and Madison Greenstone at the 2015 VIPA Festival in Valencia, Spain.

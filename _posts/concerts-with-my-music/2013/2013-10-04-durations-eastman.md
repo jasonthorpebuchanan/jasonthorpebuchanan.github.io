@@ -15,7 +15,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "...durat(A)ions: 'broken landscape'"
     year: 2013
-thumbnail: updates/iktusquartet.jpg
+thumbnail: updates/2013/durations-iktus_330.jpg
+headerImage: headers/2013/durations-iktus.jpg
+500pxImage: updates/2013/durations-iktus_500.jpg
 tags:
   - older
 ---

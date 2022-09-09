@@ -14,7 +14,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "Second Study for Alto Saxophone, Video, and Electronics: pulp"
     year: 2015
-thumbnail: updates/emily-jane-loboda_280.jpg
+thumbnail: updates/2016/emily-jane-loboda_330.jpg
+headerImage: headers/2016/emily-jane-loboda.jpg
+500pxImage: updates/2016/emily-jane-loboda_500.jpg
 tags:
   - 2016
 ---

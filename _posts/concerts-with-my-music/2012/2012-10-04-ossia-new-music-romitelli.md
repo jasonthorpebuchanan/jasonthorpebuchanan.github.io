@@ -18,8 +18,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "Asymptotic Flux: First Study in Entropy"
     year: 2012
-headerImage: headers/romitelli_amok_1600.jpg
-thumbnail: updates/af1-2.jpg
+headerImage: headers/2012/romitelli_amok_1600.jpg
+thumbnail: updates/2012/romitelli_amok_300.jpg
+500pxImage: updates/2012/romitelli_amok_500.jpg
 tags:
   - switch
   - older

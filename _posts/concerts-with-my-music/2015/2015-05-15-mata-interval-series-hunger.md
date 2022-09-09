@@ -25,8 +25,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "HUNGER (Part III)"
     year: 2015
-headerImage: hunger-mata3.jpg
-thumbnail: updates/mata_280.jpg
+headerImage: headers/2015/hunger_1_full.jpg
+thumbnail: updates/2015/hunger_1_330.jpg
+500pxImage: updates/2015/hunger_1_500.jpg
 photosFolder: hunger-mata
 tags:
   - 2015

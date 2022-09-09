@@ -18,6 +18,9 @@ program:
     title:
     year:
 thumbnail: updates/smokeandmirrors-400-opt.png
+headerImage: headers/2014/eastalia.jpg
+thumbnail: updates/2014/eastalia_330.jpg
+500pxImage: updates/2014/eastalia_500.jpg
 photosFolder:
 tags:
   - 2014

@@ -18,8 +18,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "Asymptotic Flux: Second Study in Entropy"
     year: 2013
-headerImage: headers/gaudeamus-shake.jpg
-thumbnail: updates/insomnio_280.jpg
+headerImage: headers/2015/AF1-new-european.jpg
+thumbnail: updates/2015/AF1-new-european_330.jpg
+500pxImage: updates/2015/AF1-new-european_500.jpg
 photosFolder: gaudeamus
 tags:
   - 2015

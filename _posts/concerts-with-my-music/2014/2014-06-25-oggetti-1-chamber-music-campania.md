@@ -14,7 +14,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "oggetti 1"
     year: 2014
-thumbnail: updates/oggetti_5.jpg
+headerImage: headers/2014/oggetti.jpg
+thumbnail: updates/2014/oggetti_330.jpg
+500pxImage: updates/2014/oggetti_500.jpg
 tags:
   - 2014
 ---

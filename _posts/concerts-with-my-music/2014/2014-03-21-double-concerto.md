@@ -22,7 +22,9 @@ program:
   - composer: Robert Morris
     title:
     year:
-thumbnail: updates/doubleconcerto_350.jpg
+headerImage: headers/2014/double-concerto-premiere.jpg
+thumbnail: updates/2014/double-concerto-premiere_330.jpg
+500pxImage: updates/2014/double-concerto-premiere_500.jpg
 photosFolder:
 tags:
   - 2014

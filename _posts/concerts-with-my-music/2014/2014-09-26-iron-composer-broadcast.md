@@ -14,7 +14,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: oggetti 2.b
     year: 2014
-thumbnail: updates/ironcomposer-280.jpg
+headerImage: headers/2014/Iron_Composer.jpg
+thumbnail: updates/2014/Iron_Composer_330.jpg
+500pxImage: updates/2014/Iron_Composer_500.jpg
 tags:
   - 2014
 ---

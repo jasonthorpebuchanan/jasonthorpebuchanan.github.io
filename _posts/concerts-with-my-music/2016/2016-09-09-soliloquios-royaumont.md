@@ -15,9 +15,11 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "soliloquios del viento"
     year: 2016
-headerImage: headers/soliloquios-talea.jpg
-thumbnail: updates/soliloquios-talea-450x253.jpg
+headerImage: headers/2016/soliloquios-talea.jpg
+thumbnail: updates/2016/soliloquios-talea_330.jpg
+500pxImage: updates/2016/soliloquios-talea_500.jpg
 photosFolder: soliloquios-del-viento
+
 tags:
   - 2016
 ---

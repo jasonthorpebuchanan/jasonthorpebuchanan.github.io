@@ -14,8 +14,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: Six Shelley Songs
     year: 2008
-headerImage: headers/sirje_1400.jpg
-thumbnail: updates/sirje_280.jpg
+headerImage: headers/2014/sirje_1400.jpg
+thumbnail: updates/2014/sirje_330.jpg
+500pxImage: updates/2014/sirje_500.jpg
 tags:
   - 2014
 ---

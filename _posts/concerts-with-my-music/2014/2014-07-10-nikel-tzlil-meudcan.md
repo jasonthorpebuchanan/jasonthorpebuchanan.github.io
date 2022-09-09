@@ -14,7 +14,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "antistasis 1"
     year: 2014
-thumbnail: updates/antistasis_340x191.jpg
+headerImage: headers/2014/antistasis_1920.jpg
+thumbnail: updates/2014/antistasis_330.jpg
+500pxImage: updates/2014/antistasis_500.jpg
 tags:
   - 2014
 ---

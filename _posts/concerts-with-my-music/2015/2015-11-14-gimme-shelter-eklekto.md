@@ -15,8 +15,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "gimme shelter"
     year: 2015
-headerImage: headers/gimme-shelter1.jpg
-thumbnail: updates/gimmeshelter_2_280x159.jpg
+headerImage: headers/2015/gimme-shelter1.jpg
+thumbnail: updates/2015/gimme-shelter1_330.jpg
+500pxImage: updates/2015/gimme-shelter1_500.jpg
 photosFolder: gimme-shelter
 tags:
   - 2015

@@ -14,8 +14,9 @@ location:
 program:
   - composer: Karlheinz Stockhausen
     title: Mikrophonie I
-thumbnail: updates/mikrophonie1.jpg
-
+thumbnail: updates/2013/mikrophonie1.jpg
+headerImage: headers/2013/stockhausen-mikrophonie_1000.jpg
+500pxImage: updates/2013/stockhausen-mikrophonie_500.jpg
 tags:
   - older
   - switch

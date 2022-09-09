@@ -16,8 +16,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: "Asymptotic Flux: First Study in Entropy"
     year: 2012
-headerImage: headers/jib-linea.jpg
-thumbnail: updates/jib-linea-250.jpg
+headerImage: headers/2013/jib-linea.jpg
+thumbnail: updates/2013/jib-linea_500.jpg
+500pxImage: updates/2013/jib-linea_330.jpg
 tags:
   - linea
   - older
