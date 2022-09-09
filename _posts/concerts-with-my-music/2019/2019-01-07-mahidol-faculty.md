@@ -17,8 +17,9 @@ program:
     year: 2018
   - composer: Jason Thorpe Buchanan
     title: Second Study for Alto Saxophone, Electronics, and Video pulp
-headerImage: headers/surface-tension-mahidol2.jpg
-thumbnail: updates/mahidol-logo.jpg
+headerImage: headers/2019/surface-tension-mahidol2.jpg
+thumbnail: updates/2019/surface-tension-mahidol2_330.jpg
+500pxImage: updates/2019/surface-tension-mahidol2_500.jpg
 photosFolder: surface, tension
 tags:
   - 2019

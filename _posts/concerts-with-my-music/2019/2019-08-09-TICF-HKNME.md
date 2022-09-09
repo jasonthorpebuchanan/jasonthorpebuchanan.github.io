@@ -17,8 +17,9 @@ program:
     year: 2017
   - composer:
     title:
-headerImage: headers/ticf-jtb-stage.jpg
+headerImage: headers/2019/ticf-jtb-stage.jpg
 thumbnail: updates/2019/hknme-289px.jpg
+500pxImage: updates/2019/ticf-jtb-stage_500.jpg
 photosFolder: ticf
 tags:
   - 2019

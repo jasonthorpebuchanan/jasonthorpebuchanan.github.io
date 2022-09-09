@@ -17,9 +17,11 @@ program:
     year: 2017
   - composer:
     title:
-headerImage: headers/soliloquios-interface-opt.jpg
+headerImage: headers/2017/soliloquios-interface-opt.jpg
 thumbnail: updates/2019/transit-289px.jpg
+500pxImage: updates/2017/soliloquios-interface_500.jpg
 photosFolder: soliloquios-del-viento
+
 tags:
   - 2019
   - new

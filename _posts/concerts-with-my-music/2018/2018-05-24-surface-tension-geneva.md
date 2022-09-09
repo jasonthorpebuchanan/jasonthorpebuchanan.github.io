@@ -14,8 +14,9 @@ program:
   - composer: Jason Thorpe Buchanan
     title: surface, tension
     year: 2018
-headerImage: headers/surface-still.jpg
+headerImage: headers/2018/surface-still.jpg
 thumbnail: updates/2018/surface-still-thumb.jpg
+500pxImage: updates/2018/surface-still_500.jpg
 photosFolder: surface, tension
 tags:
   - 2018
