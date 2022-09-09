@@ -3,7 +3,7 @@
     {%- if concert.thumbnail -%}
       <a href="{{ concert.url }}"><img class="img-fluid mb-5 mb-md-0" src="{{ site.images }}/{{ concert.500pxImage }}" alt=""></a>
     {% else %}
-      <a href="{{ concert.url }}"><img class="img-fluid mb-5 mb-md-0" src="{{ site.images }}/{{ concert.headerImage }}" alt=""></a>
+      <a href="{{ concert.url }}"><img class="img-fluid mb-5 mb-md-0" src="{{ site.images }}/{{ concert.thumbnail }}" alt=""></a>
     {%- endif -%}<br><br>
     {%- if concert.describe -%}{{ concert.describe }}<br />{%- endif -%}
 <br>
