@@ -27,7 +27,9 @@ program:
     title: lamento
   - composer: Timothy McCormack
     title: karst survey
-thumbnail: updates/vipa_280.jpg
+thumbnail: updates/2016/switch-santos-still_280.jpg
+headerImage: headers/2016/santos_lamento_1000x500px.jpg
+500pxImage: updates/2016/santos_lamento_500.jpg
 photosFolder: vipa
 tags:
   - 2016

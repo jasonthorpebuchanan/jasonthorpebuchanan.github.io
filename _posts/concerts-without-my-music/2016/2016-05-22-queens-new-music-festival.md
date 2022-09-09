@@ -25,7 +25,9 @@ program:
     title: Things Fall Apart
   - composer: Alexander Schubert
     title: Star Me Kitten
-thumbnail: updates/switchensemble_light-cover_280.jpg
+thumbnail: updates/switch-final-press-photo_330.jpg
+headerImage: headers/switch-final-press-photo_1920x1080.jpg
+500pxImage: updates/switch-final-press-photo_500.jpg
 photosFolder: avaloch
 tags:
   - 2016

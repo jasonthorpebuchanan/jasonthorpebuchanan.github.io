@@ -23,6 +23,8 @@ program:
   - composer: Ben Isaacs
     title: allone
 thumbnail: updates/2016/switch-SF_280x149.jpg
+headerImage: headers/2016/pateras_brokenthenfixed_1000x500px.jpg
+500pxImage: updates/2016/pateras_brokenthenfixed_500.jpg
 tags:
   - 2016
   - switch
