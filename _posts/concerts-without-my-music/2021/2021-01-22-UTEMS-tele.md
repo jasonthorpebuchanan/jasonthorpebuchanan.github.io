@@ -25,6 +25,8 @@ program:
   title: Project Agree- Mission for the Internet Communities (2020)
 headerImage: headers/telematic-trailer-playbutton-800.png
 thumbnail: updates/2021/telematic-trailer-playbutton-300.jpg
+500pxImage: updates/2021/telematic-trailer-playbutton_500.png
+
 tags:
 - 2021
 - new

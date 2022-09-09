@@ -21,6 +21,8 @@ program:
     title: Among Arrows
 headerImage: headers/switch-final-press-photo_1920x1080.jpg
 thumbnail: updates/2022/Rosenberger 6-camvln1-330.jpg
+500pxImage: updates/switch-final-press-photo_500.jpg
+photosFolder: mizzou
 tags:
   - 2022
   - switch

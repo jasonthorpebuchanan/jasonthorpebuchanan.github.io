@@ -29,8 +29,10 @@ program:
     title:
   - composer: Felipe Tovar-Henao
     title:
-headerImage: headers/cassie-aws_1600.jpg
+headerImage: headers/2022/cassie-aws_1600.jpg
 thumbnail: updates/2022/cassie-aws_330.jpg
+500pxImage: updates/2022/cassie-aws_500.jpg
+photosFolder: mizzou
 tags:
   - 2022
   - Mizzou

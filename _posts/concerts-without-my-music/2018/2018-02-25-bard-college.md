@@ -23,8 +23,9 @@ program:
     title: landscape with inscription (2017)
   - composer: Morton Feldman
     title: Intersection 4 (1952)
-headerImage: headers/sargent-unwound-path_1000x500.jpg
-thumbnail: updates/sargent-unwound-path_300x161.jpg
+headerImage: headers/2018/sargent-unwound-path_1000x500.jpg
+thumbnail: updates/2018/sargent-unwound-path_300x161.jpg
+500pxImage: updates/2018/sargent-unwound-path_500.jpg
 tags:
   - 2018
   - switch

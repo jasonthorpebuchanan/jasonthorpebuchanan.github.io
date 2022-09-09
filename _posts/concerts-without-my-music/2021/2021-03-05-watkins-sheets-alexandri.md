@@ -19,8 +19,9 @@ program:
   title: Warden (2021)
 - composer: Zachary James Watkins
   title: Do Your Best, Never Say Can't, and Love One Another (2021)
-headerImage: headers/Switch-March-5-800-opt.png
+headerImage: headers/2021/Switch-March-5-800-opt.png
 thumbnail: updates/2021/Switch-March-5-300-opt.jpg
+500pxImage: updates/2021/Switch-March-5_500.png
 tags:
 - 2021
 - new

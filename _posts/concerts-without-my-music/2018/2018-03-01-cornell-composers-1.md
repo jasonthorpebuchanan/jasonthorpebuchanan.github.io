@@ -25,6 +25,7 @@ program:
     title: Tres Montunos
 headerImage: headers/cornell-composers.jpg
 thumbnail: updates/2018/cornell-kim-front_280x157.jpg
+500pxImage: updates/2018/cornell-composers_500.jpg
 photosFolder: upstate-NY-tour
 tags:
   - 2018

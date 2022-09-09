@@ -23,8 +23,9 @@ program:
     title: Unwound Path (2018)
   - composer: Jihyun Kim
     title: Once Upon a Time... (2018)
-headerImage: headers/cornell-cond.jpg
+headerImage: headers/2018/cornell-cond.jpg
 thumbnail: updates/2018/cornell-kim-behind_280x160.jpg
+500pxImage: updates/2018/cornell-cond_500.jpg
 photosFolder: upstate-NY-tour
 tags:
   - 2018

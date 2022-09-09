@@ -29,6 +29,7 @@ program:
     title: new work (2020)
 headerImage: headers/switch-final-press-photo_1920x1080.jpg
 thumbnail: updates/switch-press_330.jpg
+500pxImage: updates/switch-final-press-photo_500.jpg
 tags:
   - 2020
   - new
