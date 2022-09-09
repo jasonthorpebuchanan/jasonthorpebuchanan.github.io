@@ -4,7 +4,7 @@
       <a href="{{ concert.url }}"><img class="img-fluid mb-5 mb-md-0" src="{{ site.images }}/{{ concert.500pxImage }}" alt=""></a>
     {% else %}
       <a href="{{ concert.url }}"><img class="img-fluid mb-5 mb-md-0" src="{{ site.images }}/{{ concert.thumbnail }}" alt=""></a>
-    {%- endif -%}<br>
+    {%- endif -%}<br><br style="line-height:1px">
     {%- if concert.describe -%}{{ concert.describe }}<br />{%- endif -%}
 <br><br>
   </div>
