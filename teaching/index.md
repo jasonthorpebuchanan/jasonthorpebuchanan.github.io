@@ -10,7 +10,7 @@ background: black
 ---
 
 <h3>Teaching</h3>
-In September 2022, I join the faculty at the Hochschule für Musik Carl Maria von Weber in Dresden, Germany as Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the Hybrid Music Lab.
+In September 2022, I join the faculty at the <a href="http://hfmdd.de">Hochschule für Musik Carl Maria von Weber Dresden</a>, Germany as Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the <a href="https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab">Hybrid Music Lab</a>.
 <br><br>
 During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composition & Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/perform-and-study/division-ensemble/composition">Butler School of Music, University of Texas at Austin</a>.
 <br><br>
@@ -21,6 +21,7 @@ I am available for lessons, mentorship, guest lectures, and general consultation
 
 
 <h3>Guest Lectures, Workshops, Seminars, Masterclasses</h3>
+2022 - University of Missouri (online), (Columbia, MO)
 2022 - Colby College, Music Department, (Waterville, ME)
 <br>
 2021 - International Composers Institute of Thailand (online)
@@ -84,10 +85,16 @@ I am available for lessons, mentorship, guest lectures, and general consultation
 2013 - University of Missouri, Mizzou International Composers Festival (USA)
 
 
+
+<h3>Courses Taught at the Hochschule für Musik Carl Maria von Weber Dresden, Germany</h3>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video</a>, Wintersemester 2022/23
+<br>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik & Telematik</a>, Wintersemester 2022/23
+
 <br>
 
 
-<h3>Courses Taught at the College of Music, Mahidol University</h3>
+<h3>Courses Taught at the College of Music, Mahidol University, THailand</h3>
 Composition Lessons, Spr. ‘19 (4), Fall ‘19 (5), Spr. ‘20 (5), Fall ‘20 (3), Spr. ‘21 (4), Fall ’21 (3), Spring '22 (5), Fall '22 (6)
 <br>
 Composition Studio Class, Fall 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022
