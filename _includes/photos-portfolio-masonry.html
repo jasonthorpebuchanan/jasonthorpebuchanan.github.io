@@ -11,7 +11,7 @@
 			{%- if image.path contains include.folderName -%}
 				<div class="portfolio-item p-1">
 					<div class="portfolio-wrapper">
-						<img src="thumbnails/{{ image.path }}" alt="{{ image.basename }}">
+						<img src="thumbnails{{ image.path }}" alt="{{ image.basename }}">
 						<a data-fancybox="images" class="portfolio-link" href="{{ image.path }}" data-caption="{{ image.basename }}"></a>
 					</div>
 				</div>
@@ -20,4 +20,4 @@
 	</div>
 </div>
 <!-- Portfolio end-->
-<!-- added tumbnails/ before image path -->
+<!-- added thumbnails/ before image path -->
