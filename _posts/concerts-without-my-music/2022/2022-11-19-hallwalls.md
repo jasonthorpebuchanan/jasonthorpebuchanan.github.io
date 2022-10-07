@@ -1,8 +1,8 @@
 ---
 layout: concert
 categories: performance
-describe: "PS21 Chatham, Resonant Mechanisms: The Experimental Tradition in Upstate New York"
-date: 2022-11-18
+describe: "Hallwalls, Resonant Mechanisms: Hennies, Cheah, Eastman, Kutler"
+date: 2022-11-19
 time: "7:00pm"
 location:
   institution: Hallwalls Contemporary Arts Center
