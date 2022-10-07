@@ -28,7 +28,6 @@ program:
 headerImage: headers/2022/switch-hallwalls-nov19.jpg
 thumbnail: updates/2022/switch-hallwalls-nov19_330.jpg
 500pxImage: updates/2022/switch-hallwalls-nov19.jpg
-
 tags:
   - 2022
   - switch
