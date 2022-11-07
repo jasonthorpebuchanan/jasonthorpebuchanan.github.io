@@ -93,7 +93,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 
 <!-- LONG BIO 1062 words updated Nov. 7 2022 -->
 Jason Thorpe Buchanan is an American composer of operatic, orchestral, chamber, electroacoustic, and intermedia works which explore fragmentation, multiplicity, intelligibility, behavior, and the integration of live performance with technology. He is Artistic Director of
-<a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a> and Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the Hochschule für Musik Carl Maria von Weber in Dresden, Germany in the Hybrid Music Lab. He previously served from 2018-2022 as Department Chair/Lecturer in Composition, Theory, and Electroacoustic Music at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand, 2022 Interim Managing Director of the <a href="https://newmusic.missouri.edu/Mizzou" target="blank">New Music Initiative at the University of Missouri</a>, and 2020 Visiting Lecturer in Composition/Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/" target="blank">Butler School of Music, University of Texas at Austin</a>.   His works have been described as "an unearthly collage of sounds", "sharply-edged", and "free jazz gone wrong&#8212;in a good way."
+<a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a> and Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the <a href="https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab" target="blank">Hochschule für Musik Carl Maria von Weber Dresden</a>, Germany in the Hybrid Music Lab. He previously served from 2018-2022 as Department Chair/Lecturer in Composition, Theory, and Electroacoustic Music at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand, 2022 Interim Managing Director of the <a href="https://newmusic.missouri.edu/Mizzou" target="blank">Mizzou New Music Initiative at the University of Missouri</a>, and 2020 Visiting Lecturer in Composition/Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/" target="blank">Butler School of Music, University of Texas at Austin</a>.   His works have been described as "an unearthly collage of sounds", "sharply-edged", and "free jazz gone wrong&#8212;in a good way."
 
 <br><br>
 <!-- new sentence -->
@@ -108,7 +108,7 @@ Jason is the recipient of a 2010-11 Fulbright Fellowship at the Hochschule für 
 <br><br>
 <!-- new sentence -->
 As a nominee for the 2015 Gaudeamus Prize, three works were presented by
-<a href="https://www.ensembleinsomnio.nl/" target="blank">Insomnio</a>, New European Ensemble, and
+<a href="https://www.ensembleinsomnio.nl/" target="blank">Insomnio</a>, the New European Ensemble, and
 <a href="https://www.slagwerkdenhaag.nl/" target="blank">Slagwerk Den Haag</a> at
 <a href="https://gaudeamus.nl/" target="blank">Gaudeamus Muziekweek</a> (NL).
 
@@ -118,7 +118,7 @@ As a nominee for the 2015 Gaudeamus Prize, three works were presented by
 <!-- new sentence --> Three speaking percussionists manipulate household objects, microphones, and speakers embedded in wooden boxes while cameras generate a reservoir of video files. These files are retrieved, re-organized, and composited against one another, creating temporal, aural, and visual dissonances between past and present actions.
 
 <!-- new sentence --> As 2018 Artist-In-Residence at the
-<<a href="https://www.eofa.ch/en/" target="blank">Embassy of Foreign Artists</a> in Geneva, Switzerland, he developed a new, interactive processing environment for <em>surface, tension</em> (2018), responding directly to the discrete physical gestures of performers and governing the behavior of both signal processing and soundfile triggering through wearable technology, sensors, and motion tracking.
+<a href="https://www.eofa.ch/en/" target="blank">Embassy of Foreign Artists</a> in Geneva, Switzerland, he developed a new, interactive processing environment for <em>surface, tension</em> (2018), responding directly to the discrete physical gestures of performers and governing the behavior of both signal processing and soundfile triggering through wearable technology, sensors, and motion tracking.
 
 <br><br>
 <!-- new sentence -->
@@ -127,12 +127,9 @@ As a nominee for the 2015 Gaudeamus Prize, three works were presented by
 
 
 <br><br>
-<!-- new sentence --> Scenes from his multimedia opera
-<a href="http://www.hungeropera.com" target="blank"><em>Hunger</em></a> have received performances at Darmstadt (2014) with
+<!-- new sentence --> Scenes from his multimedia opera <em>Hunger</em> have received performances at Darmstadt (2014) with
 <a href="http://www.ensembleinterface.com/" target="blank">Ensemble Interface</a> (DE), <a href="http://theindustryla.org" target="blank">The Industry</a>’s FIRST TAKE in L.A. (2015) with
-<a href="http://wildup.la" target="blank">wild Up</a>, and the <a href="http://matafestival.org/mata-interval/" target="blank">MATA</a> Interval Series in New York City (2015) with <a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a>.<br>
-<!-- new sentence -->
-“<em>Hunger</em> is a kind of training session in mental disintegration... An ungodly opera needs ugly music, singers who produce primal sounds, an electric guitar that sounds scraped raw, a wailing orchestra effects, cuts the ear like a knife. Buchanan delivers.” <em>&#8212; L.A. Times</em>
+<a href="http://wildup.la" target="blank">wild Up</a>, and the <a href="http://matafestival.org/mata-interval/" target="blank">MATA</a> Interval Series in New York City (2015) with <a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a>.<br> “<em>Hunger</em> is a kind of training session in mental disintegration... An ungodly opera needs ugly music, singers who produce primal sounds, an electric guitar that sounds scraped raw, a wailing orchestra effects, cuts the ear like a knife. Buchanan delivers.” <em>&#8212; L.A. Times</em>
 
 
 
@@ -156,11 +153,11 @@ Ricardo Zohn-Muldoon</a>,
 <a href="http://www.aperghis.com/english.html" target="blank">Georges Aperghis</a>.
 
 <!-- new sentence -->
-Jason served for three years as Executive Director of the Valencia International Performance Academy & Festival (Spain), for two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, as founding Director of the TICF International Academy for Young Composers, and as a Faculty Artist at the <a href="http://www.tmaomusic.com/icit2021/" target="blank">International Composition Institute of Thailand</a>. As a doctoral student, he served as instructor in electronic music and composition, board member of OSSIA, and assistant conductor for the Musica Nova Ensemble with conductor <a href="http://bradlubman.com/" target="blank">Brad Lubman</a> at the Eastman School of Music.
+Jason served for three years as Executive Director of the Valencia International Performance Academy & Festival (Spain), for two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, as founding Director of the TICF International Academy for Young Composers, and as a Faculty Artist at the <a href="http://www.tmaomusic.com/icit2021/" target="blank">International Composition Institute of Thailand</a>, IntAct Festival. As a doctoral student, he served as instructor in electronic music and composition, board member of OSSIA, and assistant conductor for the Musica Nova Ensemble with conductor <a href="http://bradlubman.com/" target="blank">Brad Lubman</a> at the Eastman School of Music, University of Rochester.
 
 <br><br>
 <!-- new sentence -->
-As a guest composer, conductor, and lecturer, he is widely sought internationally at institutions such as the University of Chicago, Stanford University, TRANSIT Festival (Belgium), TIME SPANS Festival (NYC), Chamber Music Campania (Italy), the Eastman School of Music, University of Miami Frost School of Music, Music Science Share Educators Conference (Shanghai), Queens New Music Festival, MATA, the Thailand New Music and Arts Symposium, Yong Siew Toh Conservatory (Singapore), the Bergen Center for Elektronisk Kunst (BEK, Norway), and over two dozen Universities throughout the United States.<!-- new sentence --> He holds a Ph.D. in Composition from the Eastman School of Music, and degrees in Composition and Music Technology from San José State University (BM & BA, 2008) and the University of Nevada, Las Vegas (MM, 2010), where he taught courses in composition and theory as a graduate student.
+As a guest composer, conductor, and lecturer, he is widely sought internationally at institutions such as the University of Chicago, Stanford University, TRANSIT Festival (Belgium), TIME SPANS Festival (NYC), Chamber Music Campania (Italy), the Eastman School of Music, the University of Miami Frost School of Music, Music Science Share Educators Conference (Shanghai), Queens New Music Festival, MATA, the Thailand New Music and Arts Symposium, Yong Siew Toh Conservatory (Singapore), the Bergen Center for Elektronisk Kunst (BEK, Norway), and over two dozen Universities throughout the United States.<!-- new sentence --> He holds a Ph.D. in Composition from the Eastman School of Music, and degrees in Composition and Music Technology from San José State University (BM & BA, 2008) and the University of Nevada, Las Vegas (MM, 2010), where he taught courses in composition and theory as a graduate student.
 
 
 <br><br>
@@ -174,7 +171,7 @@ Current projects include a large work on the subject of human memory for the Int
 -->
  <br>
   <br>
-  <center><font class="bask14">Please contact me with any questions, including rental/purchase information: jasontbuchanan {at} gmail.com</font>
+  <center><font class="bask14">Please write with any questions, including rental/purchase information: jasontbuchanan {at} gmail.com</font>
 
 
 <!--  <center> <a href="long-bio">long bio</a> -->
