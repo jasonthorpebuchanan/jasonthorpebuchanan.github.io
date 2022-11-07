@@ -91,7 +91,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 
 
 
-<!-- LONG BIO 1062 words updated Nov. 7 2022 -->
+<!-- LONG BIO 1128 words updated Nov. 7 2022 -->
 Jason Thorpe Buchanan is an American composer of operatic, orchestral, chamber, electroacoustic, and intermedia works which explore fragmentation, multiplicity, intelligibility, behavior, and the integration of live performance with technology. He is Artistic Director of
 <a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a> and Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the <a href="https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab" target="blank">Hochschule für Musik Carl Maria von Weber Dresden</a>, Germany in the Hybrid Music Lab. He previously served from 2018-2022 as Department Chair/Lecturer in Composition, Theory, and Electroacoustic Music at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand, 2022 Interim Managing Director of the <a href="https://newmusic.missouri.edu/Mizzou" target="blank">Mizzou New Music Initiative at the University of Missouri</a>, and 2020 Visiting Lecturer in Composition/Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/" target="blank">Butler School of Music, University of Texas at Austin</a>.   His works have been described as "an unearthly collage of sounds", "sharply-edged", and "free jazz gone wrong&#8212;in a good way."
 
@@ -162,7 +162,7 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 
 <br><br>
 <!-- new sentence -->
-Current projects include a large work on the subject of human memory for the International Contemporary Ensemble and Hong Kong New Music Ensemble, commissioned by the MATA Festival in NYC, and research in the field of telematic performance with the [Switch~ Ensemble].
+Current projects include a large work on the subject of human memory for the Hong Kong New Music Ensemble, commissioned by the MATA Festival in NYC, research in the field of telematic performance with the [Switch~ Ensemble], and development of new systems for gestural tracking/interactivity for audiovisual performance within the <a href="https://www.hfmdd.de/hochschule/institute-einrichtungen/hybrid-music-lab" target="blank">Hybrid Music Lab, HfM Dresden.</a>
 
 
   <br>
