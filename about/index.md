@@ -44,8 +44,8 @@ As a guest composer, conductor, and lecturer, he is widely sought internationall
 <!--  CV AND PORTFOLIO -->
 <center>
 <div class="row col-md-12" align="center">
-<div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_CV_Apr.11.2021_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
-<span class="bask12">(updated Apr.11.2021)</span></div>
+<div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_CV_Mar.11.2023_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
+<span class="bask12">(updated Mar.13.2023)</span></div>
 
 <div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
 <span class="bask12">(updated Sep.8.2022)</span></div>
