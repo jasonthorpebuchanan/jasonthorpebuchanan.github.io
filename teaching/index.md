@@ -10,23 +10,26 @@ background: black
 ---
 
 <h3>Teaching</h3>
-In September 2022, I join the faculty at the <a href="http://hfmdd.de">Hochschule für Musik Carl Maria von Weber Dresden</a>, Germany as Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the <a href="https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab">Hybrid Music Lab</a>.
+September 2022: joined faculty of the <a href="http://hfmdd.de">Hochschule für Musik Carl Maria von Weber Dresden</a>, Germany as Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the <a href="https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab">Hybrid Music Lab</a>.
 <br><br>
-During the Fall Semester of 2020, I was (digitally) Visiting Lecturer in Composition & Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/perform-and-study/division-ensemble/composition">Butler School of Music, University of Texas at Austin</a>.
+Fall Semester of 2020: Visiting Lecturer in Composition & Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/perform-and-study/division-ensemble/composition">Butler School of Music, University of Texas at Austin</a>.
 <br><br>
-From 2018-2022, I have served as Full-Time Lecturer in Composition, Music Theory, and Electroacoustic Music Composition at the <a href="https://www.music.mahidol.ac.th/composition-and-theory-department/" target="_blank">College of Music, Mahidol University</a> in Thailand, and from 2019-22 served as Department Chair of Composition and Theory.
+2018-2022: Full-Time Lecturer in Composition, Music Theory, and Electroacoustic Music Composition at the <a href="https://www.music.mahidol.ac.th/composition-and-theory-department/" target="_blank">College of Music, Mahidol University</a> in Thailand, and from 2019-22 Department Chair of Composition and Theory.
 <br><br>
-I am available for lessons, mentorship, guest lectures, and general consultation online on a case by case basis. Feel free to contact me at jasontbuchanan[at]gmail[dot]com.
+Available for lessons, mentorship, guest lectures, and general consultation online on a case by case basis. Feel free to contact jasontbuchanan[at]gmail[dot]com.
 <br><br>
 
 
 <h3>Guest Lectures, Workshops, Seminars, Masterclasses</h3>
+2023 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
+2022 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
 2022 - University of Missouri (online), (Columbia, MO)
+2022 - Conservatoir de Pantin, Guest Composer Masterclass (Paris, France)
 2022 - Colby College, Music Department, (Waterville, ME)
 <br>
-2021 - International Composers Institute of Thailand (online)
+2021 - International Composition Institute of Thailand (online)
 <br>
-2020 - International Composers Institute of Thailand (online)
+2020 - International Composition Institute of Thailand (online)
 <br>
 2020 - Thailand New Music and Arts Symposium (Bangkok)
 <br>
@@ -87,6 +90,9 @@ I am available for lessons, mentorship, guest lectures, and general consultation
 
 
 <h3>Courses Taught at the Hochschule für Musik Carl Maria von Weber Dresden, Germany</h3>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video 2</a>, Sommersemester 2023
+<br>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik/Laptop Ensemble 2</a>, Sommersemester 2023
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video</a>, Wintersemester 2022/23
 <br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik & Telematik</a>, Wintersemester 2022/23
@@ -155,8 +161,9 @@ Composition Lessons - <!--<a href="http://www.jasonthorpebuchanan.com/complesson
 
 <center>
 <div class="row col-md-12" align="center">
-<div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_CV_Apr.11.2021_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
-<span class="bask12">(updated Apr.11.2021)</span></div>
+<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_Mar.11.2023_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
+<span class="bask12">(updated Mar.13.2023)</span></div>
+
 
 <div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
 <span class="bask12">(updated Sep.1.2019)</span></div>
