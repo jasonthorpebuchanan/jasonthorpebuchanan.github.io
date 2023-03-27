@@ -3,7 +3,7 @@ layout: page
 categories: blog
 headerImage: jtb-lecture-1500x720-opt.jpg
 date: 2021-07-02
-manualDate: July. 2 2021
+manualDate: Mar 27 2023
 postDescription: Teaching
 tags:
 background: black
@@ -22,9 +22,13 @@ Available for lessons, mentorship, guest lectures, and general consultation onli
 
 <h3>Guest Lectures, Workshops, Seminars, Masterclasses</h3>
 2023 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
+<br>
 2022 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
+<br>
 2022 - University of Missouri (online), (Columbia, MO)
+<br>
 2022 - Conservatoir de Pantin, Guest Composer Masterclass (Paris, France)
+<br>
 2022 - Colby College, Music Department, (Waterville, ME)
 <br>
 2021 - International Composition Institute of Thailand (online)
@@ -93,10 +97,11 @@ Available for lessons, mentorship, guest lectures, and general consultation onli
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video 2</a>, Sommersemester 2023
 <br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik/Laptop Ensemble 2</a>, Sommersemester 2023
+<br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video</a>, Wintersemester 2022/23
 <br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik & Telematik</a>, Wintersemester 2022/23
-
+<br>
 <br>
 
 
