@@ -1,14 +1,14 @@
 ---
 layout: concert
 categories: performance
-describe: "Performing Electronics for Adriana Hölszky's work Tragödia at the Hochschule für Musik Dresden. Historical reproduction of electronics from 1996/97."
+describe: "Performing Electronics for Adriana Hölszky's work Tragödia at the Hochschule für Musik Dresden. Historical reproduction of electronics from 1996/97. Condutor Nicolas Kuhn."
 date: 2023-05-03
 time:
 location:
   country: Germany
   institution: HfM Dresden
   building:
-  venue: Konzertsaal
+  venue: HfM Konzertsaal
   address:
   city: Dresden
 program:

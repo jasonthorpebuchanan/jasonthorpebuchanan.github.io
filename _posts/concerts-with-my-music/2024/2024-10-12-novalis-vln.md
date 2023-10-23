@@ -16,7 +16,7 @@ program:
   - composer: Jason Thorpe Buchanan
     title: new work for violin and audiovisual processing
     year: 2024
-headerImage: headers/2023/taceti-trio_921.jpg
+headerImage: headers/2024/lauren_1200.jpg
 thumbnail: updates/2023/lauren_330.jpg
 500pxImage: updates/2023/lauren_500.jpg
 photosFolder: Novalis
