@@ -3,12 +3,12 @@ layout: concert
 categories: performance
 describe: "Continuum Contemporary Music, Toronto. <em>walkside, lost</em> for three percussionists, electronics, and live video processing. Canadian Premiere."
 date: 2023-11-17
-time:
+time: 8:00pm
 location:
   institution: Continuum Contempporary Music
   building:
-  venue: 
-  address:
+  venue: The Music Gallery
+  address: 918 Bathurst St.
   city: Toronto
   state:
   zip:
