@@ -170,8 +170,8 @@ Composition Lessons - --><!--<a href="http://www.jasonthorpebuchanan.com/comples
 <span class="bask12">(updated Mar.13.2023)</span></div>
 
 
-<div class="col-md-6"><span class="bask17"><a href="ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
-<span class="bask12">(updated Sep.1.2019)</span></div>
+<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
+<span class="bask12">(updated Sep.2022)</span></div>
 </div>
 </center>
 <br>
