@@ -152,14 +152,14 @@ CMP 226 Introduction to Computer Music Techniques II, Spring 2014
 
 
 <br>
-<h3>Active courses:</h3>
+<!-- <h3>Active courses:</h3>
 MSCY 313 Music in the Twentieth Century - <a href="http://www.jasonthorpebuchanan.com/20th.html">Syllabus, Sem. 1, 2021-22</a><br />
 MSTC 471 - Electronic Music Composition I - <a href="http://www.jasonthorpebuchanan.com/electronic.html">Syllabus, Sem. 1, 2021-22</a><br />
 MSTC 133/233 - Contemporary Music Ensemble - <a href="http://www.jasonthorpebuchanan.com/contemporary.html">Syllabus, Sem. 1, 2021-22</a>
 <br />
 Composition Studio Class - <a href="http://www.jasonthorpebuchanan.com/studioclass.html">Syllabus, Sem. 1, 2021-22</a>
 <br />
-Composition Lessons - <!--<a href="http://www.jasonthorpebuchanan.com/complessons.html">-->Syllabus, Sem. 1, 2021-22
+Composition Lessons - --><!--<a href="http://www.jasonthorpebuchanan.com/complessons.html">-->Syllabus, Sem. 1, 2021-22
 <br><br>
 <br>
 
