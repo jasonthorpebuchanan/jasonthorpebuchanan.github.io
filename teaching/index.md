@@ -31,6 +31,22 @@ Available for commissions, lessons, lectures, and general consultation online on
 </center>
 <br>
 
+<h3>Courses & Workshops Taught at the Hochschule für Musik Carl Maria von Weber Dresden, Germany</h3>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Einführung in Max (Intro to Max)</a>, Wintersemester 2023/24
+<br>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video 2</a>, Sommersemester 2023
+<br>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik/Laptop Ensemble 2</a>, Sommersemester 2023
+<br>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video</a>, Wintersemester 2022/23, WS 2023/24
+<br>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik & Telematik</a>, Wintersemester 2022/23
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Post-Production with DaVinci and Reaper</a>, May 18, 2023
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Max "Crash Course" 2: DSP and Soundfiles</a>, March 23, 2023
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Max "Crash Course" 1</a>, October 25, 2022
+
+<br><br>
+
 <h3>Guest Lectures, Workshops, Seminars, Masterclasses</h3>
 2023 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
 <br><br>
@@ -102,21 +118,6 @@ Available for commissions, lessons, lectures, and general consultation online on
 <br><br>
 2013 - University of Missouri, Mizzou International Composers Festival (USA)
 
-
-
-<h3>Courses & Workshops Taught at the Hochschule für Musik Carl Maria von Weber Dresden, Germany</h3>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Einführung in Max (Intro to Max)</a>, Wintersemester 2023/24
-<br>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video 2</a>, Sommersemester 2023
-<br>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik/Laptop Ensemble 2</a>, Sommersemester 2023
-<br>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video</a>, Wintersemester 2022/23, WS 2023/24
-<br>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik & Telematik</a>, Wintersemester 2022/23
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Post-Production with DaVinci and Reaper</a>, May 18, 2023
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Max "Crash Course" 2: DSP and Soundfiles</a>, March 23, 2023
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Max "Crash Course" 1</a>, October 25, 2022
 
 <br>
 <br>
