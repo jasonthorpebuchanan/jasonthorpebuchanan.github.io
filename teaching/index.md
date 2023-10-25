@@ -33,7 +33,7 @@ Available for commissions, lessons, lectures, and general consultation online on
 
 <h3>Guest Lectures, Workshops, Seminars, Masterclasses</h3>
 2023 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
-<br>
+<br><br>
 2022 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
 <br>
 2022 - University of Missouri (online), (Columbia, MO)
@@ -41,9 +41,9 @@ Available for commissions, lessons, lectures, and general consultation online on
 2022 - Conservatoir de Pantin, Guest Composer Masterclass (Paris, France)
 <br>
 2022 - Colby College, Music Department, (Waterville, ME)
-<br>
+<br><br>
 2021 - International Composition Institute of Thailand (online)
-<br>
+<br><br>
 2020 - International Composition Institute of Thailand (online)
 <br>
 2020 - Thailand New Music and Arts Symposium (Bangkok)
@@ -55,7 +55,7 @@ Available for commissions, lessons, lectures, and general consultation online on
 2020 - University of Miami, Frost School of Music (Florida, USA)
 <br>
 2020 - Yong Siew Toh Conservatory of Music (Singapore)
-<br>
+<br><br>
 2019 - University of Texas at Austin (USA)
 <br>
 2019 - Thailand International Composers Festival, TICF Academy
@@ -63,13 +63,13 @@ Available for commissions, lessons, lectures, and general consultation online on
 2019 - University of Northern Colorado (USA)
 <br>
 2019 - Eastman School of Music, Eastman Audio Research Studio (New York, USA)
-<br>
+<br><br>
 2018 - Hamilton College Music Department (New York, USA)
 <br>
 2018 - Embassy of Foreign Artists, Geneva (Switzerland)
 <br>
 2018 - Ithaca College Composition Seminar (New York)
-<br>
+<br><br>
 2017 - Stanford University, CCRMA Colloquium (California, USA)
 <br>
 2017 - University of Virginia (USA)
@@ -77,7 +77,7 @@ Available for commissions, lessons, lectures, and general consultation online on
 2017 - Valencia International Performance Academy & Festival (Spain)
 <br>
 2017 - University of Chicago (USA)
-<br>
+<br><br>
 2016 - San Jose State University (California, USA)
 <br>
 2016 - Vernon Salon Series (Oakland, California)
@@ -89,29 +89,35 @@ Available for commissions, lessons, lectures, and general consultation online on
 2016 - Portland State University (Oregon, USA)
 <br>
 2016 - University of Chicago (USA)
-<br>
+<br><br>
 2015 - Bergen senter for Elektronisk Kunst (BEK), Bergen (Norway)
 <br>
 2015 - University of Nevada, Las Vegas (USA)
 <br>
 2015 - Valencia International Performance Academy & Festival (Spain)
-<br>
+<br><br>
 2014 - Tzlil Meudcan International Composers Festival, Tel Aviv (Israel)
 <br>
 2014 - Chamber Music Campania, Lucera (Italy)
-<br>
+<br><br>
 2013 - University of Missouri, Mizzou International Composers Festival (USA)
 
 
 
-<h3>Courses Taught at the Hochschule für Musik Carl Maria von Weber Dresden, Germany</h3>
+<h3>Courses & Workshops Taught at the Hochschule für Musik Carl Maria von Weber Dresden, Germany</h3>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Einführung in Max (Intro to Max)</a>, Wintersemester 2023/24
+<br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video 2</a>, Sommersemester 2023
 <br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik/Laptop Ensemble 2</a>, Sommersemester 2023
 <br>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video</a>, Wintersemester 2022/23
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video</a>, Wintersemester 2022/23, WS 2023/24
 <br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik & Telematik</a>, Wintersemester 2022/23
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Post-Production with DaVinci and Reaper</a>, May 18, 2023
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Max "Crash Course" 2: DSP and Soundfiles</a>, March 23, 2023
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Max "Crash Course" 1</a>, October 25, 2022
+
 <br>
 <br>
 
