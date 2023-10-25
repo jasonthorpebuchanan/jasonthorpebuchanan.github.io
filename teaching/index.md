@@ -16,9 +16,20 @@ Fall Semester of 2020: Visiting Lecturer in Composition & Interim Director of th
 <br><br>
 2018-2022: Full-Time Lecturer in Composition, Music Theory, and Electroacoustic Music Composition at the <a href="https://www.music.mahidol.ac.th/composition-and-theory-department/" target="_blank">College of Music, Mahidol University</a> in Thailand, and from 2019-22 Department Chair of Composition and Theory.
 <br><br>
-Available for lessons, mentorship, guest lectures, and general consultation online on a case by case basis. Feel free to contact jasontbuchanan[at]gmail[dot]com.
+Available for commissions, lessons, lectures, and general consultation online on a case by case basis. Feel free to contact jasontbuchanan[at]gmail[dot]com.
 <br><br>
 
+<center>
+<div class="row col-md-12" align="center">
+<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_Oct.25.2023_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
+<span class="bask12">(updated Oct.25.2023)</span></div>
+
+
+<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
+<span class="bask12">(updated Sep.2022)</span></div>
+</div>
+</center>
+<br>
 
 <h3>Guest Lectures, Workshops, Seminars, Masterclasses</h3>
 2023 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
@@ -159,22 +170,12 @@ MSTC 133/233 - Contemporary Music Ensemble - <a href="http://www.jasonthorpebuch
 <br />
 Composition Studio Class - <a href="http://www.jasonthorpebuchanan.com/studioclass.html">Syllabus, Sem. 1, 2021-22</a>
 <br />
-Composition Lessons - --><!--<a href="http://www.jasonthorpebuchanan.com/complessons.html">-->Syllabus, Sem. 1, 2021-22
+Composition Lessons - --><!--<a href="http://www.jasonthorpebuchanan.com/complessons.html">--> <!--Syllabus, Sem. 1, 2021-22
 <br><br>
-<br>
+<br> -->
 
 
-<center>
-<div class="row col-md-12" align="center">
-<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_Oct.25.2023_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
-<span class="bask12">(updated Oct.25.2023)</span></div>
 
-
-<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
-<span class="bask12">(updated Sep.2022)</span></div>
-</div>
-</center>
-<br>
 <!-- END STUFF TAKEN FROM JTB PAGE -->
 
 
