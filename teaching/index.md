@@ -41,9 +41,12 @@ Available for commissions, lessons, lectures, and general consultation online on
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video</a>, Wintersemester 2022/23, WS 2023/24
 <br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik & Telematik</a>, Wintersemester 2022/23
+<br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Post-Production with DaVinci and Reaper</a>, May 18, 2023
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Max "Crash Course" 2: DSP and Soundfiles</a>, March 23, 2023
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Max "Crash Course" 1</a>, October 25, 2022
+<br>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Max "Crash Course" #2: DSP and Soundfiles</a>, March 23, 2023
+<br>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Max "Crash Course" #1</a>, October 25, 2022
 
 <br><br>
 
