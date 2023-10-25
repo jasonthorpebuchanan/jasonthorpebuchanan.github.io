@@ -167,7 +167,7 @@ Composition Lessons - --><!--<a href="http://www.jasonthorpebuchanan.com/comples
 <center>
 <div class="row col-md-12" align="center">
 <div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_Oct.25.2023_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
-<span class="bask12">(updated Mar.13.2023)</span></div>
+<span class="bask12">(updated Oct.25.2023)</span></div>
 
 
 <div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
