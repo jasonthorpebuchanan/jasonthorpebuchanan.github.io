@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: "Performing Electronics for Adriana Hölszky's work Tragödia at the Hochschule für Musik Dresden. Historical reproduction of electronics from 1996/97. Condutor Nicolas Kuhn."
+describe: "Performing Electronics for Adriana Hölszky's work Tragödia at the Hochschule für Musik Dresden. Historical reproduction of electronics from 1996/97. Conductor Nicolas Kuhn."
 date: 2023-05-03
 time:
 location:
