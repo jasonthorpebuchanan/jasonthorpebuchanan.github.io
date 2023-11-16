@@ -4399,9 +4399,9 @@ a[rel~="gallery"]:hover {
 }
 
 .post-date {
-    font-size: 12px;
+    font-size: 13px; /* CHANGED this is size of Date January 4 2023 ex */
     display: block;
-    opacity: .7;
+    opacity: .8;
 }
 
 .widget_recent_entries_custom ul li {
