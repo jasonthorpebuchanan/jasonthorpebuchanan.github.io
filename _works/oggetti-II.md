@@ -6,7 +6,7 @@ title: "oggetti II"
 duration: 5 minutes
 yearComposed: 2021
 commissionedOrWrittenFor: Commissioned by Thailand New Music & Arts Symposium
-size: quintet, electronics
+size: quintet
 instrumentation:
   - bass flute
   - bass clarinet

@@ -6,7 +6,7 @@ title: "Emergent Phenomena"
 duration: 31 minutes
 yearComposed: 2023
 commissionedOrWrittenFor: Commissioned by IntAct Festival
-size: trio, electronics
+size: trio
 instrumentation:
   - alto saxophone
   - trombone
