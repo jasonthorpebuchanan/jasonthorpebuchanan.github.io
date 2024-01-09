@@ -3,7 +3,7 @@ composer:
   first: Jason
   last: Thorpe Buchanan
 title: "Emergent Phenomena"
-duration: 15 minutes
+duration: 31 minutes
 yearComposed: 2023
 commissionedOrWrittenFor: Commissioned by IntAct Festival
 size: trio, electronics
