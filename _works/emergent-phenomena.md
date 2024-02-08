@@ -14,9 +14,9 @@ instrumentation:
 tags:
   - electronics
 media:
-- title: 
-  url:  
-score: 
+- title: "Emergent Phenomena (2023) - TACETi Ensemble, IntAct Festival"
+  url: https://player.vimeo.com/video/911123291?quality=2K
+score: score_emergent-phenomena.html
 headerImage: works-images/EP-Nov15.jpg
 portWrapper: works-images/port-wrapper/EP-Nov15_640x360.jpg
 photosFolder: EP
