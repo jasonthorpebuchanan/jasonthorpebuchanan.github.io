@@ -19,19 +19,24 @@ Fall Semester of 2020: Visiting Lecturer in Composition & Interim Director of th
 Available for commissions, lessons, lectures, and general consultation online on a case by case basis. Feel free to contact jasontbuchanan[at]gmail[dot]com.
 <br><br>
 
+<!--  CV AND PORTFOLIO -->
 <center>
 <div class="row col-md-12" align="center">
-<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_Oct.25.2023_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
-<span class="bask12">(updated Oct.25.2023)</span></div>
-
+<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_Feb.14.2024_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
+<span class="bask12">(updated Feb.14.2024)</span></div>
 
 <div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
-<span class="bask12">(updated Sep.2022)</span></div>
+<span class="bask12">(updated Feb.14.2024)</span></div>
 </div>
 </center>
 <br>
+<!-- END CV AND PORTFOLIO -->
 
 <h3>Courses & Workshops Taught at the Hochschule für Musik Carl Maria von Weber Dresden, Germany</h3>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Einführung in Max II (Intermediate Max)</a>Sommersemester 2024
+<br>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik/Laptop Ensemble</a>, Sommersemester 2024
+<br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Einführung in Max (Intro to Max)</a>, Wintersemester 2023/24
 <br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video 2</a>, Sommersemester 2023
@@ -51,8 +56,12 @@ Available for commissions, lessons, lectures, and general consultation online on
 <br><br>
 
 <h3>Guest Lectures, Workshops, Seminars, Masterclasses</h3>
+2024 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
+<br>
+2024 - ZKM Karlsruhe, Next_Generation X Festival / Conference, Guest Speaker (Karlsruhe, Germany)
+<br>
 2023 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
-<br><br>
+<br>
 2022 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
 <br>
 2022 - University of Missouri (online), (Columbia, MO)
