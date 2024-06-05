@@ -9,9 +9,9 @@ commissionedOrWrittenFor: "Commissioned by Tetractys New Music"
 size: trio
 instrumentation:
   - percussion
-  - feedbackInstruments
+  - feedback instruments
   - sensors
-  - audiovisual  
+  - audiovisual processing system
 tags:
   - electronics
 media:
@@ -20,7 +20,7 @@ media:
 score: score_ecology-of-disruption.html
 headerImage: works-images/EoD_LUL-1360.jpg
 portWrapper: works-images/port-wrapper/EoD_LUL_640x360.jpg
-photosFolder: EoD
+photosFolder: ecology-of-disruption
 purchase: "Perusal PDF Score: $20; Score and Parts: $120"
 contact: jasontbuchanan[at]gmail.com
 awards: "Commissioned by Tetractys New Music"

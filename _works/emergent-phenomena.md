@@ -19,7 +19,7 @@ media:
 score: score_emergent-phenomena.html
 headerImage: works-images/EP-Nov15.jpg
 portWrapper: works-images/port-wrapper/EP-Nov15_640x360.jpg
-photosFolder: EP
+photosFolder: emergent-phenomena
 purchase: "Perusal PDF Score: $20; Score and Parts: $80"
 contact: jasontbuchanan[at]gmail.com
 awards: "Commissioned by IntAct Festival"
