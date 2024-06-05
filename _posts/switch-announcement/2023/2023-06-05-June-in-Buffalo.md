@@ -22,9 +22,9 @@ program:
   - composer: Mathew Rosenblum
     title: Falling
     year: 2013
-headerImage: headers/jib-falling-jeff-means.jpg
-thumbnail: updates/jib-falling-jeff-means_330.jpg
-500pxImage: updates/jib-falling-jeff-means_500.jpg
+headerImage: headers/2023/jib-falling-jeff-means.jpg
+thumbnail: updates/2023/jib-falling-jeff-means_330.jpg
+500pxImage: updates/2023/jib-falling-jeff-means_500.jpg
 tags:
   - 2023
   - switch
