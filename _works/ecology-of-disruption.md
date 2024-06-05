@@ -5,13 +5,13 @@ composer:
 title: "Ecology of Disruption"
 duration: 15 minutes
 yearComposed: 2024
-commissionedOrWrittenFor: Commissioned by Tetracts New Music
+commissionedOrWrittenFor: Commissioned by Tetractys New Music
 size: trio
 instrumentation:
   - percussion
-  - feedback instruments
+  - feedbackInstruments
   - sensors
-  - audiovisual processing system
+  - audiovisual  
 tags:
   - electronics
 media:
