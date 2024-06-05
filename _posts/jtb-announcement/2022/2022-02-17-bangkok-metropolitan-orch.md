@@ -13,4 +13,4 @@ tags:
   - new
 ---
 
-Feb. 17-18, 2022, Bangkok: Bangkok Metropolitan Orchestra, composition workshop with new works by student composers of Mahidol University and Royal Holloway University in London. Mentor composers Dr. Jason Thorpe Buchanan, Dr. Tonia Ko, Dr. Judy Bozone, and Dr. Igor Santos.
+Feb. 17-18, 2022: Composition workshop with new works by student composers of Mahidol University and Royal Holloway University in London. Mentor composers Dr. Jason Thorpe Buchanan, Dr. Tonia Ko, Dr. Judy Bozone, and Dr. Igor Santos.

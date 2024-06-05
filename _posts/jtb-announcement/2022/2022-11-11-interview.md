@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interview with Jason Thorpe Buchanan by Sandris Murins: Music as system of interactions"
+title: "Interview by Sandris Murins: Music as system of interactions."
 date: 2022-11-11
 categories: news
 headerImage: headers/2022/sandris-buchanan-interview.jpg

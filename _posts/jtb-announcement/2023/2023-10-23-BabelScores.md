@@ -7,7 +7,7 @@ headerImage: headers/2023/BabelLogo_2015.jpg
 thumbnail: updates/2023/BabelLogo2015_330.jpg
 500pxImage: updates/2023/BabelLogo2015_500.jpg
 photosFolder: Babel
-postDescription: "Happy to have recently joined the catalog of composers with works available through BabelScores!"
+postDescription: "Joining the catalog of composers with works available through BabelScores."
 tags:
   - 2023
   - publishing

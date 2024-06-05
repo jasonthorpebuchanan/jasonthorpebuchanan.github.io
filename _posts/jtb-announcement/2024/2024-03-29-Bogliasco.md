@@ -7,11 +7,12 @@ headerImage: updates/2024/bogliasco_560.jpg
 thumbnail: updates/2024/bogliasco_560.jpg
 500pxImage: updates/2024/bogliasco_560.jpg
 photosFolder: Bogliasco
-postDescription: "I'm thrilled to have been awarded a 2024 Bogliasco Fellowship, where I will spend November-December composing as an Artist-in-Residence at their Study Center on the coast of Genoa, Italy."
+postDescription: "2024 Bogliasco Fellowship, November-December as an Artist-in-Residence at their Study Center on the coast of Genoa, Italy."
 tags:
   - 2024
   - air
   - news
+
 ---
 
 "I'm thrilled to have been awarded a 2024 Bogliasco Fellowship, where I will spend November-December as an Artist-in-Residence at their Study Center on the coast of Genoa, Italy."
