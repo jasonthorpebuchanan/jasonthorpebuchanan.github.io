@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 describe: "Group Improvisation with Sound&Fury Ensemble, led by Stefan Prins."
-date: 2024-01-06
+date: 2024-06-20
 time:
 location:
   country: Germany
