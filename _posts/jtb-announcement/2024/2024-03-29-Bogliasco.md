@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bogliasco Fellowship"
+title: "Aaron Copland Bogliasco Fellowship"
 date: 2024-05-20
 categories: news
 headerImage: updates/2024/bogliasco_560.jpg
@@ -15,7 +15,7 @@ tags:
 
 ---
 
-"I'm thrilled to have been awarded a 2024 Bogliasco Fellowship, where I will spend November-December as an Artist-in-Residence at their Study Center on the coast of Genoa, Italy."
+"I'm thrilled to have been awarded a 2024 Aaron Copland Bogliasco Fellowship in Music, where I will spend November-December as an Artist-in-Residence at their Study Center on the coast of Genoa, Italy. This Special Fellowship is generously funded by the Aaron Copland Fund for Music."
 
 via Bogliasco:
 "We are pleased to announce Bogliasco's Fall 2024 Fellowship awardees – a group of 26 artists and scholars representing 12 disciplines, 9 countries, and 4 continents. These exceptional early, mid, and late-career individuals, who range in age from 31 to 78, will be divided into 3 distinct cohorts, developing work during month-long residencies between September and December.
