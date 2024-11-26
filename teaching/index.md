@@ -183,13 +183,13 @@ CMP 226 Introduction to Computer Music Techniques II, Spring 2014
 
 <br>
 <!-- <h3>Active courses:</h3>
-MSCY 313 Music in the Twentieth Century - <a href="http://www.jasonthorpebuchanan.com/20th.html">Syllabus, Sem. 1, 2021-22</a><br />
-MSTC 471 - Electronic Music Composition I - <a href="http://www.jasonthorpebuchanan.com/electronic.html">Syllabus, Sem. 1, 2021-22</a><br />
-MSTC 133/233 - Contemporary Music Ensemble - <a href="http://www.jasonthorpebuchanan.com/contemporary.html">Syllabus, Sem. 1, 2021-22</a>
+MSCY 313 Music in the Twentieth Century - <a href="https://www.jasonthorpebuchanan.com/20th.html">Syllabus, Sem. 1, 2021-22</a><br />
+MSTC 471 - Electronic Music Composition I - <a href="https://www.jasonthorpebuchanan.com/electronic.html">Syllabus, Sem. 1, 2021-22</a><br />
+MSTC 133/233 - Contemporary Music Ensemble - <a href="https://www.jasonthorpebuchanan.com/contemporary.html">Syllabus, Sem. 1, 2021-22</a>
 <br />
-Composition Studio Class - <a href="http://www.jasonthorpebuchanan.com/studioclass.html">Syllabus, Sem. 1, 2021-22</a>
+Composition Studio Class - <a href="https://www.jasonthorpebuchanan.com/studioclass.html">Syllabus, Sem. 1, 2021-22</a>
 <br />
-Composition Lessons - --><!--<a href="http://www.jasonthorpebuchanan.com/complessons.html">--> <!--Syllabus, Sem. 1, 2021-22
+Composition Lessons - --><!--<a href="https://www.jasonthorpebuchanan.com/complessons.html">--> <!--Syllabus, Sem. 1, 2021-22
 <br><br>
 <br> -->
 
@@ -201,7 +201,7 @@ Composition Lessons - --><!--<a href="http://www.jasonthorpebuchanan.com/comples
 
   <br>
 <!--
-<a data-fancybox data-type="iframe" href="http://www.jasonthorpebuchanan.com/video---hunger.html"><img src="http://www.jasonthorpebuchanan.com/images/media/hunger-intro-video.jpg" width="294" height="159"></a>
+<a data-fancybox data-type="iframe" href="https://www.jasonthorpebuchanan.com/video---hunger.html"><img src="https://www.jasonthorpebuchanan.com/images/media/hunger-intro-video.jpg" width="294" height="159"></a>
 -->
  <br>
   <br>

@@ -2,7 +2,7 @@
 composer:
   first: Jason
   last: Thorpe Buchanan
-  url: http://www.jasonthorpebuchanan.com
+  url: https://www.jasonthorpebuchanan.com
 title: "surface, tension"
 duration: variable
 yearComposed: 2018

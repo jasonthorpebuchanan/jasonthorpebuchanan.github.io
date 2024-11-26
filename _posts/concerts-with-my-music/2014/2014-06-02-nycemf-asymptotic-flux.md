@@ -28,4 +28,4 @@ tags:
 
 Jun. 02, 2014: Asymptotic Flux: First Study in Entropy, Smoke and Mirrors by Christopher Chandler, the [Switch~ Ensemble] – Jason Thorpe Buchanan, conductor NYC Electroacoustic Music Festival – New York, NY.
 
-http://www.jasonthorpebuchanan.com/video---smoke-and-mirrors-nycemf.html?iframe=true&width=1100&height=740
+https://www.jasonthorpebuchanan.com/video---smoke-and-mirrors-nycemf.html?iframe=true&width=1100&height=740

@@ -2,7 +2,7 @@
 composer:
   first: Jason
   last: Thorpe Buchanan
-  url: http://www.jasonthorpebuchanan.com
+  url: https://www.jasonthorpebuchanan.com
 title: "Asymptotic Flux: First Study in Entropy"
 duration:
 yearComposed: 2012
@@ -44,6 +44,6 @@ The title comes from an arguably conceptual device: the low E-flat that simultan
 <br><Br>
 -->
 <!--
-	   <img src="http://www.jasonthorpebuchanan.com/img/AF1_mivos_1_300x200.jpg" align="center" valign="center" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF1_mivos_1_full.jpg" data-caption="Jul.24, 2015: European Premiere of Asymptotic Flux: First Study in Entropy at the VIPA Festival, Spain - Mivos Quartet & Madison Greenstone" />
+	   <img src="https://www.jasonthorpebuchanan.com/img/AF1_mivos_1_300x200.jpg" align="center" valign="center" data-fancybox="images" href="https://www.jasonthorpebuchanan.com/img/AF1_mivos_1_full.jpg" data-caption="Jul.24, 2015: European Premiere of Asymptotic Flux: First Study in Entropy at the VIPA Festival, Spain - Mivos Quartet & Madison Greenstone" />
 -->
 New video coming soon.

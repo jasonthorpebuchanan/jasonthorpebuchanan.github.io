@@ -10,7 +10,7 @@ tags:
   - 2015
 ---
 
-http://www.jasonthorpebuchanan.com/video---hunger.html
+https://www.jasonthorpebuchanan.com/video---hunger.html
 
 https://www.latimes.com/entertainment/arts/la-et-cm-first-take-six-operas-review-20150223-column.html
 

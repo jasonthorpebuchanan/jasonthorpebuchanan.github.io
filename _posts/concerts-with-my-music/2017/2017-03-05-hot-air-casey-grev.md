@@ -26,6 +26,6 @@ tags:
 
 Mar. 5, 2017: Hot Air Festival, San Francisco. SF Premiere of *Second Study for Alto Saxophone, Video, and Electronics: pulp* (2015), Casey Grev. (click for program notes & info)
 
-http://www.jasonthorpebuchanan.com/music.php#pulp
+https://www.jasonthorpebuchanan.com/music.php#pulp
 
 https://vimeo.com/207523271

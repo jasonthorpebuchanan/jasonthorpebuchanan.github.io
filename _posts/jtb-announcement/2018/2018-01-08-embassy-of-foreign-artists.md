@@ -13,4 +13,4 @@ tags:
 Jan.8-June 28, 2018: Embassy of Foreign Artists Geneva, Switzerland.
 Awarded six months as Artist-In-Residence.
 
-http://www.jasonthorpebuchanan.com/www.eofa.ch
+https://www.jasonthorpebuchanan.com/www.eofa.ch
