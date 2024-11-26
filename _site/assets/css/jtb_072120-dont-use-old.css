@@ -33,7 +33,7 @@ html {
 body {
     background-color: #050709;
     background-blend-mode: hard-light;
-    background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
+    background-image: url(https://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
     font-family: "Roboto", Arial, sans-serif;
     line-height: 1.85; /* was 1.75 in template */
     font-weight: 300;
@@ -52,7 +52,7 @@ img {
 
 iframe {
   background-color: #040508;
-  background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
+  background-image: url(https://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
   background-blend-mode: darken;
     border: 0;
 }
@@ -306,7 +306,7 @@ h6,
 .roboto {
     background-color: #050709;
     background-blend-mode: hard-light;
-    background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
+    background-image: url(https://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
     font-family: "Roboto", Arial, sans-serif;
     line-height: 1.85; /* was 1.75 in template */
     font-weight: 300;
@@ -3181,7 +3181,7 @@ body.off-canvas-sidebar-open .layout {
 .module,
 .module-sm {
     background-color: #000000; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
-background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
+background-image: url(https://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
     background-blend-mode:  normal;
     background-position: center;
     background-repeat: repeat-y;

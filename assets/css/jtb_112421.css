@@ -2743,7 +2743,7 @@ body.off-canvas-sidebar-open .layout {
 .module,
 .module-sm {
     background-color: #000000; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
-background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue2400-opt2.jpg);
+background-image: url(https://www.jasonthorpebuchanan.com/assets/images/backgrounds/crazystavesdarkblue2400-opt2.jpg);
     background-blend-mode:  normal;
     background-position: center;
     background-repeat: repeat-y;
@@ -2757,7 +2757,7 @@ background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgroun
 .score-vid-header {
     background-color: #000000; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
     background-position: 100%;
-    background-image: url(http://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
+    background-image: url(https://www.jasonthorpebuchanan.com/assets/images/backgrounds/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 49px;
