@@ -15,7 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: Jason Thorpe Buchanan, composer
 email: jasontbuchanan@gmail.com
-twitter: jasontbuchanan
 description: > # this means to ignore newlines until "baseurl:"
   Jason Thorpe Buchanan, composer
 baseurl: "" # the subpath of your site, e.g. /blog
