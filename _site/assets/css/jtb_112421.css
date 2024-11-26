@@ -4562,36 +4562,6 @@ a[rel~="gallery"]:hover {
 
 }
 
-/* --- [ Twitter Feed Widget ] --- */
-
-.twitter-feed-widget ul > li {
-    border: 0;
-}
-
-.twitter-feed-widget ul > li img {
-    display: none;
-}
-
-.twitter-feed-widget ul > li:last-child {
-    padding: 0;
-    margin: 0;
-}
-
-.twitter-feed-widget .timePosted {
-    font-size: 12px;
-    opacity: .7;
-    margin: 2px 0 0;
-}
-
-.twitter-feed-widget .tweet {
-    word-wrap: break-word;
-    margin: 0;
-}
-
-.twitter-feed-widget .user,
-.twitter-feed-widget .interact {
-    display: none;
-}
 
 /* --- [ Сalendar widget ] --- */
 
