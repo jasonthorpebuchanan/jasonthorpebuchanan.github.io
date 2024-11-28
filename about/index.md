@@ -92,6 +92,6 @@ Current projects include a large work on the subject of human memory titled <i>T
 -->
  <br>
   <br>
-  <center><font class="bask14">Please write with any questions, including rental/purchase information: jasontbuchanan {at} gmail.com</font>
+  <center><font class="bask14">Please write with any questions, including rental/purchase information: jasontbuchanan {at} gmail {dot} com</font>
 
 
