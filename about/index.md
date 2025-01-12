@@ -1,7 +1,7 @@
 ---
 layout: page
 categories: blog
-headerImage: JTB_HuaHin_2200x1136.jpg
+headerImage: JTB_Bogliasco_2200x1136.jpg
 date: 2024-11-28
 manualDate: Nov. 28 2024
 postDescription: About
