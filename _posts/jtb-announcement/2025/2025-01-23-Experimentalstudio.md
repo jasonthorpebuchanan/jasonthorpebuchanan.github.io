@@ -9,7 +9,7 @@ thumbnail: updates/2025/experimentalstudio_330.jpg
 photosFolder: Experimentalstudio
 postDescription: "2026 SWR Experimentalstudio Workstay, Freiburg-im-Breisgau"
 tags:
-  - 2025
+  - 2026
   - air
   - news
 
