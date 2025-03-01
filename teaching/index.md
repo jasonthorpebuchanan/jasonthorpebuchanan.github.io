@@ -22,11 +22,11 @@ Available for commissions, lessons, lectures, and general consultation online on
 <!--  CV AND PORTFOLIO -->
 <center>
 <div class="row col-md-12" align="center">
-<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_Feb.14.2024_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
-<span class="bask12">(updated Feb.14.2024)</span></div>
+<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_March.1.2025_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
+<span class="bask12">(updated Mar.1.2025)</span></div>
 
-<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a></span><br>
-<span class="bask12">(updated Feb.14.2024)</span></div>
+<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/ThorpeBuchanan_SelectPortfolio_2025_web.pdf" target="blank">[Select Portfolio]</a></span><br>
+<span class="bask12">(updated Mar.1.2025)</span></div>
 </div>
 </center>
 <br>
