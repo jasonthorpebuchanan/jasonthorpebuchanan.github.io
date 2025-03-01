@@ -13,7 +13,7 @@ background: black
 <!-- SHORT BIO 544 words updated Nov. 28 2024 -->
 Jason Thorpe Buchanan is a tri-continentally active composer, intermedia artist, and music technologist. His works explore multiplicity, causality, behavior, and the integration of live performance with technology.  
 
-He has been recognized internationally as recipient of a 2010-11 Fulbright Fellowship (Hamburg), a 2015 American-Scandinavian Foundation Grant, fellowships and commissions from EMPAC (2025), Royaumont (France, 2016 & 2017), the Mizzou International Composers Festival (2013), the International Horn Society (2014), Eklekto Percussion (Switzerland, 2015), Tetractys New Music (Austin), Tzlil Meudcan, the Earle Brown Music Foundation, two ASCAP Morton Gould Young Composer Awards (2014 & 2015), winner of Iron Composer (2014), the Howard Hanson Orchestral Prize (2014) and more, including selection as Artist-in-Residence at USF Verftet (Norway), the Embassy of Foreign Artists (Switzerland), the Brush Creek Foundation (Wyoming), nomination for the 2015 Gaudeamus Prize, and as a 2024 Aaron Copland Bogliasco Fellow (Italy). 
+He has been recognized internationally as recipient of a 2010-11 Fulbright Fellowship (Hamburg), a 2015 American-Scandinavian Foundation Grant, fellowships and commissions from EMPAC (2025), Royaumont (France, 2016 & 2017), the Mizzou International Composers Festival (2013), the International Horn Society (2014), Eklekto Percussion (Switzerland, 2015), Tetractys New Music (Austin), Tzlil Meudcan, the Earle Brown Music Foundation, two ASCAP Morton Gould Young Composer Awards (2014 & 2015), winner of Iron Composer (2014), the Howard Hanson Orchestral Prize (2014) and more, including selection as Artist-in-Residence at USF Verftet (Norway), the Embassy of Foreign Artists (Switzerland), the Brush Creek Foundation (Wyoming), a 2026 SWR Experimentalstudio Workstay, nomination for the 2015 Gaudeamus Prize, and as a 2024 Aaron Copland Bogliasco Fellow (Italy). 
 
 <!-- new para -->
 Commissions and performances have included collaborations with <a href="www.alarmwillsound.com" target="blank">Alarm Will Sound</a>, 
@@ -54,11 +54,11 @@ Current projects include a large work on the subject of human memory titled <i>T
 <!--  CV AND PORTFOLIO -->
 <center>
 <div class="row col-md-12" align="center">
-<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_Feb.14.2024_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
-<span class="bask12">(updated Feb.14.2024)</span></div>
+<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_Mar.1.2025_web" target="blank">[Curriculum vitae]</a></span><br>
+<span class="bask12">(updated Mar.1.2025)</span></div>
 
-<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/ThorpeBuchanan_SelectPortfolio_2024.pdf" target="blank">[Select Portfolio]</a></span><br>
-<span class="bask12">(updated Nov.28.2024)</span></div>
+<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/ThorpeBuchanan_SelectPortfolio_2025_web.pdf" target="blank">[Select Portfolio]</a></span><br>
+<span class="bask12">(updated Mar.1.2025)</span></div>
 </div>
 </center>
 <br>
