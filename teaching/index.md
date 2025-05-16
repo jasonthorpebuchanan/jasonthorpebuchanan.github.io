@@ -58,7 +58,6 @@ Available for commissions, lessons, lectures, and general consultation online on
 <h3>Guest Lectures, Workshops, Seminars, Masterclasses</h3>
 2026 - University of California, Santa Barbara
 <br><br>
-
 2025 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
 <br>
 2025 - mdw Wien
@@ -67,17 +66,14 @@ Available for commissions, lessons, lectures, and general consultation online on
 <br>
 2025 - Gustav Mahler Privatuniversität für Musik
 <br><br>
-
 2024 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
 <br>
 2024 - Bogliasco Foundation, Italy
 <br>
 2024 - Hochschule für Musik, Lübeck
 <br><br>
-
 2023 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
 <br><br>
-
 2022 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
 <br>
 2022 - University of Missouri (online), (Columbia, MO)
@@ -86,10 +82,8 @@ Available for commissions, lessons, lectures, and general consultation online on
 <br>
 2022 - Colby College, Music Department, (Waterville, ME)
 <br><br>
-
 2021 - International Composition Institute of Thailand (online)
 <br><br>
-
 2020 - International Composition Institute of Thailand (online)
 <br>
 2020 - Thailand New Music and Arts Symposium (Bangkok)
