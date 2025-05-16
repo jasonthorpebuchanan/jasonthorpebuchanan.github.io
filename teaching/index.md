@@ -10,7 +10,7 @@ background: black
 ---
 
 <h3>Teaching</h3>
-September 2022: joined faculty of the <a href="http://hfmdd.de">Hochschule für Musik Carl Maria von Weber Dresden</a>, Germany as Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the <a href="https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab">Hybrid Music Lab</a>.
+October 2022: joined faculty of the <a href="http://hfmdd.de">Hochschule für Musik Carl Maria von Weber Dresden</a>, Germany as Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the <a href="https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab">Hybrid Music Lab</a>.
 <br><br>
 Fall Semester of 2020: Visiting Lecturer in Composition & Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/perform-and-study/division-ensemble/composition">Butler School of Music, University of Texas at Austin</a>.
 <br><br>
@@ -56,12 +56,28 @@ Available for commissions, lessons, lectures, and general consultation online on
 <br><br>
 
 <h3>Guest Lectures, Workshops, Seminars, Masterclasses</h3>
+2026 - University of California, Santa Barbara
+<br><br>
+
+2025 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
+<br>
+2025 - mdw Wien
+<br>
+2025 - Grieg Academy Department of Music, University of Bergen (online)
+<br>
+2025 - Gustav Mahler Privatuniversität für Musik
+<br><br>
+
 2024 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
 <br>
-2024 - ZKM Karlsruhe, Next_Generation X Festival / Conference, Guest Speaker (Karlsruhe, Germany)
+2024 - Bogliasco Foundation, Italy
 <br>
+2024 - Hochschule für Musik, Lübeck
+<br><br>
+
 2023 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
-<br>
+<br><br>
+
 2022 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
 <br>
 2022 - University of Missouri (online), (Columbia, MO)
@@ -70,8 +86,10 @@ Available for commissions, lessons, lectures, and general consultation online on
 <br>
 2022 - Colby College, Music Department, (Waterville, ME)
 <br><br>
+
 2021 - International Composition Institute of Thailand (online)
 <br><br>
+
 2020 - International Composition Institute of Thailand (online)
 <br>
 2020 - Thailand New Music and Arts Symposium (Bangkok)
