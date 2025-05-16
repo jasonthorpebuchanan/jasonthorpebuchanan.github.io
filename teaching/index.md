@@ -60,11 +60,7 @@ Available for commissions, lessons, lectures, and general consultation online on
 <br><br>
 2025 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
 <br>
-2025 - mdw Wien
-<br>
 2025 - Grieg Academy Department of Music, University of Bergen (online)
-<br>
-2025 - Gustav Mahler Privatuniversität für Musik
 <br><br>
 2024 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
 <br>
