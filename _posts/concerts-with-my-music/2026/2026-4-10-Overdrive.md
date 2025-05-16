@@ -17,7 +17,7 @@ program:
     title: GRIDS
     year: 2026
 headerImage: updates/2026/overdrive_1600.jpg
-thumbnail: updates/2026/overdrive_330.jpg
+thumbnail: updates/2026/overdrive_330_2.jpg
 500pxImage: updates/2026/overdrive_500.jpg
 photosFolder: Overdrive
 tags:
