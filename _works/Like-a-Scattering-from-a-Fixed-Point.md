@@ -16,10 +16,10 @@ tags:
 media:
 - title: 
   url: 
-score: score_LaSfaFP.html
+score: 
 headerImage: works-images/LaSfaFP_640x360.jpg
 portWrapper: works-images/port-wrapper/LaSFaFP_640x360.jpg
-photosFolder: LaSFaFP
+photosFolder: 
 purchase: "Perusal PDF Score: $20; Score and Parts: $160"
 contact: jasontbuchanan[at]gmail.com
 awards: "Commissioned by the IntAct Festival"
