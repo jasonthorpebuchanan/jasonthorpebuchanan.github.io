@@ -12,8 +12,10 @@ instrumentation:
   - feedback instruments
   - sensors
   - audiovisual processing system
+  - video
 tags:
   - electronics
+  - video
 media:
 - title: 
   url: 
