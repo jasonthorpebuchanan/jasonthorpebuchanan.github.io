@@ -4,7 +4,7 @@ composer:
   last: Thorpe Buchanan
   url: https://www.jasonthorpebuchanan.com
 title: "Asymptotic Flux: First Study in Entropy"
-duration:
+duration: 7 minutes
 yearComposed: 2012
 commissionedOrWrittenFor: Co-commissioned by the Switch~ Ensemble and OSSIA
 size: quartet

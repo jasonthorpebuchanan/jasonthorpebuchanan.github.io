@@ -6,7 +6,7 @@ title: "Reflexive Iterations 1.a"
 duration: 22 minutes
 yearComposed: 2020
 commissionedOrWrittenFor: Commissioned by Thailand New Music & Arts Symposium
-size: quintet, electronic musician,
+size: quintet, extended no-input mixer,
 instrumentation:
   - tenor saxophone
   - bass clarinet

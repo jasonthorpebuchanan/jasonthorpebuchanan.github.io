@@ -3,10 +3,10 @@ composer:
   first: Jason
   last: Thorpe Buchanan
 title: "Ecology of Disruption"
-duration: 15 minutes
+duration: 16 minutes
 yearComposed: 2024
 commissionedOrWrittenFor: "Commissioned by Tetractys New Music"
-size: trio
+size: trio, video
 instrumentation:
   - percussion
   - feedback instruments

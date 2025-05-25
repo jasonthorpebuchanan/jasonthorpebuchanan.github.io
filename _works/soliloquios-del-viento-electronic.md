@@ -3,7 +3,7 @@ composer:
   first: Jason
   last: Thorpe Buchanan
 title: "soliloquios del viento"
-duration: 14 minutes
+duration: 15 minutes
 yearComposed: 2017
 commissionedOrWrittenFor: Commissioned by Royaumont, sextet version for Ensemble Interface
 size: sextet or septet

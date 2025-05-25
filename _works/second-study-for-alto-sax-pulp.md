@@ -6,7 +6,7 @@ title: "Second Study for Alto Saxophone, Video, and Electronics: pulp"
 duration: 14 minutes
 yearComposed: 2015
 commissionedOrWrittenFor: Commissioned by Matt Evans, Casey Grev, Emily Loboda, Marta Tiesenga, & Sean Fredenburg
-size: solo
+size: solo, video
 instrumentation:
   - alto saxophone
   - video

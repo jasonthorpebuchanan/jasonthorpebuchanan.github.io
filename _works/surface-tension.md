@@ -7,7 +7,7 @@ title: "surface, tension"
 duration: variable
 yearComposed: 2018
 commissionedOrWrittenFor: Commissioned by the Embassy of Foreign Artists
-size: two performers
+size: two performers, video
 instrumentation:
   - two performers
   - sensors

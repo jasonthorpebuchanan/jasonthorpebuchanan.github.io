@@ -3,7 +3,7 @@ composer:
   first: Jason
   last: Thorpe Buchanan
 title: "...durat(A)ions: 'broken landscape'"
-duration: 12 minutes
+duration: 13 minutes
 yearComposed: 2013
 commissionedOrWrittenFor: Commissioned by Iktus Percussion
 size: percussion quartet

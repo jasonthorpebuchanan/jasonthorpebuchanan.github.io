@@ -3,7 +3,7 @@ composer:
   first: Jason
   last: Thorpe Buchanan
 title: "oggetti II"
-duration: 5 minutes
+duration: 6 minutes
 yearComposed: 2021
 commissionedOrWrittenFor: Commissioned by Thailand New Music & Arts Symposium
 size: quintet

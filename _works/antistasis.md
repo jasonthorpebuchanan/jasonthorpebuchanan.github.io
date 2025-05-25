@@ -3,7 +3,7 @@ composer:
   first: Jason
   last: Thorpe Buchanan
 title: "antistasis"
-duration: variable
+duration: 7 minutes
 yearComposed: 2014
 commissionedOrWrittenFor: Commissioned by Tzlil Meudcan International Contemporary Music Festival for Ensemble Nikel
 size: trio

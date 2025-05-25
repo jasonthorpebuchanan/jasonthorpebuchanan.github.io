@@ -3,7 +3,7 @@ composer:
   first: Jason
   last: Thorpe Buchanan
 title: "Double Concerto for Two Horns and Chamber Orchestra"
-duration: 8 minutes
+duration: 11 minutes
 yearComposed: 2014
 commissionedOrWrittenFor: Commissioned by the International Horn Society for the Eastman Music Nova Ensemble, Jeff Nelsen, Mike Walker, and Brad Lubman
 size: "chamber orchestra"

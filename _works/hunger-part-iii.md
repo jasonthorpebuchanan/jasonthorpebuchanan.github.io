@@ -3,10 +3,10 @@ composer:
   first: Jason
   last: Thorpe Buchanan
 title: "HUNGER (Part III)"
-duration:
+duration: 25 minutes
 yearComposed: 2015
 commissionedOrWrittenFor: Commissioned by Darmstadt Contemporary Opera Workshop & The Industry, L.A.
-size: octet, three singers,
+size: octet, three singers, video
 instrumentation:
   - 2 sopranos
   - baritone

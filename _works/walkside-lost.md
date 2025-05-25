@@ -6,7 +6,7 @@ title: "walkside, lost"
 duration: 15 minutes
 yearComposed: 2015
 commissionedOrWrittenFor: Commissioned by Gaudeamus Muziekweek
-size: trio
+size: trio, video
 instrumentation:
   - 3 percussionists
   - electronics

@@ -3,7 +3,7 @@ composer:
   first: Jason
   last: Thorpe Buchanan
 title: "First Study for Alto Saxophone: doublethink"
-duration:
+duration: 13 minutes
 yearComposed: 2012
 commissionedOrWrittenFor: Commissioned by Michael Rene Torres for the 2012 North American Saxophone Alliance Conference
 size: solo
