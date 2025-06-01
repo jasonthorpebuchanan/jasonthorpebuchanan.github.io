@@ -6,7 +6,7 @@ title: "Like a Scattering from a Fixed Point"
 duration: 18 minutes
 yearComposed: 2025
 commissionedOrWrittenFor: "Commissioned by the IntAct Festival"
-size: solo cello, chamber ensemble, 
+size: solo cello, ensemble, 
 instrumentation:
   - 10 musicians
   - sensors
