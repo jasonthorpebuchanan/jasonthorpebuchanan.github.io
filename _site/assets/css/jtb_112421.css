@@ -3825,8 +3825,9 @@ h4.single-portfolio-title {
     font-size: 16px;
     text-align: left;
       float: left;
-    weight: 200px;
+    weight: 100px;
     vertical-align: bottom;
+    padding-top: 10px;
 
 }
 
