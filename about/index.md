@@ -76,6 +76,14 @@ Current projects include a large work on the subject of human memory titled <i>T
 <!-- END CV AND PORTFOLIO -->
 
 
+<center>
+<span class="bask12">Current Headshots</span></div>
+<div class="row col-sm-12" width="80%" height="20vh">
+			{% include photos-portfolio-masonry.html folderName='headshots' %}
+			</div>
+
+
+
 <!-- MANUSCRIPTS -->
 
 <center>
@@ -86,7 +94,7 @@ Current projects include a large work on the subject of human memory titled <i>T
 {% include manuscripts.html %}
 
 <br>
-
+<br>
   {% include photos-portfolio-masonry.html folderName='manuscript' %}
 
 <br>

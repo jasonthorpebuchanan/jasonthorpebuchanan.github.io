@@ -76,6 +76,12 @@ Zu den aktuellen Projekten gehören ein großes Werk zum Thema menschliches Ged�
 <br>
 <!-- END CV AND PORTFOLIO -->
 
+<center>
+<span class="bask12">Aktuelle Bild</span></div>
+<div class="row col-sm-12" width="80%" height="20vh">
+			{% include photos-portfolio-masonry.html folderName='headshots' %}
+			</div>
+
 
 <!-- MANUSCRIPTS -->
 
@@ -86,6 +92,7 @@ Zu den aktuellen Projekten gehören ein großes Werk zum Thema menschliches Ged�
 
 {% include manuscripts.html %}
 
+<br>
 <br>
 
   {% include photos-portfolio-masonry.html folderName='manuscript' %}
