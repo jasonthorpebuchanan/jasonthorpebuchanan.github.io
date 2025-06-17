@@ -2,7 +2,7 @@
 layout: page
 categories: blog
 headerImage: JTB_Bogliasco_2200x1136.jpg
-date: 2024-11-28
+date: 2025-06-17
 manualDate: Nov. 28 2024
 postDescription: About
 tags:
@@ -10,14 +10,12 @@ background: black
 ---
 
 <!-- Portfolio-->
-<center><div class="row row-portfolio">
-	<div class="col-sm-6">
+<div class="row col-md-12 row-portfolio" align="center">
     <ul class="filters h5">
       <li><a href="./index.html" class="{%- unless page.url contains 'list' -%}current{%- endunless -%}">English</a></li>
       <li><a href="./deutsch-index.html" class="{%- if page.url contains 'deutsch' -%}current{%- endif -%}">Deutsch</a></li>
     </ul>
   </div>
-</div></center>
 
 <img class="float-sm-left col-sm-5 col-lg-4 p4-0 pb-0" src="{{ site.images }}/jtb-photos/jtb-royaumont-420x600-web.jpg">
 
