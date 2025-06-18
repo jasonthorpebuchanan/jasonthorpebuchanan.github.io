@@ -16,9 +16,7 @@ background: black
       <li><a href="./deutsch-index.html" class="{%- if page.url contains 'deutsch' -%}current{%- endif -%}">Deutsch</a></li>
     </ul>
   </div>
-
 <img class="float-sm-left col-sm-5 col-lg-4 p4-0 pb-0" src="{{ site.images }}/jtb-photos/jtb-royaumont-420x600-web.jpg">
-
 <!-- SHORT BIO 544 words updated Nov. 28 2024 -->
 Jason Thorpe Buchanan is a tri-continentally active composer, intermedia artist, and music technologist. His works explore multiplicity, causality, behavior, and the integration of live performance with technology.  
 
