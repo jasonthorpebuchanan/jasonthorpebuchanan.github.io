@@ -83,7 +83,7 @@ Zu den aktuellen Projekten gehören ein großes Werk zum Thema menschliches Ged�
 
 <div class="row col-md-12" align="center">
 <br>
-<span class="bask12">Headshots</span>
+<span class="bask13" align="center">Headshots</span>
 {% include headshots.html %}
 
 <br>

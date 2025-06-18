@@ -81,7 +81,7 @@ Current projects include a large work on the subject of human memory titled <i>T
 <center>
 <div class="row col-md-12" align="center">
 <br>
-<span class="bask12">Headshots</span>
+<span class="bask13" align="center">Headshots</span>
 {% include headshots.html %}
 
 <br>
