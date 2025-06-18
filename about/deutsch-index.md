@@ -87,7 +87,7 @@ Zu den aktuellen Projekten gehören ein großes Werk zum Thema menschliches Ged�
 
 <br>
 <span class="bask12">Headshots</span>
-  {% include photos-portfolio-masonry.html folderName='manuscript' %}
+{% include headshots.html %}
 
 <br>
 <br>

@@ -86,7 +86,7 @@ Current projects include a large work on the subject of human memory titled <i>T
 
 <br>
 <span class="bask12">Headshots</span>
-  {% include photos-portfolio-masonry.html folderName='manuscript' %}
+{% include headshots.html %}
 
 <br>
 <br>
