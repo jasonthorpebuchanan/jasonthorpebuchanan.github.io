@@ -2,8 +2,8 @@
 layout: page
 categories: blog
 headerImage: JTB_Bogliasco_2200x1136.jpg
-date: 2025-06-17
-manualDate: Nov. 28 2024
+date: 2025-09-18
+manualDate: Sep. 18 2025
 postDescription: About
 tags:
 background: black
@@ -41,7 +41,7 @@ die NY Virtuoso Singers, das <a href="http://www.esm.rochester.edu/ensembles/mus
 Szenen aus seiner Multimedia-Oper <a href="http://www.hungeropera.com" target="blank"><em>Hunger</em></a> wurden in Darmstadt, bei <a href="http://theindustryla.org" target="blank">The Industry</a>'s FIRST TAKE in L.A., und bei <a href="http://matafestival.org/mata-interval/" target="blank">MATA</a> (NYC) mit <a href="http://www.switchensemble.com" target="blank">dem [Switch~ Ensemble]</a> aufgeführt.
 
 <!-- new para -->
-Jason ist Künstlerischer Mitarbeiter und Dozent für Neue Medien und digitale Technologien für Musik an der <a href="https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab" target="blank">Hochschule für Musik „Carl Maria von Weber“ Dresden</a> im Rahmen des Hybrid Music Lab, sowie künstlerischer Leiter des <a href="http://www.switchensemble.com" target="blank">[Switch~ Ensemble]</a> und Faculty Artist des <a href="http://www.tmaomusic.com/" target="blank">International Composition Institute of Thailand, IntAct Festival</a> (seit 2019). Zuvor war er 2022 Interims-Geschäftsführer der <a href="https://newmusic.missouri.edu/Mizzou" target="blank">New Music Initiative an der University of Missouri</a>, 2020 Visiting Lecturer für Komposition und Interims-Direktor der Electronic Music Studios an der <a href="https://music.utexas.edu/" target="blank">Butler School of Music, University of Texas at Austin</a>, 2018-2022 Lehrstuhlinhaber/Dozent für Komposition, Theorie und elektroakustische Musik am College of Music der Mahidol University (Thailand), 2015-2017 Executive Director des VIPA Festivals (Spanien), Kurator für das San Francisco Center for New Music und Gründungsdirektor der TICF International Academy for Young Composers.
+Jason ist künstlerischer Leiter des <a href="http://www.switchensemble.com" target="blank">[Switch~ Ensemble], Künstlerischer Mitarbeiter und Dozent für Neue Medien und digitale Technologien für Musik an der <a href="https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab" target="blank">Hochschule für Musik „Carl Maria von Weber“ Dresden</a> im Rahmen des Hybrid Music Lab,</a> und Faculty Artist des <a href="http://www.tmaomusic.com/" target="blank">International Composition Institute of Thailand, IntAct Festival</a> (seit 2019). Zuvor war er 2022 Interims-Geschäftsführer der <a href="https://newmusic.missouri.edu/Mizzou" target="blank">New Music Initiative an der University of Missouri</a>, 2020 Visiting Lecturer für Komposition und Interims-Direktor der Electronic Music Studios an der <a href="https://music.utexas.edu/" target="blank">Butler School of Music, University of Texas at Austin</a>, 2018-2022 Lehrstuhlinhaber/Dozent für Komposition, Theorie und elektroakustische Musik am College of Music der Mahidol University (Thailand), 2015-2017 Executive Director des VIPA Festivals (Spanien), Kurator für das San Francisco Center for New Music und Gründungsdirektor der TICF International Academy for Young Composers.
 
 <!-- new para -->
 Zu seinen Mentoren gehörten <a href="http://ricardozohnmuldoon.com/" target="blank">
