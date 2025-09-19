@@ -2,14 +2,16 @@
 layout: page
 categories: blog
 headerImage: jtb-lecture-1500x720-opt.jpg
-date: 2021-07-02
-manualDate: Mar 27 2023
+date: 2025-19-09
+manualDate: Sep 19 2025
 postDescription: Teaching
 tags:
 background: black
 ---
 
 <h3>Teaching</h3>
+October 2025: Appointed Professor für Komposition mit digitalen Medien at the <a href="https://hfm-wuerzburg.de/">Hochschule für Musik Würzburg</a>, Germany, where I will lead the graduate program in Komposition für Neuen Medien and direct the newly created Würzburg Zentrum für Intermediale Komposition (WüZIK, formerly <a href="https://hfm-wuerzburg.de/eem-studio">“eem” Studio für experimentelle elektronische Musik</a>, founded in 1976)</a>.
+<br><br>
 October 2022: joined faculty of the <a href="http://hfmdd.de">Hochschule für Musik Carl Maria von Weber Dresden</a>, Germany as Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the <a href="https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab">Hybrid Music Lab</a>.
 <br><br>
 Fall Semester of 2020: Visiting Lecturer in Composition & Interim Director of the Electronic Music Studios (UTEMS) at the <a href="https://music.utexas.edu/perform-and-study/division-ensemble/composition">Butler School of Music, University of Texas at Austin</a>.
@@ -22,8 +24,8 @@ Available for commissions, lessons, lectures, and general consultation online on
 <!--  CV AND PORTFOLIO -->
 <center>
 <div class="row col-md-12" align="center">
-<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_March.1.2025_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
-<span class="bask12">(updated Mar.1.2025)</span></div>
+<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_September_2025_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
+<span class="bask12">(updated Sep.18.2025)</span></div>
 
 <div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/ThorpeBuchanan_SelectPortfolio_2025_web.pdf" target="blank">[Select Portfolio]</a></span><br>
 <span class="bask12">(updated Mar.1.2025)</span></div>
@@ -32,20 +34,27 @@ Available for commissions, lessons, lectures, and general consultation online on
 <br>
 <!-- END CV AND PORTFOLIO -->
 
+<h3>Courses & Workshops Taught at the Hochschule für Musik Würzburg, Germany</h3>
+<br>
+Einzelunterrichten, Komposition mit neuen Medien, 8 Studenten, Wintersemester 2025/26  
+<br>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Anyalyse Seminar: Composition mit neuen Medien</a>, Wintersemester 2025/26  
+<br><br>
+
 <h3>Courses & Workshops Taught at the Hochschule für Musik Carl Maria von Weber Dresden, Germany</h3>
+<br>Einzelunterrichten, Komposition (vertreteung Prof. Stefan Prins), Wintersemester 2025/26
+<br>
+<br><a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Theorie der Elektronische Musik 2</a> (vertreteung Prof. Stefan Prins), Wintersemester 2025/26
+<br>
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Einführung in Max (Intro to Max)</a>, Wintersemester 2023/24, Wintersemester 2024/25, Wintersemester 2025/26  
+<br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Einführung in Max II (Intermediate Max)</a>Sommersemester 2024
 <br>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik/Laptop Ensemble</a>, Sommersemester 2024
-<br>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Einführung in Max (Intro to Max)</a>, Wintersemester 2023/24
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video</a>, Wintersemester 2022/23, WS 2023/24, SS 2025
 <br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video 2</a>, Sommersemester 2023
 <br>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik/Laptop Ensemble 2</a>, Sommersemester 2023
-<br>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video</a>, Wintersemester 2022/23, WS 2023/24
-<br>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik & Telematik</a>, Wintersemester 2022/23
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik & Telematik/Laptop Ensemble</a>, Wintersemester 2022/23, SS '23, SS '24, WS 2024/25
 <br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Post-Production with DaVinci and Reaper</a>, May 18, 2023
 <br>
@@ -56,6 +65,8 @@ Available for commissions, lessons, lectures, and general consultation online on
 <br><br>
 
 <h3>Guest Lectures, Workshops, Seminars, Masterclasses</h3>
+2026 - Cal Poly
+<br>
 2026 - University of California, Santa Barbara
 <br><br>
 2025 - International Composition Institute of Thailand, Faculty Artist (Bangkok, Thailand)
