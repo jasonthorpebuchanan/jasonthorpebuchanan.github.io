@@ -1369,7 +1369,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     top: 0;
     right: 0;
     bottom: 0;
-    min-height: 3vh; /* - - CHECK ME - I AM CHANGED from June 22 from 80vh  - - - - - - - - - - - - - - ! ! ! ! */
+    min-height: 30vh; /* - - CHECK ME - I AM CHANGED from June 22 from 80vh  - - - - - - - - - - - - - - ! ! ! ! */
     z-index: -1;
 }
 
@@ -2848,6 +2848,7 @@ background-image: url(https://www.jasonthorpebuchanan.com/assets/images/backgrou
 .module-header.module-divider-top {
     border-top: 1px solid #dddddd;
     background-size: cover;  /* - - CHANGED  this is for the concert listing crazystaves background */
+    min-height: 40vh;
   /* - -  min-height: 5vh;  CHANGED  - removed param June 22 */
 }
 
@@ -2866,7 +2867,7 @@ background-image: url(https://www.jasonthorpebuchanan.com/assets/images/backgrou
 .flexslider,
 .module-slides,
 .full-height {
-    min-height: 3vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 60  - - - - - - - - - - - - - - ! ! ! ! */
+    min-height: 40vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 60  - - - - - - - - - - - - - - ! ! ! ! */
     height: 70vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 80  - - - - I think this is the height of the navigation bar- - - - - - - - - - ! ! ! ! */
     padding: 0;
 }
@@ -2885,7 +2886,7 @@ background-image: url(https://www.jasonthorpebuchanan.com/assets/images/backgrou
     position: relative;
     display: table-cell;
     vertical-align: middle;
-    min-height: 3vh;
+    min-height: 40vh;
 }
 
 .flexslider .container,
@@ -3077,7 +3078,7 @@ z-index: auto;
 
     .module-header {
         height: 100%; /* from 30vh to 100% huahin - -  CHANGED  height of cover image area parallax banner  - - - - - - - - - - - ! ! ! ! */
-        min-height: 26vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
+        min-height; 40vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
         padding: 18vh 1px; /* first number is size of image in smaller mode - huahin - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
 
