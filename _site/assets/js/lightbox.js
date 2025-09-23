@@ -46,9 +46,9 @@
     fadeDuration: 600,
     fitImagesInViewport: true,
     imageFadeDuration: 600,
-    // maxWidth: 800,
-    // maxHeight: 600,
-    positionFromTop: 50,
+    maxWidth: 95%, // added 95% Sep24, was null (commented out)
+    maxHeight: 95%, // added 95% Sep24, was null (commented out)
+    positionFromTop: 40,
     resizeDuration: 700,
     showImageNumberLabel: true,
     wrapAround: false,
@@ -310,8 +310,8 @@
 
       // Calculate the max image dimensions for the current viewport.
       // Take into account the border around the image and an additional 10px gutter on each side.
-      maxImageWidth  = windowWidth - self.containerPadding.left - self.containerPadding.right - self.imageBorderWidth.left - self.imageBorderWidth.right - 20;
-      maxImageHeight = windowHeight - self.containerPadding.top - self.containerPadding.bottom - self.imageBorderWidth.top - self.imageBorderWidth.bottom - self.options.positionFromTop - 70;
+      maxImageWidth  = windowWidth - self.containerPadding.left - self.containerPadding.right - self.imageBorderWidth.left - self.imageBorderWidth.right - 10;
+      maxImageHeight = windowHeight - self.containerPadding.top - self.containerPadding.bottom - self.imageBorderWidth.top - self.imageBorderWidth.bottom - self.options.positionFromTop - 60;
 
       /*
       SVGs that don't have width and height attributes specified are reporting width and height
