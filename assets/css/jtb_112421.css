@@ -2823,13 +2823,15 @@ background-image: url(https://www.jasonthorpebuchanan.com/assets/images/backgrou
 
 .parallax {
     background-color: transparent !important;
-background-position: top;
+  background-size: cover !important;
+  background-position: center center !important;
+  margin-left: 0 !important;
 overflow-y: hidden;
 z-index: auto;
-/* - - Sep23 tried min-height: 20vh; reverted to null  - - - - - - - - - - - - - - ! ! ! ! */
-/* - - Sep23 tried height: auto; reverted to null  - - - - - - - - - - - - - - ! ! ! ! */
   -webkit-overflow-scrolling: touch;
      overflow: hidden !important;
+     /* - - Sep23 tried min-height: 20vh; reverted to null  - - - - - - - - - - - - - - ! ! ! ! */
+/* - - Sep23 tried height: auto; reverted to null  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .banner {
