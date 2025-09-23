@@ -2845,6 +2845,9 @@ z-index: auto;
 .parallax-container {
   // ...
   -webkit-overflow-scrolling: touch;
+    background-size: cover !important;
+  background-position: center center !important;
+  margin-left: 0 !important;
 }
 
 .header + .wrapper .module:first-child {
