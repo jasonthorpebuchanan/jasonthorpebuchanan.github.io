@@ -10,7 +10,7 @@ background: black
 ---
 
 <h3>Teaching</h3>
-October 2025: Appointed Professor für Komposition mit digitalen Medien at the <a href="https://hfm-wuerzburg.de/">Hochschule für Musik Würzburg</a>, Germany, where I will lead the graduate program in Komposition für Neuen Medien and direct the newly created Würzburg Zentrum für Intermediale Komposition (WüZIK, formerly <a href="https://hfm-wuerzburg.de/eem-studio">“eem” Studio für experimentelle elektronische Musik</a>, founded in 1976)</a>.
+October 2025: Appointed Professor für Komposition mit digitalen Medien at the <a href="https://hfm-wuerzburg.de/">Hochschule für Musik Würzburg</a>, Germany, as director of the graduate program in Komposition für Neuen Medien and the newly created Würzburg Zentrum für Intermediale Komposition (WüZIK, formerly <a href="https://hfm-wuerzburg.de/eem-studio">“eem” Studio für experimentelle elektronische Musik</a>, founded in 1976).
 <br><br>
 October 2022: joined faculty of the <a href="http://hfmdd.de">Hochschule für Musik Carl Maria von Weber Dresden</a>, Germany as Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the <a href="https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab">Hybrid Music Lab</a>.
 <br><br>
@@ -35,20 +35,18 @@ Available for commissions, lessons, lectures, and general consultation online on
 <!-- END CV AND PORTFOLIO -->
 
 <h3>Courses & Workshops Taught at the Hochschule für Musik Würzburg, Germany</h3>
-<br>
 Einzelunterrichten, Komposition mit neuen Medien, 8 Studenten, Wintersemester 2025/26  
-<br>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Anyalyse Seminar: Composition mit neuen Medien</a>, Wintersemester 2025/26  
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Analysis Seminar: Composition mit neuen Medien</a>, Wintersemester 2025/26  
 <br><br>
 
 <h3>Courses & Workshops Taught at the Hochschule für Musik Carl Maria von Weber Dresden, Germany</h3>
-<br>Einzelunterrichten, Komposition (vertreteung Prof. Stefan Prins), Wintersemester 2025/26
+Einzelunterrichten, Komposition (vertreteung Prof. Stefan Prins), Wintersemester 2025/26
 <br>
-<br><a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Theorie der Elektronische Musik 2</a> (vertreteung Prof. Stefan Prins), Wintersemester 2025/26
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Theorie der Elektronische Musik 2</a> (vertreteung Prof. Stefan Prins), Wintersemester 2025/26
 <br>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Einführung in Max (Intro to Max)</a>, Wintersemester 2023/24, Wintersemester 2024/25, Wintersemester 2025/26  
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Einführung in Max (Intro to Max)</a>, Wintersemester 2023/24, Wintersemester 2024/25, Wintersemester 2025/26
 <br>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Einführung in Max II (Intermediate Max)</a>Sommersemester 2024
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Einführung in Max II (Intermediate Max)</a> Sommersemester 2024
 <br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Live-Musik und Video</a>, Wintersemester 2022/23, WS 2023/24, SS 2025
 <br>
@@ -56,7 +54,7 @@ Einzelunterrichten, Komposition mit neuen Medien, 8 Studenten, Wintersemester 20
 <br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Musik und Digitalität: Netzwerk Musik & Telematik/Laptop Ensemble</a>, Wintersemester 2022/23, SS '23, SS '24, WS 2024/25
 <br>
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Post-Production with DaVinci and Reaper</a>, May 18, 2023
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Audio & Video Post-Production with DaVinci and Reaper</a>, May 18, 2023, March 27 2024, Oct 13 2025, November 3 2025
 <br>
 <a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Workshop, Musik und Digitalität: Max "Crash Course" #2: DSP and Soundfiles</a>, March 23, 2023
 <br>
