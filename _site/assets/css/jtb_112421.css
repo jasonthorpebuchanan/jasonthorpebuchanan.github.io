@@ -2815,7 +2815,7 @@ body.off-canvas-sidebar-open .layout {
     background-repeat: no-repeat;
     background-size: contain;
         background-color: transparent !important;
-    width: 20%;
+    width: 100%;
         min-height: 20vh;
     height: auto;
     position: relative; /* huahin -- if absolute this disappears, keep as relative - - CHANGED  - */
@@ -3084,7 +3084,7 @@ z-index: auto;
 
     .module-header {
         height: 100%; /* from 30vh to 100% huahin - -  CHANGED  height of cover image area parallax banner  - - - - - - - - - - - ! ! ! ! */
-        min-height; 20vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
+        min-height; 10vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
         padding: 18vh 1px; /* first number is size of image in smaller mode - huahin - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
 
