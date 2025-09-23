@@ -4,8 +4,8 @@ title: "Appointment as Professor für Komposition mit digitalen Medien, Hochschu
 date: 2025-09-23
 sortYear: 2025
 categories: news
-headerImage: updates/2025/Professor-für-Komposition_HfM-Würzburg.png
-thumbnail: updates/2025/Professor-für-Komposition_HfM-Würzburg_550.jpg
+headerImage: updates/2025/Professor-für-Komposition_HfM-Wuerzburg.png
+thumbnail: updates/2025/Professor-für-Komposition_HfM-Wuerzburg_550.jpg
 photosFolder:
 tags:
   - 2025
