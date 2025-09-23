@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Appointment as Professor für Komposition mit digitalen Medien, Hochschule für Musik Würzburg, Germany"
+title: "Appointment as W3 Professor für Komposition mit digitalen Medien, Hochschule für Musik Würzburg, Germany"
 date: 2025-09-23
 sortYear: 2025
 categories: news
