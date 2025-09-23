@@ -2824,6 +2824,7 @@ background-image: url(https://www.jasonthorpebuchanan.com/assets/images/backgrou
     background-color: transparent !important;
 background-position: top;
 overflow-y: hidden;
+height="100%"; /* - -  - - - - -Sep232025-added-height-100% - - - - - - ! ! ! ! */
 z-index: auto;
   -webkit-overflow-scrolling: touch;
      overflow: hidden !important;
@@ -3001,7 +3002,7 @@ z-index: auto;
 
     .module-header {
         height: 100%; /* from 30vh to 100% huahin - -  CHANGED  height of cover image area parallax banner  - - - - - - - - - - - ! ! ! ! */
-        min-height: 8vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */
+        min-height: 16vh; /* - -  CHANGED  height of cover image area, June 22 from 30vh - - - */ /* - -  - - - - -Sep232025-changed from 8 to 16vh - - - - - - ! ! ! ! */
         padding: 6vh 1px; /* first number is size of image in smaller mode - huahin - -  CHANGED padding above text Jason Thorpe Buchanan- - - - - - - - - - ! ! ! ! */
     }
 
