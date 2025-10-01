@@ -13,7 +13,7 @@ tags:
 
 ---
 
-In October, as I approach 3 years living in Germany and teaching at the Hybrid Music Lab in Dresden, I will begin a new role as Professor für Komposition mit digitalen Medien at the Hochschule für Musik Würzburg in Bavaria. I will be leading our new Masters program in Komposition mit Neuen Medien, as well as the HfM Würzburg's Studio for experimentelle elektronische Musik ("eem"), founded in the 1970s and newly rebuilt with support from the "Hightech Agenda Bayern".
+In October, as I approach 3 years living in Germany and teaching at the Hybrid Music Lab in Dresden, I will begin a new role as Professor für Komposition mit digitalen Medien at the Hochschule für Musik Würzburg in Bavaria. I'll be leading our new Masters program in Komposition mit Neuen Medien, as well as the HfM Würzburg's Studio for experimentelle elektronische Musik ("eem"), founded in the 1970s and newly rebuilt with support from the "Hightech Agenda Bayern".
 
 It is bittersweet to be leaving my excellent colleagues and students here in Dresden, but I will continue teaching at the HfM Dresden through the end of this calendar year as we complete our "Musik und Digitalität" project here at the Hybrid Music Lab in Dresden. 
 
