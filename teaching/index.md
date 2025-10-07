@@ -10,7 +10,7 @@ background: black
 ---
 
 <h3>Teaching</h3>
-October 2025: Appointed Professor für Komposition mit digitalen Medien at the <a href="https://hfm-wuerzburg.de/">Hochschule für Musik Würzburg</a>, Germany, as director of the graduate program in Komposition für Neuen Medien and the newly created Würzburg Zentrum für Intermediale Komposition (WüZIK, formerly <a href="https://hfm-wuerzburg.de/eem-studio">“eem” Studio für experimentelle elektronische Musik</a>, founded in 1976).
+October 2025: Appointed Professor für Komposition mit digitalen Medien at the <a href="https://hfm-wuerzburg.de/">Hochschule für Musik Würzburg</a>, Germany, as director of the graduate program in Komposition für digitalen Medien and the newly rebuilt <a href="https://hfm-wuerzburg.de/eem-studio">Studio für experimentelle elektronische Musik (“eem”)</a>, founded in the 1970s).
 <br><br>
 October 2022: joined faculty of the <a href="http://hfmdd.de">Hochschule für Musik Carl Maria von Weber Dresden</a>, Germany as Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the <a href="https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab">Hybrid Music Lab</a>.
 <br><br>
@@ -35,8 +35,8 @@ Available for commissions, lessons, lectures, and general consultation online on
 <!-- END CV AND PORTFOLIO -->
 
 <h3>Courses & Workshops Taught at the Hochschule für Musik Würzburg, Germany</h3>
-Einzelunterrichten, Komposition mit neuen Medien, 8 Studenten, Wintersemester 2025/26  
-<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Analysis Seminar: Composition mit neuen Medien</a>, Wintersemester 2025/26  
+Einzelunterrichten, Komposition mit neuen Medien, 7 Studenten, Wintersemester 2025/26  
+<a href="https://www.hfmdd.de/en/studies/courses/musik-und-digitalitaet">Analysis Seminar: Komposition mit neuen Medien</a>, Wintersemester 2025/26  
 <br><br>
 
 <h3>Courses & Workshops Taught at the Hochschule für Musik Carl Maria von Weber Dresden, Germany</h3>
@@ -152,7 +152,7 @@ Einzelunterrichten, Komposition (vertreteung Prof. Stefan Prins), Wintersemester
 <br>
 
 
-<h3>Courses Taught at the College of Music, Mahidol University, THailand</h3>
+<h3>Courses Taught at the College of Music, Mahidol University, Thailand</h3>
 Composition Lessons, Spr. ‘19 (4), Fall ‘19 (5), Spr. ‘20 (5), Fall ‘20 (3), Spr. ‘21 (4), Fall ’21 (3), Spring '22 (5), Fall '22 (6)
 <br>
 Composition Studio Class, Fall 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022
