@@ -22,7 +22,7 @@ background: black
 <!-- SHORT BIO 544 words updated Nov. 28 2024 -->
 Jason Thorpe Buchanan ist ein auf drei Kontinenten tätiger Komponist, Intermedia-Künstler und Musiktechnologe. Seine Werke erforschen Multiplizität, Kausalität, Verhalten und die Integration von Live-Performance und Technologie.
 
-Im Jahr 2025 wurde er zum Professor für Komposition mit digitalen Medien an der Hochschule für Musik Würzburg ernannt und Leiter des Zentrum für Intermediale Komposition (ehemals Studio für experimentelle elektronische Musik) den Studiengang Komposition mit neuen Medien.  
+Im Jahr 2025 wurde er zum Professor für Komposition mit digitalen Medien an der Hochschule für Musik Würzburg ernannt und Leiter des <a href="https://hfm-wuerzburg.de/eem-studio" target="_blank">Studio für experimentelle elektronische Musik (“eem”)</a> sowie den Studiengang Komposition mit neuen Medien.  
 
 Er wurde international anerkannt und erhielt 2010-11 ein Fulbright-Stipendium (Hamburg), 2015 ein Stipendium der American-Scandinavian Foundation, Stipendien und Aufträge von EMPAC (2025), Royaumont (Frankreich, 2016 & 2017), dem Mizzou International Composers Festival (2013), der International Horn Society (2014), Eklekto Percussion (Schweiz, 2015), Tetractys New Music (Austin), Tzlil Meudcan, der Earle Brown Music Foundation, zwei ASCAP Morton Gould Young Composer Awards (2014 & 2015), Gewinner des Iron Composer (2014), des Howard Hanson Orchestral Prize (2014) und mehr, einschließlich der Auswahl als Artist-in-Residence bei USF Verftet (Norwegen), der Embassy of Foreign Artists (Schweiz), der Brush Creek Foundation (Wyoming), eines SWR Experimentalstudio Workstay 2026, der Nominierung für den Gaudeamus Prize 2015 und als Aaron Copland Bogliasco Fellow 2024 (Italien).
 
@@ -66,8 +66,8 @@ Zu seinen aktuellen Projekten gehören <i>GRIDS</i> für das [Switch~ Ensemble] 
 <!--  CV AND PORTFOLIO -->
 <center>
 <div class="row col-md-12" align="center">
-<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_September_2025_web.pdf" target="blank">[Lebenslauf]</a></span><br>
-<span class="bask12">(aktualisiert am Sep.18.2025)</span></div>
+<div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_Oktober_2025_web.pdf" target="blank">[Lebenslauf]</a></span><br>
+<span class="bask12">(aktualisiert am Okt.19.2025)</span></div>
 
 <div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/ThorpeBuchanan_SelectPortfolio_2025_web.pdf" target="blank">[Portfolio]</a></span><br>
 <span class="bask12">(aktualisiert am Mar.1.2025)</span></div>

@@ -10,7 +10,7 @@ background: black
 ---
 
 <h3>Teaching</h3>
-October 2025: Appointed Professor für Komposition mit digitalen Medien at the <a href="https://hfm-wuerzburg.de/">Hochschule für Musik Würzburg</a>, Germany, as director of the graduate program in Komposition für digitalen Medien and the newly rebuilt <a href="https://hfm-wuerzburg.de/eem-studio">Studio für experimentelle elektronische Musik (“eem”)</a>, founded in the 1970s).
+October 2025: Appointed Professor für Komposition mit digitalen Medien at the <a href="https://hfm-wuerzburg.de/">Hochschule für Musik Würzburg</a>, Germany, as director of the graduate program in Komposition für digitalen Medien and the newly rebuilt <a href="https://hfm-wuerzburg.de/eem-studio" target="_blank">Studio für experimentelle elektronische Musik (“eem”)</a>, founded in the 1970s).
 <br><br>
 October 2022: joined faculty of the <a href="http://hfmdd.de">Hochschule für Musik Carl Maria von Weber Dresden</a>, Germany as Artistic Associate/Lecturer in New Media and Digital Technologies for Music at the <a href="https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab">Hybrid Music Lab</a>.
 <br><br>
