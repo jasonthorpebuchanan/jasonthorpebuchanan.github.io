@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: "Overdrive Festival NYC, performance of selections from <em>GRIDS</em> for the [Switch~ Ensemble] alongisde works by Tobias Fandel, Itzá García, and more"
+describe: "Overdrive Festival NYC, performance of selections from <em>GRIDS</em> for the [Switch~ Ensemble] alongisde works by Kitty Xiao, Tobias Fandel, Itzá García, Louis Goldford, and more"
 date: 2026-04-10
 time:
 location:
@@ -27,4 +27,4 @@ tags:
   - premiere
 ---
 
-April 9 & 10, 2026, NYC: [Switch~ Ensemble] as ensemble-in-residence at the Overdrive Festival will perform selections from <em>GRIDS</em> for quartet and audiovisual processing system, alongisde works by Tobias Fandel, Itzá García, and more.
+April 9 & 10, 2026, NYC: [Switch~ Ensemble] as ensemble-in-residence at the Overdrive Festival will perform selections from <em>GRIDS</em> for quartet and audiovisual processing system, alongisde works by Kitty Xiao, Tobias Fandel, Itzá García, Louis Goldford, and more.
