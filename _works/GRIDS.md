@@ -21,7 +21,7 @@ media:
   url: 
 score: 
 headerImage: works-images/grids-feb-workshop_640x360.jpg
-portWrapper: works-images/port-wrapper/EoD_LUL_640x360.jpg
+portWrapper: works-images/grids_640x360.jpg
 photosFolder: 
 purchase: "Perusal PDF Score: $20; Score and Parts: $160"
 contact: jasontbuchanan[at]gmail.com
