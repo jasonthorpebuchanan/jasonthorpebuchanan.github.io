@@ -3,7 +3,7 @@ composer:
   first: Jason
   last: Thorpe Buchanan
 title: "Like a Scattering from a Fixed Point"
-duration: 18 minutes
+duration: 20 minutes
 yearComposed: 2025
 commissionedOrWrittenFor: "Commissioned by the IntAct Festival"
 size: solo cello, ensemble, 
