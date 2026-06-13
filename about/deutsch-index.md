@@ -2,8 +2,8 @@
 layout: page
 categories: blog
 headerImage: JTB_Bogliasco_2200x1136.jpg
-date: 2025-09-18
-manualDate: Sep. 18 2025
+date: 2026-06-13
+manualDate: Jun. 13 2026
 postDescription: About
 tags:
 background: black
@@ -43,12 +43,12 @@ Szenen aus seiner Multimedia-Oper <a href="http://www.hungeropera.com" target="b
 <!-- new para -->
 Jason ist künstlerischer Leiter des <a href="http://www.switchensemble.com" target="blank">[Switch~ Ensemble], Künstlerischer Mitarbeiter und Dozent für Neue Medien und digitale Technologien für Musik an der <a href="https://www.hfmdd.de/en/college/institutes-facilities/hybrid-music-lab" target="blank">Hochschule für Musik „Carl Maria von Weber“ Dresden</a> im Rahmen des Hybrid Music Lab,</a> und Faculty Artist des <a href="http://www.tmaomusic.com/" target="blank">International Composition Institute of Thailand, IntAct Festival</a> (seit 2019). Zuvor war er 2022 Interims-Geschäftsführer der <a href="https://newmusic.missouri.edu/Mizzou" target="blank">New Music Initiative an der University of Missouri</a>, 2020 Visiting Lecturer für Komposition und Interims-Direktor der Electronic Music Studios an der <a href="https://music.utexas.edu/" target="blank">Butler School of Music, University of Texas at Austin</a>, 2018-2022 Lehrstuhlinhaber/Dozent für Komposition, Theorie und elektroakustische Musik am College of Music der Mahidol University (Thailand), 2015-2017 Executive Director des VIPA Festivals (Spanien), Kurator für das San Francisco Center for New Music und Gründungsdirektor der TICF International Academy for Young Composers.
 
-<!-- new para -->
+<!-- 
 Zu seinen Mentoren gehörten <a href="http://ricardozohnmuldoon.com/" target="blank">
 Ricardo Zohn-Muldoon</a>,
 <a href="http://www.steventakasugi.com/" target="blank">Steven Takasugi</a>, <a href="https://www.pierluigibillone.com/en/home/" target="blank">Pierluigi Billone</a>,
 <a href="http://chayaczernowin.com/" target="blank">Chaya Czernowin</a>, und
-<a href="http://www.aperghis.com/english.html" target="blank">Georges Aperghis</a>.
+<a href="http://www.aperghis.com/english.html" target="blank">Georges Aperghis</a>. -->
 
 <!-- new para -->
 Er promovierte an der Eastman School of Music und ist ein gefragter Gastkomponist, Dirigent und Dozent an Institutionen wie der University of Chicago, der Stanford University, dem TRANSIT Festival (Belgien), dem TIME SPANS Festival (NYC), der MATA, dem Yong Siew Toh Conservatory (Singapur), dem SinusTon Festival (Deutschland), dem Bergen Center for Elektronisk Kunst (Norwegen) und Dutzenden von Universitäten in den Vereinigten Staaten, Europa und Asien.
