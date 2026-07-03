@@ -46,7 +46,7 @@ body {
     /* BODY background-image is what loads first before page--this should be black, removed background-image in new version*/
     background-color: #010101;
     font-family: "Roboto", Arial, sans-serif;
-    line-height: 1.85; /* was 1.75 in template */
+    line-height: 1.75; /* was 1.75 in template */
     font-weight: 300;
     font-size: 16px; /* was 15px in template */
     color: #d9d8d7;
@@ -318,7 +318,7 @@ h6,
 .roboto {
     background-blend-mode: hard-light;
     font-family: "Roboto", Arial, sans-serif;
-    line-height: 1.85; /* was 1.75 in template */
+    line-height: 1.75; /* was 1.75 in template */
     font-weight: 300;
     text-align: left;
     font-size: 16px; /* was 15px in template */
@@ -365,7 +365,7 @@ blockquote {
     border: 0;
     border-left: 0px solid #eaeaea;
     font-family: "Lora", "Libre Baskerville", serif;
-    line-height: 1.8;
+    line-height: 1.7;
     font-style: italic;
     font-size: 15px;
     padding: 20px 40px;
@@ -385,7 +385,7 @@ blockquote:hover {
 }
 
 .lead {
-    line-height: 1.8;
+    line-height: 1.7;
     font-weight: 400;
     font-size: 18px; /* - - CHECK ME - I AM  CHANGED from 20 to 18  - - - - - - - - - - - - - - ! ! ! ! */
 }
@@ -397,7 +397,7 @@ pre {
     padding: 20px 30px;
     margin: 40px 0;
     font-family: "Courier New", monospace;
-    line-height: 1.8;
+    line-height: 1.7;
 }
 
 .bask24 {font-size: 24px; color: #dddddd; font-family: "Libre Baskerville", Times, serif;}
