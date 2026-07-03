@@ -235,7 +235,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0 0 18px;
+    margin: 0 0 16px;
 }
 
 h2,
@@ -4094,7 +4094,7 @@ a[rel~="gallery"]:hover {
 .post-content p,
 .post-content ul,
 .post-content ol {
-    margin: 0 0 30px;
+    margin: 0 0 28px;
 }
 
 .post-content blockquote {
