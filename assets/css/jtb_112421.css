@@ -46,7 +46,7 @@ body {
     /* BODY background-image is what loads first before page--this should be black, removed background-image in new version*/
     background-color: #010101;
     font-family: "Roboto", Arial, sans-serif;
-    line-height: 1.4; /* was 1.75 in template */
+    line-height: 1.35; /* was 1.75 in template */
     font-weight: 300;
     font-size: 16px; /* was 15px in template */
     color: #d9d8d7;
@@ -318,7 +318,7 @@ h6,
 .roboto {
     background-blend-mode: hard-light;
     font-family: "Roboto", Arial, sans-serif;
-    line-height: 1.4; /* was 1.75 in template */
+    line-height: 1.35; /* was 1.75 in template */
     font-weight: 300;
     text-align: left;
     font-size: 16px; /* was 15px in template */
