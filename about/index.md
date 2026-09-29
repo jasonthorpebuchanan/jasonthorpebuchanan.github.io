@@ -63,7 +63,7 @@ Current projects include <i>GRIDS</i> for the [Switch~ Ensemble] as part of a tw
 <center>
 <div class="row col-md-12" align="center">
 <div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/about/ThorpeBuchanan_CV_Oct.2026_web.pdf" target="blank">[Curriculum vitae]</a></span><br>
-<span class="bask12">(updated Okt.19.2025)</span></div>
+<span class="bask12">(updated Oct.1.2026)</span></div>
 
 <div class="col-md-6"><span class="bask17"><a href="https://www.jasonthorpebuchanan.com/ThorpeBuchanan_SelectPortfolio_2025_web.pdf" target="blank">[Select Portfolio]</a></span><br>
 <span class="bask12">(updated Mar.1.2025)</span></div>
