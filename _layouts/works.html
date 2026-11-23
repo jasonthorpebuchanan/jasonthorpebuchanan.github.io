@@ -17,6 +17,31 @@ layout: page-without-ends
 {% comment %}{% assign currentPiecePerfs = site.works | where_exp:"item", "item.title contains 'page.title'" %}{% endcomment %}
 
 
+{% assign has_video = false %}
+{% for item in page.media %}
+  {% if item.url contains 'youtube' or item.url contains 'vimeo' %}
+    {% assign has_video = true %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+<header class="work-heading">
+  <h1 class="gara24">
+    <em>{{ page.title | escape }}</em>
+    {% if page.yearComposed %}<span class="gara19">({{ page.yearComposed }})</span>{% endif %}
+  </h1>
+  {% if page.instrumentation %}
+    <p><strong>Instrumentation</strong> {{ page.instrumentation | array_to_sentence_string }}</p>
+  {% endif %}
+  {% if page.score or has_video or page.purchase %}
+    <nav class="work-actions" aria-label="Work materials">
+      {% if page.score %}<a href="#work-score">View score</a>{% endif %}
+      {% if has_video %}<a href="#work-video">Watch</a>{% endif %}
+      {% if page.purchase %}<a href="#work-purchase">Purchase information</a>{% endif %}
+    </nav>
+  {% endif %}
+</header>
+
 	<!-- ****** SCORE AND DETAILS BEGIN HERE ****** -->
 <section>
 <div class="single-portfolio-title nopadding" width="99%">
@@ -35,61 +60,7 @@ layout: page-without-ends
 			<div class="col-md-8"><!--begin 2nd div-->
 				<div><ul>	<h4 class="single-portfolio-title align-text-bottom">ABOUT THE WORK:</h4>
 
-<p class="mb-1"><ul>  
-	
-{% assign has_video = false %}
-{% for item in page.media %}
-{% assign video_anchor_used = false %}
-{% for item in page.media %}
-  {% if item.url contains 'youtube' or item.url contains 'vimeo' %}
-    <div class="mb-3"{% unless video_anchor_used %} id="work-video"{% endunless %}>
-      <iframe class="embed-responsive-item mb-3"
-              src="{{ item.url | escape }}"
-              title="Video of {{ page.title | escape }}"
-              width="1300" height="736" allowfullscreen></iframe>
-    </div>
-    {% assign video_anchor_used = true %}
-  {% if item.url contains 'youtube' or item.url contains 'vimeo' %}
-    {% assign has_video = true %}
-    {% break %}
-  {% endif %}
-{% endfor %}
-
-<header class="work-heading">
-  <h1 class="gara24">
-    <em>{{ page.title | escape }}</em>
-    {% if page.yearComposed %}
-      <span class="gara19">({{ page.yearComposed }})</span>
-    {% endif %}
-  </h1>
-
-{%- if page.instrumentation -%}
-<p class="mb-1">
-           <h6>Instrumentation: &nbsp;&nbsp;<font class="roboto">
-							{%- for instrument in page.instrumentation -%}
-		            {%- if forloop.last == true -%}
-		              and {{ instrument -}}
-		            {% else %}
-		              {{ instrument | append: ', ' }}
-		            {%- endif -%}
-		          {%- endfor -%}</font>
-
-						{%- endif -%}
-
-  {% if page.score or has_video or page.purchase %}
-    <nav class="work-actions" aria-label="Work materials">
-      {% if page.score %}<a href="#work-score">View score</a>{% endif %}
-      {% if has_video %}<a href="#work-video" id="work-video">Watch</a>{% endif %}
-      {% if page.purchase %}<a href="#work-purchase">Purchase information</a>{% endif %}
-    </nav>
-  {% endif %}
-</header>
-
-</ul>
-</p>	        
-
-
-					{%- if page.dedication -%}
+{%- if page.dedication -%}
 <p class="mb-1">
 						<h6>Dedication: &nbsp;&nbsp;<font class="roboto">
 						{{ page.dedication }}</font>
@@ -133,7 +104,7 @@ layout: page-without-ends
 										{%- endif -%}
 
 					{%- if page.purchase -%}
-<p class="mb-1" id="work-purchase">				<h6 align="left">Purchasing information: &nbsp;&nbsp;<font class="roboto">
+<p class="mb-1">				<h6 id="work-purchase" align="left">Purchasing information: &nbsp;&nbsp;<font class="roboto">
 						{{ page.purchase }}</font>
 						{%- endif -%}
 
@@ -160,13 +131,18 @@ layout: page-without-ends
 			<section>
 			<div class="col-10 mb-3">
 				{% assign printHeader = false %}  <!-- successfully removed header -->
+				{% assign video_anchor_used = false %}
 				{%- for item in page.media -%}
 					{%- if item.url contains 'youtube' or item.url contains 'vimeo' -%}
 						{%- if printHeader == true -%}
 							<h2 class="text-left">Media</h2>
 							{% assign printHeader = nil %}
 						{%- endif -%}
-						<div class="mb-3"><iframe class="embed-responsive-item mb-3" src="{{ item.url }}" allowfullscreen width="1300" height="736"></iframe></div>
+						<div class="mb-3"{% unless video_anchor_used %} id="work-video"{% endunless %}>
+                            <iframe class="embed-responsive-item mb-3" src="{{ item.url | escape }}"
+                                    title="Video of {{ page.title | escape }}" allowfullscreen width="1300" height="736"></iframe>
+                        </div>
+                        {% assign video_anchor_used = true %}
 					{%- elsif item.url contains 'soundcloud' -%}
 						{%- if printHeader == true -%}
 							<h2 class="text-left">Media</h2>

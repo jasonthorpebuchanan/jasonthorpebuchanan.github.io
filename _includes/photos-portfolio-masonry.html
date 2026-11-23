@@ -4,15 +4,19 @@
 
 
 <!-- Portfolio-->
-<div class="container-fluid">
+<div class="container-fluid{% if include.lazyThumbnails %} works-manuscript-gallery{% endif %}">
 	<div class="row row-portfolio" data-columns="4">
 		<div class="grid-sizer"></div>
 		{%- for image in imageFiles -%}
 			{%- if image.path contains include.folderName -%}
 				<div class="portfolio-item p-1">
 					<div class="portfolio-wrapper">
-						<img src="{{ site.baseurl }}/thumbnails{{ image.path }}" alt="{{ image.basename }}" width="100%" height="100%">
-						<a data-fancybox="images" class="portfolio-link" href="{{ image.path }}" data-caption="{{ image.basename }}"></a>
+						{% assign thumbnail_path = image.path | prepend: '/thumbnails' %}
+						{% assign dimensions = site.data.works_thumbnail_dimensions[thumbnail_path] %}
+						<img src="{{ site.baseurl }}{{ thumbnail_path }}" alt="{{ image.basename }}"
+						     {% if include.lazyThumbnails and dimensions %}width="{{ dimensions.width }}" height="{{ dimensions.height }}"
+						     loading="lazy" decoding="async"{% else %}width="100%" height="100%"{% endif %}>
+						<a data-fancybox="images" class="portfolio-link" href="{{ image.path }}" data-caption="{{ image.basename }}"{% if include.lazyThumbnails %} aria-label="{{ image.basename | replace: '-', ' ' | escape }}"{% endif %}></a>
 					</div>
 				</div>
 			{%- endif -%}

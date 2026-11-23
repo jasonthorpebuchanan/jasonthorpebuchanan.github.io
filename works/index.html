@@ -56,14 +56,14 @@ title: works
   {%- for work in sortedRepYear -%}
 		<div class="portfolio-item works-item p-2 {% for item in work.tags %}{{-item }} {% endfor %}{{ work.size -}}">
 			<div class="portfolio-wrapper">
-        {%- if work.portWrapper -%}
-          <img src="{{ site.images }}/{{ work.portWrapper }}" alt="">
-        {% else %}
-          <img src="{{ site.images }}/works-images/port-wrapper/switch_misc_400x200.jpg" alt="">
-        {%- endif -%}
+        {% assign thumbnail = work.portWrapper | default: 'works-images/port-wrapper/switch_misc_400x200.jpg' | prepend: '/' | prepend: site.images %}
+        {% assign dimensions = site.data.works_thumbnail_dimensions[thumbnail] %}
+        <img src="{{ thumbnail | escape }}" alt=""
+             {% if dimensions %}width="{{ dimensions.width }}" height="{{ dimensions.height }}"
+             {% if forloop.index > 3 %}loading="lazy" decoding="async"{% endif %}{% endif %}>
 			<div class="portfolio-overlay float-center align-bottom"></div>
         <div class="portfolio-caption">
-          <h3 class="portfolio-title">{{ work.title }} {% if work.yearComposed == nil %}{% else %}({{ work.yearComposed }}){% endif %}</h3>
+          <h3 class="portfolio-title" id="work-title-{{ forloop.index }}">{{ work.title }} {% if work.yearComposed == nil %}{% else %}({{ work.yearComposed }}){% endif %}</h3>
         <!--  <div class="portfolio-subtitle font-sans-serif font-weight-light">{{ work.commissionedOrWrittenFor }} {{ work.commissionedOrWrittenFor }}</div> -->
           <h5 class="portfolio-subtitle font-serif font-weight-light">
             {{ work.size }} {% for tag in work.tags %}{% if tag == 'electronics' %}and electronics{% endif %}{% endfor %}
@@ -79,7 +79,7 @@ title: works
           </h5>
       <h6 class="portfolio-subtitle font-serif font-weight-light">{{ work.duration }}<br><br><br><br>{{ work.commissionedOrWrittenFor }}</h6>
         </div>
-        <a data-fancybox data-type="iframe" class="portfolio-link" href="{{ work.url }}"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="{{ work.url }}" aria-labelledby="work-title-{{ forloop.index }}"></a>
 			</div>
     </div>
   {%- endfor -%}
@@ -94,7 +94,7 @@ title: works
   <center>
 {% include manuscripts.html %}
 
-{% include photos-portfolio-masonry.html folderName='manuscript' %}
+{% include photos-portfolio-masonry.html folderName='manuscript' lazyThumbnails=true %}
 </div>
 
 <script>
