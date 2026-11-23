@@ -9,6 +9,9 @@ layout: page-without-ends
 			<!-- BEGIN jquery and fancybox scripts -->
 		<script src="https://www.jasonthorpebuchanan.com/assets/js/jtb-jquery-3.3.1.min.js"></script>
 
+<a class="work-back-link" href="{{ '/works/' | relative_url }}" target="_top">
+  Back to Works
+</a>
 
 {% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'performance'" %}
 {% comment %}{% assign currentPiecePerfs = site.works | where_exp:"item", "item.title contains 'page.title'" %}{% endcomment %}
@@ -22,7 +25,7 @@ layout: page-without-ends
 					{%- if page.score  -%}
 
 	<!-- BEGIN SCORE -->
-	<p class="mb-1"><div class="col-md-4"><h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4>
+	<p class="mb-1"><div class="col-md-4" id="work-score"><h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4>
 		<br>
 		<div class="container">	<p class="mb-3" align="left"><div class="score-wrapper"><ul>{% include {{ page.score }} %}</div></div>
 						<!-- END SCORE -->
@@ -32,8 +35,35 @@ layout: page-without-ends
 			<div class="col-md-8"><!--begin 2nd div-->
 				<div><ul>	<h4 class="single-portfolio-title align-text-bottom">ABOUT THE WORK:</h4>
 
-<p class="mb-1"><ul>  <h5 class="gara24" align="left"><em>{{ page.title }}</em> <font class="gara19">{% if page.yearComposed == nil %}{% else %}({{ page.yearComposed }}){% endif %}</font></h5></ul>
-</p>	        {%- if page.instrumentation -%}
+<p class="mb-1"><ul>  
+	
+{% assign has_video = false %}
+{% for item in page.media %}
+{% assign video_anchor_used = false %}
+{% for item in page.media %}
+  {% if item.url contains 'youtube' or item.url contains 'vimeo' %}
+    <div class="mb-3"{% unless video_anchor_used %} id="work-video"{% endunless %}>
+      <iframe class="embed-responsive-item mb-3"
+              src="{{ item.url | escape }}"
+              title="Video of {{ page.title | escape }}"
+              width="1300" height="736" allowfullscreen></iframe>
+    </div>
+    {% assign video_anchor_used = true %}
+  {% if item.url contains 'youtube' or item.url contains 'vimeo' %}
+    {% assign has_video = true %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+<header class="work-heading">
+  <h1 class="gara24">
+    <em>{{ page.title | escape }}</em>
+    {% if page.yearComposed %}
+      <span class="gara19">({{ page.yearComposed }})</span>
+    {% endif %}
+  </h1>
+
+{%- if page.instrumentation -%}
 <p class="mb-1">
            <h6>Instrumentation: &nbsp;&nbsp;<font class="roboto">
 							{%- for instrument in page.instrumentation -%}
@@ -45,6 +75,18 @@ layout: page-without-ends
 		          {%- endfor -%}</font>
 
 						{%- endif -%}
+
+  {% if page.score or has_video or page.purchase %}
+    <nav class="work-actions" aria-label="Work materials">
+      {% if page.score %}<a href="#work-score">View score</a>{% endif %}
+      {% if has_video %}<a href="#work-video" id="work-video">Watch</a>{% endif %}
+      {% if page.purchase %}<a href="#work-purchase">Purchase information</a>{% endif %}
+    </nav>
+  {% endif %}
+</header>
+
+</ul>
+</p>	        
 
 
 					{%- if page.dedication -%}
@@ -91,7 +133,7 @@ layout: page-without-ends
 										{%- endif -%}
 
 					{%- if page.purchase -%}
-<p class="mb-1">				<h6 align="left">Purchasing information: &nbsp;&nbsp;<font class="roboto">
+<p class="mb-1" id="work-purchase">				<h6 align="left">Purchasing information: &nbsp;&nbsp;<font class="roboto">
 						{{ page.purchase }}</font>
 						{%- endif -%}
 

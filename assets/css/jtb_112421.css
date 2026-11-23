@@ -3162,6 +3162,33 @@ z-index: auto;
     }
 }
 
+@media (max-width: 767px) {
+  .module-header.work-hero {
+    /* Override the viewport heights currently set inline. */
+    min-height: 0 !important;
+    max-height: none !important;
+    aspect-ratio: 16 / 9;
+    padding: 0;
+  }
+
+  .module.work-details {
+    padding: 20px 0 28px;
+  }
+}
+
+.work-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  margin-block: 0.75rem 1.25rem;
+}
+
+.work-actions a,
+.work-back-link {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
 .bg-dark,
 .bg-gradient {
     color: #1a1b1f; /* - - CHECK ME - I AM  CHANGED from WHITE to NEAR BLACK  - - - - - - - - - - - - - - ! ! ! ! */
