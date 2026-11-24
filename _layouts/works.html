@@ -19,7 +19,33 @@ layout: page-without-ends
 
 <header class="work-heading">
   {% if page.headerImage and page.headerImage != empty %}
-    <img class="work-compact-header" src="{{ site.images }}/{{ page.headerImage | escape }}" alt="">
+    {% assign work_header_url = page.headerImage | prepend: '/' | prepend: site.images %}
+    <div class="work-compact-header" aria-hidden="true">
+      <div class="work-compact-header-art"
+           style="background-image: url({{ work_header_url | jsonify | escape }});"></div>
+    </div>
+    <script>
+      (() => {
+        const header = document.currentScript.previousElementSibling;
+        const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+        let framePending = false;
+
+        function updateHeader() {
+          framePending = false;
+          if (reducedMotion.matches) return;
+          const drift = Math.min(18, Math.max(0, window.scrollY) * 0.14);
+          header.style.setProperty('--work-header-drift', drift + 'px');
+        }
+
+        window.addEventListener('scroll', () => {
+          if (framePending || reducedMotion.matches) return;
+          framePending = true;
+          window.requestAnimationFrame(updateHeader);
+        }, { passive: true });
+        window.addEventListener('pageshow', updateHeader);
+        updateHeader();
+      })();
+    </script>
   {% endif %}
   <h1 class="gara24">
     <em>{{ page.title | escape }}</em>
