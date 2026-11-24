@@ -17,15 +17,10 @@ layout: page-without-ends
 {% comment %}{% assign currentPiecePerfs = site.works | where_exp:"item", "item.title contains 'page.title'" %}{% endcomment %}
 
 
-{% assign has_video = false %}
-{% for item in page.media %}
-  {% if item.url contains 'youtube' or item.url contains 'vimeo' %}
-    {% assign has_video = true %}
-    {% break %}
-  {% endif %}
-{% endfor %}
-
 <header class="work-heading">
+  {% if page.headerImage and page.headerImage != empty %}
+    <img class="work-compact-header" src="{{ site.images }}/{{ page.headerImage | escape }}" alt="">
+  {% endif %}
   <h1 class="gara24">
     <em>{{ page.title | escape }}</em>
     {% if page.yearComposed %}<span class="gara19">({{ page.yearComposed }})</span>{% endif %}
@@ -33,19 +28,12 @@ layout: page-without-ends
   {% if page.instrumentation %}
     <p class="work-instrumentation"><strong>Instrumentation</strong> {{ page.instrumentation | array_to_sentence_string }}</p>
   {% endif %}
-  {% if page.score or has_video or page.purchase %}
-    <nav class="work-actions" aria-label="Work materials">
-      {% if page.score %}<a href="#work-score">View score</a>{% endif %}
-      {% if has_video %}<a href="#work-video">Watch</a>{% endif %}
-      {% if page.purchase %}<a href="#work-purchase">Purchase information</a>{% endif %}
-    </nav>
-  {% endif %}
 </header>
 
 <div class="row work-overview">
   {% if page.score %}
     <section class="col-md-4 work-score" id="work-score" aria-labelledby="work-score-heading">
-      <h2 class="work-section-heading" id="work-score-heading">View score</h2>
+      <h2 class="work-section-heading" id="work-score-heading">Score preview</h2>
       <div class="score-wrapper">{% include {{ page.score }} %}</div>
     </section>
   {% endif %}
@@ -78,14 +66,12 @@ layout: page-without-ends
         <div><dt>Contact</dt><dd>{{ page.contact }}</dd></div>
       {% endif %}
     </dl>
-    <a class="work-share-link" href="https://facebook.com/sharer.php?u=www.jasonthorpebuchanan.com"
-       rel="nofollow noopener" target="_blank">Share on Facebook</a>
   </section>
 </div>
 
 			{%- if page.media -%}
 			<!-- BEGIN Media INCLUDES VIMEO AND YOUTUBE EMBEDS -->
-			<section>
+			<section class="work-media">
 			<div class="col-10 mb-3">
 				{% assign printHeader = false %}  <!-- successfully removed header -->
 				{% assign video_anchor_used = false %}

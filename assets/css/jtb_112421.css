@@ -3209,17 +3209,29 @@ z-index: auto;
   margin-top: 1.75rem;
 }
 
-.work-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem 1.25rem;
-  margin-block: 0.75rem 1.25rem;
-}
-
-.work-actions a,
 .work-back-link {
+  font-size: 0.875rem;
   text-decoration: underline;
   text-underline-offset: 0.2em;
+}
+
+.work-compact-header {
+  display: block;
+  width: 100%;
+  height: clamp(48px, 8vw, 80px);
+  object-fit: cover;
+  object-position: center;
+  margin: 0.65rem 0 0.85rem;
+}
+
+.work-score .score-wrapper img[src] {
+  height: auto;
+  max-width: 90%;
+  zoom: 1.1;
+}
+
+.work-overview:has(.work-score) + .work-media {
+  margin-top: 1rem;
 }
 
 .bg-dark,
