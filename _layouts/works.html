@@ -31,7 +31,7 @@ layout: page-without-ends
     {% if page.yearComposed %}<span class="gara19">({{ page.yearComposed }})</span>{% endif %}
   </h1>
   {% if page.instrumentation %}
-    <p><strong>Instrumentation</strong> {{ page.instrumentation | array_to_sentence_string }}</p>
+    <p class="work-instrumentation"><strong>Instrumentation</strong> {{ page.instrumentation | array_to_sentence_string }}</p>
   {% endif %}
   {% if page.score or has_video or page.purchase %}
     <nav class="work-actions" aria-label="Work materials">
@@ -42,89 +42,46 @@ layout: page-without-ends
   {% endif %}
 </header>
 
-	<!-- ****** SCORE AND DETAILS BEGIN HERE ****** -->
-<section>
-<div class="single-portfolio-title nopadding" width="99%">
-		<div class="row" width="99%">
+<div class="row work-overview">
+  {% if page.score %}
+    <section class="col-md-4 work-score" id="work-score" aria-labelledby="work-score-heading">
+      <h2 class="work-section-heading" id="work-score-heading">View score</h2>
+      <div class="score-wrapper">{% include {{ page.score }} %}</div>
+    </section>
+  {% endif %}
 
-					{%- if page.score  -%}
-
-	<!-- BEGIN SCORE -->
-	<p class="mb-1"><div class="col-md-4" id="work-score"><h4 class="single-portfolio-title" align="left">VIEW SCORE:</h4>
-		<br>
-		<div class="container">	<p class="mb-3" align="left"><div class="score-wrapper"><ul>{% include {{ page.score }} %}</div></div>
-						<!-- END SCORE -->
-						{%- endif -%}
-      </div>
-
-			<div class="col-md-8"><!--begin 2nd div-->
-				<div><ul>	<h4 class="single-portfolio-title align-text-bottom">ABOUT THE WORK:</h4>
-
-{%- if page.dedication -%}
-<p class="mb-1">
-						<h6>Dedication: &nbsp;&nbsp;<font class="roboto">
-						{{ page.dedication }}</font>
-
-						{%- endif -%}
-
-						{%- if page.awards -%}
-<p class="mb-1">
-							<h6>Commission & Awards: &nbsp;&nbsp;<font class="roboto">
-							{{ page.awards }}</font>
-
-							{%- endif -%}
-
-							{%- if page.text -%}
-<p class="mb-1" align="left">
-								<h6>Text by: &nbsp;&nbsp;<font class="roboto">
-								{{ page.text }}</font>
-
-								{%- endif -%}
-
-							{%- if page.premiere -%}
-<p class="mb-1">
-								<h6>World Premiere: &nbsp;&nbsp;<font class="roboto">
-								{{ page.premiere }}</font>
-
-								{%- endif -%}
-
-								{%- if page.europeanPremiere -%}
-	<p class="mb-1">
-									<h6>European Premiere: &nbsp;&nbsp;<font class="roboto">
-									{{ page.europeanPremiere }}</font>
-
-									{%- endif -%}
-
-									{%- if page.americanPremiere -%}
-	<p class="mb-1">
-										<h6>American Premiere: &nbsp;&nbsp;<font class="roboto">
-										{{ page.americanPremiere }}</font>
-
-
-										{%- endif -%}
-
-					{%- if page.purchase -%}
-<p class="mb-1">				<h6 id="work-purchase" align="left">Purchasing information: &nbsp;&nbsp;<font class="roboto">
-						{{ page.purchase }}</font>
-						{%- endif -%}
-
-
-
-
-					{%- if page.contact -%}
-<p class="mb-1">
-							<h5>Contact: &nbsp;&nbsp;<font class="roboto">
-							{{ page.contact }}</font>
-
-							{%- endif -%}
-
-<p class="mb-1">
-						<h5><ul class="social-icons"><li>Share: &nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com/sharer.php?u=www.jasonthorpebuchanan.com" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
-						</ul></h5>
-			</div></div>
-			<br></section>
-			<!-- ************ ****** ******  END SCORE AND DETAILS END ************ ****** ******  -->
+  <section class="{% if page.score %}col-md-8{% else %}col-12{% endif %} work-about" aria-labelledby="work-about-heading">
+    <h2 class="work-section-heading" id="work-about-heading">About the work</h2>
+    <dl class="work-facts">
+      {% if page.dedication %}
+        <div><dt>Dedication</dt><dd>{{ page.dedication }}</dd></div>
+      {% endif %}
+      {% if page.awards %}
+        <div><dt>Commission &amp; awards</dt><dd>{{ page.awards }}</dd></div>
+      {% endif %}
+      {% if page.text %}
+        <div><dt>Text by</dt><dd>{{ page.text }}</dd></div>
+      {% endif %}
+      {% if page.premiere %}
+        <div><dt>World premiere</dt><dd>{{ page.premiere }}</dd></div>
+      {% endif %}
+      {% if page.europeanPremiere %}
+        <div><dt>European premiere</dt><dd>{{ page.europeanPremiere }}</dd></div>
+      {% endif %}
+      {% if page.americanPremiere %}
+        <div><dt>American premiere</dt><dd>{{ page.americanPremiere }}</dd></div>
+      {% endif %}
+      {% if page.purchase %}
+        <div id="work-purchase"><dt>Purchase information</dt><dd>{{ page.purchase }}</dd></div>
+      {% endif %}
+      {% if page.contact %}
+        <div><dt>Contact</dt><dd>{{ page.contact }}</dd></div>
+      {% endif %}
+    </dl>
+    <a class="work-share-link" href="https://facebook.com/sharer.php?u=www.jasonthorpebuchanan.com"
+       rel="nofollow noopener" target="_blank">Share on Facebook</a>
+  </section>
+</div>
 
 			{%- if page.media -%}
 			<!-- BEGIN Media INCLUDES VIMEO AND YOUTUBE EMBEDS -->
@@ -164,11 +121,15 @@ layout: page-without-ends
 			</div>
 			</section>
 
-<!-- ****** PROGRAM NOTES BEGIN ****** -->
-<h4 class="single-portfolio-title nopadding align-text-bottom">PROGRAM NOTES:</h4>
-	    <font class="roboto">  {{ content }}
-	<!-- Media end-->
-	{%- endif -%}
+{% endif %}
+
+{% assign work_notes = content | strip %}
+{% if work_notes != empty %}
+  <section class="work-program-notes" aria-labelledby="work-notes-heading">
+    <h2 class="work-section-heading" id="work-notes-heading">Program notes</h2>
+    {{ content }}
+  </section>
+{% endif %}
 <!-- ****** PROGRAM NOTES END ****** -->
 
 
@@ -182,7 +143,7 @@ layout: page-without-ends
 	    <h4 class="single-portfolio-title">Performances of {{ page.title }}</h4>
 			<br><br>
 				<p class="mb-1" align="left">
-	    <div class="concert-program mb-3"> <font class="roboto">
+	    <div class="concert-program mb-3 roboto">
 	      {%- for performance in performancePosts -%}
 	        {%- for piece in performance.program -%}
 	          {%- if piece.title == page.title -%}

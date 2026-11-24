@@ -3162,18 +3162,61 @@ z-index: auto;
     }
 }
 
+.work-hero-image {
+  display: none;
+}
+
 @media (max-width: 767px) {
   .module-header.work-hero {
-    /* Override the viewport heights currently set inline. */
-    min-height: 0 !important;
-    max-height: none !important;
-    aspect-ratio: 16 / 9;
-    padding: 0;
+    display: none;
   }
 
-  .module.work-details {
+  .work-hero-image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .work-details {
     padding: 20px 0 28px;
   }
+}
+
+.work-instrumentation,
+.work-overview,
+.work-program-notes {
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.55;
+  text-align: left;
+}
+
+.work-overview {
+  row-gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.work-section-heading {
+  display: block;
+  margin: 0 0 0.75rem;
+  font: 700 1.125rem/1.3 Roboto, Arial, sans-serif;
+}
+
+.work-facts {
+  margin: 0 0 1rem;
+}
+
+.work-facts > div + div {
+  margin-top: 0.75rem;
+}
+
+.work-facts dd {
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+.work-program-notes {
+  margin-top: 1.75rem;
 }
 
 .work-actions {

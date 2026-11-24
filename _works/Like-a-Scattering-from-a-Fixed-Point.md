@@ -20,7 +20,7 @@ media:
 - title: 
   url: 
 score: 
-headerImage: works-images/LaSfaFP_640x360.jpg
+headerImage: works-images/LaSFaFP_640x360.jpg
 portWrapper: works-images/port-wrapper/LaSFaFP_640x360.jpg
 photosFolder: 
 purchase: "Perusal PDF Score: $20; Score and Parts: $160"
