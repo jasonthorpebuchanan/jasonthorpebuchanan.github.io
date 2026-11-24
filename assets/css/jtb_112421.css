@@ -3162,21 +3162,11 @@ z-index: auto;
     }
 }
 
-.work-hero-image {
-  display: none;
+.module-divider-bottom.work-details {
+  background-image: none;
 }
 
 @media (max-width: 767px) {
-  .module-header.work-hero {
-    display: none;
-  }
-
-  .work-hero-image {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-
   .work-details {
     padding: 20px 0 28px;
   }

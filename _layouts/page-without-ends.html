@@ -9,12 +9,9 @@ layout: default-without-ends
 {%- if page.collection == 'works' or page.layout == 'works' -%}
   {%- assign is_work = true -%}
 {%- endif -%}
-{%- if page.headerImage -%}
-  {%- if is_work -%}
-    <img class="work-hero-image" src="{{ site.images }}/{{ page.headerImage | escape }}" alt="">
-  {%- endif -%}
+{%- if page.headerImage and is_work == false -%}
   <!-- Page Header-->
-  <section class="module-header parallax bg-dark bg-dark-50{% if is_work %} work-hero{% endif %}" data-background="{{ site.images }}/{{ page.headerImage }}" width="90%" style="min-height: 80vh; max-height: 90vh; background-position: center center; position: center; background-size: contain">
+  <section class="module-header parallax bg-dark bg-dark-50" data-background="{{ site.images }}/{{ page.headerImage }}" width="90%" style="min-height: 80vh; max-height: 90vh; background-position: center center; position: center; background-size: contain">
       <!-- Sep24 added height 50% -->
   </section>
   <!-- Page Header end-->
